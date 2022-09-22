@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="150"></p>
-<h1 align="center">Terrafirma: Rescue<br>
+<h1 align="center">Terrafirma: Rescue Unofficial<br>
 	<a href="https://www.mcbbs.net/thread-977365-1-1.html"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Finfo.teammoeg.com%2Ftfrdownloads.json" alt="MCBBS Downloads"></a>
 	<a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_downloads.svg?badge_style=flat" alt="Curseforge Downloads"></a>
@@ -61,7 +61,7 @@ Unofficial: kuzuanpa don't accept sponsor for this unofficial fork. if you think
 <br><br><br>
 
 <p align="center"><img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="150"></p>
-<h1 align="center">群峦：救援<br>
+<h1 align="center">群峦：救援 非官方版<br>
 	<a href="https://www.mcbbs.net/thread-977365-1-1.html"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Finfo.teammoeg.com%2Ftfrdownloads.json" alt="MCBBS Downloads"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_次下载.svg?badge_style=flat" alt="Curseforge Downloads"></a>
@@ -101,3 +101,4 @@ Unofficial: 苦钻怕不准备在此提供捐助链接，如果您认为该整�
 
 - 请阅读 [这个文章](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BA-Pull-Request) 了解 Pull Request 的使用！
 
+//真没想到有一天整合
