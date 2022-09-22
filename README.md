@@ -34,7 +34,7 @@ Unofficial Version is still indev, below is official downloads
 - QQ Group Chat Number: 1046723658
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Like Our Modpack?
-
+Unofficial: kuzuanpa don't accept sponsor for this unofficial fork. if you think this pack is good,please consider sponsor the official developer.
 - TeamMoeg has developed and will maintain this Modpack for Free, but maintaining the servers cost money. Consider Sponsoring us at [Patreon](https://www.patreon.com/TeamMoeg) or [Aifadian (China)](https://afdian.net/@teammoeg)
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Support Localization
@@ -79,7 +79,7 @@ Unofficial Version is still indev, below is official downloads
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 
 ## 下载
-非官方版仍在开发中，以下是官方版 的
+Unofficial: 非官方版仍在开发中，以下是官方版的下载链接
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [我的世界中文论坛](https://www.mcbbs.net/thread-977365-1-1.html)
@@ -92,7 +92,7 @@ Unofficial Version is still indev, below is official downloads
 - 官方QQ交流群: 1046723658
 
 ## 支持我们
-
+Unofficial: 苦钻怕不准备在此提供捐助链接，如果您认为该整合很好请捐助官方版本.
 - 我们完全免费提供群峦：救援整合包，但是维护服务器和下载站需要资金，请考虑在 [Patreon](https://www.patreon.com/TeamMoeg) 或者 [爱发电](https://afdian.net/@teammoeg) 赞助我们！
 
 ## 加入开发，贡献一份力
