@@ -9,7 +9,8 @@
 	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/releases"><img src="https://img.shields.io/github/tag/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Tags"></a>
 	<a href="https://discord.gg/BWn6E94"><img src="https://img.shields.io/badge/discord-chat%20with%20players-pink?style=flat-square" alt="Discord"></a>
 	<a href="https://www.patreon.com/TeamMoegProjects"><img src="https://img.shields.io/badge/patreon-support%20the%20devs-orange.svg?style=flat-square" alt="Patreon"></a>
-	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a><br>
+	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/issues"><img src="https://img.shields.io/github/issues/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial?style=flat-square" alt="Issues (Unofficial)"></a><br>
 </h1>
 
 - This is a Minecraft 1.7.10 Modpack created by TeamMoeg, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech-6-Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
@@ -21,6 +22,7 @@
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Download Latest
 
+Unofficial Version is still indev, below is official downloads
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [MCBBS](https://www.mcbbs.net/thread-977365-1-1.html)
@@ -78,7 +80,7 @@
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 
 ## 下载
-
+非官方版仍在开发中，以下是官方版 的
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [我的世界中文论坛](https://www.mcbbs.net/thread-977365-1-1.html)
