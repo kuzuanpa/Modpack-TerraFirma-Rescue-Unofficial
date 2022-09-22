@@ -101,4 +101,4 @@ Unofficial: 苦钻怕不准备在此提供捐助链接，如果您认为该整�
 
 - 请阅读 [这个文章](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BA-Pull-Request) 了解 Pull Request 的使用！
 
-//真没想到有一天整合
+//真没想到有一天整合包也得出个非官方版( 
