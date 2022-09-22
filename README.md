@@ -5,12 +5,11 @@
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_downloads.svg?badge_style=flat" alt="Curseforge Downloads"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/versions/For%20MC_terrafirma-rescue_all.svg?badge_style=flat" alt="Curseforge Versions"></a><br>
 	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-tfr%20license-brightgreen?style=flat-square" alt="License"></a>
-	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/issues"><img src="https://img.shields.io/github/issues/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Issues"></a>
 	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/releases"><img src="https://img.shields.io/github/tag/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Tags"></a>
 	<a href="https://discord.gg/BWn6E94"><img src="https://img.shields.io/badge/discord-chat%20with%20players-pink?style=flat-square" alt="Discord"></a>
 	<a href="https://www.patreon.com/TeamMoegProjects"><img src="https://img.shields.io/badge/patreon-support%20the%20devs-orange.svg?style=flat-square" alt="Patreon"></a>
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a>
-	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/issues"><img src="https://img.shields.io/github/issues/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial?style=flat-square" alt="Issues (Unofficial)"></a><br>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/issues"><img src="https://img.shields.io/github/issues/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial?style=flat-square" alt="Issues"></a><br>
 </h1>
 
 - This is a Minecraft 1.7.10 Modpack created by TeamMoeg, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech-6-Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
