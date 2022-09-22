@@ -189,7 +189,7 @@ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
 				<biomeIds>90,119</biomeIds>
 				<oceanBlock>minecraft:lava</oceanBlock>
 			</planet>
-			<oceanBlock>minecraft:lava</oceanBlock>
+			<oceanBlock>minecraft:water</oceanBlock>
 		</planet>
 	</star>
 </galaxy>
