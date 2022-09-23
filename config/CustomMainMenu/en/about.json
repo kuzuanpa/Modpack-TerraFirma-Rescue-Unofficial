@@ -100,7 +100,7 @@
 
     "texts": {
         "tfrcopyright": {
-            "text": "Modpack created by TeamMoeg. All scripts and custom resources are licensed under CC-BY-NC-ND 4.0 International! See: https://creativecommons.org/",
+            "text": "Modpack created by TeamMoeg, Modified by kuzuanpa. All scripts and custom resources are licensed under CC-BY-NC-ND 4.0 International! See: https://creativecommons.org/",
             "posX": 5,
             "posY": -35,
             "fontSize": 0.6,
@@ -145,7 +145,7 @@
             "alignment": "topleft"
         },
         "creditcolumn_2": {
-            "text": " UI Design:\n MangoHi\n GBL\n\n Pixel Art:\n duck_egg\n dashuaibia\n YueSha\n\n Community Administration:\n Evan\n HD_\n GBL\n lei_yu\n\n Website:\n Evan\n\n Server Pack:\n Evan\n\n Download Management:\n Evan\n\n",
+            "text": " UI Design:\n MangoHi\n GBL\n\n Pixel Art:\n duck_egg\n dashuaibia\n YueSha\n\n Community Administration:\n Evan\n HD_\n GBL\n lei_yu\n\n Website:\n Evan\n\n Server Pack:\n Evan\n\n Download Management:\n Evan\n\n Modify:\n kuzuanpa\n\n\n",
             "posX": 310,
             "posY": 60,
             "fontSize": 0.8,
