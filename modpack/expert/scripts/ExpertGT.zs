@@ -321,3 +321,15 @@ recipes.addShaped(<gregtech:gt.multitileentity:1208>,
 [<ore:plateTungstenSteel>,<gregtech:gt.multitileentity:18003>,<ore:plateTungstenSteel>],
 [<ore:plateTungstenSteel>,<ore:craftingToolWrench>,<ore:plateTungstenSteel>]]);
 // FeW
+// Reduce the output of Lava Centrifugation
+MTUtilsGT.removeAllRecipes("gt.recipe.centrifuge",<gregtech:gt.meta.nugget:470>);
+MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 20, 20,[8000,150,150,150,150],
+[null],
+[<liquid:lava>*100],
+[null],
+[<gregtech:gt.meta.dustTiny:8505>*2,<minecraft:gold_nugget>*4,<gregtech:gt.meta.nugget:290>*2,<gregtech:gt.meta.nugget:260>*2,<gregtech:gt.meta.nugget:500>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 30, 20,[8000,150,150,150,150],
+[null],
+[<liquid:ic2pahoehoelava>*100],
+[null],
+[<gregtech:gt.meta.dustTiny:8505>*2,<minecraft:gold_nugget>*8,<gregtech:gt.meta.nugget:290>*4,<gregtech:gt.meta.nugget:260>*4,<gregtech:gt.meta.nugget:500>*2]);
