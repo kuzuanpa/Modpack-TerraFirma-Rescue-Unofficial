@@ -166,15 +166,15 @@ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
 		<planet name="Earth" DIMID="19">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
-			<skyColor>0.65,0.78,0.9</skyColor>
+			<skyColor>0.8,0.933095,0.0</skyColor>
 			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>100</orbitalDistance>
-			<orbitalTheta>185</orbitalTheta>
-			<avgTemperature>277</avgTemperature>
-			<orbitalPhi>90</orbitalPhi>
+			<orbitalDistance>35</orbitalDistance>
+			<orbitalTheta>275</orbitalTheta>
+			<avgTemperature>316</avgTemperature>
+			<orbitalPhi>-60</orbitalPhi>
 			<rotationalPeriod>24000</rotationalPeriod>
-			<atmosphereDensity>110</atmosphereDensity>
-			<biomeIds>1,2,3,4,5,6,7,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39</biomeIds>
+			<atmosphereDensity>210</atmosphereDensity>
+			<biomeIds>92</biomeIds>
 			<planet name="Luna" DIMID="20">
 				<isKnown>true</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
@@ -189,7 +189,7 @@ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
 				<biomeIds>90,119</biomeIds>
 				<oceanBlock>minecraft:lava</oceanBlock>
 			</planet>
-			<oceanBlock>minecraft:water</oceanBlock>
+			<oceanBlock>minecraft:lava</oceanBlock>
 		</planet>
 	</star>
 </galaxy>
