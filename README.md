@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="150"></p>
-<h1 align="center">Terrafirma: Rescue Unofficial<br>
+<h1 align="center">Terrafirma: Rescue<br>
 	<a href="https://www.mcbbs.net/thread-977365-1-1.html"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Finfo.teammoeg.com%2Ftfrdownloads.json" alt="MCBBS Downloads"></a>
 	<a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_downloads.svg?badge_style=flat" alt="Curseforge Downloads"></a>
@@ -9,7 +9,6 @@
 	<a href="https://discord.gg/BWn6E94"><img src="https://img.shields.io/badge/discord-chat%20with%20players-pink?style=flat-square" alt="Discord"></a>
 	<a href="https://www.patreon.com/TeamMoegProjects"><img src="https://img.shields.io/badge/patreon-support%20the%20devs-orange.svg?style=flat-square" alt="Patreon"></a>
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a>
-	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/issues"><img src="https://img.shields.io/github/issues/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial?style=flat-square" alt="Issues"></a><br>
 </h1>
 
 - This is a Minecraft 1.7.10 Modpack created by TeamMoeg, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech-6-Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
@@ -21,7 +20,6 @@
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Download Latest
 
-Unofficial Version is still indev, below is official downloads
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [MCBBS](https://www.mcbbs.net/thread-977365-1-1.html)
@@ -34,7 +32,6 @@ Unofficial Version is still indev, below is official downloads
 - QQ Group Chat Number: 1046723658
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Like Our Modpack?
-Unofficial: kuzuanpa don't accept sponsor for this unofficial fork. if you think this pack is good,please consider sponsor the official developer.
 - TeamMoeg has developed and will maintain this Modpack for Free, but maintaining the servers cost money. Consider Sponsoring us at [Patreon](https://www.patreon.com/TeamMoeg) or [Aifadian (China)](https://afdian.net/@teammoeg)
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Support Localization
@@ -61,7 +58,7 @@ Unofficial: kuzuanpa don't accept sponsor for this unofficial fork. if you think
 <br><br><br>
 
 <p align="center"><img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="150"></p>
-<h1 align="center">群峦：救援 非官方版<br>
+<h1 align="center">群峦：救援<br>
 	<a href="https://www.mcbbs.net/thread-977365-1-1.html"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Finfo.teammoeg.com%2Ftfrdownloads.json" alt="MCBBS Downloads"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_次下载.svg?badge_style=flat" alt="Curseforge Downloads"></a>
@@ -79,7 +76,6 @@ Unofficial: kuzuanpa don't accept sponsor for this unofficial fork. if you think
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 
 ## 下载
-Unofficial: 非官方版仍在开发中，以下是官方版的下载链接
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [我的世界中文论坛](https://www.mcbbs.net/thread-977365-1-1.html)
@@ -92,7 +88,6 @@ Unofficial: 非官方版仍在开发中，以下是官方版的下载链接
 - 官方QQ交流群: 1046723658
 
 ## 支持我们
-Unofficial: 苦钻怕不准备在此提供捐助链接，如果您认为该整合很好请捐助官方版本.
 - 我们完全免费提供群峦：救援整合包，但是维护服务器和下载站需要资金，请考虑在 [Patreon](https://www.patreon.com/TeamMoeg) 或者 [爱发电](https://afdian.net/@teammoeg) 赞助我们！
 
 ## 加入开发，贡献一份力
