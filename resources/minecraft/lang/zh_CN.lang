@@ -1368,7 +1368,7 @@ tfr.quest684.desc=电脑的核心，越高级的CPU运算速度越快，可以�
 tfr.quest685.name=显卡
 tfr.quest685.desc=显卡，用来渲染和修改显示屏的内容，暂时不可以挖矿(?) %n§8此任务为非官方版添加
 tfr.quest686.name=EEPROM (BIOS)
-tfr.quest686.desc=你需要一个BIOS来引导进入系统.%nEEPROM在别的地方也有用，不只是BIOS %n§8此任务为非官方版添加
+tfr.quest686.desc=你需要一个BIOS来引导进入系统.%n使用指南书和空的EEPROM来合成带有BIOS的EEPROM %n%nEEPROM在别的地方也有用，不只是BIOS %n§8此任务为非官方版添加
 tfr.quest687.name=适配器
 tfr.quest687.desc=一个适配器可以让你控制非opencomputer模组的方块%n安装MTU升级可以隔空访问附近的方块，控制ic2反应堆很有用 %n§8此任务为非官方版添加
 tfr.quest688.name=显示屏
@@ -1380,7 +1380,7 @@ tfr.quest690.desc=你需要一个机箱来装你的电脑，不可以用鞋盒!%
 tfr.quest691.name=群峦星首台电脑
 tfr.quest691.desc=组装你的电脑!按照对应位置装好后点击电源按钮启动 %n§8此任务为非官方版添加
 tfr.quest692.name=命令帮助
-tfr.quest692.desc=很遗憾，你暂时不能在这里安装Windows®系统，这里会教你一些基本的命令，更多请到https://oc.cil.li 查看%n这个系统可以使用很多unix-like系统,比如FreeBSD与GNU/linux,下的命令%n 比如ls, cd等等,也支持使用Tab补全命令和上下键切换命令,如果没有接触过这类系统还是上网照抄别人的程序吧...%n%n首先输入lua进入lua交互模式，opencomputer的几乎全部功能都依靠它实现.%n输入component.list()查看目前连接到此电脑的全部组件%n使用component.get("字符")来使用部分uuid获取完整uuid%n使用component.proxy("uuid")获取对应组件的命令列表%ncomponent.proxy("uuid").命令 调用前一个命令显示的命令%n如果你嫌命令太长，使用<自定义文字> = <完整命令>来快捷调用 %n比如 a = component.proxy("component.get("233asd2")") 以后便可以使用 a.命令 来调用这个uuid指向的设备的命令. %n§8此任务为非官方版添加 %n Windows®是微软公司的商标，与本整合无关
+tfr.quest692.desc=很遗憾，你暂时不能在这里安装Windows®系统，这里会教你一些基本的命令，更多请到https://oc.cil.li 查看%n这个系统可以使用很多unix-like系统(比如FreeBSD与GNU/linux)下的命令%n 比如ls, cd等等%n也支持使用Tab补全命令和上下键切换命令%n%n如果没有接触过这类系统还是上网照抄别人的程序吧...%n%n首先输入lua进入lua交互模式，opencomputer的几乎全部功能都依靠它实现.%n%n输入component.list()查看目前连接到此电脑的全部组件%n%n使用component.get("字符")来使用部分uuid获取完整uuid%n%n使用component.proxy("uuid")获取对应组件的命令列表%n%ncomponent.proxy("uuid").命令 调用上面那条命令显示的子命令%n%n如果你嫌命令太长，使用<自定义文字> = <完整命令>来快捷调用 %n%n比如运行 a = component.proxy("component.get("233asd2")") %n以后便可以使用 a.命令 来调用这个命令,方便吧w! %n%n§8此任务为非官方版添加 %n Windows®是微软公司的商标，与本整合无关
 tfr.quest693.name=网卡
 tfr.quest693.desc=如果你有多台电脑，安装这个可以让它们之间能够传递信息 %n§8此任务为非官方版添加
 tfr.quest694.name=搭建mc里的服务器
