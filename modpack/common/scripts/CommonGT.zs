@@ -1156,10 +1156,10 @@ recipes.addShaped(<gregtech:gt.multitileentity:32706>,
 [null,null,null]]);
 
 // Soft Hammer with TFC planks
-val TPlank = <ore:TPlank>;
-TPlank.add(<terrafirmacraft:planks:*>);
-TPlank.add(<terrafirmacraft:planks2>);
+var TPlank = [<terrafirmacraft:planks:*>,<terrafirmacraft:planks2>] as IItemStack[];
+for i , TPlank in TPlank {
 recipes.addShaped(<gregtech:gt.meta.toolHeadHammer:9300>,
 [[TPlank,TPlank,null],
 [TPlank,TPlank,null],
 [TPlank,TPlank,Saw]]);
+}
