@@ -28,14 +28,6 @@ val n = null;
 
 mods.draconicplus.FusionCrafting.add(DBP*2, DB*2, 0, 175000000, [<ore:dustRedstone>]);
 mods.draconicplus.FusionCrafting.add(DAB*4, DBP*4, 1, 6400000, [<DraconicEvolution:dragonHeart>, CA, CA, CA, CA]);
-recipes.remove(CB);
-mods.draconicplus.FusionCrafting.add(CB, NS, 0, 256000, [CA, D, CA, D, CA, D, CA, D]);
-recipes.remove(CC);
-mods.draconicplus.FusionCrafting.add(CC, CB, 1, 2048000, [CB, D, CB, D, CB, D, CB, D]);
-recipes.remove(CD);
-mods.draconicplus.FusionCrafting.add(CD, CC, 2, 12800000, [CC, DA, CC, DA, CC, DA, CC, DA]);
-// Dragon Egg
-mods.draconicplus.FusionCrafting.add(<minecraft:dragon_egg>, DBP, 3, 2147483647, [CC, CB, CB, CB,<gregtech:gt.multiitem.technological:30198>*4]);
 
 // Reactor stablizer
 recipes.remove(<DraconicEvolution:reactorStabilizer>);
