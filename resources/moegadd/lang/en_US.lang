@@ -69,25 +69,25 @@ item.MemoryCell256M.name=Memory Cell(256M)
 item.MemoryCell512M.name=Memory Cell(512M)
 item.MemoryCell1G.name=Memory Cell(1G)
 
-item.RAM_128M_2.name=RAM 128M*2
-item.RAM_128M_4.name=RAM 128M*4
-item.RAM_128M_8.name=RAM 128M*8
-item.RAM_128M_16.name=RAM 128M*16
+item.RAM_128M_2.name=256M RAM(128M*2)
+item.RAM_128M_4.name=512M RAM(128M*4)
+item.RAM_128M_8.name=1G RAM(128M*8)
+item.RAM_128M_16.name=2G RAM(128M*16)
 
-item.RAM_256M_2.name=RAM 256M*2
-item.RAM_256M_4.name=RAM 256M*4
-item.RAM_256M_8.name=RAM 256M*8
-item.RAM_256M_16.name=RAM 256M*16
+item.RAM_256M_2.name=512M RAM(256M*2)
+item.RAM_256M_4.name=1G RAM(256M*4)
+item.RAM_256M_8.name=2G RAM(256M*8)
+item.RAM_256M_16.name=4G RAM(256M*16)
 
-item.RAM_512M_2.name=RAM 512M*2
-item.RAM_512M_4.name=RAM 512M*4
-item.RAM_512M_8.name=RAM 512M*8
-item.RAM_512M_16.name=RAM 512M*16
+item.RAM_512M_2.name=1G RAM(512M*2)
+item.RAM_512M_4.name=2G RAM(512M*4)
+item.RAM_512M_8.name=4G RAM(512M*8)
+item.RAM_512M_16.name=8G RAM(512M*16)
 
-item.RAM_1G_2.name=RAM 1G*2
-item.RAM_1G_4.name=RAM 1G*4
-item.RAM_1G_8.name=RAM 1G*8
-item.RAM_1G_16.name=RAM 1G*16
+item.RAM_1G_2.name=2G RAM(1G*2)
+item.RAM_1G_4.name=4G RAM(1G*4)
+item.RAM_1G_8.name=8G RAM(1G*8)
+item.RAM_1G_16.name=16G RAM(1G*16)
 
 item.SMDResistor.name=Chip Resistor
 item.PatchCapacitor.name=Patch Capacitor
