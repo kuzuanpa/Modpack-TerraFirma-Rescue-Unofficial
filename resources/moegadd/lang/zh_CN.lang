@@ -69,25 +69,25 @@ item.MemoryCell256M.name=内存颗粒(256M)
 item.MemoryCell512M.name=内存颗粒(512M)
 item.MemoryCell1G.name=内存颗粒(1G)
 
-item.RAM_128M_2.name=双条128M随机存取存储器
-item.RAM_128M_4.name=四条128M随机存取存储器
-item.RAM_128M_8.name=八条128M随机存取存储器
-item.RAM_128M_16.name=十六条128M随机存取存储器
+item.RAM_128M_2.name=256M内存条(2*128M颗粒)
+item.RAM_128M_4.name=512M内存条(4*128M颗粒)
+item.RAM_128M_8.name=1G内存条(8*128M颗粒)
+item.RAM_128M_16.name=2G内存条(16*128M颗粒)
 
-item.RAM_256M_2.name=双条256M随机存取存储器
-item.RAM_256M_4.name=四条256M随机存取存储器
-item.RAM_256M_8.name=八条256M随机存取存储器
-item.RAM_256M_16.name=十六条256M随机存取存储器
+item.RAM_256M_2.name=512M内存条(2*256M颗粒)
+item.RAM_256M_4.name=1G内存条(4*256M颗粒)
+item.RAM_256M_8.name=2G内存条(8*256M颗粒)
+item.RAM_256M_16.name=4G内存条(16*256M颗粒)
 
-item.RAM_512M_2.name=双条512M随机存取存储器
-item.RAM_512M_4.name=四条512M随机存取存储器
-item.RAM_512M_8.name=八条512M随机存取存储器
-item.RAM_512M_16.name=十六条512M随机存取存储器
+item.RAM_512M_2.name=1G内存条(2*512M颗粒)
+item.RAM_512M_4.name=2G内存条(4*512M颗粒)
+item.RAM_512M_8.name=4G内存条(8*512M颗粒)
+item.RAM_512M_16.name=8G内存条(16*512M颗粒)
 
-item.RAM_1G_2.name=双条1G随机存取存储器
-item.RAM_1G_4.name=四条1G随机存取存储器
-item.RAM_1G_8.name=八条1G随机存取存储器
-item.RAM_1G_16.name=十六条1G随机存取存储器
+item.RAM_1G_2.name=2G内存条(2*1G颗粒)
+item.RAM_1G_4.name=4G内存条(4*1G颗粒)
+item.RAM_1G_8.name=8G内存条(8*1G颗粒)
+item.RAM_1G_16.name=16G内存条(16*1G颗粒)
 
 item.SMDResistor.name=贴片电阻
 item.PatchCapacitor.name=贴片电容
@@ -189,13 +189,13 @@ itemGroup.ElectronicTab=物品 | MoegAddon
 itemGroup.BlockTab=方块 | MoegAddon
 
 #Tiles
-tile.MainframeCluster1.name=低级巨型机组件
-tile.MainframeCluster2.name=基础巨型机组件
-tile.MainframeCluster3.name=进阶巨型机组件
-tile.MainframeCluster4.name=高级巨型机组件
-tile.MainframeCluster5.name=精英巨型机组件
-tile.MainframeCluster6.name=究极巨型机组件
-tile.MainframeCluster7.name=终极巨型机组件
+tile.MainframeCluster1.name=低级计算集群
+tile.MainframeCluster2.name=基础计算集群
+tile.MainframeCluster3.name=进阶计算集群
+tile.MainframeCluster4.name=高级计算集群
+tile.MainframeCluster5.name=精英计算集群
+tile.MainframeCluster6.name=究极计算集群
+tile.MainframeCluster7.name=终极计算集群
 
 tile.Flammableice.name=可燃冰
 tile.PlacerPlatinumOre.name=砂铂矿

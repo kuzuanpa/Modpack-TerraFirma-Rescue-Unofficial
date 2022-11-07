@@ -48,14 +48,7 @@ recipes.remove(<DraconicEvolution:draconium:1>);
 recipes.remove(<DraconicEvolution:teleporterStand>);
 recipes.addShaped(<DraconicEvolution:teleporterStand>,[[n,<minecraft:stone_pressure_plate>,n],[<gregtech:gt.meta.screw:8211>,<gregtech:gt.multiitem.technological:29994>,<gregtech:gt.meta.screw:8211>],[Screwdriver,<gregtech:gt.meta.plateDense:8635>,HHammer]]);
 
-// Flow gate
-recipes.remove(<DraconicEvolution:flowGate:6>);
-recipes.addShaped(<DraconicEvolution:flowGate:6>,
-[[null,<gregtech:gt.multitileentity:31006>,null],
-[<gregtech:gt.multiitem.technological:12024>,<DraconicEvolution:draconicCore>,<gregtech:gt.multiitem.technological:12024>],
-[null,<gregtech:gt.multitileentity:31007>,null]]);
-
-//Only remove , adding these recipes is moved to DEFusion.zs
+//Only remove , adding this recipes is moved to DEFusion.zs
 MTUtilsGT.removeAllRecipes("gt.recipe.massfab", <minecraft:dragon_egg>);
 // Draconic Core
 recipes.remove(<DraconicEvolution:draconicCore>);

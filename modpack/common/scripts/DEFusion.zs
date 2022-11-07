@@ -8,8 +8,7 @@ import minetweaker.item.IItemStack;
 import minetweaker.item.IIngredient;
 /* Template */
 /*
-  mods.draconicplus.FusionCrafting.add(<output>, <coreItem>, Level<1,2,3,4>, RFcost,
-  [<otherItems>]);
+mods.draconicplus.FusionCrafting.add(<output>, <coreItem>, Level<0,1,2,3>, RFcost, [<otherItems>]);
 */
 /* Variables */
 val D = <DraconicEvolution:draconiumIngot>;
@@ -27,12 +26,19 @@ val CD = <DraconicEvolution:chaoticCore>;
 val n = null;
 
 mods.draconicplus.FusionCrafting.add(DBP*2, DB*2, 0, 175000000, [<ore:dustRedstone>]);
+
 mods.draconicplus.FusionCrafting.add(DAB*4, DBP*4, 1, 6400000, [<DraconicEvolution:dragonHeart>, CA, CA, CA, CA]);
 
-// Reactor stablizer
 recipes.remove(<DraconicEvolution:reactorStabilizer>);
 mods.draconicplus.FusionCrafting.add(<DraconicEvolution:reactorStabilizer>, <DraconicEvolution:reactorCraftingPart>, 3, 102400000, [<gregtech:gt.multitileentity:18200>, <gregtech:gt.multitileentity:18201>,<gregtech:gt.multitileentity:18202>, <DraconicEvolution:draconiumEnergyCore:1>, CC, CD, <DraconicEvolution:reactorCraftingPart:3>, <DraconicEvolution:reactorCraftingPart:4>, DAB, DAB]);
 
-// Reactor Core
 recipes.remove(<DraconicEvolution:reactorCore>);
 mods.draconicplus.FusionCrafting.add(<DraconicEvolution:reactorCore>, <gregtech:gt.multiitem.physics:1009>, 3, 5120000, [CS, DA, CS, DA, CS, DA, CS, DA]);
+
+//Liquid flow gate
+recipes.remove(<DraconicEvolution:flowGate:6>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate:6>, CA, 0, 128000, [<gregtech:gt.multitileentity:31006>, <gregtech:gt.multiitem.technological:12024>, D, <gregtech:gt.multitileentity:31007>, <gregtech:gt.multiitem.technological:12024>, D]);
+
+//Flux flow gate
+recipes.remove(<DraconicEvolution:flowGate:6>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate:6>, CA, 0, 128000, [<gregtech:gt.multitileentity:31006>, <gregtech:gt.multiitem.technological:12024>, D, <gregtech:gt.multitileentity:31007>, <gregtech:gt.multiitem.technological:12024>, D]);
