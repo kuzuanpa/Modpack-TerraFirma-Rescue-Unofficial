@@ -24,6 +24,7 @@ val CA = <DraconicEvolution:draconicCore>;
 val CB = <DraconicEvolution:wyvernCore>;
 val CC = <DraconicEvolution:awakenedCore>;
 val CD = <DraconicEvolution:chaoticCore>;
+val GTEC = <gregtech:gt.multiitem.technological:30198>;
 val n = null;
 recipes.remove(CB);
 mods.draconicplus.FusionCrafting.add(CB, NS, 0, 256000, [CA, D, CA, D, CA, D, CA, D]);
@@ -32,4 +33,4 @@ mods.draconicplus.FusionCrafting.add(CC, D, 1, 2048000, [CB, D, CB, D, CB, D, CB
 recipes.remove(CD);
 mods.draconicplus.FusionCrafting.add(CD, CS, 2, 128000000, [CC, DA, CC, DA, CC, DA, CC, DA]);
 // Dragon Egg
-mods.draconicplus.FusionCrafting.add(<minecraft:dragon_egg>, DBP, 3, 20480000, [CC, CB, CB, CB,<gregtech:gt.multiitem.technological:30198>*4]);
+mods.draconicplus.FusionCrafting.add(<minecraft:dragon_egg>, DBP, 2, 20480000, [CC, CB, CB, CA, GTEC, GTEC, GTEC, GTEC]);

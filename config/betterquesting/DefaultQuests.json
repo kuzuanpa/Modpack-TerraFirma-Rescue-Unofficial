@@ -1563,7 +1563,8 @@
     "19:10": {
       "questID:3": 19,
       "preRequisites:11": [
-        261
+        261,
+        219
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -14437,8 +14438,7 @@
       "preRequisites:11": [
         218,
         320,
-        59,
-        371
+        59
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -24553,7 +24553,7 @@
           "requiredItems:9": {
             "0:10": {
               "id:8": "DraconicEvolution:draconiumDust",
-              "Count:3": 1,
+              "Count:3": 32,
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -24561,7 +24561,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "368:10": {
       "questID:3": 368,
@@ -54226,8 +54239,45 @@
           "desc:8": "tfru.q1d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicCore",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicCore",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "712:10": {
       "questID:3": 712,
@@ -54259,8 +54309,39 @@
           "desc:8": "tfru.q2d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:wyvernCore",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicCore",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "713:10": {
       "questID:3": 713,
@@ -54292,8 +54373,39 @@
           "desc:8": "tfru.q3d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:awakenedCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:wyvernCore",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "714:10": {
       "questID:3": 714,
@@ -54510,8 +54622,39 @@
           "desc:8": "tfru.q41d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "draconicplus:craftingInjector",
+              "Count:3": 10,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "720:10": {
       "questID:3": 720,
@@ -54543,8 +54686,39 @@
           "desc:8": "tfru.q42d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "draconicplus:craftingInjector",
+              "Count:3": 10,
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicCore",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "721:10": {
       "questID:3": 721,
@@ -54576,8 +54750,39 @@
           "desc:8": "tfru.q43d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "draconicplus:craftingInjector",
+              "Count:3": 10,
+              "Damage:2": 2,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:dragonHeart",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "722:10": {
       "questID:3": 722,
@@ -54609,8 +54814,39 @@
           "desc:8": "tfru.q6d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicBlock",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicIngot",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "723:10": {
       "questID:3": 723,
@@ -54790,8 +55026,39 @@
           "desc:8": "tfru.q15d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumEnergyCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:wyvernCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "727:10": {
       "questID:3": 727,
@@ -54834,13 +55101,13 @@
           "requiredItems:9": {
             "0:10": {
               "id:8": "DraconicEvolution:energyCrystal",
-              "Count:3": 1,
+              "Count:3": 2,
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
               "id:8": "DraconicEvolution:energyCrystal",
-              "Count:3": 4,
+              "Count:3": 8,
               "Damage:2": 2,
               "OreDict:8": ""
             }
@@ -54848,7 +55115,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "728:10": {
       "questID:3": 728,
@@ -54950,7 +55230,14 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "amount:3": 100,
+          "rewardID:8": "bq_standard:xp",
+          "isLevels:1": 0,
+          "index:3": 0
+        }
+      }
     },
     "730:10": {
       "questID:3": 730,
@@ -55135,8 +55422,45 @@
           "desc:8": "tfru.q23d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:upgradeModifier",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicCore",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:wyvernCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "734:10": {
       "questID:3": 734,
@@ -55171,8 +55495,42 @@
           "desc:8": "tfru.q16d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumFluxCapacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "735:10": {
       "questID:3": 735,
@@ -55280,7 +55638,26 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicIngot",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "737:10": {
       "questID:3": 737,
@@ -55312,8 +55689,57 @@
           "desc:8": "tfru.q17d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:energyStorageCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:energyPylon",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "minecraft:glass",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:redstone_block",
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "738:10": {
       "questID:3": 738,
@@ -55447,8 +55873,39 @@
           "desc:8": "tfru.q21d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:flowGate",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 32,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "741:10": {
       "questID:3": 741,
@@ -55499,7 +55956,20 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "742:10": {
       "questID:3": 742,
@@ -55550,7 +56020,26 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicIngot",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:draconiumDust",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "743:10": {
       "questID:3": 743,
@@ -55624,6 +56113,92 @@
       "rewards:9": {}
     },
     "745:10": {
+      "questID:3": 745,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "Railcraft:machine.gamma",
+            "Count:3": 1,
+            "Damage:2": 11,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "name:8": "RF transport",
+          "lockedProgress:1": 0,
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "Railcraft:machine.gamma",
+              "Count:3": 1,
+              "Damage:2": 10,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "Railcraft:cart.redstone.flux",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "Railcraft:machine.gamma",
+              "Count:3": 1,
+              "Damage:2": 11,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "advancedRocketry:tile.energyPipe",
+              "Count:3": 20,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "advancedRocketry:tile.energyPipe",
+              "Count:3": 40,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:redstone_block",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "746:10": {
       "questID:3": 746,
       "preRequisites:11": [
         726
@@ -55707,7 +56282,7 @@
       },
       "rewards:9": {}
     },
-    "746:10": {
+    "747:10": {
       "questID:3": 747,
       "preRequisites:11": [
         746,
@@ -55817,7 +56392,7 @@
       },
       "rewards:9": {}
     },
-    "747:10": {
+    "748:10": {
       "questID:3": 748,
       "preRequisites:11": [
         747
@@ -55874,7 +56449,7 @@
       },
       "rewards:9": {}
     },
-    "748:10": {
+    "749:10": {
       "questID:3": 749,
       "preRequisites:11": [
         713
@@ -55904,10 +56479,41 @@
           "desc:8": "tfru.q4d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:chaoticCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:awakenedCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "749:10": {
+    "750:10": {
       "questID:3": 750,
       "preRequisites:11": [
         749
@@ -55937,10 +56543,41 @@
           "desc:8": "tfru.q44d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "draconicplus:craftingInjector",
+              "Count:3": 10,
+              "Damage:2": 3,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:chaosShard",
+              "Count:3": 2,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "750:10": {
+    "751:10": {
       "questID:3": 751,
       "preRequisites:11": [
         750
@@ -55970,10 +56607,53 @@
           "desc:8": "tfru.q11d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:reactorEnergyInjector",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:reactorStabilizer",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "DraconicEvolution:reactorCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicBlock",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "751:10": {
+    "752:10": {
       "questID:3": 753,
       "preRequisites:11": [
         721
@@ -56003,10 +56683,41 @@
           "desc:8": "tfru.q12d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:DragonBeacon",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 1,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:awakenedCore",
+              "Count:3": 4,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "752:10": {
+    "753:10": {
       "questID:3": 754,
       "preRequisites:11": [
         721
@@ -56036,10 +56747,41 @@
           "desc:8": "tfru.q13d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumEnergyCore",
+              "Count:3": 1,
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:awakenedCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "753:10": {
+    "754:10": {
       "questID:3": 755,
       "preRequisites:11": [
         754
@@ -56072,8 +56814,48 @@
           "desc:8": "tfru.q14d"
         }
       },
-      "tasks:9": {},
-      "rewards:9": {}
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconiumFluxCapacitor",
+              "Count:3": 1,
+              "tag:10": {
+                "Energy:3": 0
+              },
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+            "0:10": {
+              "id:8": "DraconicEvolution:draconicIngot",
+              "Count:3": 8,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "DraconicEvolution:awakenedCore",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     }
   },
   "questLines:9": {
@@ -56403,49 +57185,49 @@
         },
         "1:10": {
           "sizeX:3": 24,
-          "x:3": 480,
+          "x:3": 300,
           "y:3": 348,
           "id:3": 9,
           "sizeY:3": 24
         },
         "2:10": {
           "sizeX:3": 24,
-          "x:3": 408,
-          "y:3": 228,
+          "x:3": 468,
+          "y:3": 132,
           "id:3": 19,
           "sizeY:3": 24
         },
         "3:10": {
           "sizeX:3": 24,
-          "x:3": 408,
-          "y:3": 48,
+          "x:3": 396,
+          "y:3": 60,
           "id:3": 59,
           "sizeY:3": 24
         },
         "4:10": {
           "sizeX:3": 48,
-          "x:3": 732,
-          "y:3": -48,
+          "x:3": 684,
+          "y:3": 288,
           "id:3": 99,
           "sizeY:3": 48
         },
         "5:10": {
           "sizeX:3": 24,
-          "x:3": 600,
-          "y:3": 180,
+          "x:3": 540,
+          "y:3": 132,
           "id:3": 108,
           "sizeY:3": 24
         },
         "6:10": {
           "sizeX:3": 24,
-          "x:3": 648,
-          "y:3": 132,
+          "x:3": 540,
+          "y:3": 192,
           "id:3": 136,
           "sizeY:3": 24
         },
         "7:10": {
           "sizeX:3": 24,
-          "x:3": 648,
+          "x:3": 540,
           "y:3": 252,
           "id:3": 155,
           "sizeY:3": 24
@@ -56459,8 +57241,8 @@
         },
         "9:10": {
           "sizeX:3": 24,
-          "x:3": 348,
-          "y:3": 228,
+          "x:3": 396,
+          "y:3": 192,
           "id:3": 168,
           "sizeY:3": 24
         },
@@ -56487,78 +57269,78 @@
         },
         "13:10": {
           "sizeX:3": 48,
-          "x:3": 528,
+          "x:3": 600,
           "y:3": -48,
           "id:3": 219,
           "sizeY:3": 48
         },
         "14:10": {
           "sizeX:3": 24,
-          "x:3": 648,
+          "x:3": 540,
           "y:3": 300,
           "id:3": 234,
           "sizeY:3": 24
         },
         "15:10": {
           "sizeX:3": 24,
-          "x:3": 408,
+          "x:3": 396,
           "y:3": 132,
           "id:3": 261,
           "sizeY:3": 24
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": 468,
-          "y:3": 132,
+          "x:3": 348,
+          "y:3": 96,
           "id:3": 262,
           "sizeY:3": 24
         },
         "17:10": {
           "sizeX:3": 24,
           "x:3": 468,
-          "y:3": 180,
+          "y:3": 192,
           "id:3": 270,
           "sizeY:3": 24
         },
         "18:10": {
           "sizeX:3": 24,
-          "x:3": 600,
-          "y:3": 132,
+          "x:3": 588,
+          "y:3": 192,
           "id:3": 277,
           "sizeY:3": 24
         },
         "19:10": {
           "sizeX:3": 24,
-          "x:3": 600,
-          "y:3": 12,
+          "x:3": 612,
+          "y:3": 348,
           "id:3": 289,
           "sizeY:3": 24
         },
         "20:10": {
           "sizeX:3": 24,
-          "x:3": 348,
+          "x:3": 240,
           "y:3": 96,
           "id:3": 291,
           "sizeY:3": 24
         },
         "21:10": {
           "sizeX:3": 24,
-          "x:3": 648,
+          "x:3": 540,
           "y:3": 276,
           "id:3": 295,
           "sizeY:3": 24
         },
         "22:10": {
           "sizeX:3": 24,
-          "x:3": 600,
-          "y:3": -36,
+          "x:3": 612,
+          "y:3": 132,
           "id:3": 320,
           "sizeY:3": 24
         },
         "23:10": {
           "sizeX:3": 24,
-          "x:3": 648,
-          "y:3": -36,
+          "x:3": 612,
+          "y:3": 300,
           "id:3": 349,
           "sizeY:3": 24
         },
@@ -56571,8 +57353,8 @@
         },
         "25:10": {
           "sizeX:3": 24,
-          "x:3": 540,
-          "y:3": 48,
+          "x:3": 348,
+          "y:3": 348,
           "id:3": 371,
           "sizeY:3": 24
         },
@@ -56585,28 +57367,28 @@
         },
         "27:10": {
           "sizeX:3": 24,
-          "x:3": 468,
-          "y:3": 228,
+          "x:3": 396,
+          "y:3": 252,
           "id:3": 438,
           "sizeY:3": 24
         },
         "28:10": {
           "sizeX:3": 24,
-          "x:3": 588,
+          "x:3": 396,
           "y:3": 348,
           "id:3": 439,
           "sizeY:3": 24
         },
         "29:10": {
           "sizeX:3": 48,
-          "x:3": 528,
+          "x:3": 336,
           "y:3": 288,
           "id:3": 440,
           "sizeY:3": 48
         },
         "30:10": {
           "sizeX:3": 24,
-          "x:3": 348,
+          "x:3": 336,
           "y:3": 168,
           "id:3": 441,
           "sizeY:3": 24
@@ -57624,6 +58406,13 @@
           "x:3": -60,
           "y:3": 24,
           "id:3": 674,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "sizeX:3": 24,
+          "x:3": -240,
+          "y:3": 60,
+          "id:3": 745,
           "sizeY:3": 24
         }
       },
@@ -61529,8 +62318,8 @@
         },
         "1:10": {
           "sizeX:3": 24,
-          "x:3": -216,
-          "y:3": -96,
+          "x:3": -288,
+          "y:3": -144,
           "id:3": 709,
           "sizeY:3": 24
         },
@@ -61564,15 +62353,15 @@
         },
         "6:10": {
           "sizeX:3": 24,
-          "x:3": -216,
-          "y:3": 12,
+          "x:3": -264,
+          "y:3": -36,
           "id:3": 714,
           "sizeY:3": 24
         },
         "7:10": {
           "sizeX:3": 24,
-          "x:3": -252,
-          "y:3": -24,
+          "x:3": -372,
+          "y:3": -96,
           "id:3": 715,
           "sizeY:3": 24
         },
@@ -61585,8 +62374,8 @@
         },
         "9:10": {
           "sizeX:3": 24,
-          "x:3": -252,
-          "y:3": -72,
+          "x:3": -444,
+          "y:3": -168,
           "id:3": 717,
           "sizeY:3": 24
         },
@@ -61781,22 +62570,22 @@
         },
         "37:10": {
           "sizeX:3": 48,
-          "x:3": -312,
-          "y:3": 36,
+          "x:3": -288,
+          "y:3": 24,
           "id:3": 749,
           "sizeY:3": 48
         },
         "38:10": {
           "sizeX:3": 36,
-          "x:3": -384,
-          "y:3": -12,
+          "x:3": -216,
+          "y:3": 24,
           "id:3": 750,
           "sizeY:3": 36
         },
         "39:10": {
           "sizeX:3": 60,
-          "x:3": -480,
-          "y:3": -72,
+          "x:3": -240,
+          "y:3": 84,
           "id:3": 751,
           "sizeY:3": 60
         },
