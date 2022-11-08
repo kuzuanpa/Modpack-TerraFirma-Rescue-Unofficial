@@ -18,6 +18,8 @@ val DA = <DraconicEvolution:draconicIngot>;
 val DAB = <DraconicEvolution:draconicBlock>;
 val CS = <DraconicEvolution:chaosShard>;
 val NS = <minecraft:nether_star>;
+val DNC = <DraconicEvolution:draconiumEnergyCore>
+val DANC = <DraconicEvolution:draconicEnergyCore>
 /* C = Core, ABCD = Level 1-4 */
 val CA = <DraconicEvolution:draconicCore>;
 val CB = <DraconicEvolution:wyvernCore>;
@@ -40,5 +42,5 @@ recipes.remove(<DraconicEvolution:flowGate:6>);
 mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate:6>, CA, 0, 128000, [<gregtech:gt.multitileentity:31006>, <gregtech:gt.multiitem.technological:12024>, D, <gregtech:gt.multitileentity:31007>, <gregtech:gt.multiitem.technological:12024>, D]);
 
 //Flux flow gate
-recipes.remove(<DraconicEvolution:flowGate:6>);
-mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate:6>, CA, 0, 128000, [<gregtech:gt.multitileentity:31006>, <gregtech:gt.multiitem.technological:12024>, D, <gregtech:gt.multitileentity:31007>, <gregtech:gt.multiitem.technological:12024>, D]);
+recipes.remove(<DraconicEvolution:flowGate>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate>, DNC, 1, 640000, [CA, D, <minecraft:comparator>, <gregtech:gt.multiitem.technological:1025>, CA, D, <minecraft:comparator>, <gregtech:gt.multiitem.technological:1026>]);

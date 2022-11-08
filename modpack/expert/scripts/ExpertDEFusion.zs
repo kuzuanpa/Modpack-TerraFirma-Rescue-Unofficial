@@ -30,6 +30,6 @@ mods.draconicplus.FusionCrafting.add(CB, CA, 0, 4096000, [CA, DB, NS, CA, D, CA,
 recipes.remove(CC);
 mods.draconicplus.FusionCrafting.add(CC, CB, 1, 12800000, [CB, DAB, NS, DA, CB, CB, DAB, NS, DA, CB]);
 recipes.remove(CD);
-mods.draconicplus.FusionCrafting.add(CD, CC, 2, 819200000, [CC, DAB, CC, DAB, CS, CC, DAB, CC, DAB, CS]);
+mods.draconicplus.FusionCrafting.add(CD, CS, 2, 819200000, [CC, DAB, CC, DAB, CS, CC, DAB, CC, DAB, CS]);
 // Dragon Egg
 mods.draconicplus.FusionCrafting.add(<minecraft:dragon_egg>, DBP, 3, 2147483647, [CC, CD, CD, CC, CD, <gregtech:gt.multiitem.technological:30198>*4]);

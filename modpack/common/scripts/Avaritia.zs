@@ -253,13 +253,17 @@ var nlsj = <gregtech:gt.multitileentity:14505>.withTag({"gt.energy": 3276800000 
 var ntqp = <gregtech:gt.meta.toolHeadBuzzSaw:3800>;
 var gxxx = <gregtech:gt.multitileentity:24900>;
 var ivbt = <gregtech:gt.multitileentity:14045>.withTag({"gt.energy": 1048576000});
-
+var deax = <DraconicEvolution:draconicAxe>;
+var desw = <DraconicEvolution:draconicSword>;
+var depa = <DraconicEvolution:draconicPickaxe>;
+var desh = <DraconicEvolution:draconicShovel>;
+var debo = <DraconicEvolution:draconicBow>;
 mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Pickaxe>.withTag({ench: [{lvl: 10 as short, id: 35 as short}]}));
 mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Infinity_Pickaxe>.withTag({ench: [{lvl: 10 as short, id: 35 as short}]}),
 [ [null,null,null,if11,puvm,if11,ifp1,null,null],
   [null,null,null,null,bioc,puvm,szsg,zzsg,null],
   [null,null,null,null,null,ivbt,sjjz,szsg,ifp1],
-  [null,null,null,null,null,ns11,ivbt,puvm,if11],
+  [null,null,null,null,null,depa,ivbt,puvm,if11],
   [null,null,null,null,ns11,null,null,bioc,puvm],
   [null,null,null,ns11,null,null,null,null,if11],
   [null,null,ns11,null,null,null,null,null,null],
@@ -274,7 +278,7 @@ mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Infinity_Sword>,
   [null,null,null,null,supc,ifp1,gxxx,null,null],
   [null,null,null,supc,ifp1,gxxx,null,null,null],
   [np11,sjjz,ivbt,ifp1,gxxx,null,null,null,null],
-  [null,bioc,ifp1,nlsj,null,null,null,null,null],
+  [null,bioc,desw,nlsj,null,null,null,null,null],
   [null,ns11,bioc,sjjz,null,null,null,null,null],
   [ns11,null,null,np11,null,null,null,null,null]]);
 
@@ -291,7 +295,7 @@ mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Infinity_Bow>,
   [null,null,null,cwjg,puvm,szsg,stxw,null,null],
   [null,null,cwjg,ivbt,null,null,stxw,null,null],
   [null,sjpl,cwjg,null,null,null,stxw,null,null],
-  [null,np11,bioc,null,null,null,stxw,null,null],
+  [null,np11,bioc,debo,null,null,stxw,null,null],
   [null,sjpl,cwjg,null,null,null,stxw,null,null],
   [null,null,cwjg,ivbt,null,null,stxw,null,null],
   [null,null,null,cwjg,puvm,szsg,stxw,null,null],
@@ -303,7 +307,7 @@ mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Infinity_Shovel>,
   [null,null,null,null,null,puvi,if11,zzsg,if11],
   [null,null,null,null,null,ivbt,sjjz,if11,ifp1],
   [null,null,null,null,null,bioc,ivbt,puvi,null],
-  [null,null,null,null,ns11,null,null,null,null],
+  [null,null,null,null,desh,null,null,null,null],
   [null,null,null,ns11,null,null,null,null,null],
   [null,null,ns11,null,null,null,null,null,null],
   [null,ns11,null,null,null,null,null,null,null],
@@ -315,7 +319,7 @@ mods.avaritia.ExtremeCrafting.addShaped(<Avaritia:Infinity_Axe>,
   [null,null,ifp1,zzsg,ns11,if11,null,null,null],
   [null,null,ifp1,puvm,ns11,sjjz,ifp1,null,null],
   [null,null,ifp1,ns11,ivbt,bioc,null,null,null],
-  [null,null,null,ns11,ifp1,null,null,null,null],
+  [null,null,deax,ns11,ifp1,null,null,null,null],
   [null,null,ns11,null,null,null,null,null,null],
   [null,null,ns11,null,null,null,null,null,null],
   [null,ns11,null,null,null,null,null,null,null],
