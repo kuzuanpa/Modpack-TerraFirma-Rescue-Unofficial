@@ -18,8 +18,8 @@ val DA = <DraconicEvolution:draconicIngot>;
 val DAB = <DraconicEvolution:draconicBlock>;
 val CS = <DraconicEvolution:chaosShard>;
 val NS = <minecraft:nether_star>;
-val DNC = <DraconicEvolution:draconiumEnergyCore>
-val DANC = <DraconicEvolution:draconicEnergyCore>
+val DNC = <DraconicEvolution:draconiumEnergyCore>;
+val DANC = <DraconicEvolution:draconiumEnergyCore:1>;
 /* C = Core, ABCD = Level 1-4 */
 val CA = <DraconicEvolution:draconicCore>;
 val CB = <DraconicEvolution:wyvernCore>;

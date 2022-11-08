@@ -24535,11 +24535,11 @@
           "globalShare:1": 0,
           "questLogic:8": "AND",
           "repeat_relative:1": 1,
-          "name:8": "tfr.quest367.name",
+          "name:8": "tfru.q8n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "tfr.quest367.desc"
+          "desc:8": "tfru.q8d"
         }
       },
       "tasks:9": {
@@ -54153,11 +54153,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "cebs",
+          "name:8": "tfru.q27n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q27d"
         }
       },
       "tasks:9": {},
@@ -54186,11 +54186,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q45n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q45d"
         }
       },
       "tasks:9": {},
@@ -54219,11 +54219,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q1n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q1d"
         }
       },
       "tasks:9": {},
@@ -54252,11 +54252,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q2n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q2d"
         }
       },
       "tasks:9": {},
@@ -54285,11 +54285,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q3n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q3d"
         }
       },
       "tasks:9": {},
@@ -54319,11 +54319,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q30n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q30d"
         }
       },
       "tasks:9": {},
@@ -54353,11 +54353,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q28n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q28d"
         }
       },
       "tasks:9": {},
@@ -54386,11 +54386,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q25n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q25d"
         }
       },
       "tasks:9": {},
@@ -54419,11 +54419,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q29n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q29d"
         }
       },
       "tasks:9": {},
@@ -54452,11 +54452,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q5n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q5d"
         }
       },
       "tasks:9": {
@@ -54503,11 +54503,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q41n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q41d"
         }
       },
       "tasks:9": {},
@@ -54536,11 +54536,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "juheb",
+          "name:8": "tfru.q42n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q42d"
         }
       },
       "tasks:9": {},
@@ -54569,11 +54569,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "juhec",
+          "name:8": "tfru.q43n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q43d"
         }
       },
       "tasks:9": {},
@@ -54602,11 +54602,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q6n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q6d"
         }
       },
       "tasks:9": {},
@@ -54636,11 +54636,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q26n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q26d"
         }
       },
       "tasks:9": {},
@@ -54669,11 +54669,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q31n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q31d"
         }
       },
       "tasks:9": {
@@ -54726,11 +54726,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q32n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q32d"
         }
       },
       "tasks:9": {
@@ -54783,11 +54783,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "B",
+          "name:8": "tfru.q15n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q15d"
         }
       },
       "tasks:9": {},
@@ -54816,11 +54816,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q20n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q20d"
         }
       },
       "tasks:9": {
@@ -54873,11 +54873,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q38n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q38d"
         }
       },
       "tasks:9": {
@@ -54924,11 +54924,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q24n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q24d"
         }
       },
       "tasks:9": {
@@ -54975,11 +54975,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q34n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q34d"
         }
       },
       "tasks:9": {
@@ -55026,11 +55026,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q39n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q39d"
         }
       },
       "tasks:9": {
@@ -55077,11 +55077,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q40n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q40d"
         }
       },
       "tasks:9": {
@@ -55128,11 +55128,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q23n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q23d"
         }
       },
       "tasks:9": {},
@@ -55164,11 +55164,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q16n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q16d"
         }
       },
       "tasks:9": {},
@@ -55197,11 +55197,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q35n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q35d"
         }
       },
       "tasks:9": {
@@ -55248,11 +55248,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q19n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q19d"
         }
       },
       "tasks:9": {
@@ -55305,11 +55305,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q17n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q17d"
         }
       },
       "tasks:9": {},
@@ -55338,11 +55338,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q37n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q37d"
         }
       },
       "tasks:9": {
@@ -55389,11 +55389,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q33n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q33d"
         }
       },
       "tasks:9": {
@@ -55420,7 +55420,7 @@
     "740:10": {
       "questID:3": 740,
       "preRequisites:11": [
-        720
+        726
       ],
       "properties:10": {
         "betterquesting:10": {
@@ -55440,11 +55440,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q21n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q21d"
         }
       },
       "tasks:9": {},
@@ -55473,11 +55473,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q36n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q36d"
         }
       },
       "tasks:9": {
@@ -55524,11 +55524,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q18n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q18d"
         }
       },
       "tasks:9": {
@@ -55575,11 +55575,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q7n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q7d"
         }
       },
       "tasks:9": {
@@ -55613,11 +55613,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q22n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q22d"
         }
       },
       "tasks:9": {},
@@ -55649,11 +55649,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q9n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q9d"
         }
       },
       "tasks:9": {
@@ -55734,11 +55734,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q10n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q10d"
         }
       },
       "tasks:9": {
@@ -55897,11 +55897,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q4n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q4d"
         }
       },
       "tasks:9": {},
@@ -55930,11 +55930,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q44n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q44d"
         }
       },
       "tasks:9": {},
@@ -55963,50 +55963,17 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q11n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q11d"
         }
       },
       "tasks:9": {},
       "rewards:9": {}
     },
     "751:10": {
-      "questID:3": 752,
-      "preRequisites:11": [
-        750
-      ],
-      "properties:10": {
-        "betterquesting:10": {
-          "snd_complete:8": "minecraft:entity.player.levelup",
-          "taskLogic:8": "AND",
-          "partySingleReward:1": 0,
-          "visibility:8": "NORMAL",
-          "isMain:1": 0,
-          "simultaneous:1": 0,
-          "icon:10": {
-            "id:8": "minecraft:nether_star",
-            "Count:3": 1,
-            "Damage:2": 0,
-            "OreDict:8": ""
-          },
-          "snd_update:8": "minecraft:entity.player.levelup",
-          "repeatTime:3": -1,
-          "globalShare:1": 0,
-          "questLogic:8": "AND",
-          "name:8": "New Quest",
-          "lockedProgress:1": 0,
-          "autoClaim:1": 0,
-          "isSilent:1": 0,
-          "desc:8": "No Description"
-        }
-      },
-      "tasks:9": {},
-      "rewards:9": {}
-    },
-    "752:10": {
       "questID:3": 753,
       "preRequisites:11": [
         721
@@ -56029,17 +55996,17 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q12n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q12d"
         }
       },
       "tasks:9": {},
       "rewards:9": {}
     },
-    "753:10": {
+    "752:10": {
       "questID:3": 754,
       "preRequisites:11": [
         721
@@ -56062,17 +56029,17 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "C",
+          "name:8": "tfru.q13n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q13d"
         }
       },
       "tasks:9": {},
       "rewards:9": {}
     },
-    "754:10": {
+    "753:10": {
       "questID:3": 755,
       "preRequisites:11": [
         754
@@ -56098,11 +56065,11 @@
           "repeatTime:3": -1,
           "globalShare:1": 0,
           "questLogic:8": "AND",
-          "name:8": "New Quest",
+          "name:8": "tfru.q14n",
           "lockedProgress:1": 0,
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q14d"
         }
       },
       "tasks:9": {},
@@ -61555,7 +61522,7 @@
       "quests:9": {
         "0:10": {
           "sizeX:3": 48,
-          "x:3": -144,
+          "x:3": -156,
           "y:3": -96,
           "id:3": 367,
           "sizeY:3": 48
@@ -61569,7 +61536,7 @@
         },
         "2:10": {
           "sizeX:3": 24,
-          "x:3": -216,
+          "x:3": -192,
           "y:3": -132,
           "id:3": 710,
           "sizeY:3": 24
@@ -61612,7 +61579,7 @@
         "8:10": {
           "sizeX:3": 24,
           "x:3": -168,
-          "y:3": -60,
+          "y:3": -36,
           "id:3": 716,
           "sizeY:3": 24
         },
@@ -61625,8 +61592,8 @@
         },
         "10:10": {
           "sizeX:3": 24,
-          "x:3": -192,
-          "y:3": -156,
+          "x:3": -144,
+          "y:3": -144,
           "id:3": 718,
           "sizeY:3": 24
         },
@@ -61667,8 +61634,8 @@
         },
         "16:10": {
           "sizeX:3": 24,
-          "x:3": -132,
-          "y:3": -144,
+          "x:3": -96,
+          "y:3": -120,
           "id:3": 724,
           "sizeY:3": 24
         },
@@ -61779,8 +61746,8 @@
         },
         "32:10": {
           "sizeX:3": 24,
-          "x:3": 48,
-          "y:3": 180,
+          "x:3": 96,
+          "y:3": 216,
           "id:3": 740,
           "sizeY:3": 24
         },
@@ -61815,46 +61782,39 @@
         "37:10": {
           "sizeX:3": 48,
           "x:3": -312,
-          "y:3": 12,
+          "y:3": 36,
           "id:3": 749,
           "sizeY:3": 48
         },
         "38:10": {
           "sizeX:3": 36,
-          "x:3": -372,
+          "x:3": -384,
           "y:3": -12,
           "id:3": 750,
           "sizeY:3": 36
         },
         "39:10": {
           "sizeX:3": 60,
-          "x:3": -492,
-          "y:3": -48,
+          "x:3": -480,
+          "y:3": -72,
           "id:3": 751,
           "sizeY:3": 60
         },
         "40:10": {
-          "sizeX:3": 24,
-          "x:3": -408,
-          "y:3": -108,
-          "id:3": 752,
-          "sizeY:3": 24
-        },
-        "41:10": {
           "sizeX:3": 24,
           "x:3": -432,
           "y:3": 240,
           "id:3": 753,
           "sizeY:3": 24
         },
-        "42:10": {
+        "41:10": {
           "sizeX:3": 24,
           "x:3": -456,
           "y:3": 192,
           "id:3": 754,
           "sizeY:3": 24
         },
-        "43:10": {
+        "42:10": {
           "sizeX:3": 24,
           "x:3": -504,
           "y:3": 156,
