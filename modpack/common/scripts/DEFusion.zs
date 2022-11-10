@@ -66,8 +66,6 @@ recipes.remove(dfc);
 mods.draconicplus.FusionCrafting.add(dfc, CB, 1, 2560000, [DEC,DEC,DEC,DEC, CA, CA, D, D]);
 recipes.remove(dafc);
 mods.draconicplus.FusionCrafting.add(dafc, dfc, 2, 400000000, [DAEC, DAEC, DA, DA, CC, DAEC, DAEC, DA, DA, DA]);
-recipes.remove(<DraconicEvolution:upgradeModifier>);
-mods.draconicplus.FusionCrafting.add(<DraconicEvolution:upgradeModifier>, <advancedRocketry:tile.suitWorkStation>, 1, 6400000, [DB, DB, CB, CB]);
 recipes.remove();
 mods.draconicplus.FusionCrafting.add();
 recipes.remove();

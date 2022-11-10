@@ -36,3 +36,6 @@ mods.draconicplus.FusionCrafting.add(CD, CS, 2, 819200000, [CC, DAB, CC, DAB, CS
 mods.draconicplus.FusionCrafting.add(<minecraft:dragon_egg>, DBP, 2, 2048000000, [CC, CC, CC, CC, CB, GTEC, GTEC, GTEC, GTEC, GTEC]);
 recipes.remove(<DraconicEvolution:DragonBeacon>);
 mods.draconicplus.FusionCrafting.add(<DraconicEvolution:DragonBeacon>, CC, 2, 800000000, [CS, DAB, DA, DA, CS, DAB, DA, DA]);
+recipes.remove(<DraconicEvolution:upgradeModifier>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:upgradeModifier>, <advancedRocketry:tile.suitWorkStation>, 1, 12800000, [DB, CB, CB, DB, DB, CB, CB, CB]);
+
