@@ -8,8 +8,12 @@ import minetweaker.item.IItemStack;
 import minetweaker.item.IIngredient;
 /* Template */
 /*
+recipes.remove(<output>);
 mods.draconicplus.FusionCrafting.add(<output>, <coreItem>, Level<0,1,2,3>, RFcost, [<otherItems>]);
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
 */
+
 /* Variables */
 val D = <DraconicEvolution:draconiumIngot>;
 val DB = <DraconicEvolution:draconium>;
@@ -18,8 +22,8 @@ val DA = <DraconicEvolution:draconicIngot>;
 val DAB = <DraconicEvolution:draconicBlock>;
 val CS = <DraconicEvolution:chaosShard>;
 val NS = <minecraft:nether_star>;
-val DNC = <DraconicEvolution:draconiumEnergyCore>;
-val DANC = <DraconicEvolution:draconiumEnergyCore:1>;
+val DEC = <DraconicEvolution:draconiumEnergyCore>;
+val DAEC = <DraconicEvolution:draconiumEnergyCore:1>;
 /* C = Core, ABCD = Level 1-4 */
 val CA = <DraconicEvolution:draconicCore>;
 val CB = <DraconicEvolution:wyvernCore>;
@@ -43,4 +47,41 @@ mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate:6>, CA, 0, 1280
 
 //Flux flow gate
 recipes.remove(<DraconicEvolution:flowGate>);
-mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate>, DNC, 1, 640000, [CA, D, <minecraft:comparator>, <gregtech:gt.multiitem.technological:1025>, CA, D, <minecraft:comparator>, <gregtech:gt.multiitem.technological:1026>]);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate>, DEC, 1, 640000, [CA, D, <minecraft:comparator>, <gregtech:gt.multiitem.technological:1025>, CA, D, <minecraft:comparator>, <gregtech:gt.multiitem.technological:1026>]);
+
+recipes.remove(DEC);
+recipes.remove(DAEC);
+mods.draconicplus.FusionCrafting.add(DEC, CA, 0, 25600, [<ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, D, D, D, D]);
+mods.draconicplus.FusionCrafting.add(DAEC, CB, 2, 8192000, [DEC, DEC, DA, DA, DEC, DEC ,DA, DA]);
+recipes.remove(<DraconicEvolution:sunDial>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:sunDial>, <minecraft:dragon_egg>, 2, 81920000, [CC, DA, D, CB, <minecraft:enchanting_table>,  CC, DA, D, CB, D]);
+val drc3 = <DraconicEvolution:reactorCraftingPart:3>;
+val drc2 = <DraconicEvolution:reactorCraftingPart:2>;
+val drc1 = <DraconicEvolution:reactorCraftingPart:1>;
+recipes.remove(drc3);
+mods.draconicplus.FusionCrafting.add(drc3, CC, 3, 327680000, [drc2,drc2, D, drc1,drc1, D]);
+val dfc = <DraconicEvolution:draconiumFluxCapacitor>;
+val dafc = <DraconicEvolution:draconiumFluxCapacitor:1>;
+recipes.remove(dfc);
+mods.draconicplus.FusionCrafting.add(dfc, CB, 1, 2560000, [DEC,DEC,DEC,DEC, CA, CA, D, D]);
+recipes.remove(dafc);
+mods.draconicplus.FusionCrafting.add(dafc, dfc, 2, 400000000, [DAEC, DAEC, DA, DA, CC, DAEC, DAEC, DA, DA, DA]);
+recipes.remove(<DraconicEvolution:upgradeModifier>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:upgradeModifier>, <advancedRocketry:tile.suitWorkStation>, 1, 6400000, [DB, DB, CB, CB]);
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+recipes.remove();
+mods.draconicplus.FusionCrafting.add();
+
+
+

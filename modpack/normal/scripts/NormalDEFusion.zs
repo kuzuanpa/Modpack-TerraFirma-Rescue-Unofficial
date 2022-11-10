@@ -34,3 +34,5 @@ recipes.remove(CD);
 mods.draconicplus.FusionCrafting.add(CD, CS, 2, 128000000, [CC, DA, CC, DA, CC, DA, CC, DA]);
 // Dragon Egg
 mods.draconicplus.FusionCrafting.add(<minecraft:dragon_egg>, DBP, 2, 20480000, [CC, CB, CB, CA, GTEC, GTEC, GTEC, GTEC]);
+recipes.remove(<DraconicEvolution:DragonBeacon>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:DragonBeacon>, NS, 2, 20000000, [CC, DA, DA, DA, CS, DA, DA, DA]);
