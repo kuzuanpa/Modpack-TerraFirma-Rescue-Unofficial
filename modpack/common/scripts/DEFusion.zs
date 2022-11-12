@@ -51,8 +51,8 @@ mods.draconicplus.FusionCrafting.add(<DraconicEvolution:flowGate>, DEC, 1, 64000
 
 recipes.remove(DEC);
 recipes.remove(DAEC);
-mods.draconicplus.FusionCrafting.add(DEC, CA, 0, 25600, [<ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, D, D, D, D]);
-mods.draconicplus.FusionCrafting.add(DAEC, CB, 2, 8192000, [DEC, DEC, DA, DA, DEC, DEC ,DA, DA]);
+mods.draconicplus.FusionCrafting.add(DEC, CB, 1, 256000, [<ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, <ore:blockRedstone>, D, D, D, D]);
+mods.draconicplus.FusionCrafting.add(DAEC, CC, 2, 81920000, [DEC, DEC, DA, DA, DEC, DEC ,DA, DA]);
 recipes.remove(<DraconicEvolution:sunDial>);
 mods.draconicplus.FusionCrafting.add(<DraconicEvolution:sunDial>, <minecraft:dragon_egg>, 2, 81920000, [CC, DA, D, CB, <minecraft:enchanting_table>,  CC, DA, D, CB, D]);
 val drc3 = <DraconicEvolution:reactorCraftingPart:3>;
@@ -66,20 +66,26 @@ recipes.remove(dfc);
 mods.draconicplus.FusionCrafting.add(dfc, CB, 1, 2560000, [DEC,DEC,DEC,DEC, CA, CA, D, D]);
 recipes.remove(dafc);
 mods.draconicplus.FusionCrafting.add(dafc, dfc, 2, 400000000, [DAEC, DAEC, DA, DA, CC, DAEC, DAEC, DA, DA, DA]);
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
-recipes.remove();
-mods.draconicplus.FusionCrafting.add();
+recipes.remove(<DraconicEvolution:energyCrystal>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:energyCrystal>*8, DB, 0 , 256000, [CA, CA, D, D, <ore:gemDiamond>, <ore:gemDiamond>,<ore:gemDiamond>,<ore:gemDiamond>]);
+recipes.remove(<DraconicEvolution:energyCrystal:1>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:energyCrystal:1>*8, DAB, 2, 4096000, [CA, CA, DA, DA, CA, CA, DA, DA]);
+recipes.remove(<DraconicEvolution:energyStorageCore>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:energyStorageCore>, CB, 1, 8000000, [DB, CB, DEC, CB, DB, DB, CB, DEC, CB, DB]);
+recipes.remove(<DraconicEvolution:playerDetectorAdvanced>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:playerDetectorAdvanced>, <DraconicEvolution:playerDetector>, 0, 256000, [<minecraft:skull:1>, D, D, D, <ore:itemCompass>, <ore:gemEnderEye>, D, D, D, <ore:gemEnderEye>]);
 
-
-
+recipes.remove(<DraconicEvolution:draconiumChest>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:draconiumChest>, <IronChest:BlockIronChest:6>, 0, 409600, [<minecraft:furnace>, <minecraft:crafting_table>, CA, D, D, D]);
+recipes.remove(<DraconicEvolution:grinder:3>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:grinder:3>, CA,  0, 2560, [<minecraft:diamond_sword>, <minecraft:diamond_sword>, <minecraft:furnace>, D, <ore:ingotAnyIronOrSteel>, <ore:ingotAnyIronOrSteel>, <ore:ingotAnyIronOrSteel>]);
+recipes.remove(<DraconicEvolution:energyInfuser>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:energyInfuser>, <minecraft:enchanting_table>, 0, 819200, [CA, CA, D, D, <DraconicEvolution:particleGenerator>, CA, D, D]);
+recipes.remove(<DraconicEvolution:weatherController>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:weatherController>, <minecraft:enchanting_table>, 0, 204800, [CA, CA, D, D, <DraconicEvolution:particleGenerator>, <DraconicEvolution:particleGenerator>, D, D]);
+recipes.remove(<DraconicEvolution:particleGenerator>);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:particleGenerator>, CA, 0, 25600, [<ore:blockRedstone>, <ore:stickAnyBlaze>, <ore:blockRedstone>, <ore:stickAnyBlaze>, <ore:blockRedstone>, <ore:stickAnyBlaze>, <ore:blockRedstone>, <ore:stickAnyBlaze>]);
+recipes.remove(<Avaritia:Triple_Craft>);
+mods.draconicplus.FusionCrafting.add(<Avaritia:Triple_Craft>, <Avaritia:Double_Craft>*9, 2, 2560000, [DBP, <ore:blockRedstone>, DBP, <ore:blockRedstone>]);
+//Already removed in Avaritia.zs
+mods.draconicplus.FusionCrafting.add(<Avaritia:Dire_Crafting>, <gregtech:gt.multitileentity:5536>, 3, 2147483647, [<gregtech:gt.multiitem.technological:12009>*10,<gregtech:gt.multitileentity:18200>*4, <Avaritia:Triple_Craft>*9, DAB*8, CC*16, CD*2]);

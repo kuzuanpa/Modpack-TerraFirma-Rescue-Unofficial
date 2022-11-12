@@ -49,9 +49,7 @@ val n = null;
 
 recipes.remove(<Avaritia:Dire_Crafting>);
 MTUtilsGT.removeAllRecipes("gt.recipe.welder",<Avaritia:Dire_Crafting>);
-MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 256, 1000, 0, [10000],
-[<gregtech:gt.multitileentity:5536>,<gregtech:gt.multitileentity:18200>*4,<Avaritia:Triple_Craft>*9,<gregtech:gt.multiitem.technological:12009>*10],
-[<Avaritia:Dire_Crafting>]);
+
 
 recipes.remove(<Avaritia:Resource>);
 MTUtilsGT.removeAllRecipes("gt.recipe.laserengraver",<Avaritia:Resource>);
@@ -113,11 +111,6 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 4096, 400, 0, [10000],
 [null],
 [<Avaritia:Resource:9>]);
 
-recipes.remove(<Avaritia:Dire_Crafting>);
-MTUtilsGT.removeAllRecipes("gt.recipe.welder",<Avaritia:Dire_Crafting>);
-MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 256, 1000, 0, [10000],
-[<gregtech:gt.multitileentity:5536>,<gregtech:gt.multitileentity:18200>*4,<Avaritia:Triple_Craft>*9,<gregtech:gt.multiitem.technological:12009>*10],
-[<Avaritia:Dire_Crafting>]);
 
 recipes.remove(<Avaritia:Resource>);
 MTUtilsGT.removeAllRecipes("gt.recipe.laserengraver",<Avaritia:Resource>);
