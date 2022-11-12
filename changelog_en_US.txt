@@ -1,4 +1,17 @@
-3.7.0.0
+3.7.0.0u#This is Unofficial version, the number is keep in sync with Chinese changelog.
+Mod Changes:
+- Upgraded OpemComputer to OpenComputers-MC1.7.10-1.7.7-3d2bec9
+- Add BetterCrashes-1.7.10-1.1.2 and its depend mod Grimoire-mc1.7.10-3.2.10
+- Add DraconicMinus-1.3
+
+Content Changes:
+- When game crashes, BetterCrash will give out a error screen and will not close your client. You will be send back to mainmenu, and be able rejoin to your world or server faster.
+- Many DraconicEvolution recipes now be rewrite to fusion craft provided by DraconicMinus.Normal mode have almost same recipe as befor,but expert mode will much more expensive.
+- In Except Mode,Ore now have less output, and lava centrifugte will only give out iron, gold and tin.
+- Complete OpenComputer and DraconicEvolution Quests(more than 60 Quests!),still need translate though.
+- modify some quest structure to avoid misunderstand.
+
+3.7.0.0 #This is not Unofficial version,but also not found in Official repo. I(kuzuanpa) didn't know what is these text's meaning.
 Mod Changes:
 - Upgraded gregtech_1.7.10-6.15.08-unofficial
 

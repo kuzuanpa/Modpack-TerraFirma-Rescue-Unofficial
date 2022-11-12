@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="150"></p>
-<h1 align="center">Terrafirma: Rescue<br>
+<h1 align="center">Terrafirma: Rescue Unofficial<br>
 	<a href="https://www.mcbbs.net/thread-977365-1-1.html"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Finfo.teammoeg.com%2Ftfrdownloads.json" alt="MCBBS Downloads"></a>
 	<a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_downloads.svg?badge_style=flat" alt="Curseforge Downloads"></a>
@@ -11,29 +11,29 @@
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a>
 </h1>
 
-- This is a Minecraft 1.7.10 Modpack created by TeamMoeg, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech-6-Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
+- This is a Minecraft 1.7.10 Modpack created by TeamMoeg, Unofficialy modified by kuzuanpa, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech-6-Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
   You start an epic story of rescuing yourself on a miraculous life-sustainable moon - Terrafirma - of a gas giant 68.4 light years from Earth, 
   starting with nothing, gathering natural resources, expanding a base, developing technology, exploring the expanse of the planetary system, 
   and eventually building a warp engine to return to Earth, the sweet cozy home of mankind.
 
 - This Modpack is licensed under the [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE). 
 
-## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Download Latest
+## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Download Latest (Official)
 
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [MCBBS](https://www.mcbbs.net/thread-977365-1-1.html)
-
+- (Unofficial): Still in development.It's not recommanded to download it now,but if you want,please goto release page.
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Join Community
 
 - [Official Wiki](https://wiki.teammoeg.com/)
 - [Official Forum](https://forum.teammoeg.com/)
 - [Official Discord Chat](https://discord.gg/BWn6E94)
-- QQ Group Chat Number: 1046723658
+- QQ Group (Official): 1046723658
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Like Our Modpack?
 - TeamMoeg has developed and will maintain this Modpack for Free, but maintaining the servers cost money. Consider Sponsoring us at [Patreon](https://www.patreon.com/TeamMoeg) or [Aifadian (China)](https://afdian.net/@teammoeg)
-
+- (Unofficial): Teammoeg is busy and didn't maintain this modpack for a  long time. I(kuzuanpa) just maintain it to fix some uncomplete parts and modify some boring period game stage.If you think this pack is fantastic, please consider to support the original author.(If you really want to support me, please click the star,or give some issues or PR. thanks.)
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Support Localization
 
 - Visit the [Localization Port](https://github.com/TerraFirmaRescue/TFR-Localization) of quests for Terrafirma: Rescue. 
