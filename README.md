@@ -71,7 +71,7 @@
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a><br>
 </h1>
 
-- **一个由 TeamMoeg 制作的 Minecraft 1.7.10 整合包，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6非官方版](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) 制作。**
+- **一个由 TeamMoeg 制作，苦钻怕修改的 Minecraft 1.7.10 整合包，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6非官方版](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) 制作。**
 
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 
@@ -79,7 +79,7 @@
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 - [Technic](https://www.technicpack.net/modpack/terra-firma-rescue.1727928)
 - [我的世界中文论坛](https://www.mcbbs.net/thread-977365-1-1.html)
-
+- （非官方版）非官方版仍在开发中，不建议此时下载，如果你确实想试试，请前往releaes页面
 ## 加入社区
 
 - [官方WIKI](https://wiki.teammoeg.com/)
@@ -89,6 +89,7 @@
 
 ## 支持我们
 - 我们完全免费提供群峦：救援整合包，但是维护服务器和下载站需要资金，请考虑在 [Patreon](https://www.patreon.com/TeamMoeg) 或者 [爱发电](https://afdian.net/@teammoeg) 赞助我们！
+- (非官方版)Teammoeg很忙且很久未维护此整合包，苦钻怕维护非官方版仅仅修复了少量bug和添加了少量玩法，以避免游戏中某些时期过于重复的工作.如果你认为这个整合包很优质，那是Teammoeg的功劳，你更应该捐助他们.如果你确实认为非官方版做出了很多有益的更改，请点击上方星星或提交issue与PR.
 
 ## 加入开发，贡献一份力
 
