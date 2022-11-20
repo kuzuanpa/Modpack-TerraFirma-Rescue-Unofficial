@@ -1,3 +1,12 @@
+3.7.0.1u
+Bug Fix:
+- Fixed a conflict of MT script filename caused unable to process the TFC ores
+- Notice: Avoid use same name for any MT script filename in any dir.
+
+Content Changes:
+ - More reality Lava centrifuge (now output oxides instead of pure elemental)
+ - Add some quests distributed in many stages
+
 3.7.0.0u#This is Unofficial version, the number is keep in sync with Chinese changelog.
 Mod Changes:
 - Upgraded OpemComputer to OpenComputers-MC1.7.10-1.7.7-3d2bec9
@@ -7,7 +16,7 @@ Mod Changes:
 Content Changes:
 - When game crashes, BetterCrash will give out a error screen and will not close your client. You will be send back to mainmenu, and be able rejoin to your world or server faster.
 - Many DraconicEvolution recipes now be rewrite to fusion craft provided by DraconicMinus.Normal mode have almost same recipe as befor,but expert mode will much more expensive.
-- In Except Mode,Ore now have less output, and lava centrifugte will only give out iron, gold and tin.
+- In Except Mode,Ore now have less output, and lava centrifuge will only give out iron, gold and tin.
 - Complete OpenComputer and DraconicEvolution Quests(more than 60 Quests!),still need translate though.
 - modify some quest structure to avoid misunderstand.
 
