@@ -48,3 +48,8 @@ val fw = <liquid:freshwater>;
 
 //Rubber tree seedlings
 recipes.addShapeless(<gregtech:gt.block.sapling>, [<tfctech:HeveaS>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 80, 20,[6500,6500,2000,400],
+[null],
+[<liquid:ic2pahoehoelava>*100],
+[null],
+[<gregtech:gt.meta.dustTiny:8505>*2,<gregtech:gt.meta.dustTiny:8502>,<gregtech:gt.meta.dustTiny:8214>*2,<gregtech:gt.meta.dustTiny:9164>]);
