@@ -140,8 +140,8 @@ MTUtilsGT.addCustomRecipe("gt.recipe.lightning", false, 2048, 6000, 0, [10000],
 [<minecraft:skull:1>]);
 
 // nether star
-MTUtilsGT.removeAllRecipes("gt.recipe.ionizer",<minecraft:nether_star>);
-MTUtilsGT.addCustomRecipe("gt.recipe.ionizer", false, 4096, 8000, 0, [10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.ionizer",<minecraft:nether_star>);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.ionizer", false, 4096, 8000, 0, [10000],
 [<minecraft:skull:1>],
 [<liquid:soulsandoil>*500],
 [null],
@@ -179,7 +179,7 @@ recipes.addShapeless(<minecraft:wooden_door>,[<ore:tfcDoor>]);
 /*---Doors ends--*/
 
 // Ender Pearl
-MTUtilsGT.addCustomRecipe("gt.recipe.fluidsolidifier", false, 128, 100, 0, [10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.fluidsolidifier", false, 128, 100, 0, [10000],
 [<gregtech:gt.multiitem.technological:10006>*0],
 [<liquid:molten.enderpearl>*144],
 [null],

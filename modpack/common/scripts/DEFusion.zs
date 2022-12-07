@@ -39,7 +39,7 @@ recipes.remove(<DraconicEvolution:reactorStabilizer>);
 mods.draconicplus.FusionCrafting.add(<DraconicEvolution:reactorStabilizer>, <DraconicEvolution:reactorCraftingPart>, 3, 102400000, [<gregtech:gt.multitileentity:18200>, <gregtech:gt.multitileentity:18201>,<gregtech:gt.multitileentity:18202>, <DraconicEvolution:draconiumEnergyCore:1>, CC, CD, <DraconicEvolution:reactorCraftingPart:3>, <DraconicEvolution:reactorCraftingPart:4>, DAB, DAB]);
 
 recipes.remove(<DraconicEvolution:reactorCore>);
-mods.draconicplus.FusionCrafting.add(<DraconicEvolution:reactorCore>, <gregtech:gt.multiitem.physics:1009>, 3, 5120000, [CS, DA, CS, DA, CS, DA, CS, DA]);
+mods.draconicplus.FusionCrafting.add(<DraconicEvolution:reactorCore>, <ktfruaddon:ktfru.item.particle:1009>, 3, 5120000, [CS, DA, CS, DA, CS, DA, CS, DA]);
 
 //Liquid flow gate
 recipes.remove(<DraconicEvolution:flowGate:6>);

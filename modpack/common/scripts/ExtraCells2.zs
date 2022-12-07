@@ -84,29 +84,29 @@ recipes.remove(<extracells:storage.component:5>);
 recipes.remove(<extracells:storage.component:6>);
 recipes.remove(<extracells:storage.component:7>);
 
-MTUtilsGT.removeAllRecipes("gt.recipe.assembler",f1k);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 1200, 100, 0, [10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
 [<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<moegadd:PatchCapacitor>*2],
 [<liquid:ic2coolant>*144],
 [n],
 [f1k]);
 
-MTUtilsGT.removeAllRecipes("gt.recipe.assembler",f4k);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 1200, 100, 0, [10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f4k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
 [<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<moegadd:PatchCapacitor>*8],
 [<liquid:ic2coolant>*144],
 [n],
 [f4k]);
 
-MTUtilsGT.removeAllRecipes("gt.recipe.assembler",f16k);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 1200, 100, 0, [10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f16k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
 [<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<moegadd:PatchCapacitor>*32],
 [<liquid:ic2coolant>*144],
 [n],
 [f16k]);
 
-MTUtilsGT.removeAllRecipes("gt.recipe.assembler",f64k);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 1200, 100, 0, [10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f64k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
 [<gregapi:gt.integrated_circuit:4>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<gregtech:gt.meta.wireFine:8660>*64,<moegadd:PatchCapacitor>*64],
 [<liquid:ic2coolant>*144],
 [n],

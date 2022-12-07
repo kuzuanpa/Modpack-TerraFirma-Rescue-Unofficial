@@ -206,7 +206,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 16 ,0,[10000],
 [<Forestry:fertilizerCompound>*16]);
 
 // Silk
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 32, 100 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 32, 100 ,0,[10000],
 [<terrafirmacraft:item.WoolYarn>*6],
 [<liquid:seedoil>*100],
 [n],

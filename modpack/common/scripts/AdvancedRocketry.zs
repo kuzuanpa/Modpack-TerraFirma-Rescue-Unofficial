@@ -107,8 +107,8 @@ MTUtilsGT.addCustomRecipe("gt.recipe.drying", false, 16, 600 ,0,[10000],
 
 // Rocket Builder
 recipes.remove(<advancedRocketry:rocketBuilder>);
-MTUtilsGT.removeAllRecipes("gt.recipe.assembler",<advancedRocketry:rocketBuilder>);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 256, 2000 ,0,[10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<advancedRocketry:rocketBuilder>);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 2000 ,0,[10000],
 [<gregtech:gt.meta.machine.double:8794>, <gregtech:gt.multiitem.technological:30306>*8, <gregtech:gt.multiitem.technological:12084>*3,
 <gregtech:gt.multiitem.technological:12044>,<gregtech:gt.multitileentity:29016>*2,<gregtech:gt.multiitem.technological:11008>*4],
 [<liquid:molten.tin>*1000],
@@ -117,7 +117,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 256, 2000 ,0,[10000],
 
 // Space elevator
 recipes.remove(<advancedRocketry:tile.spaceElevatorController>);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 256, 4000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 4000 ,0,[10000],
 [<gregtech:gt.meta.machine.double:220>, <gregtech:gt.multiitem.technological:30502>*2, <gregtech:gt.meta.chain:9175>*64, <gregtech:gt.meta.chain:9175>*64,
 <minecraft:minecart>, <gregtech:gt.multitileentity:10050>*16, <gregtech:gt.multitileentity:29950>*64],
 [<liquid:molten.solderingalloy>*3000],
@@ -132,31 +132,31 @@ recipes.addShaped(<libVulpes:battery>,
 [<minecraft:redstone>,<gregtech:gt.meta.ring:8217>,<minecraft:redstone>]]);
 
 // AR Coils
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 256 ,0,[10000],
 [<gregtech:gt.multitileentity:29403>*4],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:libVulpescoil0:10>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 256 ,0,[10000],
 [<gregtech:gt.multitileentity:28353>*4],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:libVulpescoil0:4>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 256 ,0,[10000],
 [<gregtech:gt.multitileentity:29003>*4],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:libVulpescoil0:9>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 256 ,0,[10000],
 [<gregtech:gt.meta.stickLong:220>*4],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:libVulpescoil0:7>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 256 ,0,[10000],
 [<gregtech:gt.multitileentity:28703>*4],
 [<liquid:molten.tin>*20],
 [null],
@@ -164,25 +164,25 @@ MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
 
 // AR Motors GT Ass
 recipes.remove(<libVulpes:tile.motor>);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 16, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 256 ,0,[10000],
 [<gregtech:gt.meta.plateCurved:8651>, <gregtech:gt.meta.stick:8645>, <gregtech:gt.multitileentity:28350>, <gregtech:gt.meta.gearGtSmall:8651>, <gregtech:gt.meta.gearGt:8651>],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:tile.motor>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 32, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 32, 256 ,0,[10000],
 [<gregtech:gt.multiitem.technological:12002>,<gregtech:gt.meta.gearGtSmall:130>, <gregtech:gt.meta.gearGt:130>],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:tile.advancedMotor>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 64, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 256 ,0,[10000],
 [<gregtech:gt.multiitem.technological:12003>,<gregtech:gt.meta.gearGtSmall:8636>,<gregtech:gt.meta.gearGt:8636>],
 [<liquid:molten.tin>*20],
 [null],
 [<libVulpes:tile.enhancedMotor>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 128, 256 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 128, 256 ,0,[10000],
 [<gregtech:gt.multiitem.technological:12004>, <gregtech:gt.meta.gearGtSmall:240>, <gregtech:gt.meta.gearGt:240>],
 [<liquid:molten.tin>*20],
 [null],
@@ -321,7 +321,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 1000 ,0,[10000],
 
 // Guidance computer
 recipes.remove(<advancedRocketry:tile.guidanceComputer>);
-MTUtilsGT.addCustomRecipe("gt.recipe.assembler", false, 64, 1000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
 [<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<moegadd:Mainframe1>,<gregtech:gt.multiitem.technological:30306>],
 [<liquid:molten.tin>*144],
 [null],

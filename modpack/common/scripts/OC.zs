@@ -53,7 +53,7 @@ recipes.remove(<OpenComputers:item:32>);
 recipes.addShapeless(<OpenComputers:item:32>,[<gregtech:gt.multiitem.technological:30018>,<gregtech:gt.multiitem.technological:30018>,<gregtech:gt.multiitem.technological:30018>]);
 
 // Remove bugged
-MTUtilsGT.removeAllRecipes("gt.recipe.assembler",<gregtech:gt.multiitem.technological:30301>);
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multiitem.technological:30301>);
 
 // Transistor
 recipes.remove(<OpenComputers:item:23>);

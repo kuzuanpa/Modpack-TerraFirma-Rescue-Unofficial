@@ -168,11 +168,11 @@ mods.avaritia.ExtremeCrafting.remove(<Avaritia:Resource:5>);
 mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Resource:5>,
 [[n,n,n,n,n,n,n,n,n],
   [n,n,n,n,n,n,n,n,n],
-  [n,n,MC7,<gregtech:gt.multiitem.physics:1004>,<gregtech:gt.multiitem.physics:1002>,<gregtech:gt.multiitem.physics:1003>,MC7,n,n],
+  [n,n,MC7,<ktfruaddon:ktfru.item.particle:1004>,<ktfruaddon:ktfru.item.particle:1002>,<ktfruaddon:ktfru.item.particle:1003>,MC7,n,n],
   [n,n,PI, <Avaritia:Singularity:1>, <Avaritia:Singularity>, <Avaritia:Singularity:3>,PI,n,n],
   [n,n,PI, <Avaritia:Singularity:5>,<DraconicEvolution:chaosFragment:2>,<Avaritia:Singularity:6>,PI,n,n],
   [n,n,PI, <Avaritia:Singularity:7>, <Avaritia:Singularity:8>,<Avaritia:Singularity:9>,PI,n,n],
-  [n,n,MC7,<gregtech:gt.multiitem.physics:1005>,<gregtech:gt.multiitem.physics:1000>,<gregtech:gt.multiitem.physics:1001>,MC7,n,n],
+  [n,n,MC7,<ktfruaddon:ktfru.item.particle:1005>,<ktfruaddon:ktfru.item.particle:1000>,<ktfruaddon:ktfru.item.particle:1001>,MC7,n,n],
   [n,n,n,n,n,n,n,n,n],
   [n,n,n,n,n,n,n,n,n]]);
 
@@ -236,14 +236,14 @@ var if11 = <Avaritia:Resource:6>;
 var ifp1 = <gregtech:gt.meta.plate:8801>;
 var sjjz = <Avaritia:Crystal_Matrix>;
 var puvm = <gregtech:gt.multiitem.technological:12009>;
-var zzsg = <gregtech:gt.meta.gearGt:3800>;
-var szsg = <gregtech:gt.meta.gearGtSmall:3800>;
-var bioc = <moegadd:BioCircuit>;
-var zzsr = <gregtech:gt.meta.rotor:3800>;
+var zzsg = <gregtech:gt.meta.gearGt:8800>;
+var szsg = <gregtech:gt.meta.gearGtSmall:8800>;
+var bioc = <ktfruaddon:ktfru.item.it:9999>;
+var zzsr = <gregtech:gt.meta.rotor:8800>;
 var supc = <gregtech:gt.multitileentity:29953>;
 var hjgq = <gregtech:gt.multiitem.technological:11003>;
 var nlsj = <gregtech:gt.multitileentity:14505>.withTag({"gt.energy": 3276800000 as long});
-var ntqp = <gregtech:gt.meta.toolHeadBuzzSaw:3800>;
+var ntqp = <gregtech:gt.meta.toolHeadBuzzSaw:8800>;
 var gxxx = <gregtech:gt.multitileentity:24900>;
 var ivbt = <gregtech:gt.multitileentity:14045>.withTag({"gt.energy": 1048576000});
 var deax = <DraconicEvolution:draconicAxe>;
@@ -324,7 +324,7 @@ var zzcp = <gregtech:gt.meta.plateCurved:8800>;
 var zzpl = <gregtech:gt.meta.plate:8800>;
 var tfk1 = <gregtech:gt.multiitem.technological:1022>;
 var ency = <DraconicEvolution:energyCrystal:5>;
-var higg = <gregtech:gt.multiitem.physics:1008>;
+var higg = <ktfruaddon:ktfru.item.particle:1008>;
 var jgjs = <gregtech:gt.multitileentity:10155>;
 
 mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Helm>);
@@ -343,7 +343,7 @@ var qunc = <IC2:itemArmorQuantumChestplate:27>;
 var unic = <gregtech:gt.armor.hazmat.universal.chest>;
 var mk11 = <gregtech:gt.multitileentity:17198>;
 var cdxq = <gregtech:gt.multitileentity:18046>;
-var ntcp = <gregtech:gt.meta.plateCurved:3800>;
+var ntcp = <gregtech:gt.meta.plateCurved:8800>;
 
 mods.avaritia.ExtremeCrafting.remove(<Avaritia:Infinity_Chest>);
 mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Infinity_Chest>,
