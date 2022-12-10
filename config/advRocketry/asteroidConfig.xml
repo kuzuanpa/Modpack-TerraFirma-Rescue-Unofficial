@@ -4,7 +4,7 @@
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="25" />
 	</asteroid>
-	<asteroid name="锡福里星" distance="10" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.2" richnessVariability="0.14">
+	<asteroid name="锡弗里星" distance="10" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.2" richnessVariability="0.14">
 		<ore itemStack="libVulpes:libSuppressor0 5" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>

@@ -50,7 +50,7 @@ val fw = <liquid:freshwater>;
 //TFC heating system
 //============================
 
-val uk = <terrafirmacraft:item.Unknown Ingot>;
+val uk = ;
 
 mods.Terrafirmacraft.ItemHeat.addRecipe(uk, <gregtech:gt.meta.plate:8660> ,800, 0.35);
 
