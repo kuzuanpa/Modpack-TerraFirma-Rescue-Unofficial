@@ -72,17 +72,31 @@ val calc = <appliedenergistics2:item.ItemMultiMaterial:24>;
 val certus = <appliedenergistics2:item.ItemMultiMaterial>;
 val ecertus = <appliedenergistics2:item.ItemMultiMaterial:1>;
 val hcertus = <appliedenergistics2:item.ItemMultiMaterial:10>;
-val f1k   = <extracells:storage.component:4>;
-val f4k   = <extracells:storage.component:5>;
-val f16k  = <extracells:storage.component:6>;
-val f64k  = <extracells:storage.component:7>;
+val f1k   = <ae2fc:fluidpart:0>;
+val f4k   = <ae2fc:fluidpart:1>;
+val f16k  = <ae2fc:fluidpart:2>;
+val f64k  = <ae2fc:fluidpart:3>;
 val pump = <gregtech:gt.multiitem.technological:12024>;
-
-// ME Fluid Storage Units
+//Consider use ae2fc
+recipes.remove(<extracells:storage.fluid:0>);
+recipes.remove(<extracells:storage.fluid:1>);
+recipes.remove(<extracells:storage.fluid:2>);
+recipes.remove(<extracells:storage.fluid:3>);
+recipes.remove(<extracells:storage.fluid:4>);
+recipes.remove(<extracells:storage.fluid:5>);
+recipes.remove(<extracells:storage.fluid:6>);
 recipes.remove(<extracells:storage.component:4>);
 recipes.remove(<extracells:storage.component:5>);
 recipes.remove(<extracells:storage.component:6>);
 recipes.remove(<extracells:storage.component:7>);
+recipes.remove(<extracells:storage.component:8>);
+recipes.remove(<extracells:storage.component:9>);
+recipes.remove(<extracells:storage.component:10>);
+// ME Fluid Storage Units
+recipes.remove(<ae2fc:fluidpart:0>);
+recipes.remove(<ae2fc:fluidpart:1>);
+recipes.remove(<ae2fc:fluidpart:2>);
+recipes.remove(<ae2fc:fluidpart:3>);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1k);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
@@ -128,21 +142,24 @@ recipes.addShaped(<extracells:storage.casing>,
 
 // Interface
 recipes.remove(<extracells:ecbaseblock>);
-recipes.addShaped(<extracells:ecbaseblock>,
-[[null,pump,null],
-[<appliedenergistics2:item.ItemMultiMaterial:43>,<gregtech:gt.meta.machine:240>,<appliedenergistics2:item.ItemMultiMaterial:44>],
-[null,pump,null]]);
+recipes.remove(<ae2fc:fluid_interface>);
+recipes.addShaped(<ae2fc:fluid_interface>,
+[[<ore:ingotIron>,pump,<ore:ingotIron>],
+[<ore:blockGlass>,<appliedenergistics2:tile.BlockInterface>,<ore:blockGlass>],
+[<ore:ingotIron>,pump,<ore:ingotIron>]]);
 
 // Output Bus
 recipes.remove(<extracells:part.base>);
-recipes.addShaped(<extracells:part.base>,
+recipes.remove(<ae2fc:part_fluid_export>);
+recipes.addShaped(<ae2fc:part_fluid_export>,
 [[<appliedenergistics2:item.ItemMultiMaterial:43>],
 [pump],
 [<gregtech:gt.meta.plate:220>]]);
 
 // Input Bus
 recipes.remove(<extracells:part.base:1>);
-recipes.addShaped(<extracells:part.base:1>,
+recipes.remove(<ae2fc:part_fluid_import>>);
+recipes.addShaped(<ae2fc:part_fluid_import>>,
 [[<appliedenergistics2:item.ItemMultiMaterial:44>],
 [pump],
 [<gregtech:gt.meta.plate:220>]]);

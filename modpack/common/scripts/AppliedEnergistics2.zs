@@ -514,21 +514,4 @@ recipes.addShaped(<appliedenergistics2:item.ItemMultiPart:300>,
 [[<appliedenergistics2:item.ItemMultiMaterial:8>,<appliedenergistics2:item.ItemMultiMaterial:44>,<appliedenergistics2:item.ItemMultiMaterial:8>],
 [<gregtech:gt.meta.plate:220>,<gregtech:gt.meta.plate:220>,<gregtech:gt.meta.plate:220>],
 [n,n,n]]);
-//ae2fc
-
-//Consider use extracells
-recipes.remove(<ae2fc:fluid_part:0>);
-recipes.remove(<ae2fc:fluid_part:1>);
-recipes.remove(<ae2fc:fluid_part:2>);
-recipes.remove(<ae2fc:fluid_part:3>);
-recipes.remove(<ae2fc:fluid_part:4>);
-recipes.remove(<ae2fc:fluid_part:5>);
-recipes.remove(<ae2fc:fluid_part:6>);
-recipes.remove(<ae2fc:fluid_storage1>);
-recipes.remove(<ae2fc:fluid_storage4>);
-recipes.remove(<ae2fc:fluid_storage16>);
-recipes.remove(<ae2fc:fluid_storage64>);
-recipes.remove(<ae2fc:fluid_storage256>);
-recipes.remove(<ae2fc:fluid_storage1024>);
-recipes.remove(<ae2fc:fluid_storage4096>);
 
