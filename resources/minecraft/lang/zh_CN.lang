@@ -71,7 +71,7 @@ tfr.quest34.desc=§2§1§1你的第一台用电器，一切的开始
 tfr.quest35.name=焙烧炉
 tfr.quest35.desc=焙烧炉可以处理研磨机处理后的矿物粉，这些矿物大多是硫化合物，所以你可以得到二氧化硫，用于制作硫酸。%n不过，焙烧炉需要空气或者氧气运行。你需要制作一个通风口贴在他的流体输入口获得空气。
 tfr.quest36.name=烧快点2
-tfr.quest36.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest37.name=金属烧烤
 tfr.quest37.desc=在地面上连续右键8次放置8个木炭或直接放置一个煤炭块，除顶面外都与石质方块(包括但不限于圆石、石头、石砖、光滑石头)接触，再在顶面使用起火器或群峦打火石点燃即可生成一个锻造炉方块。%n%n锻造炉中显示煤炭图标的地方可以放煤炭或木炭，上面放可加热的金属。%n%n将金属材料放进锻造炉中即可加热金属，随着温度的升高，金属的颜色会发生变化(你看不出来，但是物品下面有显示)，同时物品会先变成"可加工"状态，然后变成"可焊接"状态，再然后变成"危险"状态。%n%n§c当金属变为"危险"状态的时候要小心，因为继续加热可能使你的金属熔化。%n%n金属熔化时，若右侧的五个栏中有锭模具，熔化的金属将进入模具中，若没有模具，金属直接消失。
 tfr.quest38.name=基础电子电路(焊接完成)
@@ -107,7 +107,7 @@ tfr.quest53.desc=盐酸的获取不算难，你只需要将硫酸和盐/岩盐�
 tfr.quest54.name=氢氟酸
 tfr.quest54.desc=氟化氢的获取有些难度，你需要将硫酸和氟石搅拌就可以了。以后你也可以通过电解的方式获取氟气。%n%n氟石的获取方式有很多，最方便的应该就是洗锡石矿了。%n%n提交任务你需要制作一个蓄水槽，蓄水槽贴在机器的输出口就可以得到液体。蓄水槽也可以放在机器的自动输入口输入流体，所以不用担心浪费。这里你需要提交8000mb的液体。如果做多了，可以把两个以上储罐相邻摆放就可以均分液体
 tfr.quest55.name=连接线缆
-tfr.quest55.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest56.name=搅拌机
 tfr.quest56.desc=搅拌机是生产各种酸性溶液，如硫酸和盐酸，以及很多金属及其原料必备的机器。必做。%n生产铝你至少需要三台搅拌机用来生产六氟硅酸，氟化铝，冰晶石（这是后话了）。
 tfr.quest57.name=危险的化学实验
@@ -129,19 +129,18 @@ tfr.quest64.desc=恭喜你，可以制作人生中第一个电路板了！%n低�
 tfr.quest65.name=铬坩埚
 tfr.quest65.desc=前期通过铬铁矿洗矿可以获得铬%n%n比陶瓷坩埚熔点高一些，可用于炼铱
 tfr.quest66.name=铱坩埚
-tfr.quest66.desc=Nothing is here because nothing is needed to be said.
 tfr.quest67.name=大蒸汽锅炉2
 tfr.quest67.desc=%n蒸汽涡轮个人不推荐使用，除非你已经能够达到能制造核裂变的能力。%n%n
 tfr.quest68.name=精准控制，还怕炸锅？
 tfr.quest68.desc=你可以将这个温度传感器放在坩锅的侧面。它会实时显示坩锅的温度。你可以做一个螺丝刀右键调整它的模式：比如，>2000K 表示在温度大于2000K的时候发出红石信号。%n%n用红石或者红色合金线缆都可以传输它发出的红石信号。将其与活塞或其他装置相连，就可以堵住液体燃烧室/气体燃烧室的正面，瞬间熄灭燃烧室。%n%n注意：固体燃烧室在堵住前方后依旧会燃烧完堵住它之前正在燃烧的燃料。所以，在你做出液体/气体燃料之前，你可以尝试用小撮的固体燃料。%n%n§c朱砂由GT破碎机破碎群峦朱砂得到.%n%n更详细信息推荐看MC百科制造教程.
 tfr.quest69.name=结晶
-tfr.quest69.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest70.name=圆锯
 tfr.quest70.desc=功能很多，包括切宝石，单晶硅，也可以增产木材。
 tfr.quest71.name=塑料
 tfr.quest71.desc=好玩意，可以在压模机做成32B容量的储罐，可以用来制造低级的电路基板，也可以制作管道等物流物品。
 tfr.quest72.name=基础电路板(等待焊接)
-tfr.quest72.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest73.name=结晶硅
 tfr.quest73.desc=最基础的电路元件之一，制作更高级的电路板，也可以制作低级电路板
 tfr.quest74.name=全反射(TIR)
@@ -229,9 +228,9 @@ tfr.quest114.desc=需要一个 2xMV / 8xLV 级别半导体冷却机输入CU运�
 tfr.quest115.name=绿宝石晶体电路
 tfr.quest115.desc=数据存储
 tfr.quest116.name=蓝宝石晶体电路
-tfr.quest116.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest117.name=钻石晶体电路
-tfr.quest117.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest118.name=随身工作台
 tfr.quest118.desc=NEI 搜索 3x3背包工作台升级。%n你可以在制作它之后直接将背包内的工作台升级为3x3网格.%n死亡或者跨纬度需要小退才能再次生效.
 tfr.quest119.name=人造的神话
@@ -281,13 +280,13 @@ tfr.quest140.desc=格雷的小型机器里最难做的应该就是纳米制造�
 tfr.quest141.name=剥皮机
 tfr.quest141.desc=没有什么卵用的机器，能获得树皮。
 tfr.quest142.name=更大的破碎
-tfr.quest142.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest143.name=大蒸汽锅炉1
 tfr.quest143.desc=%n蒸汽涡轮个人不推荐使用，除非你已经能够达到能制造核裂变的能力。%n%n
 tfr.quest144.name=燃气发电 前期实惠
 tfr.quest144.desc=%n燃气轮机在前期非常实惠.%n%n§c在考虑建造燃气轮机之前请勘测家底下是否有天然气泉,没有就请放弃吧.
 tfr.quest145.name=更快的研磨
-tfr.quest145.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest146.name=大蒸汽锅炉3
 tfr.quest146.desc=%n%n3台大钨钢锅炉能让一个涡轮满载达到惊人的接近3W发电。%n%n极其推荐配合核裂变使用。
 tfr.quest147.name=高级燃气发电 
@@ -459,17 +458,17 @@ tfr.quest241.desc=用来给石化产物脱硫。比用搅拌机的效率高一�
 tfr.quest242.name=裂化塔
 tfr.quest242.desc=用于裂化石化产物，将高级烷烃裂化为更多的低级烷烃。
 tfr.quest243.name=环氧树脂基板
-tfr.quest243.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest244.name=纤维强化基板
-tfr.quest244.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest245.name=CPU
 tfr.quest245.desc=电脑主机的基本元件之一。%n上一级(频率低)的2个核=下一级(频率高)的一个核。
 tfr.quest246.name=内存颗粒（128M）
-tfr.quest246.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest247.name=集成电路(256MHz)
-tfr.quest247.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest248.name=高阶电脑主板
-tfr.quest248.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest249.name=硅原子建筑师
 tfr.quest249.desc=最重要的两种掩模板，他们不被消耗。
 tfr.quest250.name=聚氯乙烯
@@ -477,11 +476,11 @@ tfr.quest250.desc=聚氯乙烯有聚乙烯所没有的一些性能，用于绝�
 tfr.quest251.name=工业制造橡胶
 tfr.quest251.desc=工业制造橡胶。做出产线即可大量生产，没有产线也比割橡胶树快。
 tfr.quest252.name=高级电子电路
-tfr.quest252.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest253.name=高新科技电子电路
-tfr.quest253.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest254.name=究极电子电路
-tfr.quest254.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest255.name=RAM
 tfr.quest255.desc=随机存取存储器是电脑主机的基本配件之一。%n上一级(容量低)的两条=下一级(容量高)的一条。
 tfr.quest256.name=主板
@@ -571,7 +570,7 @@ tfr.quest296.name=红钢砧
 tfr.quest296.desc=锻造所有熔点2100K以下金属和一些高熔点合金，包括蓝钢。
 tfr.quest297.name=红色希望
 tfr.quest297.desc=这种合金难以获取，但是却有着极高的耐久和硬度，以及出色的抗压力。%n%n蓝钢和红钢拥有相同的等级和相似的用途，你只需要根据你的发现的矿物制作任意一种即可继续游玩。
-tfr.quest298.name=Nothing is here because nothing is needed to be said.
+
 tfr.quest298.desc=野生作物：在野生环境中，作物会随机产生，每一种类型的作物都包含在8x8区块。这意味着玩家需要探索相当的距离来收集每一种作物。野生作物只在春季和夏末之间产生，而且每年都有机会再生。%n%n%n%n种子：收获一种作物将会至少掉下一粒种子，同时增加玩家的稼穑技巧。玩家的稼穑技巧越高，越有可能获得第二个种子，从而推进农场的扩张。%n%n%n作物类型：种植作物模拟真实的生命，在它们能收获之前生长多长时间。但是要注意的是，这些值已经被缩放到符合TFC年份的长度，默认情况下为96天。%n%n%n%n使用：收获的大部分产品都可以被玩家直接吃掉，这使它们成为可再生的食物来源。%n%n%n%n下列谷物产品可用于饲养动物：大麦粒，大米粒，黑麦粒，小麦粒，燕麦粒
 tfr.quest299.name=自动化农场
 tfr.quest299.desc=首先，将这36个方块组成一个3（宽）x3（长）x4（高）的长方体。%n%n在这个长方体周围铺满最远7格的石砖（原版）%n%n从农场水闸输入水。%n%n从农场出货箱或者直接打开GUI输入肥料，泥土，和树苗或者作物种子（原版）。%n%n从农场齿轮箱输入RF能量。%n%n从农场出货箱用漏斗或者其他方式输出产出的物品和沙子。如果被堵塞会停止工作。%n%n注意保证农场顶部不要被遮挡。
@@ -582,7 +581,7 @@ tfr.quest301.desc=黄铜管道是前期容易获得的物品管道之一，他�
 tfr.quest302.name=防腐木管道
 tfr.quest302.desc=防腐木管道似乎比木管道好一些，在流量上
 tfr.quest303.name=低级物品抽取
-tfr.quest303.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest304.name=油浸处理
 tfr.quest304.desc=这特么就是个奇迹，你居然能放27个物品，感动吗？
 tfr.quest305.name=我要坏掉了
@@ -644,9 +643,9 @@ tfr.quest332.desc=你需要制作鱼竿来钓鱼，鱼竿需要线做成。钓�
 tfr.quest333.name=线
 tfr.quest333.desc=重要的资源，可以用黄麻纤维或者羊毛纱制作
 tfr.quest334.name=一切就绪
-tfr.quest334.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest335.name=准备好氧气！
-tfr.quest335.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest336.name=液体燃料火箭！！！
 tfr.quest336.desc=十足的推力才能将你送上天空
 tfr.quest337.name=抵达Duck Egg B
@@ -664,7 +663,7 @@ tfr.quest342.desc=生产锡细枝
 tfr.quest343.name=蚀刻模板
 tfr.quest343.desc=陨石不再生成：你只能通过蚀刻铁块制作他们。
 tfr.quest344.name=铅叶子
-tfr.quest344.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest345.name=钻石草
 tfr.quest345.desc=生产钻石粉
 tfr.quest346.name=金叶草
@@ -708,7 +707,7 @@ tfr.quest364.desc=性能强大的处理器核心，用于制作聚变反应堆�
 tfr.quest365.name=硬件升级
 tfr.quest365.desc=主频不够，核心来凑
 tfr.quest366.name=跟进一步
-tfr.quest366.desc=Nothing is here because nothing is needed to be said.
+
 #tfr.quest367.name=开始做大事
 #tfr.quest367.desc=通过跃迁引擎前往德拉科纳星，那里的地下深处有龙矿的存在。
 tfr.quest368.name=抵达HD
@@ -814,33 +813,33 @@ tfr.quest417.desc=TFR中的背景音乐列表：%n%nRivellon - 神界原罪2-复
 tfr.quest418.name=纯净铬矿
 tfr.quest418.desc=前期通过铬铁矿洗矿可以获得铬，你也可以把粉碎铬铁矿扔进装有水的炼药锅
 tfr.quest419.name=结晶+
-tfr.quest419.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest420.name=青铜锭
-tfr.quest420.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest421.name=锻铁
-tfr.quest421.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest422.name=锡
-tfr.quest422.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest423.name=银
-tfr.quest423.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest424.name=金
-tfr.quest424.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest425.name=铜
-tfr.quest425.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest426.name=钨
-tfr.quest426.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest427.name=钛
-tfr.quest427.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest428.name=铝
-tfr.quest428.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest429.name=购买蟹黄堡
 tfr.quest429.desc=来自蟹老板的独家配方.%n好吃又实惠.
 tfr.quest430.name=镍
-tfr.quest430.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest431.name=铬
-tfr.quest431.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest432.name=锰
-tfr.quest432.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest433.name=钢材交易
 tfr.quest433.desc=我最近需要很多钢材,你能完成我的订单么?
 tfr.quest434.name=§c§a§b购买耐用电钻
@@ -876,7 +875,7 @@ tfr.quest448.desc=更大的存储空间
 tfr.quest449.name=压缩箱子
 tfr.quest449.desc=巨大的存储空间，且每个格子能堆叠更多物品。
 tfr.quest450.name=虚空箱子
-tfr.quest450.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest451.name=金属箱子
 tfr.quest451.desc=把金属锭压缩成块
 tfr.quest452.name=黑曜石箱子
@@ -942,21 +941,21 @@ tfr.quest481.desc=击杀一些熊
 tfr.quest482.name=北极熊猎人T2
 tfr.quest482.desc=击杀一些北极熊
 tfr.quest483.name=击杀凋零T2
-tfr.quest483.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest484.name=比熊还强壮
-tfr.quest484.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest485.name=怪物猎人
-tfr.quest485.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest486.name=渐入佳境
-tfr.quest486.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest487.name=合格的荒野猎人
-tfr.quest487.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest488.name=击杀凋零T3
-tfr.quest488.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest489.name=击杀凋零T4
-tfr.quest489.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest490.name=击杀凋零T5
-tfr.quest490.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest491.name=丧尸猎人T3
 tfr.quest491.desc=击杀一些僵尸，我会给你一把村好剑
 tfr.quest492.name=骷髅猎人T3
@@ -1000,19 +999,19 @@ tfr.quest510.desc=击杀一些熊
 tfr.quest511.name=北极熊猎人T5
 tfr.quest511.desc=击杀一些北极熊
 tfr.quest512.name=贝尔-格里尔斯
-tfr.quest512.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest513.name=贝尔-格里尔斯都怕
-tfr.quest513.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest514.name=食物链顶端的人
-tfr.quest514.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest515.name=以一敌百
-tfr.quest515.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest516.name=一骑当千
-tfr.quest516.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest517.name=万马齐喑
-tfr.quest517.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest518.name=达成成就:绞肉机
-tfr.quest518.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest519.name=混沌领主
 tfr.quest519.desc=(目前不在世界生成，制作中)
 tfr.quest520.name=原版食物无法食用
@@ -1082,7 +1081,7 @@ tfr.quest551.desc=等同于抽屉模组的抽屉管理器，但是不能和物�
 tfr.quest552.name=Bumble!
 tfr.quest552.desc=开启这一章节，你需要一个捕蜂网
 tfr.quest553.name=Bumble!!!
-tfr.quest553.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest554.name=守卫村庄
 tfr.quest554.desc=我们的村庄被盯上了！帮我们制造几个头盔吧，我会报答你的！
 tfr.quest555.name=北京第三交通委
@@ -1104,19 +1103,19 @@ tfr.quest562.desc=铁桶能装水，装岩浆，能装的东西比铜板加强�
 tfr.quest563.name=炼药锅
 tfr.quest563.desc=炼药锅的主要功能并非炼药，而是洗矿。用铁桶装水，把粉碎矿石丢进去，可以洗三次。如果用管道连接，就可以自动装水。当然，你获得破碎机之前不大可能得到粉碎矿。
 tfr.quest564.name=Test30x
-tfr.quest564.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest565.name=吸吸吸！
 tfr.quest565.desc=电磁铁产生MU磁场能，用来磁化金属等功能，必做机器
 tfr.quest566.name=test300x
-tfr.quest566.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest567.name=电驴
 tfr.quest567.desc=和蒸汽引擎的功能一样，不过使用的是EU作为能源
 tfr.quest568.name=微型电机(LV)
-tfr.quest568.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest569.name=抓取物品
-tfr.quest569.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest570.name=蹦！
-tfr.quest570.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest571.name=打电动
 tfr.quest571.desc=和蒸汽涡轮机功能一样，不过使用EU作为能源
 tfr.quest572.name=又到了白色相簿的季节
@@ -1124,19 +1123,19 @@ tfr.quest572.desc=通过电力和半导体进行冷却，同时产生CU和HU，�
 tfr.quest573.name=电暖器～
 tfr.quest573.desc=和燃烧室功能一样，不过使用EU作为能源
 tfr.quest574.name=电力活塞(LV)
-tfr.quest574.desc=Nothing is here because nothing is needed to be said.
-tfr.quest575.name=Nothing is here because nothing is needed to be said.
-tfr.quest575.desc=Nothing is here because nothing is needed to be said.
+
+
+
 tfr.quest576.name=速冻冰箱
 tfr.quest576.desc=冷冻一些东西，最大的作用应该是制造冰块，这样你的冰窖就能常年有冰了。
 tfr.quest577.name=传输物品
-tfr.quest577.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest578.name=电动搅拌机(LV)
 tfr.quest578.desc=避免了涡轮机外置，很方便
 tfr.quest579.name=低温搅拌
 tfr.quest579.desc=降温的同时搅拌原料。用于制造火箭燃料等高级材料。
-tfr.quest580.name=Nothing is here because nothing is needed to be said.
-tfr.quest580.desc=Nothing is here because nothing is needed to be said.
+
+
 tfr.quest581.name=电力织布机
 tfr.quest581.desc=避免了涡轮机外置，很方便
 tfr.quest582.name=灌装机
@@ -1144,7 +1143,7 @@ tfr.quest582.desc=把流体装进罐子里。最大的作用是装打火机。
 tfr.quest583.name=流体灌装机
 tfr.quest583.desc=用于制造冷却液等固体和液体混合的材料
 tfr.quest584.name=更加压缩的筛滤机
-tfr.quest584.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest585.name=自动合成
 tfr.quest585.desc=帮助你自动合成一些物品，使用电力
 tfr.quest586.name=扫描
@@ -1204,7 +1203,7 @@ tfr.quest612.desc=与另一个纬度的精灵们交易.
 tfr.quest613.name=源质钢-更好的魔力金属
 tfr.quest613.desc=来自精灵故乡的优质魔力金属.%n%n无论是作为工具还是装备都比红蓝钢系列要好很多.
 tfr.quest614.name=泰拉凝聚-魔法融合
-tfr.quest614.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest615.name=泰拉钢-顶级金属
 tfr.quest615.desc=用一个黑钢锭,源质钢锭.精灵尘与魔力钻石融合而成的顶级金属.
 tfr.quest616.name=召唤仪式--盖亚之怒
@@ -1276,25 +1275,25 @@ tfr.quest648.desc=群峦星的原住民希望你能给他们建造一座茅草�
 tfr.quest649.name=生物化学实验室
 tfr.quest649.desc=一台顶级电脑组成的无菌实验室，开始运行前需要提供LU进行除菌，用于培养最初的细菌样本和进行精细的生物化学操作。
 tfr.quest650.name=大型离心机
-tfr.quest650.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest651.name=大型洗矿厂
-tfr.quest651.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest652.name=大型挤压机
-tfr.quest652.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest653.name=大型电解器
-tfr.quest653.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest654.name=大型凝结器
-tfr.quest654.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest655.name=大型高温搅拌机
-tfr.quest655.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest656.name=大型浸洗器
-tfr.quest656.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest657.name=大型高压釜
-tfr.quest657.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest658.name=大型搅拌机
-tfr.quest658.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest659.name=大型发酵机
-tfr.quest659.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest660.name=引雷入室
 tfr.quest660.desc=避雷针能在雨天或者雷雨时有几率短时间输出巨大的电流。建议准备大量变压器和储电装置来合理接收电流。
 tfr.quest661.name=高压电离系统
@@ -1302,21 +1301,21 @@ tfr.quest661.desc=这台机器最关键的作用是产生粒子加速器使用�
 tfr.quest662.name=亚原子粒子
 tfr.quest662.desc=使用电离气体在粒子对撞机中撞击可以产生电子，正电子，质子，反质子。%n这些粒子又可以继续撞击产生中微子，中子，甚至希格斯玻色子和克尔黑洞。
 tfr.quest663.name=大型结晶器
-tfr.quest663.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest664.name=工业焦炉
-tfr.quest664.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest665.name=大型压模器
 tfr.quest665.desc=使用电力的压模器
 tfr.quest666.name=大型电炉
-tfr.quest666.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest667.name=批量扫描
-tfr.quest667.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest668.name=批量复制
-tfr.quest668.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest669.name=沼气-RF
 tfr.quest669.desc=可以配合发酵机和农场进行自动化
 tfr.quest670.name=批量物质制造
-tfr.quest670.desc=Nothing is here because nothing is needed to be said.
+
 tfr.quest671.name=泥炭-RF
 tfr.quest671.desc=这台发电机能烧泥炭
 tfr.quest672.name=木工机
@@ -1391,186 +1390,7 @@ tfr.quest709.name=RF传输
 tfr.quest709.desc=这是你飞出群峦星之前唯一的RF传输方式.红石通量装载机将RF传输到矿车上，红石通量卸载机把RF从矿车上卸下.线缆连接卸载机即可.%n§8此任务为非官方版添加
 tfr.quest710.name=机器自动超频
 tfr.quest710.desc=部分机器在处理一些东西时会自动超频，这可能导致你无法正确制造物品.%n%n具体说明如下: %n首先你应了解‘能量等级’%n规定16-64GU/t为1级，65-256GU/t为2级%n257-1024GU/t为3级%n1025-4096GU/t为4级%n4097-16192GU/t为5级%n%n机器和配方均有能量等级，当机器的能量等级高于配方等级时，机器将会自动超频%n该配方的所需功率提升至4倍，所需时间降低一半%n即配方所需总能量提升至2倍%n如果你无法给予超频后足够的功率，机器将会罢工.%n这便是部分配方使用LV机器能处理，而MV机器会罢工的原因。%n§8此任务为非官方版添加
-tfr.quest711.name=
-tfr.quest711.desc= %n§8此任务为非官方版添加
-tfr.quest712.name=
-tfr.quest712.desc= %n§8此任务为非官方版添加
-tfr.quest713.name=
-tfr.quest713.desc= %n§8此任务为非官方版添加
-tfr.quest714.name=
-tfr.quest714.desc= %n§8此任务为非官方版添加
-tfr.quest715.name=
-tfr.quest715.desc= %n§8此任务为非官方版添加
-tfr.quest716.name=
-tfr.quest716.desc= %n§8此任务为非官方版添加
-tfr.quest717.name=
-tfr.quest717.desc= %n§8此任务为非官方版添加
-tfr.quest718.name=
-tfr.quest718.desc= %n§8此任务为非官方版添加
-tfr.quest719.name=
-tfr.quest719.desc= %n§8此任务为非官方版添加
-tfr.quest720.name=
-tfr.quest720.desc= %n§8此任务为非官方版添加
-tfr.quest721.name=
-tfr.quest721.desc= %n§8此任务为非官方版添加
-tfr.quest722.name=
-tfr.quest722.desc= %n§8此任务为非官方版添加
-tfr.quest723.name=
-tfr.quest723.desc= %n§8此任务为非官方版添加
-tfr.quest724.name=
-tfr.quest724.desc= %n§8此任务为非官方版添加
-tfr.quest725.name=
-tfr.quest725.desc= %n§8此任务为非官方版添加
-tfr.quest726.name=
-tfr.quest726.desc= %n§8此任务为非官方版添加
-tfr.quest727.name=
-tfr.quest727.desc= %n§8此任务为非官方版添加
-tfr.quest728.name=
-tfr.quest728.desc= %n§8此任务为非官方版添加
-tfr.quest729.name=
-tfr.quest729.desc= %n§8此任务为非官方版添加
-tfr.quest730.name=
-tfr.quest730.desc= %n§8此任务为非官方版添加
-tfr.quest731.name=
-tfr.quest731.desc= %n§8此任务为非官方版添加
-tfr.quest732.name=
-tfr.quest732.desc= %n§8此任务为非官方版添加
-tfr.quest733.name=
-tfr.quest733.desc= %n§8此任务为非官方版添加
-tfr.quest734.name=
-tfr.quest734.desc= %n§8此任务为非官方版添加
-tfr.quest735.name=
-tfr.quest735.desc= %n§8此任务为非官方版添加
-tfr.quest736.name=
-tfr.quest736.desc= %n§8此任务为非官方版添加
-tfr.quest737.name=
-tfr.quest737.desc= %n§8此任务为非官方版添加
-tfr.quest738.name=
-tfr.quest738.desc= %n§8此任务为非官方版添加
-tfr.quest739.name=
-tfr.quest739.desc= %n§8此任务为非官方版添加
-tfr.quest740.name=
-tfr.quest740.desc= %n§8此任务为非官方版添加
-tfr.quest741.name=
-tfr.quest741.desc= %n§8此任务为非官方版添加
-tfr.quest742.name=
-tfr.quest742.desc= %n§8此任务为非官方版添加
-tfr.quest743.name=
-tfr.quest743.desc= %n§8此任务为非官方版添加
-tfr.quest744.name=
-tfr.quest744.desc= %n§8此任务为非官方版添加
-tfr.quest745.name=
-tfr.quest745.desc= %n§8此任务为非官方版添加
-tfr.quest746.name=
-tfr.quest746.desc= %n§8此任务为非官方版添加
-tfr.quest747.name=
-tfr.quest747.desc= %n§8此任务为非官方版添加
-tfr.quest748.name=
-tfr.quest748.desc= %n§8此任务为非官方版添加
-tfr.quest749.name=
-tfr.quest749.desc= %n§8此任务为非官方版添加
-tfr.quest750.name=
-tfr.quest750.desc= %n§8此任务为非官方版添加
-tfr.quest751.name=
-tfr.quest751.desc= %n§8此任务为非官方版添加
-tfr.quest752.name=
-tfr.quest752.desc= %n§8此任务为非官方版添加
-tfr.quest753.name=
-tfr.quest753.desc= %n§8此任务为非官方版添加
-tfr.quest754.name=
-tfr.quest754.desc= %n§8此任务为非官方版添加
-tfr.quest755.name=
-tfr.quest755.desc= %n§8此任务为非官方版添加
-tfr.quest756.name=
-tfr.quest756.desc= %n§8此任务为非官方版添加
-tfr.quest757.name=
-tfr.quest757.desc= %n§8此任务为非官方版添加
-tfr.quest758.name=
-tfr.quest758.desc= %n§8此任务为非官方版添加
-tfr.quest759.name=
-tfr.quest759.desc= %n§8此任务为非官方版添加
-tfr.quest760.name=
-tfr.quest760.desc= %n§8此任务为非官方版添加
-tfr.quest761.name=
-tfr.quest761.desc= %n§8此任务为非官方版添加
-tfr.quest762.name=
-tfr.quest762.desc= %n§8此任务为非官方版添加
-tfr.quest763.name=
-tfr.quest763.desc= %n§8此任务为非官方版添加
-tfr.quest764.name=
-tfr.quest764.desc= %n§8此任务为非官方版添加
-tfr.quest765.name=
-tfr.quest765.desc= %n§8此任务为非官方版添加
-tfr.quest766.name=
-tfr.quest766.desc= %n§8此任务为非官方版添加
-tfr.quest767.name=
-tfr.quest767.desc= %n§8此任务为非官方版添加
-tfr.quest768.name=
-tfr.quest768.desc= %n§8此任务为非官方版添加
-tfr.quest769.name=
-tfr.quest769.desc= %n§8此任务为非官方版添加
-tfr.quest770.name=
-tfr.quest770.desc= %n§8此任务为非官方版添加
-tfr.quest771.name=
-tfr.quest771.desc= %n§8此任务为非官方版添加
-tfr.quest772.name=
-tfr.quest772.desc= %n§8此任务为非官方版添加
-tfr.quest773.name=
-tfr.quest773.desc= %n§8此任务为非官方版添加
-tfr.quest774.name=
-tfr.quest774.desc= %n§8此任务为非官方版添加
-tfr.quest775.name=
-tfr.quest775.desc= %n§8此任务为非官方版添加
-tfr.quest776.name=
-tfr.quest776.desc= %n§8此任务为非官方版添加
-tfr.quest777.name=
-tfr.quest777.desc= %n§8此任务为非官方版添加
-tfr.quest778.name=
-tfr.quest778.desc= %n§8此任务为非官方版添加
-tfr.quest779.name=
-tfr.quest779.desc= %n§8此任务为非官方版添加
-tfr.quest780.name=
-tfr.quest780.desc= %n§8此任务为非官方版添加
-tfr.quest781.name=
-tfr.quest781.desc= %n§8此任务为非官方版添加
-tfr.quest782.name=
-tfr.quest782.desc= %n§8此任务为非官方版添加
-tfr.quest783.name=
-tfr.quest783.desc= %n§8此任务为非官方版添加
-tfr.quest784.name=
-tfr.quest784.desc= %n§8此任务为非官方版添加
-tfr.quest785.name=
-tfr.quest785.desc= %n§8此任务为非官方版添加
-tfr.quest786.name=
-tfr.quest786.desc= %n§8此任务为非官方版添加
-tfr.quest787.name=
-tfr.quest787.desc= %n§8此任务为非官方版添加
-tfr.quest788.name=
-tfr.quest788.desc= %n§8此任务为非官方版添加
-tfr.quest789.name=
-tfr.quest789.desc= %n§8此任务为非官方版添加
-tfr.quest790.name=
-tfr.quest790.desc= %n§8此任务为非官方版添加
-tfr.quest791.name=
-tfr.quest791.desc= %n§8此任务为非官方版添加
-tfr.quest792.name=
-tfr.quest792.desc= %n§8此任务为非官方版添加
-tfr.quest793.name=
-tfr.quest793.desc= %n§8此任务为非官方版添加
-tfr.quest794.name=
-tfr.quest794.desc= %n§8此任务为非官方版添加
-tfr.quest795.name=
-tfr.quest795.desc= %n§8此任务为非官方版添加
-tfr.quest796.name=
-tfr.quest796.desc= %n§8此任务为非官方版添加
-tfr.quest797.name=
-tfr.quest797.desc= %n§8此任务为非官方版添加
-tfr.quest798.name=
-tfr.quest798.desc= %n§8此任务为非官方版添加
-tfr.quest799.name=
-tfr.quest799.desc= %n§8此任务为非官方版添加
-tfr.quest800.name=
-tfr.quest800.desc= %n§8此任务为非官方版添加tfr.line22.name=Tier - 降临
+tfr.line22.name=Tier - 降临
 tfr.line22.desc=你驾驶着逃生梭降落到了群峦星的一片平原——"新西伯利亚"。在做一切之前，先活下去吧
 tfr.line13.name=Tier 0 - 青铜时代
 tfr.line13.desc=骤风穿行于知识之槲，迷茫者在树下彷徨驻足。%n将要攀登之际，果实落下。%n
@@ -1622,6 +1442,8 @@ tfr.line16.name=[DE]龙之进化
 tfr.line16.desc=德拉克纳星深处有一种能量强大的紫色矿石，等待着觉醒。提供大量的红石通量，工具，和武器。——基于龙之进化
 tfr.line12.name=非酋福音
 tfr.line12.desc=钻石找不到，来看看这里？
+ph.nothingtosay=并没什么需要讲的
+ph.empty=
 tfru.q1n=基础龙力芯片
 tfru.q1d=最基本的龙力芯片，芯片的科技感中隐约流露出龙之力的神秘感.
 tfru.q2n=飞龙芯片
@@ -1714,46 +1536,40 @@ tfru.q45n=龙之指南书
 tfru.q45d=这是一个包含了许多信息的石板，一些任务书没讲清楚的地方可以试着到这里来看看.
 tfru.q46n=
 tfru.q46d=
-tfru.q47n=
-tfru.q47d=
-tfru.q48n=
-tfru.q48d=
-tfru.q49n=
-tfru.q49d=
-tfru.q50n=
-tfru.q50d=
-tfru.q51n=
-tfru.q51d=
-tfru.q52n=
-tfru.q52d=
-tfru.q53n=
-tfru.q53d=
-tfru.q54n=
-tfru.q54d=
-tfru.q55n=
-tfru.q55d=
-tfru.q56n=
-tfru.q56d=
-tfru.q57n=
-tfru.q57d=
-tfru.q58n=
-tfru.q58d=
-tfru.q59n=
-tfru.q59d=
-tfru.q60n=
-tfru.q60d=
-tfru.q61n=
-tfru.q61d=
-tfru.q62n=
-tfru.q62d=
-tfru.q63n=
-tfru.q63d=
-tfru.q64n=
-tfru.q64d=
-tfru.q65n=
-tfru.q65d=
-tfru.q66n=
-tfru.q66d=
+tfru.q47n=基础蜂
+tfru.q47d=你需要找到 森林/凛冬/草原 三种蜜蜂中的任意一种，才能正式开启你的养蜂生活 %n 三个连在一起的任务完成其一即可 %n%n你可能会找到标有"始祖种"或"卑贱种"的两种蜜蜂，他们的区别在于始祖种不会消失,而卑贱种会在蜂箱和蜂箱组中繁殖若干代后消失.
+tfru.q48n=简易养蜂
+tfru.q48d=制作一个简易蜂箱
+tfru.q49n=基础养蜂设备
+tfru.q49d=制作一个基础蜂箱
+tfru.q50n=简陋并非无用
+tfru.q50d=简易蜂箱可以让卑贱种繁殖而不会死去，同时也不会使基因突变，基础蜂箱反之，还可以插入框架进行修饰
+tfru.q51n=蜂箱•改
+tfru.q51d=部分蜂箱可以插入框架进行修饰%n%n未处理框架，浸渍框架与标定框架均可以加速蜜蜂工作%n巧克力框架可加速蜜蜂工作和缩短寿命%n灵魂框架可加速突变，减缓工作速度和缩短寿命%n治愈框架提升寿命，降低工作速度与突变概率%n约束框架可缩短寿命，降低工作速度与突变概率与减小工作范围
+tfru.q52n=探寻本质
+tfru.q52d=制作写字台，开始深入研究决定了蜜蜂的产量，寿命等外在特点的内在因素 %n%n养蜂员箱子可以存储大量蜜蜂，还可以便捷的看到蜜蜂的属性
+tfru.q53n=现实与幻想的交织
+tfru.q53d=蜜蜂的遗传遵守现实中的孟德尔遗传定律，不存在伴性遗传，红色为显性基因，蓝色为隐性基因
+tfru.q54n=首次突变
+tfru.q54d=突变获得寻常雄蜂，寻常雄蜂突变获得田野雄蜂%n%n注: 你需要提交纯种的寻常，田野蜜蜂，其他属性无所谓，后面的任务也如此
+tfru.q55n=高尚
+tfru.q56n=勤奋
+tfru.q57n=庄严
+tfru.q58n=不倦
+tfru.q59n=帝皇
+tfru.q60n=敬业
+tfru.q61n=工业化养蜂的曙光
+tfru.q61d=有了前面那几种蜜蜂，你便可以开始准备花粉与蜂王浆，准备工业化养蜂了
+tfru.q62n=大型蜂箱
+tfru.q62d=建更大的蜂箱，养更多的蜜蜂%n%n使用蜂箱组方块搭建3*3*3的立方体，在顶层铺一层3*3的原版木半砖即可
+tfru.q63n=分离幼体
+tfru.q63d=孵化间可以分离蜂王与幼体，产生蜜蜂幼体%n%n仅幼体可以被注射基因,直接溶解幼体可获得更多的原生DNA，为基因工程做准备
+tfru.q64n=批量生产
+tfru.q64d=更高速的工业蜂箱
+tfru.q65n=获得升级
+tfru.q65d=可以通过这些部件对蜂箱组进行升级，蜂箱组第三层与第一二层的中心方块必须是蜂箱组方块，其余可被替换
+tfru.q66n=压榨的代价
+tfru.q66d=使用各种框架，电刺激器，产量升级等均有可能使始祖种的公主蜂退化为卑贱种，压榨蜜蜂时要小心
 tfru.q67n=
 tfru.q67d=
 tfru.q68n=
