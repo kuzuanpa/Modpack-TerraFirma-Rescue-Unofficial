@@ -50,3 +50,4 @@ MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 64, 320, 0, [10000, 1
 
 MTUtilsGT.removeAllRecipes("gt.recipe.autoclave",<gregtech:gt.meta.crushedCentrifugedTiny:9120>);
 MTUtilsGT.removeAllRecipes("gt.recipe.bath",<gregtech:gt.meta.dust:8014>);
+MTUtilsGT.removeAllRecipes("gt.recipe.bath",<gregtech:gt.meta.dust:220>);
