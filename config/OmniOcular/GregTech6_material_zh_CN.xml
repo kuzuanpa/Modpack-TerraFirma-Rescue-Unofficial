@@ -861,8 +861,8 @@
         case 8613:{return "Hepatizon";}
         case 8630:{return "Steel";}
         case 8631:{return "BlackSteel";}
-        case 8632:{return "RedSteel";}
-        case 8633:{return "BlueSteel";}
+        case 8632:{return "BlueSteel";}
+        case 8633:{return "RedSteel";}
         case 8634:{return "DamascusSteel";}
         case 8653:{return "VanadiumSteel";}
         case 8635:{return "Tungstensteel";}

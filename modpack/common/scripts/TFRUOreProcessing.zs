@@ -27,11 +27,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 98, 2040, 0, [10000, 
 [null],
 [<liquid:oxygen>*4000],
 [<gregtech:gt.meta.dust:240>*2, <gregtech:gt.meta.dust:120>]);
-MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 42, 880, 0, [10000],
-[<gregapi:gt.integrated_circuit>*0, <gregtech:gt.meta.dust:8685>],
-[null],
-[<liquid:oxygen>*2000],
-[<gregtech:gt.meta.dust:240>*2]);
+
 MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 280, 5840, 0, [10000, 10000, 10000],
 [<gregapi:gt.integrated_circuit>*0, <gregtech:gt.meta.dust:9135>*20],
 [null],
@@ -42,7 +38,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 64, 320, 0, [10000, 1
 [null],
 [<liquid:sulfuricacid>*3000],
 [<gregtech:gt.meta.dust:30014>*4, <gregtech:gt.meta.dust:260>*4]);
-        MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 120, 360, 0, [10000, 10000],
+MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 120, 360, 0, [10000, 10000],
 [<gregapi:gt.integrated_circuit>*0, <gregtech:gt.meta.dust:30012>*3],
 [null],
 [<liquid:sulfuricacid>*1500],

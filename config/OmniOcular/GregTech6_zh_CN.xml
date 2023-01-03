@@ -1792,25 +1792,25 @@
 	<tileentity id = "gt.multitileentity.generator.motor_liquid">
 		<line displayname = "输出功率">
 			if(nbt['gt.mte.id']==9147){
-			return BLUE + 32 +Unit("RU")
+			return BLUE + 16 +Unit("RU")
 			}
 			else if(nbt['gt.mte.id']==9148){
-			return BLUE + 64 +Unit("RU")
+			return BLUE + 32 +Unit("RU")
 			}
 			else if(nbt['gt.mte.id']==9149){
-			return BLUE + 128 +Unit("RU")
+			return BLUE + 64 +Unit("RU")
 			}
 			else if(nbt['gt.mte.id']==9197){
-			return BLUE + 256 +Unit("RU")
+			return BLUE + 128 +Unit("RU")
 			}
 			else if(nbt['gt.mte.id']==9198){
-			return BLUE + 512 +Unit("RU")
+			return BLUE + 256 +Unit("RU")
 			}
 			else if(nbt['gt.mte.id']==9199){
-			return BLUE + 512 +Unit("RU")
+			return BLUE + 256 +Unit("RU")
 			}
 			else if(nbt['gt.mte.id']==9120){
-			return BLUE + 1024 +Unit("RU")
+			return BLUE + 512 +Unit("RU")
 			}
 		</line>
 		<line displayname = "燃料情况">
