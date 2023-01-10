@@ -72,10 +72,10 @@ val calc = <appliedenergistics2:item.ItemMultiMaterial:24>;
 val certus = <appliedenergistics2:item.ItemMultiMaterial>;
 val ecertus = <appliedenergistics2:item.ItemMultiMaterial:1>;
 val hcertus = <appliedenergistics2:item.ItemMultiMaterial:10>;
-val f1k   = <ae2fc:fluidpart:0>;
-val f4k   = <ae2fc:fluidpart:1>;
-val f16k  = <ae2fc:fluidpart:2>;
-val f64k  = <ae2fc:fluidpart:3>;
+val f1k   = <ae2fc:fluid_part:0>;
+val f4k   = <ae2fc:fluid_part:1>;
+val f16k  = <ae2fc:fluid_part:2>;
+val f64k  = <ae2fc:fluid_part:3>;
 val pump = <gregtech:gt.multiitem.technological:12024>;
 //Consider use ae2fc
 recipes.remove(<extracells:storage.fluid:0>);
@@ -93,10 +93,10 @@ recipes.remove(<extracells:storage.component:8>);
 recipes.remove(<extracells:storage.component:9>);
 recipes.remove(<extracells:storage.component:10>);
 // ME Fluid Storage Units
-recipes.remove(<ae2fc:fluidpart:0>);
-recipes.remove(<ae2fc:fluidpart:1>);
-recipes.remove(<ae2fc:fluidpart:2>);
-recipes.remove(<ae2fc:fluidpart:3>);
+recipes.remove(<ae2fc:fluid_part:0>);
+recipes.remove(<ae2fc:fluid_part:1>);
+recipes.remove(<ae2fc:fluid_part:2>);
+recipes.remove(<ae2fc:fluid_part:3>);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1k);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
@@ -158,8 +158,8 @@ recipes.addShaped(<ae2fc:part_fluid_export>,
 
 // Input Bus
 recipes.remove(<extracells:part.base:1>);
-recipes.remove(<ae2fc:part_fluid_import>>);
-recipes.addShaped(<ae2fc:part_fluid_import>>,
+recipes.remove(<ae2fc:part_fluid_import>);
+recipes.addShaped(<ae2fc:part_fluid_import>,
 [[<appliedenergistics2:item.ItemMultiMaterial:44>],
 [pump],
 [<gregtech:gt.meta.plate:220>]]);

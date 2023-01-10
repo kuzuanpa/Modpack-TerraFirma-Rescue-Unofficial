@@ -58,6 +58,14 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 [<terrafirmacraft:item.Topaz:4>],[n],
 [n],[<gregtech:gt.meta.gemExquisite:8315>]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
+[<terrafirmacraft:item.Wrought Iron Ingot>],[n],
+[n],[<minecraft:iron_ingot>]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
+[<terrafirmacraft:MetalBlock:9>],[n],
+[n],[<minecraft:iron_block>]);
+
 for stone in <ore:cobblestone>.items {
 MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 [stone],

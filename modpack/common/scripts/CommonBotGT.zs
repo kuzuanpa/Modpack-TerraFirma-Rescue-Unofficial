@@ -23,5 +23,10 @@ recipes.addShaped(<gregtech:gt.multiitem.food:2000>*2,
 [null,<terrafirmacraft:item.Wheat Dough>.withTag({foodWeight: 40.0 as float}),null],
 [null,null,null]]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
+[<Botania:item.manaResource:5>],[n],
+[n],[<gregtech:gt.meta.chunkGT:8735>]);
+
 recipes.addShapeless(<Botania:item.manaResource:3>, [<gregtech:gt.meta.stick:8289>]);
 recipes.addShapeless(<Botania:item.manaResource:13>, [<gregtech:gt.meta.stick:8290>]);
+recipes.addShapeless(<gregtech:gt.meta.chunkGT:8735>, [<Botania:item.manaResource:5>]);

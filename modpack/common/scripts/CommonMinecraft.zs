@@ -496,7 +496,7 @@ recipes.addShaped(<minecraft:repeater>,
 [stp,stp,stp]]);
 
 recipes.addShaped(<minecraft:comparator>,
-[[Cutter,rs,n],
+[[Cutter,rst,n],
 [rst,<ore:craftingQuartz>,rst],
 [stp,stp,stp]]);
 

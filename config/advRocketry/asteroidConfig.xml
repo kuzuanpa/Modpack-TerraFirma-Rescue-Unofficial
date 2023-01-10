@@ -4,32 +4,32 @@
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="25" />
 	</asteroid>
-	<asteroid name="锡弗里星" distance="10" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.2" richnessVariability="0.14">
+	<asteroid name="锡弗里星" distance="10" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.36">
 		<ore itemStack="libVulpes:libSuppressor0 5" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>
-	<asteroid name="镍古伯星" distance="10" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.1" richnessVariability="0.1">
+	<asteroid name="镍古伯星" distance="10" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.3" richnessVariability="0.29">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="25" />
 	</asteroid>
-	<asteroid name="铜瑟冉星" distance="10" mass="12000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.2" richnessVariability="0.22">
+	<asteroid name="铜瑟冉星" distance="10" mass="12000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.32">
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="25" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>
-	<asteroid name="铬铁兰伯星" distance="100" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.2" richnessVariability="0.15">
+	<asteroid name="铬铁兰伯星" distance="100" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.35" richnessVariability="0.35">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9113" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="25" />
 	</asteroid>
-	<asteroid name="锰均奇星" distance="140" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.05" richnessVariability="0.05">
+	<asteroid name="锰均奇星" distance="140" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.25" richnessVariability="0.25">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9126" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="25" />
 	</asteroid>
-	<asteroid name="钛帕尔星" distance="190" mass="7000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.03" richnessVariability="0.05">
+	<asteroid name="钛帕尔星" distance="190" mass="7000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.13" richnessVariability="0.12">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9120" chance="5" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9192" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="5" />
 	</asteroid>
-	<asteroid name="钨兰迪星" distance="190" mass="7000" massVariability="0.5" minLevel="0" probability="0.03" richness="0.02" richnessVariability="0.01">
+	<asteroid name="钨兰迪星" distance="190" mass="7000" massVariability="0.5" minLevel="0" probability="0.03" richness="0.08" richnessVariability="0.08">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9128" chance="10" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9133" chance="10" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9194" chance="10" />
@@ -37,7 +37,7 @@
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 9217" chance="10" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="5" />
 	</asteroid>
-	<asteroid name="铱铂特利星" distance="4900" mass="1000" massVariability="0.5" minLevel="0" probability="0.01" richness="0.008" richnessVariability="0.005">
+	<asteroid name="铱铂特利星" distance="4900" mass="1000" massVariability="0.5" minLevel="0" probability="0.01" richness="0.08" richnessVariability="0.08">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 770" chance="10" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 780" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="5" />
