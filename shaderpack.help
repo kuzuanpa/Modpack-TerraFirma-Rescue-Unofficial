@@ -19,12 +19,17 @@ if you want hotSpring water also affected, add this also:
 find "gbuffers_terrain.vsh" file.
 Search for "WAVING_GRASS", "WAVING_LEAVES", "WAVING_WHEAT" (crops), "WAVING_FLOWERS" and "WAVING_SAPLINGS" respectively.
 
-Edit them as shown below:
-Waving Grass || mc_Entity.x == 204.0 || mc_Entity.x == 204.2 || mc_Entity.x == 435.0 || mc_Entity.x == 435.1 || mc_Entity.x == 435.2 || mc_Entity.x == 435.3 || mc_Entity.x == 435.4 || mc_Entity.x == 435.5 || mc_Entity.x == 435.6 || mc_Entity.x == 435.7 || mc_Entity.x == 435.8 || mc_Entity.x == 435.9 || mc_Entity.x == 435.10 || mc_Entity.x == 435.11 || mc_Entity.x == 435.12 || mc_Entity.x == 435.13 || mc_Entity.x == 435.14 || mc_Entity.x == 435.15
-Waving Leaves || mc_Entity.x == 218.0 || mc_Entity.x == 218.1 || mc_Entity.x == 218.2 || mc_Entity.x == 218.3 || mc_Entity.x == 218.4 || mc_Entity.x == 218.5 || mc_Entity.x == 218.6 || mc_Entity.x == 218.7 || mc_Entity.x == 218.8 || mc_Entity.x == 218.9 || mc_Entity.x == 218.10 || mc_Entity.x == 218.11 || mc_Entity.x == 218.12 || mc_Entity.x == 218.13 || mc_Entity.x == 218.14 || mc_Entity.x == 218.15 || mc_Entity.x == 219.0 || mc_Entity.x == 219.1
-Crops "WAVING_WHEAT" || mc_Entity.x == 472.0
-Flowers || mc_Entity.x == 474.0 || mc_Entity.x == 474.1 || mc_Entity.x == 474.2 || mc_Entity.x == 474.3 || mc_Entity.x == 474.4 || mc_Entity.x == 474.5 || mc_Entity.x == 475.0 || mc_Entity.x == 475.1 || mc_Entity.x == 475.2 || mc_Entity.x == 475.3 || mc_Entity.x == 475.4 || mc_Entity.x == 475.5 || mc_Entity.x == 475.6 || mc_Entity.x == 475.7 || mc_Entity.x == 475.8 || mc_Entity.x == 459.0
-Saplings || mc_Entity.x == 4571.0 || mc_Entity.x == 4571.1 || mc_Entity.x == 4571.2 || mc_Entity.x == 4571.3 || mc_Entity.x == 4571.4 || mc_Entity.x == 4571.5 || mc_Entity.x == 4571.6 || mc_Entity.x == 4571.7 || mc_Entity.x == 4571.8
+Insert these in proper place:
+Grass
+    || mc_Entity.x == 204.0 || mc_Entity.x == 204.2 || mc_Entity.x == 435.0 || mc_Entity.x == 435.1 || mc_Entity.x == 435.2 || mc_Entity.x == 435.3 || mc_Entity.x == 435.4 || mc_Entity.x == 435.5 || mc_Entity.x == 435.6 || mc_Entity.x == 435.7 || mc_Entity.x == 435.8 || mc_Entity.x == 435.9 || mc_Entity.x == 435.10 || mc_Entity.x == 435.11 || mc_Entity.x == 435.12 || mc_Entity.x == 435.13 || mc_Entity.x == 435.14 || mc_Entity.x == 435.15
+Leaves
+    || mc_Entity.x == 218.0 || mc_Entity.x == 218.1 || mc_Entity.x == 218.2 || mc_Entity.x == 218.3 || mc_Entity.x == 218.4 || mc_Entity.x == 218.5 || mc_Entity.x == 218.6 || mc_Entity.x == 218.7 || mc_Entity.x == 218.8 || mc_Entity.x == 218.9 || mc_Entity.x == 218.10 || mc_Entity.x == 218.11 || mc_Entity.x == 218.12 || mc_Entity.x == 218.13 || mc_Entity.x == 218.14 || mc_Entity.x == 218.15 || mc_Entity.x == 219.0 || mc_Entity.x == 219.1
+Wheat
+    || mc_Entity.x == 472.0
+Flowers
+    || mc_Entity.x == 474.0 || mc_Entity.x == 474.1 || mc_Entity.x == 474.2 || mc_Entity.x == 474.3 || mc_Entity.x == 474.4 || mc_Entity.x == 474.5 || mc_Entity.x == 475.0 || mc_Entity.x == 475.1 || mc_Entity.x == 475.2 || mc_Entity.x == 475.3 || mc_Entity.x == 475.4 || mc_Entity.x == 475.5 || mc_Entity.x == 475.6 || mc_Entity.x == 475.7 || mc_Entity.x == 475.8 || mc_Entity.x == 459.0
+Saplings
+    || mc_Entity.x == 4571.0 || mc_Entity.x == 4571.1 || mc_Entity.x == 4571.2 || mc_Entity.x == 4571.3 || mc_Entity.x == 4571.4 || mc_Entity.x == 4571.5 || mc_Entity.x == 4571.6 || mc_Entity.x == 4571.7 || mc_Entity.x == 4571.8
 
 Done.
 Don't forget to Repack if you unzipped before.
