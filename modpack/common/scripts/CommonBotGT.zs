@@ -10,6 +10,10 @@
  * Visit <forum.teammoeg.com> to see the links to Github and License.
  */
 
+import mods.MTUtilsGT;
+import minetweaker.item.IItemStack;
+import minetweaker.item.IIngredient;
+
 recipes.remove(<gregtech:gt.multitileentity:32033>);
 recipes.remove(<gregtech:gt.multitileentity:1007>);
 
