@@ -37,6 +37,9 @@ Saplings
 Done.
 Don't forget to Repack if you unzipped before.
 
+For TFR, please turn off shaders in AdvancedRocketry's settings.
+
+
 zh-CN:
 你可能为寻找群峦可用光影包耗费了很长时间，这里有一些可用的，但由于它们的协议限制，我只能将文件名以及修改方法告诉你，不能直接在此提供光影包，不论是否修改
 
@@ -76,3 +79,5 @@ Saplings:
     || mc_Entity.x == 4571.0 || mc_Entity.x == 4571.1 || mc_Entity.x == 4571.2 || mc_Entity.x == 4571.3 || mc_Entity.x == 4571.4 || mc_Entity.x == 4571.5 || mc_Entity.x == 4571.6 || mc_Entity.x == 4571.7 || mc_Entity.x == 4571.8
 
 完成!
+
+如果你在玩本整合包，记得关闭AdvancedRocketry中的光影设置.
