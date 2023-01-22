@@ -31,8 +31,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 [<Botania:item.manaResource:5>],[null],
 [null],[<gregtech:gt.meta.chunkGt:8735>]);
 
+MTUtilsGT.removeAllRecipes("mc.recipe.furnacefuel",<Botania:terraPick>);
 recipes.addShapeless(<Botania:item.manaResource:3>, [<gregtech:gt.meta.stick:8289>]);
 recipes.addShapeless(<Botania:item.manaResource:13>, [<gregtech:gt.meta.stick:8290>]);
 recipes.addShapeless(<gregtech:gt.meta.chunkGt:8735>, [<Botania:item.manaResource:5>]);
-mods.botania.ElvenTrade.addRecipe([<Botania:item.manaResource:8>], [<gregtech:gt.meta.gem:8279>]);
-mods.botania.ManaInfusion.addInfusion(<Botania:item.manaResource:4>, <gregtech:gt.meta.ingot:8721>, 5);
+mods.botania.ElvenTrade.addRecipe(<Botania:item.manaResource:8>, [<gregtech:gt.meta.gem:8279>]);
+recipes.addShapeless(<Botania:item.manaResource:4>, [<gregtech:gt.meta.ingot:8721>]);

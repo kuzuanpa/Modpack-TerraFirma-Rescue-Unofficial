@@ -1,3 +1,18 @@
+4.0.0.0u
+Mod Changes:
+ - Upgraded Botania to TFRU-4000, more information refer to Botania-TFRU Changelog
+ - Replaced GT6U to GT6,  more information refer to GT6 Changelog
+ - Added kTFRUAddon to add machines doesn't exist in GT6
+ - Updraged NEI to GTNH-2.3.20, Hundreds of thanks to GTNH team!
+
+Bug Fix:
+ - TerraPick cannot burn as furnace fuel now
+
+Content Changes:
+ - Ore Cr,Ti,Al,W has unique(and complex) process methods
+ - Completed Botania & Beekeeping quests
+ - Rewrite whole computer building workflow, more wafer and more mask aligners
+
 3.7.0.2u
 Mod Changes:
  - Removed CustomNpc from SinglePlayer version.
@@ -27,7 +42,7 @@ Content Changes:
 - Complete OpenComputer and DraconicEvolution Quests(more than 60 Quests!),still need translate though.
 - modify some quest structure to avoid misunderstand.
 
-3.7.0.0 #This is not Unofficial version,but also NOT found in Official repo. I(kuzuanpa) didn't know what is these text's meaning.
+3.7.0.0 #This is not Unofficial version,but also NOT found in Official repo. kuzuanpa didn't know what is these text's meaning.
 Mod Changes:
 - Upgraded gregtech_1.7.10-6.15.08-unofficial
 

@@ -44,6 +44,8 @@ MTUtilsGT.addCustomRecipe("gt.recipe.electrolyzer", false, 120, 360, 0, [10000, 
 [<liquid:sulfuricacid>*1500],
 [<gregtech:gt.meta.dust:240>, <gregtech:gt.meta.dust:30011>*2]);
 
+MTUtilsGT.removeAllRecipes("gt.recipe.cruciblesmelting",<gregtech:gt.meta.nugget:240>);
+MTUtilsGT.removeAllRecipes("gt.recipe.cruciblesmelting",<gregtech:gt.meta.dustDiv72:240>);
 MTUtilsGT.removeAllRecipes("gt.recipe.autoclave",<gregtech:gt.meta.crushedCentrifugedTiny:9120>);
 MTUtilsGT.removeAllRecipes("gt.recipe.bath",<gregtech:gt.meta.dust:8014>);
 MTUtilsGT.removeAllRecipes("gt.recipe.bath",<gregtech:gt.meta.dust:220>);

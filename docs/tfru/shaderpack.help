@@ -1,0 +1,83 @@
+You may lost your self when finding available shaderpack for TFC. There are some shaderpack available,but due to license I can only tell you who they are and how to adjust them to fit for TFC , cannot give you the pack neither original one nor modified one directly.
+
+list:
+Kadir-Nck-Shader-V1.2.zip
+kuda-shaders-v6556.zip
+PlunderPixels_Shaders_1.7.x.zip
+
+note: some shaders can't be adjusted properly just by following this tutorial, please try by yourself
+how to edit (from TFC forum):
+open zip file whether you like
+
+#Water Reflection:
+find "gbuffers_water.vsh"
+Search for "mc_Entity.x == 8.0 || mc_Entity.x == 9.0", insert this to tail:
+    || mc_Entity.x == 426.0 || mc_Entity.x == 427.0 || mc_Entity.x == 428.0 || mc_Entity.x == 429.0
+if you want hotSpring water also affected, add this also:
+    || mc_Entity.x == 430.0 || mc_Entity.x == 431.0
+#Ice Reflection:
+Search for "mc_Entity.x == 79.0", insert this to tail:
+    || mc_Entity.x == 434.0
+#Waving leaves, grass, crops, flowers and saplings.
+find "gbuffers_terrain.vsh" file.
+Search for "WAVING_GRASS", "WAVING_LEAVES", "WAVING_WHEAT" (crops), "WAVING_FLOWERS" and "WAVING_SAPLINGS" respectively.
+
+Insert these in proper place:
+Grass
+    || mc_Entity.x == 204.0 || mc_Entity.x == 204.2 || mc_Entity.x == 435.0 || mc_Entity.x == 435.1 || mc_Entity.x == 435.2 || mc_Entity.x == 435.3 || mc_Entity.x == 435.4 || mc_Entity.x == 435.5 || mc_Entity.x == 435.6 || mc_Entity.x == 435.7 || mc_Entity.x == 435.8 || mc_Entity.x == 435.9 || mc_Entity.x == 435.10 || mc_Entity.x == 435.11 || mc_Entity.x == 435.12 || mc_Entity.x == 435.13 || mc_Entity.x == 435.14 || mc_Entity.x == 435.15
+Leaves
+    || mc_Entity.x == 218.0 || mc_Entity.x == 218.1 || mc_Entity.x == 218.2 || mc_Entity.x == 218.3 || mc_Entity.x == 218.4 || mc_Entity.x == 218.5 || mc_Entity.x == 218.6 || mc_Entity.x == 218.7 || mc_Entity.x == 218.8 || mc_Entity.x == 218.9 || mc_Entity.x == 218.10 || mc_Entity.x == 218.11 || mc_Entity.x == 218.12 || mc_Entity.x == 218.13 || mc_Entity.x == 218.14 || mc_Entity.x == 218.15 || mc_Entity.x == 219.0 || mc_Entity.x == 219.1
+Wheat
+    || mc_Entity.x == 472.0
+Flowers
+    || mc_Entity.x == 474.0 || mc_Entity.x == 474.1 || mc_Entity.x == 474.2 || mc_Entity.x == 474.3 || mc_Entity.x == 474.4 || mc_Entity.x == 474.5 || mc_Entity.x == 475.0 || mc_Entity.x == 475.1 || mc_Entity.x == 475.2 || mc_Entity.x == 475.3 || mc_Entity.x == 475.4 || mc_Entity.x == 475.5 || mc_Entity.x == 475.6 || mc_Entity.x == 475.7 || mc_Entity.x == 475.8 || mc_Entity.x == 459.0
+Saplings
+    || mc_Entity.x == 4571.0 || mc_Entity.x == 4571.1 || mc_Entity.x == 4571.2 || mc_Entity.x == 4571.3 || mc_Entity.x == 4571.4 || mc_Entity.x == 4571.5 || mc_Entity.x == 4571.6 || mc_Entity.x == 4571.7 || mc_Entity.x == 4571.8
+
+Done.
+Don't forget to Repack if you unzipped before.
+
+For TFR, please turn off shaders in AdvancedRocketry's settings.
+
+
+zh-CN:
+你可能为寻找群峦可用光影包耗费了很长时间，这里有一些可用的，但由于它们的协议限制，我只能将文件名以及修改方法告诉你，不能直接在此提供光影包，不论是否修改
+
+可用光影列表:
+Kadir-Nck-Shader-V1.2.zip
+kuda-shaders-v6556.zip
+PlunderPixels_Shaders_1.7.x.zip
+
+注: 不是每个光影包都能按此方法适配，请自行尝试
+如何修改(来自TFC论坛):
+使用任意软件打开光影包，可以解压再打包或者直接改，注意保持原有的目录结构，不要出现文件夹套娃
+#水反:
+找到 "gbuffers_water.vsh"
+搜索 "mc_Entity.x == 8.0 || mc_Entity.x == 9.0"在结尾插入:
+    || mc_Entity.x == 426.0 || mc_Entity.x == 427.0 || mc_Entity.x == 428.0 || mc_Entity.x == 429.0
+如果你希望温泉水也存在水反，把这个也加上:
+    || mc_Entity.x == 430.0 || mc_Entity.x == 431.0
+
+#冰反
+搜索 "mc_Entity.x == 97.0" 在结尾插入:
+    || mc_Entity.x == 434.0
+
+#作物，花草，树叶摇晃:
+找到 "gbuffers_terrain.vsh".
+依次搜索 "WAVING_GRASS", "WAVING_LEAVES", "WAVING_WHEAT" (作物), "WAVING_FLOWERS" 和 "WAVING_SAPLINGS".
+
+在合适的位置依次插入下面这些:
+Grass:
+    || mc_Entity.x == 204.0 || mc_Entity.x == 204.2 || mc_Entity.x == 435.0 || mc_Entity.x == 435.1 || mc_Entity.x == 435.2 || mc_Entity.x == 435.3 || mc_Entity.x == 435.4 || mc_Entity.x == 435.5 || mc_Entity.x == 435.6 || mc_Entity.x == 435.7 || mc_Entity.x == 435.8 || mc_Entity.x == 435.9 || mc_Entity.x == 435.10 || mc_Entity.x == 435.11 || mc_Entity.x == 435.12 || mc_Entity.x == 435.13 || mc_Entity.x == 435.14 || mc_Entity.x == 435.15
+Leaves:
+    || mc_Entity.x == 218.0 || mc_Entity.x == 218.1 || mc_Entity.x == 218.2 || mc_Entity.x == 218.3 || mc_Entity.x == 218.4 || mc_Entity.x == 218.5 || mc_Entity.x == 218.6 || mc_Entity.x == 218.7 || mc_Entity.x == 218.8 || mc_Entity.x == 218.9 || mc_Entity.x == 218.10 || mc_Entity.x == 218.11 || mc_Entity.x == 218.12 || mc_Entity.x == 218.13 || mc_Entity.x == 218.14 || mc_Entity.x == 218.15 || mc_Entity.x == 219.0 || mc_Entity.x == 219.1
+Wheat:
+    || mc_Entity.x == 472.0
+Flowers:
+    || mc_Entity.x == 474.0 || mc_Entity.x == 474.1 || mc_Entity.x == 474.2 || mc_Entity.x == 474.3 || mc_Entity.x == 474.4 || mc_Entity.x == 474.5 || mc_Entity.x == 475.0 || mc_Entity.x == 475.1 || mc_Entity.x == 475.2 || mc_Entity.x == 475.3 || mc_Entity.x == 475.4 || mc_Entity.x == 475.5 || mc_Entity.x == 475.6 || mc_Entity.x == 475.7 || mc_Entity.x == 475.8 || mc_Entity.x == 459.0
+Saplings:
+    || mc_Entity.x == 4571.0 || mc_Entity.x == 4571.1 || mc_Entity.x == 4571.2 || mc_Entity.x == 4571.3 || mc_Entity.x == 4571.4 || mc_Entity.x == 4571.5 || mc_Entity.x == 4571.6 || mc_Entity.x == 4571.7 || mc_Entity.x == 4571.8
+
+完成!
+
+如果你在玩本整合包，记得关闭AdvancedRocketry中的光影设置.
