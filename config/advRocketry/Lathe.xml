@@ -2915,14 +2915,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotBlackFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8440</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotFrancium</oreDict>
 		</input>
 		<output>

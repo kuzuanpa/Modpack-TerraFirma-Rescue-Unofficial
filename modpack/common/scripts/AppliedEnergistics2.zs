@@ -515,3 +515,62 @@ recipes.addShaped(<appliedenergistics2:item.ItemMultiPart:300>,
 [<gregtech:gt.meta.plate:220>,<gregtech:gt.meta.plate:220>,<gregtech:gt.meta.plate:220>],
 [n,n,n]]);
 
+val f1k   = <ae2fc:fluid_part:0>;
+val f4k   = <ae2fc:fluid_part:1>;
+val f16k  = <ae2fc:fluid_part:2>;
+val f64k  = <ae2fc:fluid_part:3>;
+val pump = <gregtech:gt.multiitem.technological:12024>;
+
+recipes.remove(<ae2fc:fluid_part:0>);
+recipes.remove(<ae2fc:fluid_part:1>);
+recipes.remove(<ae2fc:fluid_part:2>);
+recipes.remove(<ae2fc:fluid_part:3>);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
+[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<moegadd:PatchCapacitor>*2],
+[<liquid:ic2coolant>*144],
+[n],
+[f1k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f4k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
+[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<moegadd:PatchCapacitor>*8],
+[<liquid:ic2coolant>*144],
+[n],
+[f4k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f16k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
+[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<moegadd:PatchCapacitor>*32],
+[<liquid:ic2coolant>*144],
+[n],
+[f16k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f64k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
+[<gregapi:gt.integrated_circuit:4>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<gregtech:gt.meta.wireFine:8660>*64,<moegadd:PatchCapacitor>*64],
+[<liquid:ic2coolant>*144],
+[n],
+[f64k]);
+
+// ME Fluid Storage casing
+recipes.remove(<ae2fc:fluid_interface>);
+recipes.addShaped(<ae2fc:fluid_interface>,
+[[<ore:ingotIron>,pump,<ore:ingotIron>],
+[<ore:blockGlass>,<appliedenergistics2:tile.BlockInterface>,<ore:blockGlass>],
+[<ore:ingotIron>,pump,<ore:ingotIron>]]);
+
+// Output Bus
+recipes.remove(<ae2fc:part_fluid_export>);
+recipes.addShaped(<ae2fc:part_fluid_export>,
+[[<appliedenergistics2:item.ItemMultiMaterial:43>],
+[pump],
+[<gregtech:gt.meta.plate:220>]]);
+
+// Input Bus
+recipes.remove(<ae2fc:part_fluid_import>);
+recipes.addShaped(<ae2fc:part_fluid_import>,
+[[<appliedenergistics2:item.ItemMultiMaterial:44>],
+[pump],
+[<gregtech:gt.meta.plate:220>]]);

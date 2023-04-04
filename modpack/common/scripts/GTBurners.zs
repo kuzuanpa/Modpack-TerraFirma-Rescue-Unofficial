@@ -64,8 +64,7 @@ recipes.remove(<gregtech:gt.multitileentity:1106>); // plateTitanium
 recipes.remove(<gregtech:gt.multitileentity:1107>); // plateTungsten
 recipes.remove(<gregtech:gt.multitileentity:1108>); // plateTungstensteel
 recipes.remove(<gregtech:gt.multitileentity:1109>); // plateTantalumHafniumCarbide
-recipes.remove(<gregtech:gt.multitileentity:1110>); // plateTitaniumNiobiumCarbide
-recipes.remove(<gregtech:gt.multitileentity:1111>); // plateNetherite
+recipes.remove(<gregtech:gt.multitileentity:1110>); // plateNetherite
 
 recipes.addShaped(<gregtech:gt.multitileentity:1100>,
 [[<ore:plateLead>,pc,<ore:plateLead>],
@@ -118,11 +117,6 @@ recipes.addShaped(<gregtech:gt.multitileentity:1109>,
 [bb,pr,bb]]);
 
 recipes.addShaped(<gregtech:gt.multitileentity:1110>,
-[[<ore:plateTitaniumNiobiumCarbide>,pc,<ore:plateTitaniumNiobiumCarbide>],
-[ <ore:plateTitaniumNiobiumCarbide>,wr,<ore:plateTitaniumNiobiumCarbide>],
-[bb,pr,bb]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:1111>,
 [[<ore:plateNetherite>,pc,<ore:plateNetherite>],
 [ <ore:plateNetherite>,wr,<ore:plateNetherite>],
 [bb,pr,bb]]);
@@ -136,8 +130,7 @@ recipes.remove(<gregtech:gt.multitileentity:1406>); // titanium
 recipes.remove(<gregtech:gt.multitileentity:1407>); // tungsten
 recipes.remove(<gregtech:gt.multitileentity:1408>); // tungstensteel
 recipes.remove(<gregtech:gt.multitileentity:1409>); // THC
-recipes.remove(<gregtech:gt.multitileentity:1410>); // TNC
-recipes.remove(<gregtech:gt.multitileentity:1411>); // netherite
+recipes.remove(<gregtech:gt.multitileentity:1410>); // netherite
 
 recipes.addShaped(<gregtech:gt.multitileentity:1402>,
 [[<ore:plateBronze>,pc,<ore:plateBronze>],
@@ -180,11 +173,6 @@ recipes.addShaped(<gregtech:gt.multitileentity:1409>,
 [bb,pr,bb]]);
 
 recipes.addShaped(<gregtech:gt.multitileentity:1410>,
-[[<ore:plateTitaniumNiobiumCarbide>,pc,<ore:plateTitaniumNiobiumCarbide>],
-[ <ore:pipeSmallTitaniumNiobiumCarbide>,wr,<ore:pipeSmallTitaniumNiobiumCarbide>],
-[bb,pr,bb]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:1411>,
 [[<ore:plateNetherite>,pc,<ore:plateNetherite>],
 [ <ore:pipeSmallNetherite>,wr,<ore:pipeSmallNetherite>],
 [bb,pr,bb]]);
@@ -198,8 +186,7 @@ recipes.remove(<gregtech:gt.multitileentity:1606>); // titanium
 recipes.remove(<gregtech:gt.multitileentity:1607>); // tungsten
 recipes.remove(<gregtech:gt.multitileentity:1608>); // tungstensteel
 recipes.remove(<gregtech:gt.multitileentity:1609>); // THC
-recipes.remove(<gregtech:gt.multitileentity:1610>); // TNC
-recipes.remove(<gregtech:gt.multitileentity:1611>); // netherite
+recipes.remove(<gregtech:gt.multitileentity:1610>); // netherite
 
 recipes.addShaped(<gregtech:gt.multitileentity:1602>,
 [[<ore:plateBronze>,pc,<ore:plateBronze>],
@@ -242,11 +229,6 @@ recipes.addShaped(<gregtech:gt.multitileentity:1609>,
 [bb,<ore:pipeSmallTantalumHafniumCarbide>,bb]]);
 
 recipes.addShaped(<gregtech:gt.multitileentity:1610>,
-[[<ore:plateTitaniumNiobiumCarbide>,pc,<ore:plateTitaniumNiobiumCarbide>],
-[ pr,wr,pr],
-[bb,<ore:pipeSmallTitaniumNiobiumCarbide>,bb]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:1611>,
 [[<ore:plateNetherite>,pc,<ore:plateNetherite>],
 [ pr,wr,pr],
 [bb,<ore:pipeSmallNetherite>,bb]]);

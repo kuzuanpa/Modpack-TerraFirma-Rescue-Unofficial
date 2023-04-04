@@ -64,115 +64,11 @@ val ticasing = <gregtech:gt.meta.casingSmall:220>;
 val crcasing = <gregtech:gt.meta.casingSmall:240>;
 val alcable = <gregtech:gt.multitileentity:29016>;
 val qglass = <appliedenergistics2:tile.BlockQuartzGlass>;
-val redcab = <gregtech:gt.meta.wireFine:8660>;
-val ycab = <gregtech:gt.meta.wireFine:8709>;
 val logic = <appliedenergistics2:item.ItemMultiMaterial:22>;
 val engin = <appliedenergistics2:item.ItemMultiMaterial:24>;
 val calc = <appliedenergistics2:item.ItemMultiMaterial:24>;
 val certus = <appliedenergistics2:item.ItemMultiMaterial>;
 val ecertus = <appliedenergistics2:item.ItemMultiMaterial:1>;
 val hcertus = <appliedenergistics2:item.ItemMultiMaterial:10>;
-val f1k   = <ae2fc:fluid_part:0>;
-val f4k   = <ae2fc:fluid_part:1>;
-val f16k  = <ae2fc:fluid_part:2>;
-val f64k  = <ae2fc:fluid_part:3>;
-val pump = <gregtech:gt.multiitem.technological:12024>;
 //Consider use ae2fc
-recipes.remove(<extracells:storage.fluid:0>);
-recipes.remove(<extracells:storage.fluid:1>);
-recipes.remove(<extracells:storage.fluid:2>);
-recipes.remove(<extracells:storage.fluid:3>);
-recipes.remove(<extracells:storage.fluid:4>);
-recipes.remove(<extracells:storage.fluid:5>);
-recipes.remove(<extracells:storage.fluid:6>);
-recipes.remove(<extracells:storage.component:4>);
-recipes.remove(<extracells:storage.component:5>);
-recipes.remove(<extracells:storage.component:6>);
-recipes.remove(<extracells:storage.component:7>);
-recipes.remove(<extracells:storage.component:8>);
-recipes.remove(<extracells:storage.component:9>);
-recipes.remove(<extracells:storage.component:10>);
 // ME Fluid Storage Units
-recipes.remove(<ae2fc:fluid_part:0>);
-recipes.remove(<ae2fc:fluid_part:1>);
-recipes.remove(<ae2fc:fluid_part:2>);
-recipes.remove(<ae2fc:fluid_part:3>);
-
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
-[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<moegadd:PatchCapacitor>*2],
-[<liquid:ic2coolant>*144],
-[n],
-[f1k]);
-
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f4k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
-[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<moegadd:PatchCapacitor>*8],
-[<liquid:ic2coolant>*144],
-[n],
-[f4k]);
-
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f16k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
-[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<moegadd:PatchCapacitor>*32],
-[<liquid:ic2coolant>*144],
-[n],
-[f16k]);
-
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f64k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1200, 100, 0, [10000],
-[<gregapi:gt.integrated_circuit:4>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<gregtech:gt.meta.wireFine:8660>*64,<moegadd:PatchCapacitor>*64],
-[<liquid:ic2coolant>*144],
-[n],
-[f64k]);
-
-// ME Fluid Storage casing
-recipes.remove(<extracells:storage.casing:1>);
-recipes.addShaped(<extracells:storage.casing:1>,
-[[qglass,Screwdriver,qglass],
-[crcasing,n,crcasing],
-[ycab,crcasing,ycab]]);
-
-// Adv casing
-recipes.remove(<extracells:storage.casing>);
-recipes.addShaped(<extracells:storage.casing>,
-[[<gregtech:gt.meta.plateGem:8300>,<extracells:storage.casing:1>,<gregtech:gt.meta.plateGem:8300>],
-[n,<gregtech:gt.meta.plateGem:8300>,n],
-[n,HHammer,n]]);
-
-// Interface
-recipes.remove(<extracells:ecbaseblock>);
-recipes.remove(<ae2fc:fluid_interface>);
-recipes.addShaped(<ae2fc:fluid_interface>,
-[[<ore:ingotIron>,pump,<ore:ingotIron>],
-[<ore:blockGlass>,<appliedenergistics2:tile.BlockInterface>,<ore:blockGlass>],
-[<ore:ingotIron>,pump,<ore:ingotIron>]]);
-
-// Output Bus
-recipes.remove(<extracells:part.base>);
-recipes.remove(<ae2fc:part_fluid_export>);
-recipes.addShaped(<ae2fc:part_fluid_export>,
-[[<appliedenergistics2:item.ItemMultiMaterial:43>],
-[pump],
-[<gregtech:gt.meta.plate:220>]]);
-
-// Input Bus
-recipes.remove(<extracells:part.base:1>);
-recipes.remove(<ae2fc:part_fluid_import>);
-recipes.addShaped(<ae2fc:part_fluid_import>,
-[[<appliedenergistics2:item.ItemMultiMaterial:44>],
-[pump],
-[<gregtech:gt.meta.plate:220>]]);
-
-// destroy and form panel
-recipes.remove(<extracells:part.base:6>);
-recipes.addShaped(<extracells:part.base:6>,
-[[<appliedenergistics2:item.ItemMultiMaterial:8>,<appliedenergistics2:item.ItemMultiMaterial:43>,<appliedenergistics2:item.ItemMultiMaterial:8>],
-[<gregtech:gt.meta.plate:240>,<gregtech:gt.meta.plate:240>,<gregtech:gt.meta.plate:240>],
-[n,pump,n]]);
-
-recipes.remove(<extracells:part.base:5>);
-recipes.addShaped(<extracells:part.base:5>,
-[[<appliedenergistics2:item.ItemMultiMaterial:8>,<appliedenergistics2:item.ItemMultiMaterial:44>,<appliedenergistics2:item.ItemMultiMaterial:8>],
-[<gregtech:gt.meta.plate:240>,<gregtech:gt.meta.plate:240>,<gregtech:gt.meta.plate:240>],
-[n,pump,n]]);
