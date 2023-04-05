@@ -53,6 +53,7 @@ val bb = <minecraft:brick_block>;
 val wr = <ore:craftingToolWrench>;
 
 // Remove Standard (non-compressed) burners
+recipes.remove(<gregtech:gt.multitileentity:1199>); // brick
 // Solid
 recipes.remove(<gregtech:gt.multitileentity:1100>); // plateLead
 recipes.remove(<gregtech:gt.multitileentity:1101>); // plateBismuth

@@ -16,7 +16,9 @@
 
 		if(mInput == "HU"){
 		if(mOutput == "SU"){
-		if(mID >= 1250){
+        if(mID == 1259){
+        tInput = 4 * ID2Tier(1256 - 50,"HU","SU",1);
+		else if(mID >= 1250){
 		tInput = 4 * ID2Tier(mID - 50,"HU","SU",1);
 		}
 		else if(mID >= 1200){
@@ -30,6 +32,7 @@
 		case 1206:{tInput = 112;break;}
 		case 1207:{tInput = 128;break;}
 		case 1208:{tInput = 128;break;}
+        case 1209:{tInput = 112;break;}
 		}
 		}
 

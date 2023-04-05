@@ -651,7 +651,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 
 // Minecraft Fishing Rod
 MTUtilsGT.addCustomRecipe("gt.recipe.loom", false, 16, 200, 0, [10000],
-[<minecraft:stick>*3,<minecraft:string>*2,<gregtech:gt.multitileentity:28950>*1],
+[<minecraft:stick>*3,<minecraft:string>*2,<gregtech:gt.multitileentity:28950>*1,<gregapi:gt.integrated_circuit:1>*0],
 [n],
 [n],
 [<minecraft:fishing_rod>]);
