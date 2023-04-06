@@ -52,7 +52,6 @@ val n = null;
 //mods.railcraft.Rolling.removeRecipe(<Railcraft:part.plate>);
 //mods.railcraft.Rolling.removeRecipe(<Railcraft:part.plate:4>);
 mods.railcraft.Rolling.removeRecipe(<Railcraft:part.plate:2>);
-mods.railcraft.Rolling.removeRecipe(<Railcraft:part.plate:3>);
 
 // Remove gt machine hulls made by hand
 var machinehulls = [

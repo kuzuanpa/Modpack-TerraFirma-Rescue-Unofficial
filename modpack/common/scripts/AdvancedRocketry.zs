@@ -322,7 +322,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 1000 ,0,[10000],
 // Guidance computer
 recipes.remove(<advancedRocketry:tile.guidanceComputer>);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
-[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<moegadd:Mainframe1>,<gregtech:gt.multiitem.technological:30306>],
+[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ore:MF1>,<gregtech:gt.multiitem.technological:30306>],
 [<liquid:molten.tin>*144],
 [null],
 [<advancedRocketry:tile.guidanceComputer>]);

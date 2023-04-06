@@ -162,7 +162,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 4096, 400, 0, [10000],
 
 // Infinity Catalyst
 val PI = <IC2:itemPartIridium>;
-val MC7 = <moegadd:MainframeCluster7>;
+val MC7 = <ore:MF8>;
 val sj = <gregtech:gt.meta.ingot:2210>;
 mods.avaritia.ExtremeCrafting.remove(<Avaritia:Resource:5>);
 mods.avaritia.ExtremeCrafting.addShaped (<Avaritia:Resource:5>,

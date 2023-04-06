@@ -195,7 +195,7 @@ val fw = <liquid:freshwater>;
 <ore:RAM16G>.add(<moegadd:RAM_1G_16>);
 
 /*---Mainframe OreDict----*/
-<ore:MF1>.add(<moegadd:Mainframe1>);
+<ore:MF1>.add(<ktfruaddon:ktfru.item.computer:0>);
 <ore:MF2>.add(<moegadd:Mainframe2>);
 <ore:MF2>.add(<moegadd:MainframeCluster1>);
 <ore:MF3>.add(<moegadd:Mainframe3>);

@@ -59,17 +59,17 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 2048, 400, 0, [10000]
 recipes.remove(<IC2:blockGenerator:5>);
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler", <IC2:blockGenerator:5>);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 2048, 800, 0, [10000], 
-[<IC2:blockReactorChamber>,<moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:30501>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12085>*2,<gregtech:gt.meta.plate:220>*6], 
+[<IC2:blockReactorChamber>,<ore:MF7>,<gregtech:gt.multiitem.technological:30501>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12085>*2,<gregtech:gt.meta.plate:220>*6], 
 [null],
 [null],
 [<IC2:blockGenerator:5>]);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 2048, 800, 0, [10000], 
-[<IC2:blockReactorChamber>,<moegadd:MainframeCluster7>,<gregtech:gt.multiitem.technological:30501>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12085>*2,<gregtech:gt.meta.plate:220>*6], 
+[<IC2:blockReactorChamber>,<ore:MF8>,<gregtech:gt.multiitem.technological:30501>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12085>*2,<gregtech:gt.meta.plate:220>*6], 
 [null],
 [null],
 [<IC2:blockGenerator:5>]);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 2048, 800, 0, [10000], 
-[<IC2:blockReactorChamber>,<moegadd:Mainframe7>,<gregtech:gt.multiitem.technological:30501>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12085>*2,<gregtech:gt.meta.plate:220>*6], 
+[<IC2:blockReactorChamber>,<ore:MF7>,<gregtech:gt.multiitem.technological:30501>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12085>*2,<gregtech:gt.meta.plate:220>*6],
 [null],
 [null],
 [<IC2:blockGenerator:5>]);

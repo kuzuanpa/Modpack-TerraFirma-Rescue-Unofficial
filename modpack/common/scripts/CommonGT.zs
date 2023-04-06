@@ -537,16 +537,16 @@ MTUtilsGT.addCustomRecipe("gt.recipe.magneticseparator", false, 16, 400 ,0,[1000
 // Fusion reactor
 recipes.remove(<gregtech:gt.multitileentity:17198>);
 recipes.addShaped(<gregtech:gt.multitileentity:17198>,
-[[<moegadd:MainframeCluster5>,<gregtech:gt.multiitem.technological:12105>,<moegadd:MainframeCluster5>],
+[[<ore:MF6>,<gregtech:gt.multiitem.technological:12105>,<ore:MF6>],
 [<gregtech:gt.multiitem.technological:12105>,<gregtech:gt.multitileentity:18003>,<gregtech:gt.multiitem.technological:12105>],
-[<moegadd:MainframeCluster5>,<gregtech:gt.multiitem.technological:12105>,<moegadd:MainframeCluster5>]]);
+[<ore:MF6>,<gregtech:gt.multiitem.technological:12105>,<ore:MF6>]]);
 
 // Partcile collider
 recipes.remove(<gregtech:gt.multitileentity:17200>);
 recipes.addShaped(<gregtech:gt.multitileentity:17200>,
-[[<moegadd:MainframeCluster7>,<gregtech:gt.multiitem.technological:12109>,<moegadd:MainframeCluster7>],
+[[<ore:MF8>,<gregtech:gt.multiitem.technological:12109>,<ore:MF8>],
 [<gregtech:gt.multiitem.technological:12109>,<gregtech:gt.multitileentity:18014>,<gregtech:gt.multiitem.technological:12109>],
-[<moegadd:MainframeCluster7>,<gregtech:gt.multiitem.technological:12109>,<moegadd:MainframeCluster7>]]);
+[<ore:MF8>,<gregtech:gt.multiitem.technological:12109>,<ore:MF8>]]);
 
 // PUV1 emitter
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 4096, 400 ,0,[10000],
@@ -557,14 +557,14 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 4096, 400 ,0,[10000],
 
 // UV emitter
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 3072, 400 ,0,[10000],
-[<gregtech:gt.multitileentity:29207>*8,<gregtech:gt.meta.plateDouble:8790>*2,<moegadd:StarPlatinum>,<moegadd:Mainframe2>*2],
+[<gregtech:gt.multitileentity:29207>*8,<gregtech:gt.meta.plateDouble:8790>*2,<moegadd:StarPlatinum>,<ore:MF3>*2],
 [null],
 [null],
 [<gregtech:gt.multiitem.technological:12108>]);
 
 // ZPM emitter
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 2048, 400 ,0,[10000],
-[<gregtech:gt.multitileentity:29207>*6,<gregtech:gt.meta.plateDouble:760>*2,<moegadd:StarPlatinum>,<moegadd:Mainframe1>*2],
+[<gregtech:gt.multitileentity:29207>*6,<gregtech:gt.meta.plateDouble:760>*2,<moegadd:StarPlatinum>,<ore:MF1>*2],
 [null],
 [null],
 [<gregtech:gt.multiitem.technological:12107>]);
@@ -651,7 +651,7 @@ recipes.addShaped(y0,[
 
 recipes.remove(y02);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 200 ,0,[10000],
-[y0,x01 *4, x03 *4 , <moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:30403>*4],
+[y0,x01 *4, x03 *4 , <ore:MF7>,<gregtech:gt.multiitem.technological:30403>*4],
 [<liquid:ic2coolant>*1000],
 [null],
 [y02]);
@@ -672,7 +672,7 @@ recipes.remove(y3);
 recipes.addShaped(y03,[
 [<gregtech:gt.multiitem.technological:30504>,<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:30504>],
 [x04,<gregtech:gt.meta.machine:8682>,x04],
-[x05,<moegadd:MainframeCluster7>,x06]]
+[x05,<ore:MF8>,x06]]
 );
 }
 
@@ -1088,22 +1088,22 @@ recipes.addShaped(<gregtech:gt.multitileentity:32013>*6,
 // Large mass fab
 recipes.remove(<gregtech:gt.multitileentity:17199>);
 recipes.addShaped(<gregtech:gt.multitileentity:17199>,
-[[<moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:12106>,<moegadd:MainframeCluster6>],
+[[<ore:MF7>,<gregtech:gt.multiitem.technological:12106>,<ore:MF7>],
 [<gregtech:gt.multiitem.technological:12106>,<gregtech:gt.multitileentity:18117>,<gregtech:gt.multiitem.technological:12106>],
-[<moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:12106>,<moegadd:MainframeCluster6>]]);
+[<ore:MF7>,<gregtech:gt.multiitem.technological:12106>,<ore:MF7>]]);
 
 // Large replicator
 recipes.remove(<gregtech:gt.multitileentity:17118>);
 recipes.addShaped(<gregtech:gt.multitileentity:17118>,
-[[<moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:12106>,<moegadd:MainframeCluster6>],
+[[<ore:MF7>,<gregtech:gt.multiitem.technological:12106>,<ore:MF7>],
 [<gregtech:gt.multiitem.technological:12126>,<gregtech:gt.multitileentity:18117>,<gregtech:gt.multiitem.technological:12126>],
-[<moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:12106>,<moegadd:MainframeCluster6>]]);
+[<ore:MF7>,<gregtech:gt.multiitem.technological:12106>,<ore:MF7>]]);
 
 // Large molecular scanner
 recipes.remove(<gregtech:gt.multitileentity:17117>);
 recipes.addShaped(<gregtech:gt.multitileentity:17117>,
 [[<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>],
-[<gregtech:gt.multiitem.technological:12146>,<moegadd:MainframeCluster6>,<gregtech:gt.multiitem.technological:12146>],
+[<gregtech:gt.multiitem.technological:12146>,<ore:MF7>,<gregtech:gt.multiitem.technological:12146>],
 [<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>]]);
 
 // Distillation tower

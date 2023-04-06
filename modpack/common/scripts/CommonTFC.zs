@@ -222,6 +222,22 @@ mods.Terrafirmacraft.Barrel.addItemConversion(<tfccellars:Ice>*10, <terrafirmacr
 //Lumber production
 var logs = [<terrafirmacraft:item.Log>,<terrafirmacraft:item.Log:1>,<terrafirmacraft:item.Log:2>,<terrafirmacraft:item.Log:3>,<terrafirmacraft:item.Log:4>,<terrafirmacraft:item.Log:5>,<terrafirmacraft:item.Log:6>,<terrafirmacraft:item.Log:7>,<terrafirmacraft:item.Log:8>,<terrafirmacraft:item.Log:9>,<terrafirmacraft:item.Log:10>,<terrafirmacraft:item.Log:11>,<terrafirmacraft:item.Log:12>,<terrafirmacraft:item.Log:13>,<terrafirmacraft:item.Log:14>,<terrafirmacraft:item.Log:15>,<terrafirmacraft:item.Log:16>] as IItemStack[];
 
+//remove quern ore processing
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:5>, <terrafirmacraft:item.Small Ore:3>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:5>*2, <terrafirmacraft:item.Ore:3>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:5>*4, <terrafirmacraft:item.Ore:38>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:5>*6, <terrafirmacraft:item.Ore:52>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:7>, <terrafirmacraft:item.Small Ore:11>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:7>*2, <terrafirmacraft:item.Ore:60>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:7>*4, <terrafirmacraft:item.Ore:11>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:7>*6, <terrafirmacraft:item.Ore:46>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:8>, <terrafirmacraft:item.Small Ore:9>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:8>*2, <terrafirmacraft:item.Ore:58>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:8>*4, <terrafirmacraft:item.Ore:9>);
+mods.Terrafirmacraft.Quern.removeRecipe(<terrafirmacraft:item.Powder:8>*6, <terrafirmacraft:item.Ore:44>);
+
+
+
 for i, plank in singlePlanks {
 var log = logs[i];
 

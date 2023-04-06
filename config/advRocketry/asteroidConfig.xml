@@ -2,10 +2,10 @@
 	<asteroid name="顽石" distance="10" mass="18000" massVariability="0.5" minLevel="0" probability="0.9" richness="0.005" richnessVariability="0.003">
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="20" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
-		<ore itemStack="libVulpes:libVulpesore0 5" chance="25" />
+		<ore itemStack="libVulpes:libVulpesore0 4" chance="25" />
 	</asteroid>
 	<asteroid name="锡弗里星" distance="10" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.36">
-		<ore itemStack="libVulpes:libSuppressor0 5" chance="20" />
+		<ore itemStack="libVulpes:libVulpesore0 5" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>
 	<asteroid name="镍古伯星" distance="10" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.3" richnessVariability="0.29">
@@ -13,7 +13,7 @@
 		<ore itemStack="advancedRocketry:tile.geode" chance="25" />
 	</asteroid>
 	<asteroid name="铜瑟冉星" distance="10" mass="12000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.32">
-		<ore itemStack="libVulpes:libVulpesore0 5" chance="25" />
+		<ore itemStack="libVulpes:libVulpesore0 4" chance="25" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>
 	<asteroid name="铬铁兰伯星" distance="100" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.35" richnessVariability="0.35">
