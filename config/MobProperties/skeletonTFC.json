@@ -1,0 +1,12 @@
+{
+  "_name": "skeletonTFC",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.attackDamage",
+                "value": 200,
+                "operator": 0
+        }]
+}

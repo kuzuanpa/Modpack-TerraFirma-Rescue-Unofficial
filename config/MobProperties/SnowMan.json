@@ -1,0 +1,12 @@
+{
+  "_name": "SnowMan",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 400,
+                "operator": 0
+        }]
+}

@@ -1,0 +1,12 @@
+{
+  "_name": "Ozelot",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 700,
+                "operator": 0
+        }]
+}

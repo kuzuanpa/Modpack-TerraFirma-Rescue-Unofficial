@@ -1,0 +1,11 @@
+{
+  "_name": "Creeper",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 2000,
+                "operator": 0
+        }]
+}

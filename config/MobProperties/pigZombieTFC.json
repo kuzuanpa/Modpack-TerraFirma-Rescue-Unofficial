@@ -1,0 +1,12 @@
+{
+  "_name": "pigZombieTFC",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.attackDamage",
+                "value": 300,
+                "operator": 0
+        }]
+}

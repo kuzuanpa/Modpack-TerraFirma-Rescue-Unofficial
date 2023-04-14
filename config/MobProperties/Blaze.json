@@ -1,0 +1,17 @@
+{
+  "_name": "Blaze",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [    {
+                "function": "modifier",
+                "attribute": "generic.attackDamage",
+                "value": 100,
+                "operator": 0
+        },
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 980,
+                "operator": 0
+        }]
+}

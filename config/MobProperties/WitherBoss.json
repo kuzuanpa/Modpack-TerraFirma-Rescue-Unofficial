@@ -1,0 +1,18 @@
+{
+  "_name": "WitherBoss",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.attackDamage",
+                "value": 500,
+                "operator": 0
+        },
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 20000,
+                "operator": 0
+        }]
+}
