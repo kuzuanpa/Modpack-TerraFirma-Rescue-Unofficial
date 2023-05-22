@@ -171,14 +171,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotPinkFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8437</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotInfinity</oreDict>
 		</input>
 		<output>
@@ -323,14 +315,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotOrangeFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8443</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotAntiFermium</oreDict>
 		</input>
 		<output>
@@ -431,14 +415,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick 2 8639</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotYellowFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8442</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -1043,14 +1019,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotGreenFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8439</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotUnunennium</oreDict>
 		</input>
 		<output>
@@ -1459,14 +1427,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotMagentaFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8444</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotAnySilicon</oreDict>
 		</input>
 		<output>
@@ -1723,14 +1683,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotRedFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8436</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotNichrome</oreDict>
 		</input>
 		<output>
@@ -1915,14 +1867,6 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotWhiteFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8441</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotCalifornium</oreDict>
 		</input>
 		<output>
@@ -2073,30 +2017,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick 2 945</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotInolashite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8777</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotBlueFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 8438</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotLiquifiedCoralium</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick 2 1860</itemStack>
-		</output>
-	</Recipe>
+
 	<Recipe timeRequired="300" power ="20">
 		<input>
 			<oreDict>ingotAlumite</oreDict>
