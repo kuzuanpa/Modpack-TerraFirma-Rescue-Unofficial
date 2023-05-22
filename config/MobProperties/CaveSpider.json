@@ -1,0 +1,18 @@
+{
+  "_name": "CaveSpider",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "_comment": "值，这里为 3000 生命值",
+                "value": 2600,
+                "operator": 0
+        },{
+                "function": "modifier",
+                "attribute": "generic.attackDamage",
+                "value": 700,
+                "operator": 0
+        }]
+}

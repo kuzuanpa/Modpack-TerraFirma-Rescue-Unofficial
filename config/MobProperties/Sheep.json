@@ -1,0 +1,12 @@
+{
+  "_name": "Sheep",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 600,
+                "operator": 0
+        }]
+}

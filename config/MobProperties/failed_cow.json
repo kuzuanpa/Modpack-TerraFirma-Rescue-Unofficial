@@ -1,0 +1,12 @@
+{
+  "_name": "failed_cow",
+  "drops": [],
+  "pre_stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 800,
+                "operator": 0
+        }],
+  "stats": []
+}

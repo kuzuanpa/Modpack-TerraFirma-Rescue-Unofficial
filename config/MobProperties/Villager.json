@@ -1,0 +1,12 @@
+{
+  "_name": "Villager",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 1000,
+                "operator": 0
+        }]
+}
