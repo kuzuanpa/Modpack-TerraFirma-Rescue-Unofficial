@@ -1,13 +1,20 @@
 /*
- * Original Author: TeamMoeg <teammoeg.com>
+ * Copyright (c) 2023.
+ * Original Author: TeamMoeg
+ * https://teammoeg.com
+ * Unofficial Version Main Author: kuzuanpa
+ * https://github.com/kuzuanpa
  *
- * This file is distributed as part of the Terrafirma: Rescue Modpack.
- * Visit the whole Project Source Code on Github.
+ * This file is distributed as part of the Terrafirma: Rescue Unofficial Modpack.
+ * Visit whole Source Code on Github:
+ * https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
  *
- * Terrafirma: Rescue is a Free and Open Source Software distributed under the
- * Terrafirma: Rescue License.
+ * Terrafirma: Rescue Unofficial is a fork of Terrafirma: Rescue, Visit their Source Code on Github:
+ * https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
  *
- * Visit <forum.teammoeg.com> to see the links to Github and License.
+ * Terrafirma: Rescue Unofficial is a Free and Open Source Software distributed under the
+ * Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
+ *
  */
 
 import mods.MTUtilsGT;

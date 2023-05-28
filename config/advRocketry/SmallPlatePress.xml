@@ -1,14 +1,21 @@
-<!-->
-Original Author: TeamMoeg
-https://teammoeg.com
-
-This file is distributed as part of the Terrafirma: Rescue Modpack.
-Visit the whole Project Source Code on Github:
-https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
-
-Terrafirma: Rescue is a Free and Open Source Software distributed under the
-Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
-<!-->
+<!--
+  ~ Copyright (c) 2023.
+  ~ Original Author: TeamMoeg
+  ~ https://teammoeg.com
+  ~ Unofficial Version Main Author: kuzuanpa
+  ~ https://github.com/kuzuanpa
+  ~
+  ~ This file is distributed as part of the Terrafirma: Rescue Unofficial Modpack.
+  ~ Visit whole Source Code on Github:
+  ~ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
+  ~
+  ~ Terrafirma: Rescue Unofficial is a fork of Terrafirma: Rescue, Visit their Source Code on Github:
+  ~ https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
+  ~
+  ~ Terrafirma: Rescue Unofficial is a Free and Open Source Software distributed under the
+  ~ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
+  ~
+  -->
 
 <!-->
 	<Recipe timeRequired="NUMBER" power="NUMBER">
@@ -38,7 +45,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreDilithium</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -46,7 +53,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockIron</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 1</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;1</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -54,7 +61,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreIron</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2 1</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2;1</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -62,7 +69,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockGold</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 2</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -70,7 +77,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreGold</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2 2</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2;2</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -78,7 +85,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockCopper</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 4</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -86,7 +93,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreCopper</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2 4</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2;4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -94,7 +101,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockTin</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 5</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;5</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -102,7 +109,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreTin</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2 5</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2;5</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -110,7 +117,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockSteel</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 6</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;6</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -118,7 +125,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockTitanium</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 7</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;7</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -126,7 +133,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockAluminum</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 9</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;9</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -134,7 +141,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreAluminum</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2 9</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2;9</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -142,7 +149,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockIridium</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductplate 4 10</itemStack>
+			<itemStack>libVulpes:libVulpesproductplate;4;10</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -150,7 +157,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>oreIridium</oreDict>
 		</input>
 		<output>
-			<itemStack>libVulpes:libVulpesproductdust 2 10</itemStack>
+			<itemStack>libVulpes:libVulpesproductdust;2;10</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -158,7 +165,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockTitaniumAluminide</oreDict>
 		</input>
 		<output>
-			<itemStack>advancedRocketry:advancedRocketryproductplate 4</itemStack>
+			<itemStack>advancedRocketry:advancedRocketryproductplate;4</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
@@ -166,7 +173,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<oreDict>blockTitaniumIridium</oreDict>
 		</input>
 		<output>
-			<itemStack>advancedRocketry:advancedRocketryproductplate 4 1</itemStack>
+			<itemStack>advancedRocketry:advancedRocketryproductplate;4;1</itemStack>
 		</output>
 	</Recipe>
 </Recipes>

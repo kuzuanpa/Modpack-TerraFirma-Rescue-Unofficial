@@ -100,7 +100,7 @@
 
     "texts": {
         "tfrcopyright": {
-            "text": "Modpack created by TeamMoeg,Modified by kuzuanpa. All scripts and custom resources are licensed under CC-BY-NC-ND 4.0 International! See: https://creativecommons.org/",
+            "text": "Modpack created by TeamMoeg,Modified by kuzuanpa. All scripts and custom resources are licensed under Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE",
             "posX": 5,
             "posY": -35,
             "fontSize": 0.6,

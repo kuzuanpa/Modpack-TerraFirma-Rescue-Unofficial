@@ -1,5 +1,5 @@
 <Asteroids>
-	<asteroid name="顽石" distance="10" mass="18000" massVariability="0.5" minLevel="0" probability="0.9" richness="0.005" richnessVariability="0.003">
+	<asteroid name="顽石" distance="10" mass="18000" massVariability="0.5" minLevel="0" probability="0.5" richness="0.005" richnessVariability="0.003">
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="20" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
 		<ore itemStack="libVulpes:libVulpesore0 4" chance="25" />

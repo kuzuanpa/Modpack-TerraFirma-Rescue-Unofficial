@@ -4,14 +4,14 @@
 	<a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_downloads.svg?badge_style=flat" alt="Curseforge Downloads"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/versions/For%20MC_terrafirma-rescue_all.svg?badge_style=flat" alt="Curseforge Versions"></a><br>
-	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-tfr%20license-brightgreen?style=flat-square" alt="License"></a>
-	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/releases"><img src="https://img.shields.io/github/tag/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Tags"></a>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-tfr%20license-brightgreen?style=flat-square" alt="License"></a>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/releases"><img src="https://img.shields.io/github/tag/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Tags"></a>
 	<a href="https://discord.gg/BWn6E94"><img src="https://img.shields.io/badge/discord-chat%20with%20players-pink?style=flat-square" alt="Discord"></a>
 	<a href="https://www.patreon.com/TeamMoegProjects"><img src="https://img.shields.io/badge/patreon-support%20the%20devs-orange.svg?style=flat-square" alt="Patreon"></a>
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a>
 </h1>
 
-- This is a Minecraft 1.7.10 Modpack created by TeamMoeg, Unofficialy modified by kuzuanpa, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech-6-Unofficial](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
+- This is a Minecraft 1.7.10 Modpack created by TeamMoeg, Unofficialy modified by kuzuanpa, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech6](https://mechaenetia.com/downloads/), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented. 
   You start an epic story of rescuing yourself on a miraculous life-sustainable moon - Terrafirma - of a gas giant 68.4 light years from Earth, 
   starting with nothing, gathering natural resources, expanding a base, developing technology, exploring the expanse of the planetary system, 
   and eventually building a warp engine to return to Earth, the sweet cozy home of mankind.
@@ -37,7 +37,7 @@
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Support Localization
 
 - Visit the [Localization Port](https://github.com/TerraFirmaRescue/TFR-Localization) of quests for Terrafirma: Rescue. 
-  All contributors will be included in the [Supporter List](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/supporterlist.txt).
+  All contributors will be included in the [Supporter List](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/supporterlist.txt).
 
 ## <img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="20"> Join the Development and Contribute to this Project!
 
@@ -49,7 +49,7 @@
   
 - Sources of Original Mods and Modified Mods in TerraFirma: Rescue can be found in [This Organization](https://github.com/TerraFirmaRescue/)
   
-- All contributors will be included in the [Supporter List](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/supporterlist.txt).
+- All contributors will be included in the [Supporter List](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/supporterlist.txt).
 
 <br><br><br>
 
@@ -63,15 +63,15 @@
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_次下载.svg?badge_style=flat" alt="Curseforge Downloads"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/versions/For%20MC_terrafirma-rescue_all.svg?badge_style=flat" alt="Curseforge Versions"></a><br>
-	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE"><img src="https://img.shields.io/badge/开源协议-tfr%20协议-brightgreen?style=flat-square" alt="License"></a>
-	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/issues"><img src="https://img.shields.io/github/issues/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Issues"></a>
-	<a href="https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/releases"><img src="https://img.shields.io/github/tag/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Tags"></a>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/LICENSE"><img src="https://img.shields.io/badge/开源协议-tfr%20协议-brightgreen?style=flat-square" alt="License"></a>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/issues"><img src="https://img.shields.io/github/issues/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Issues"></a>
+	<a href="https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/releases"><img src="https://img.shields.io/github/tag/TerraFirmaRescue/TerraFirma-Rescue-Modpack?style=flat-square" alt="Tags"></a>
 	<a href="https://discord.gg/BWn6E94"><img src="https://img.shields.io/badge/discord-和玩家聊天-pink?style=flat-square" alt="Discord"></a>
 	<a href="https://www.patreon.com/TeamMoegProjects"><img src="https://img.shields.io/badge/patreon-赞助我们-orange.svg?style=flat-square" alt="Patreon"></a>
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a><br>
 </h1>
 
-- **一个由 TeamMoeg 制作，苦钻怕修改的 Minecraft 1.7.10 整合包，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6非官方版](https://www.curseforge.com/minecraft/mc-mods/gregtech6-unofficial), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) 制作。**
+- **一个由 TeamMoeg 制作，苦钻怕修改的 Minecraft 1.7.10 整合包，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6](https://mechaenetia.com/downloads/), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) 制作。**
 
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 

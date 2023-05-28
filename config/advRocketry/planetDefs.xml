@@ -1,18 +1,21 @@
-<!-->
-Original Author: TeamMoeg
-https://teammoeg.com
-
-This file is distributed as part of the Terrafirma: Rescue Modpack.
-Visit the whole Project Source Code on Github:
-https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
-
-Terrafirma: Rescue is a Free and Open Source Software distributed under the
-Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
-
-This file is edited by kuzuanpa as unofficial fork of TFR.
-Visit source code on Github:
-https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
-<!-->
+<!--
+  ~ Copyright (c) 2023.
+  ~ Original Author: TeamMoeg
+  ~ https://teammoeg.com
+  ~ Unofficial Version Main Author: kuzuanpa
+  ~ https://github.com/kuzuanpa
+  ~
+  ~ This file is distributed as part of the Terrafirma: Rescue Unofficial Modpack.
+  ~ Visit whole Source Code on Github:
+  ~ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
+  ~
+  ~ Terrafirma: Rescue Unofficial is a fork of Terrafirma: Rescue, Visit their Source Code on Github:
+  ~ https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
+  ~
+  ~ Terrafirma: Rescue Unofficial is a Free and Open Source Software distributed under the
+  ~ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
+  ~
+  -->
 
 <galaxy>
 	<star name="Da Shuai Bi a" temp="10" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
