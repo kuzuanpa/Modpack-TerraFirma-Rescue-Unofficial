@@ -1,0 +1,7 @@
+该文件记录了所有参与过TFRU开发的贡献者，苦钻怕非常感谢每位贡献者的付出qwq
+苦钻怕 kuzuanpa@github.com
+- 省略
+EOF UID348709887@bilibili.com
+- 文案: 整条养蜂任务线，工具任务线中的GT工具
+银心 UID39663463@bilibili.com
+- 美工: kTFRUAddon中部分机器的材质
