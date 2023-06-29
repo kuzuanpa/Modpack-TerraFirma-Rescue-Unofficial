@@ -3683,7 +3683,20 @@
           "desc:8": "tfru.q47d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "50:10": {
       "tasks:9": {
@@ -6656,7 +6669,7 @@
         }
       },
       "preRequisites:11": [
-        61
+        824
       ],
       "questID:3": 96,
       "properties:10": {
@@ -7577,7 +7590,20 @@
           "desc:8": "tfru.q49d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "110:10": {
       "tasks:9": {
@@ -8089,7 +8115,11 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Resource",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Resource",
+                "orig_meta:3": 6
+              },
               "Damage:2": 6,
               "OreDict:8": ""
             }
@@ -8111,7 +8141,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "Avaritia:Resource",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "Avaritia:Resource",
+              "orig_meta:3": 6
+            },
             "Damage:2": 6,
             "OreDict:8": ""
           },
@@ -8156,7 +8190,11 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Infinity_Sword",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Infinity_Sword",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -8177,7 +8215,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "Avaritia:Infinity_Sword",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "Avaritia:Infinity_Sword",
+              "orig_meta:3": 0
+            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -8696,7 +8738,11 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Neutronium_Compressor",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Neutronium_Compressor",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -8716,7 +8762,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "Avaritia:Neutronium_Compressor",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "Avaritia:Neutronium_Compressor",
+              "orig_meta:3": 0
+            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -8761,7 +8811,11 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Dire_Crafting",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Dire_Crafting",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -8781,7 +8835,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "Avaritia:Dire_Crafting",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "Avaritia:Dire_Crafting",
+              "orig_meta:3": 0
+            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -8886,7 +8944,11 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Resource",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Resource",
+                "orig_meta:3": 4
+              },
               "Damage:2": 4,
               "OreDict:8": ""
             }
@@ -8906,7 +8968,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "Avaritia:Resource",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "Avaritia:Resource",
+              "orig_meta:3": 4
+            },
             "Damage:2": 4,
             "OreDict:8": ""
           },
@@ -11429,7 +11495,20 @@
           "desc:8": "ph.empty"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "171:10": {
       "tasks:9": {
@@ -11675,7 +11754,28 @@
           "desc:8": "tfru.q52d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "176:10": {
       "tasks:9": {
@@ -11836,7 +11936,20 @@
           "desc:8": "tfru.q51d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 4,
+              "id:8": "Forestry:beeCombs",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "179:10": {
       "tasks:9": {
@@ -11989,7 +12102,34 @@
           "desc:8": "tfru.q54d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "Count:3": 4,
+              "id:8": "Forestry:beeCombs",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "180:10": {
       "tasks:9": {
@@ -12125,7 +12265,20 @@
           "desc:8": "ph.empty"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "181:10": {
       "tasks:9": {
@@ -12230,7 +12383,20 @@
           "desc:8": "tfru.q48d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 4,
+              "id:8": "Forestry:beeCombs",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "183:10": {
       "tasks:9": {
@@ -12366,7 +12532,20 @@
           "desc:8": "ph.empty"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "184:10": {
       "tasks:9": {
@@ -12376,13 +12555,13 @@
           "groupDetect:1": 0,
           "requiredItems:9": {
             "0:10": {
-              "Count:3": 4,
+              "Count:3": 216,
               "id:8": "Forestry:royalJelly",
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
-              "Count:3": 4,
+              "Count:3": 216,
               "id:8": "Forestry:pollen",
               "Damage:2": 0,
               "OreDict:8": ""
@@ -12424,7 +12603,28 @@
           "desc:8": "tfru.q61d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 8,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "185:10": {
       "tasks:9": {
@@ -12560,7 +12760,20 @@
           "desc:8": "ph.empty"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "186:10": {
       "tasks:9": {},
@@ -17934,10 +18147,10 @@
           "partySingleReward:1": 0,
           "visibility:8": "NORMAL",
           "isMain:1": 0,
-          "name:8": "tfr.quest259.name",
+          "name:8": "tfru.q102n",
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "tfr.quest259.desc"
+          "desc:8": "tfru.q102d"
         }
       },
       "rewards:9": {
@@ -25455,7 +25668,28 @@
           "desc:8": "tfru.q64d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
     "374:10": {
       "tasks:9": {
@@ -26633,25 +26867,41 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Infinity_Helm",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Infinity_Helm",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "1:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Infinity_Chest",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Infinity_Chest",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "2:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Infinity_Pants",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Infinity_Pants",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             },
             "3:10": {
               "Count:3": 1,
-              "id:8": "Avaritia:Infinity_Shoes",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "Avaritia:Infinity_Shoes",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -26673,7 +26923,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "Avaritia:Infinity_Chest",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "Avaritia:Infinity_Chest",
+              "orig_meta:3": 0
+            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -27067,10 +27321,10 @@
           "partySingleReward:1": 0,
           "visibility:8": "NORMAL",
           "isMain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "tfru.q74n",
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q74d"
         }
       },
       "rewards:9": {}
@@ -27624,6 +27878,57 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 32,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 399,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 32,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q81n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q81d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "400:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
               "id:8": "gregtech:gt.multitileentity",
               "Damage:2": 20062,
               "OreDict:8": ""
@@ -27687,7 +27992,237 @@
         }
       }
     },
-    "400:10": {
+    "401:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 401,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "402:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 402,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "OpenBlocks:hangglider",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "403:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "IC2:itemBoat",
+              "Damage:2": 1,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 403,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "IC2:itemBoat",
+            "Damage:2": 3,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "404:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 404,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "405:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "Botania:tornadoRod",
+              "tag:10": {
+                "flying:1": 0
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 405,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "Botania:tornadoRod",
+            "tag:10": {
+              "flying:1": 0
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "406:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -27740,7 +28275,249 @@
       },
       "rewards:9": {}
     },
-    "401:10": {
+    "407:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 407,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "408:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 408,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "409:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "Botania:flightTiara",
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 409,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "Botania:flightTiara",
+            "tag:10": {
+              "playerHashcode:3": 51807,
+              "timeLeft:3": 1200
+            },
+            "Damage:2": 7,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "410:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "Botania:travelBelt",
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 410,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "Botania:superTravelBelt",
+            "tag:10": {
+              "playerHashcode:3": 51807
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "411:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "Botania:flugelEye",
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 411,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "Botania:flugelEye",
+            "tag:10": {},
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "412:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -27779,7 +28556,7 @@
       },
       "rewards:9": {}
     },
-    "402:10": {
+    "413:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -27846,7 +28623,7 @@
         }
       }
     },
-    "403:10": {
+    "414:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -27915,7 +28692,7 @@
         }
       }
     },
-    "404:10": {
+    "415:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -27980,7 +28757,7 @@
         }
       }
     },
-    "405:10": {
+    "416:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28045,7 +28822,7 @@
         }
       }
     },
-    "406:10": {
+    "417:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28432,7 +29209,7 @@
         }
       }
     },
-    "407:10": {
+    "418:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28503,7 +29280,7 @@
         }
       }
     },
-    "408:10": {
+    "419:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28556,7 +29333,7 @@
       },
       "rewards:9": {}
     },
-    "409:10": {
+    "420:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28623,7 +29400,7 @@
         }
       }
     },
-    "410:10": {
+    "421:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28688,7 +29465,7 @@
         }
       }
     },
-    "411:10": {
+    "422:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28753,7 +29530,7 @@
         }
       }
     },
-    "412:10": {
+    "423:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28818,7 +29595,7 @@
         }
       }
     },
-    "413:10": {
+    "424:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28883,7 +29660,7 @@
         }
       }
     },
-    "414:10": {
+    "425:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -28948,7 +29725,7 @@
         }
       }
     },
-    "415:10": {
+    "426:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29013,7 +29790,7 @@
         }
       }
     },
-    "416:10": {
+    "427:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29078,7 +29855,7 @@
         }
       }
     },
-    "417:10": {
+    "428:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29143,7 +29920,7 @@
         }
       }
     },
-    "418:10": {
+    "429:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29245,7 +30022,7 @@
         }
       }
     },
-    "419:10": {
+    "430:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29310,7 +30087,7 @@
         }
       }
     },
-    "420:10": {
+    "431:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29375,7 +30152,7 @@
         }
       }
     },
-    "421:10": {
+    "432:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29440,7 +30217,7 @@
         }
       }
     },
-    "422:10": {
+    "433:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29505,7 +30282,7 @@
         }
       }
     },
-    "423:10": {
+    "434:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29592,7 +30369,7 @@
         }
       }
     },
-    "424:10": {
+    "435:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29703,7 +30480,7 @@
         }
       }
     },
-    "425:10": {
+    "436:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29805,7 +30582,7 @@
         }
       }
     },
-    "426:10": {
+    "437:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29857,7 +30634,7 @@
       },
       "rewards:9": {}
     },
-    "427:10": {
+    "438:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29915,7 +30692,7 @@
       },
       "rewards:9": {}
     },
-    "428:10": {
+    "439:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -29980,7 +30757,7 @@
         }
       }
     },
-    "429:10": {
+    "440:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -30019,7 +30796,7 @@
       },
       "rewards:9": {}
     },
-    "430:10": {
+    "441:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30123,7 +30900,7 @@
         }
       }
     },
-    "431:10": {
+    "442:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30194,7 +30971,7 @@
         }
       }
     },
-    "432:10": {
+    "443:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30266,7 +31043,7 @@
         }
       }
     },
-    "433:10": {
+    "444:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30338,7 +31115,7 @@
         }
       }
     },
-    "434:10": {
+    "445:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30410,7 +31187,7 @@
         }
       }
     },
-    "435:10": {
+    "446:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30482,7 +31259,7 @@
         }
       }
     },
-    "436:10": {
+    "447:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30554,7 +31331,7 @@
         }
       }
     },
-    "437:10": {
+    "448:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30626,7 +31403,7 @@
         }
       }
     },
-    "438:10": {
+    "449:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30635,7 +31412,11 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "avaritiaddons:CompressedChest",
+              "id:8": "betterquesting:placeholder",
+              "tag:10": {
+                "orig_id:8": "avaritiaddons:CompressedChest",
+                "orig_meta:3": 0
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -30655,7 +31436,11 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "avaritiaddons:CompressedChest",
+            "id:8": "betterquesting:placeholder",
+            "tag:10": {
+              "orig_id:8": "avaritiaddons:CompressedChest",
+              "orig_meta:3": 0
+            },
             "Damage:2": 0,
             "OreDict:8": ""
           },
@@ -30697,7 +31482,7 @@
         }
       }
     },
-    "439:10": {
+    "450:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30768,7 +31553,7 @@
         }
       }
     },
-    "440:10": {
+    "451:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30839,7 +31624,7 @@
         }
       }
     },
-    "441:10": {
+    "452:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30910,7 +31695,7 @@
         }
       }
     },
-    "442:10": {
+    "453:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -30981,7 +31766,7 @@
         }
       }
     },
-    "443:10": {
+    "454:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31052,7 +31837,7 @@
         }
       }
     },
-    "444:10": {
+    "455:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31123,7 +31908,7 @@
         }
       }
     },
-    "445:10": {
+    "456:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31194,7 +31979,7 @@
         }
       }
     },
-    "446:10": {
+    "457:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31265,7 +32050,7 @@
         }
       }
     },
-    "447:10": {
+    "458:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31336,7 +32121,7 @@
         }
       }
     },
-    "448:10": {
+    "459:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31401,7 +32186,7 @@
         }
       }
     },
-    "449:10": {
+    "460:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -31453,7 +32238,7 @@
       },
       "rewards:9": {}
     },
-    "450:10": {
+    "461:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -31492,7 +32277,7 @@
       },
       "rewards:9": {}
     },
-    "451:10": {
+    "462:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -31647,7 +32432,7 @@
         }
       }
     },
-    "452:10": {
+    "463:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -31797,7 +32582,7 @@
         }
       }
     },
-    "453:10": {
+    "464:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -31942,7 +32727,7 @@
         }
       }
     },
-    "454:10": {
+    "465:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32107,7 +32892,7 @@
         }
       }
     },
-    "455:10": {
+    "466:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32250,7 +33035,7 @@
         }
       }
     },
-    "456:10": {
+    "467:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32393,7 +33178,7 @@
         }
       }
     },
-    "457:10": {
+    "468:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32546,7 +33331,7 @@
         }
       }
     },
-    "458:10": {
+    "469:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32698,7 +33483,7 @@
         }
       }
     },
-    "459:10": {
+    "470:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32838,7 +33623,7 @@
         }
       }
     },
-    "460:10": {
+    "471:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -32987,7 +33772,7 @@
         }
       }
     },
-    "461:10": {
+    "472:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -33147,7 +33932,7 @@
         }
       }
     },
-    "462:10": {
+    "473:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -33290,7 +34075,7 @@
         }
       }
     },
-    "463:10": {
+    "474:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -33430,7 +34215,7 @@
         }
       }
     },
-    "464:10": {
+    "475:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -33567,7 +34352,7 @@
         }
       }
     },
-    "465:10": {
+    "476:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -33722,7 +34507,7 @@
         }
       }
     },
-    "466:10": {
+    "477:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -33872,7 +34657,7 @@
         }
       }
     },
-    "467:10": {
+    "478:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -34017,7 +34802,7 @@
         }
       }
     },
-    "468:10": {
+    "479:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -34170,7 +34955,7 @@
         }
       }
     },
-    "469:10": {
+    "480:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -34322,7 +35107,7 @@
         }
       }
     },
-    "470:10": {
+    "481:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -34487,7 +35272,7 @@
         }
       }
     },
-    "471:10": {
+    "482:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -34647,7 +35432,7 @@
         }
       }
     },
-    "472:10": {
+    "483:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -34784,7 +35569,7 @@
         }
       }
     },
-    "473:10": {
+    "484:10": {
       "tasks:9": {},
       "preRequisites:11": [
         472,
@@ -34832,7 +35617,7 @@
         }
       }
     },
-    "474:10": {
+    "485:10": {
       "tasks:9": {},
       "preRequisites:11": [
         462,
@@ -34889,7 +35674,7 @@
         }
       }
     },
-    "475:10": {
+    "486:10": {
       "tasks:9": {},
       "preRequisites:11": [
         476,
@@ -34946,7 +35731,7 @@
         }
       }
     },
-    "476:10": {
+    "487:10": {
       "tasks:9": {},
       "preRequisites:11": [
         482,
@@ -34994,7 +35779,7 @@
         }
       }
     },
-    "477:10": {
+    "488:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -35131,7 +35916,7 @@
         }
       }
     },
-    "478:10": {
+    "489:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -35268,7 +36053,7 @@
         }
       }
     },
-    "479:10": {
+    "490:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -35405,7 +36190,7 @@
         }
       }
     },
-    "480:10": {
+    "491:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -35560,7 +36345,7 @@
         }
       }
     },
-    "481:10": {
+    "492:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -35710,7 +36495,7 @@
         }
       }
     },
-    "482:10": {
+    "493:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -35855,7 +36640,7 @@
         }
       }
     },
-    "483:10": {
+    "494:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36008,7 +36793,7 @@
         }
       }
     },
-    "484:10": {
+    "495:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36160,7 +36945,7 @@
         }
       }
     },
-    "485:10": {
+    "496:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36325,7 +37110,7 @@
         }
       }
     },
-    "486:10": {
+    "497:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36486,7 +37271,7 @@
         }
       }
     },
-    "487:10": {
+    "498:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36641,7 +37426,7 @@
         }
       }
     },
-    "488:10": {
+    "499:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36791,7 +37576,7 @@
         }
       }
     },
-    "489:10": {
+    "500:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -36936,7 +37721,7 @@
         }
       }
     },
-    "490:10": {
+    "501:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -37089,7 +37874,7 @@
         }
       }
     },
-    "491:10": {
+    "502:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -37241,7 +38026,7 @@
         }
       }
     },
-    "492:10": {
+    "503:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -37406,7 +38191,7 @@
         }
       }
     },
-    "493:10": {
+    "504:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -37566,7 +38351,7 @@
         }
       }
     },
-    "494:10": {
+    "505:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -37650,7 +38435,7 @@
         }
       }
     },
-    "495:10": {
+    "506:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -37734,7 +38519,7 @@
         }
       }
     },
-    "496:10": {
+    "507:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -37814,7 +38599,7 @@
         }
       }
     },
-    "497:10": {
+    "508:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -37899,7 +38684,7 @@
         }
       }
     },
-    "498:10": {
+    "509:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -37984,7 +38769,7 @@
         }
       }
     },
-    "499:10": {
+    "510:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -38149,7 +38934,7 @@
         }
       }
     },
-    "500:10": {
+    "511:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -38309,7 +39094,7 @@
         }
       }
     },
-    "501:10": {
+    "512:10": {
       "tasks:9": {},
       "preRequisites:11": [
         496
@@ -38356,7 +39141,7 @@
         }
       }
     },
-    "502:10": {
+    "513:10": {
       "tasks:9": {},
       "preRequisites:11": [
         504,
@@ -38404,7 +39189,7 @@
         }
       }
     },
-    "503:10": {
+    "514:10": {
       "tasks:9": {},
       "preRequisites:11": [
         511,
@@ -38452,7 +39237,7 @@
         }
       }
     },
-    "504:10": {
+    "515:10": {
       "tasks:9": {},
       "preRequisites:11": [
         491,
@@ -38503,7 +39288,7 @@
         }
       }
     },
-    "505:10": {
+    "516:10": {
       "tasks:9": {},
       "preRequisites:11": [
         498,
@@ -38554,7 +39339,7 @@
         }
       }
     },
-    "506:10": {
+    "517:10": {
       "tasks:9": {},
       "preRequisites:11": [
         505,
@@ -38605,7 +39390,7 @@
         }
       }
     },
-    "507:10": {
+    "518:10": {
       "tasks:9": {},
       "preRequisites:11": [
         514,
@@ -38659,7 +39444,7 @@
         }
       }
     },
-    "508:10": {
+    "519:10": {
       "tasks:9": {
         "0:10": {
           "targetNBT:10": {
@@ -38777,7 +39562,7 @@
       },
       "rewards:9": {}
     },
-    "509:10": {
+    "520:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -38849,7 +39634,7 @@
         }
       }
     },
-    "510:10": {
+    "521:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -38915,7 +39700,7 @@
         }
       }
     },
-    "511:10": {
+    "522:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -38936,8 +39721,7 @@
         }
       },
       "preRequisites:11": [
-        521,
-        528
+        529
       ],
       "questID:3": 522,
       "properties:10": {
@@ -38968,7 +39752,7 @@
       },
       "rewards:9": {}
     },
-    "512:10": {
+    "523:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -38996,7 +39780,8 @@
         }
       },
       "preRequisites:11": [
-        521
+        521,
+        528
       ],
       "questID:3": 523,
       "properties:10": {
@@ -39027,7 +39812,7 @@
       },
       "rewards:9": {}
     },
-    "513:10": {
+    "524:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39079,7 +39864,7 @@
       },
       "rewards:9": {}
     },
-    "514:10": {
+    "525:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39100,7 +39885,7 @@
         }
       },
       "preRequisites:11": [
-        337
+        111
       ],
       "questID:3": 525,
       "properties:10": {
@@ -39144,7 +39929,7 @@
         }
       }
     },
-    "515:10": {
+    "526:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39196,7 +39981,7 @@
       },
       "rewards:9": {}
     },
-    "516:10": {
+    "527:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39248,7 +40033,7 @@
       },
       "rewards:9": {}
     },
-    "517:10": {
+    "528:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39300,7 +40085,7 @@
       },
       "rewards:9": {}
     },
-    "518:10": {
+    "529:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39353,7 +40138,7 @@
       },
       "rewards:9": {}
     },
-    "519:10": {
+    "530:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39374,7 +40159,7 @@
         }
       },
       "preRequisites:11": [
-        529
+        817
       ],
       "questID:3": 530,
       "properties:10": {
@@ -39405,7 +40190,7 @@
       },
       "rewards:9": {}
     },
-    "520:10": {
+    "531:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39457,7 +40242,7 @@
       },
       "rewards:9": {}
     },
-    "521:10": {
+    "532:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39508,7 +40293,7 @@
         }
       },
       "preRequisites:11": [
-        529
+        522
       ],
       "questID:3": 532,
       "properties:10": {
@@ -39539,7 +40324,7 @@
       },
       "rewards:9": {}
     },
-    "522:10": {
+    "533:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39567,7 +40352,7 @@
         }
       },
       "preRequisites:11": [
-        529
+        522
       ],
       "questID:3": 533,
       "properties:10": {
@@ -39598,7 +40383,7 @@
       },
       "rewards:9": {}
     },
-    "523:10": {
+    "534:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39664,7 +40449,7 @@
       },
       "rewards:9": {}
     },
-    "524:10": {
+    "535:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39735,7 +40520,7 @@
         }
       }
     },
-    "525:10": {
+    "536:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39806,7 +40591,7 @@
         }
       }
     },
-    "526:10": {
+    "537:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39877,7 +40662,7 @@
         }
       }
     },
-    "527:10": {
+    "538:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -39950,7 +40735,7 @@
         }
       }
     },
-    "528:10": {
+    "539:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40021,7 +40806,7 @@
         }
       }
     },
-    "529:10": {
+    "540:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40093,7 +40878,7 @@
         }
       }
     },
-    "530:10": {
+    "541:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40166,7 +40951,7 @@
         }
       }
     },
-    "531:10": {
+    "542:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40237,7 +41022,7 @@
         }
       }
     },
-    "532:10": {
+    "543:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40332,7 +41117,7 @@
         }
       }
     },
-    "533:10": {
+    "544:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40390,7 +41175,7 @@
       },
       "rewards:9": {}
     },
-    "534:10": {
+    "545:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40469,7 +41254,7 @@
         }
       }
     },
-    "535:10": {
+    "546:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40521,7 +41306,7 @@
       },
       "rewards:9": {}
     },
-    "536:10": {
+    "547:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40579,7 +41364,7 @@
       },
       "rewards:9": {}
     },
-    "537:10": {
+    "548:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40631,7 +41416,7 @@
       },
       "rewards:9": {}
     },
-    "538:10": {
+    "549:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40640,8 +41425,8 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "extracells:storage.component",
-              "Damage:2": 3,
+              "id:8": "appliedenergistics2:item.ItemMultiMaterial",
+              "Damage:2": 60,
               "OreDict:8": ""
             }
           },
@@ -40660,8 +41445,8 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "extracells:storage.component",
-            "Damage:2": 3,
+            "id:8": "appliedenergistics2:item.ItemMultiMaterial",
+            "Damage:2": 60,
             "OreDict:8": ""
           },
           "snd_update:8": "minecraft:entity.player.levelup",
@@ -40683,7 +41468,7 @@
       },
       "rewards:9": {}
     },
-    "539:10": {
+    "550:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40692,9 +41477,9 @@
           "requiredItems:9": {
             "0:10": {
               "Count:3": 1,
-              "id:8": "extracells:storage.fluid",
+              "id:8": "ae2fc:multi_fluid_storage16",
               "tag:10": {},
-              "Damage:2": 5,
+              "Damage:2": 0,
               "OreDict:8": ""
             }
           },
@@ -40713,9 +41498,9 @@
           "simultaneous:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "id:8": "extracells:storage.fluid",
+            "id:8": "ae2fc:multi_fluid_storage16",
             "tag:10": {},
-            "Damage:2": 5,
+            "Damage:2": 0,
             "OreDict:8": ""
           },
           "snd_update:8": "minecraft:entity.player.levelup",
@@ -40737,7 +41522,7 @@
       },
       "rewards:9": {}
     },
-    "540:10": {
+    "551:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40808,7 +41593,7 @@
         }
       }
     },
-    "541:10": {
+    "552:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40882,9 +41667,22 @@
           "desc:8": "tfr.quest552.desc"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "542:10": {
+    "553:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -40939,9 +41737,30 @@
           "desc:8": "tfru.q62d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "543:10": {
+    "554:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41012,7 +41831,7 @@
         }
       }
     },
-    "544:10": {
+    "555:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41077,7 +41896,7 @@
         }
       }
     },
-    "545:10": {
+    "556:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41160,7 +41979,7 @@
         }
       }
     },
-    "546:10": {
+    "557:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41225,7 +42044,7 @@
         }
       }
     },
-    "547:10": {
+    "558:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41290,7 +42109,7 @@
         }
       }
     },
-    "548:10": {
+    "559:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -41330,7 +42149,7 @@
       },
       "rewards:9": {}
     },
-    "549:10": {
+    "560:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41407,7 +42226,7 @@
         }
       }
     },
-    "550:10": {
+    "561:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -41462,7 +42281,7 @@
         }
       }
     },
-    "551:10": {
+    "562:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41533,7 +42352,7 @@
         }
       }
     },
-    "552:10": {
+    "563:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41610,7 +42429,7 @@
         }
       }
     },
-    "553:10": {
+    "564:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -41683,7 +42502,7 @@
         }
       }
     },
-    "554:10": {
+    "565:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41753,7 +42572,7 @@
         }
       }
     },
-    "555:10": {
+    "566:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -41826,7 +42645,7 @@
         }
       }
     },
-    "556:10": {
+    "567:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41896,7 +42715,7 @@
         }
       }
     },
-    "557:10": {
+    "568:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -41966,7 +42785,7 @@
         }
       }
     },
-    "558:10": {
+    "569:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42037,7 +42856,7 @@
         }
       }
     },
-    "559:10": {
+    "570:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42107,7 +42926,7 @@
         }
       }
     },
-    "560:10": {
+    "571:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42177,7 +42996,7 @@
         }
       }
     },
-    "561:10": {
+    "572:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42247,7 +43066,7 @@
         }
       }
     },
-    "562:10": {
+    "573:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42317,7 +43136,7 @@
         }
       }
     },
-    "563:10": {
+    "574:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42387,7 +43206,7 @@
         }
       }
     },
-    "564:10": {
+    "575:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42457,7 +43276,7 @@
         }
       }
     },
-    "565:10": {
+    "576:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42527,7 +43346,7 @@
         }
       }
     },
-    "566:10": {
+    "577:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42597,7 +43416,7 @@
         }
       }
     },
-    "567:10": {
+    "578:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42667,7 +43486,7 @@
         }
       }
     },
-    "568:10": {
+    "579:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42737,7 +43556,7 @@
         }
       }
     },
-    "569:10": {
+    "580:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42807,7 +43626,7 @@
         }
       }
     },
-    "570:10": {
+    "581:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42877,7 +43696,7 @@
         }
       }
     },
-    "571:10": {
+    "582:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -42947,7 +43766,7 @@
         }
       }
     },
-    "572:10": {
+    "583:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43017,7 +43836,7 @@
         }
       }
     },
-    "573:10": {
+    "584:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43087,7 +43906,7 @@
         }
       }
     },
-    "574:10": {
+    "585:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43157,7 +43976,7 @@
         }
       }
     },
-    "575:10": {
+    "586:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43227,7 +44046,7 @@
         }
       }
     },
-    "576:10": {
+    "587:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43297,7 +44116,7 @@
         }
       }
     },
-    "577:10": {
+    "588:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43367,7 +44186,7 @@
         }
       }
     },
-    "578:10": {
+    "589:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43437,7 +44256,7 @@
         }
       }
     },
-    "579:10": {
+    "590:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43571,9 +44390,30 @@
           "desc:8": "ph.empty"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "580:10": {
+    "591:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43643,7 +44483,7 @@
         }
       }
     },
-    "581:10": {
+    "592:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43713,7 +44553,7 @@
         }
       }
     },
-    "582:10": {
+    "593:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43783,7 +44623,7 @@
         }
       }
     },
-    "583:10": {
+    "594:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43853,7 +44693,7 @@
         }
       }
     },
-    "584:10": {
+    "595:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43923,7 +44763,64 @@
         }
       }
     },
-    "585:10": {
+    "596:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "Botania:speedUpBelt",
+              "tag:10": {},
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 596,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "Botania:speedUpBelt",
+            "tag:10": {
+              "speed:5": 0.0,
+              "playerHashcode:3": 913845,
+              "oldX:6": 7621.158796690292,
+              "oldY:6": 128.0,
+              "oldZ:6": -41977.99175417844
+            },
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "597:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -43994,7 +44891,7 @@
         }
       }
     },
-    "586:10": {
+    "598:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -44031,7 +44928,7 @@
       },
       "rewards:9": {}
     },
-    "587:10": {
+    "599:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44083,7 +44980,7 @@
       },
       "rewards:9": {}
     },
-    "588:10": {
+    "600:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44171,7 +45068,7 @@
         }
       }
     },
-    "589:10": {
+    "601:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44253,7 +45150,7 @@
         }
       }
     },
-    "590:10": {
+    "602:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44323,7 +45220,7 @@
         }
       }
     },
-    "591:10": {
+    "603:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44387,7 +45284,7 @@
         }
       }
     },
-    "592:10": {
+    "604:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44451,7 +45348,7 @@
         }
       }
     },
-    "593:10": {
+    "605:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44521,7 +45418,7 @@
         }
       }
     },
-    "594:10": {
+    "606:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44591,7 +45488,7 @@
         }
       }
     },
-    "595:10": {
+    "607:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44655,7 +45552,7 @@
         }
       }
     },
-    "596:10": {
+    "608:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44721,7 +45618,7 @@
         }
       }
     },
-    "597:10": {
+    "609:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44772,7 +45669,7 @@
       },
       "rewards:9": {}
     },
-    "598:10": {
+    "610:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44823,7 +45720,7 @@
       },
       "rewards:9": {}
     },
-    "599:10": {
+    "611:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44874,7 +45771,7 @@
       },
       "rewards:9": {}
     },
-    "600:10": {
+    "612:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -44944,7 +45841,49 @@
         }
       }
     },
-    "601:10": {
+    "613:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 613,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "614:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45008,7 +45947,7 @@
         }
       }
     },
-    "602:10": {
+    "615:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45072,7 +46011,7 @@
         }
       }
     },
-    "603:10": {
+    "616:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45151,7 +46090,7 @@
         }
       }
     },
-    "604:10": {
+    "617:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45221,7 +46160,7 @@
         }
       }
     },
-    "605:10": {
+    "618:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 1,
@@ -45286,7 +46225,7 @@
         }
       }
     },
-    "606:10": {
+    "619:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -45325,7 +46264,7 @@
       },
       "rewards:9": {}
     },
-    "607:10": {
+    "620:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45419,7 +46358,7 @@
         }
       }
     },
-    "608:10": {
+    "621:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45483,7 +46422,7 @@
         }
       }
     },
-    "609:10": {
+    "622:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45534,7 +46473,7 @@
       },
       "rewards:9": {}
     },
-    "610:10": {
+    "623:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45585,7 +46524,7 @@
       },
       "rewards:9": {}
     },
-    "611:10": {
+    "624:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45666,7 +46605,7 @@
       },
       "rewards:9": {}
     },
-    "612:10": {
+    "625:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -45728,7 +46667,7 @@
         }
       }
     },
-    "613:10": {
+    "626:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45783,7 +46722,7 @@
       },
       "rewards:9": {}
     },
-    "614:10": {
+    "627:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -45845,7 +46784,7 @@
         }
       }
     },
-    "615:10": {
+    "628:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -45907,7 +46846,7 @@
         }
       }
     },
-    "616:10": {
+    "629:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45972,7 +46911,7 @@
         }
       }
     },
-    "617:10": {
+    "630:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -46034,7 +46973,7 @@
         }
       }
     },
-    "618:10": {
+    "631:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46085,7 +47024,7 @@
       },
       "rewards:9": {}
     },
-    "619:10": {
+    "632:10": {
       "tasks:9": {
         "0:10": {
           "range:3": -1,
@@ -46133,7 +47072,7 @@
       },
       "rewards:9": {}
     },
-    "620:10": {
+    "633:10": {
       "tasks:9": {},
       "preRequisites:11": [
         50
@@ -46166,7 +47105,7 @@
       },
       "rewards:9": {}
     },
-    "621:10": {
+    "634:10": {
       "tasks:9": {},
       "preRequisites:11": [
         50
@@ -46218,7 +47157,7 @@
       },
       "rewards:9": {}
     },
-    "622:10": {
+    "635:10": {
       "tasks:9": {},
       "preRequisites:11": [
         50
@@ -46296,7 +47235,7 @@
         }
       }
     },
-    "623:10": {
+    "636:10": {
       "tasks:9": {},
       "preRequisites:11": [
         50
@@ -46329,7 +47268,7 @@
       },
       "rewards:9": {}
     },
-    "624:10": {
+    "637:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -46365,7 +47304,7 @@
       },
       "rewards:9": {}
     },
-    "625:10": {
+    "638:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -46401,7 +47340,7 @@
       },
       "rewards:9": {}
     },
-    "626:10": {
+    "639:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46458,7 +47397,7 @@
       },
       "rewards:9": {}
     },
-    "627:10": {
+    "640:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46509,7 +47448,7 @@
       },
       "rewards:9": {}
     },
-    "628:10": {
+    "641:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46566,7 +47505,7 @@
       },
       "rewards:9": {}
     },
-    "629:10": {
+    "642:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46631,7 +47570,7 @@
         }
       }
     },
-    "630:10": {
+    "643:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46704,7 +47643,7 @@
         }
       }
     },
-    "631:10": {
+    "644:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46781,7 +47720,7 @@
         }
       }
     },
-    "632:10": {
+    "645:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46846,7 +47785,7 @@
         }
       }
     },
-    "633:10": {
+    "646:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46911,7 +47850,7 @@
         }
       }
     },
-    "634:10": {
+    "647:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -46976,7 +47915,7 @@
         }
       }
     },
-    "635:10": {
+    "648:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47047,7 +47986,7 @@
         }
       }
     },
-    "636:10": {
+    "649:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47113,7 +48052,7 @@
       },
       "rewards:9": {}
     },
-    "637:10": {
+    "650:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47185,7 +48124,7 @@
         }
       }
     },
-    "638:10": {
+    "651:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47257,7 +48196,7 @@
         }
       }
     },
-    "639:10": {
+    "652:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47328,7 +48267,7 @@
         }
       }
     },
-    "640:10": {
+    "653:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47399,7 +48338,7 @@
         }
       }
     },
-    "641:10": {
+    "654:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47470,7 +48409,7 @@
         }
       }
     },
-    "642:10": {
+    "655:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47542,7 +48481,7 @@
         }
       }
     },
-    "643:10": {
+    "656:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47613,7 +48552,7 @@
         }
       }
     },
-    "644:10": {
+    "657:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47684,7 +48623,7 @@
         }
       }
     },
-    "645:10": {
+    "658:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47755,7 +48694,7 @@
         }
       }
     },
-    "646:10": {
+    "659:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47826,7 +48765,7 @@
         }
       }
     },
-    "647:10": {
+    "660:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47890,7 +48829,7 @@
       },
       "rewards:9": {}
     },
-    "648:10": {
+    "661:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -47948,7 +48887,7 @@
       },
       "rewards:9": {}
     },
-    "649:10": {
+    "662:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48030,7 +48969,7 @@
       },
       "rewards:9": {}
     },
-    "650:10": {
+    "663:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48103,7 +49042,7 @@
         }
       }
     },
-    "651:10": {
+    "664:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48176,7 +49115,7 @@
         }
       }
     },
-    "652:10": {
+    "665:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48249,7 +49188,7 @@
         }
       }
     },
-    "653:10": {
+    "666:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48322,7 +49261,7 @@
         }
       }
     },
-    "654:10": {
+    "667:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48373,7 +49312,7 @@
       },
       "rewards:9": {}
     },
-    "655:10": {
+    "668:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48424,7 +49363,7 @@
       },
       "rewards:9": {}
     },
-    "656:10": {
+    "669:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48495,7 +49434,7 @@
         }
       }
     },
-    "657:10": {
+    "670:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48546,7 +49485,7 @@
       },
       "rewards:9": {}
     },
-    "658:10": {
+    "671:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48617,7 +49556,7 @@
         }
       }
     },
-    "659:10": {
+    "672:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48688,7 +49627,7 @@
         }
       }
     },
-    "660:10": {
+    "673:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48759,7 +49698,7 @@
         }
       }
     },
-    "661:10": {
+    "674:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48830,7 +49769,7 @@
         }
       }
     },
-    "662:10": {
+    "675:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48888,7 +49827,7 @@
       },
       "rewards:9": {}
     },
-    "663:10": {
+    "676:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -48973,7 +49912,7 @@
         }
       }
     },
-    "664:10": {
+    "677:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49024,7 +49963,7 @@
       },
       "rewards:9": {}
     },
-    "665:10": {
+    "678:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49113,7 +50052,7 @@
         }
       }
     },
-    "666:10": {
+    "679:10": {
       "tasks:9": {},
       "preRequisites:11": [],
       "questID:3": 679,
@@ -49144,7 +50083,7 @@
       },
       "rewards:9": {}
     },
-    "667:10": {
+    "680:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49200,7 +50139,7 @@
         }
       }
     },
-    "668:10": {
+    "681:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49264,7 +50203,7 @@
         }
       }
     },
-    "669:10": {
+    "682:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49328,7 +50267,7 @@
         }
       }
     },
-    "670:10": {
+    "683:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49398,7 +50337,7 @@
         }
       }
     },
-    "671:10": {
+    "684:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49468,7 +50407,7 @@
         }
       }
     },
-    "672:10": {
+    "685:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -49532,7 +50471,7 @@
         }
       }
     },
-    "673:10": {
+    "686:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53123,7 +54062,7 @@
         }
       }
     },
-    "674:10": {
+    "687:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53174,7 +54113,7 @@
       },
       "rewards:9": {}
     },
-    "675:10": {
+    "688:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53238,7 +54177,7 @@
         }
       }
     },
-    "676:10": {
+    "689:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53320,7 +54259,7 @@
         }
       }
     },
-    "677:10": {
+    "690:10": {
       "tasks:9": {},
       "preRequisites:11": [
         681
@@ -53353,7 +54292,7 @@
       },
       "rewards:9": {}
     },
-    "678:10": {
+    "691:10": {
       "tasks:9": {},
       "preRequisites:11": [
         685,
@@ -53418,7 +54357,7 @@
         }
       }
     },
-    "679:10": {
+    "692:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -53456,7 +54395,7 @@
       },
       "rewards:9": {}
     },
-    "680:10": {
+    "693:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53520,7 +54459,7 @@
         }
       }
     },
-    "681:10": {
+    "694:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -53558,7 +54497,7 @@
       },
       "rewards:9": {}
     },
-    "682:10": {
+    "695:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53622,7 +54561,7 @@
         }
       }
     },
-    "683:10": {
+    "696:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53686,7 +54625,7 @@
         }
       }
     },
-    "684:10": {
+    "697:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53737,7 +54676,7 @@
       },
       "rewards:9": {}
     },
-    "685:10": {
+    "698:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53807,7 +54746,7 @@
         }
       }
     },
-    "686:10": {
+    "699:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53877,7 +54816,7 @@
         }
       }
     },
-    "687:10": {
+    "700:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -53941,7 +54880,7 @@
         }
       }
     },
-    "688:10": {
+    "701:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54017,7 +54956,7 @@
         }
       }
     },
-    "689:10": {
+    "702:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54105,7 +55044,7 @@
         }
       }
     },
-    "690:10": {
+    "703:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54175,7 +55114,7 @@
         }
       }
     },
-    "691:10": {
+    "704:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54226,7 +55165,7 @@
       },
       "rewards:9": {}
     },
-    "692:10": {
+    "705:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54290,7 +55229,7 @@
         }
       }
     },
-    "693:10": {
+    "706:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54310,7 +55249,9 @@
           "ignoreNBT:1": 0
         }
       },
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        289
+      ],
       "questID:3": 706,
       "properties:10": {
         "betterquesting:10": {
@@ -54367,7 +55308,7 @@
         }
       }
     },
-    "694:10": {
+    "707:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54449,7 +55390,7 @@
         }
       }
     },
-    "695:10": {
+    "708:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54475,7 +55416,9 @@
           "ignoreNBT:1": 0
         }
       },
-      "preRequisites:11": [],
+      "preRequisites:11": [
+        289
+      ],
       "questID:3": 708,
       "properties:10": {
         "betterquesting:10": {
@@ -54511,7 +55454,7 @@
       },
       "rewards:9": {}
     },
-    "696:10": {
+    "709:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54575,7 +55518,7 @@
         }
       }
     },
-    "697:10": {
+    "710:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54639,7 +55582,7 @@
         }
       }
     },
-    "698:10": {
+    "711:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54709,7 +55652,7 @@
         }
       }
     },
-    "699:10": {
+    "712:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54773,7 +55716,7 @@
         }
       }
     },
-    "700:10": {
+    "713:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54837,7 +55780,7 @@
         }
       }
     },
-    "701:10": {
+    "714:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54902,7 +55845,7 @@
         }
       }
     },
-    "702:10": {
+    "715:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -54967,7 +55910,7 @@
         }
       }
     },
-    "703:10": {
+    "716:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55031,7 +55974,7 @@
         }
       }
     },
-    "704:10": {
+    "717:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55095,7 +56038,7 @@
         }
       }
     },
-    "705:10": {
+    "718:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55146,7 +56089,7 @@
       },
       "rewards:9": {}
     },
-    "706:10": {
+    "719:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55210,7 +56153,7 @@
         }
       }
     },
-    "707:10": {
+    "720:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55274,7 +56217,7 @@
         }
       }
     },
-    "708:10": {
+    "721:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55338,7 +56281,7 @@
         }
       }
     },
-    "709:10": {
+    "722:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55402,7 +56345,7 @@
         }
       }
     },
-    "710:10": {
+    "723:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55467,7 +56410,7 @@
         }
       }
     },
-    "711:10": {
+    "724:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55524,7 +56467,7 @@
       },
       "rewards:9": {}
     },
-    "712:10": {
+    "725:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55600,7 +56543,7 @@
         }
       }
     },
-    "713:10": {
+    "726:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55664,7 +56607,7 @@
         }
       }
     },
-    "714:10": {
+    "727:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55734,7 +56677,7 @@
         }
       }
     },
-    "715:10": {
+    "728:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55804,7 +56747,7 @@
         }
       }
     },
-    "716:10": {
+    "729:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55862,7 +56805,7 @@
         }
       }
     },
-    "717:10": {
+    "730:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55913,7 +56856,7 @@
       },
       "rewards:9": {}
     },
-    "718:10": {
+    "731:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -55977,7 +56920,7 @@
         }
       }
     },
-    "719:10": {
+    "732:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56028,7 +56971,7 @@
       },
       "rewards:9": {}
     },
-    "720:10": {
+    "733:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56098,7 +57041,7 @@
         }
       }
     },
-    "721:10": {
+    "734:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56168,7 +57111,7 @@
         }
       }
     },
-    "722:10": {
+    "735:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56232,7 +57175,7 @@
         }
       }
     },
-    "723:10": {
+    "736:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56308,7 +57251,7 @@
         }
       }
     },
-    "724:10": {
+    "737:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56390,7 +57333,7 @@
         }
       }
     },
-    "725:10": {
+    "738:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56454,7 +57397,7 @@
         }
       }
     },
-    "726:10": {
+    "739:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56518,7 +57461,7 @@
         }
       }
     },
-    "727:10": {
+    "740:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56582,7 +57525,7 @@
         }
       }
     },
-    "728:10": {
+    "741:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56646,7 +57589,7 @@
         }
       }
     },
-    "729:10": {
+    "742:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56716,7 +57659,7 @@
         }
       }
     },
-    "730:10": {
+    "743:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -56754,7 +57697,7 @@
       },
       "rewards:9": {}
     },
-    "731:10": {
+    "744:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56818,7 +57761,7 @@
         }
       }
     },
-    "732:10": {
+    "745:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56880,10 +57823,10 @@
           "partySingleReward:1": 0,
           "visibility:8": "NORMAL",
           "isMain:1": 0,
-          "name:8": "RF transport",
+          "name:8": "tfr.quest709.name",
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfr.quest709.desc"
         }
       },
       "rewards:9": {
@@ -56907,7 +57850,7 @@
         }
       }
     },
-    "733:10": {
+    "746:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -56991,7 +57934,7 @@
       },
       "rewards:9": {}
     },
-    "734:10": {
+    "747:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57101,7 +58044,7 @@
       },
       "rewards:9": {}
     },
-    "735:10": {
+    "748:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57158,7 +58101,7 @@
       },
       "rewards:9": {}
     },
-    "736:10": {
+    "749:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57222,7 +58165,7 @@
         }
       }
     },
-    "737:10": {
+    "750:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57286,7 +58229,7 @@
         }
       }
     },
-    "738:10": {
+    "751:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57362,7 +58305,7 @@
         }
       }
     },
-    "739:10": {
+    "752:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57496,9 +58439,30 @@
           "desc:8": "ph.empty"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "tag:10": {
+                "ench:9": {
+                  "0:10": {
+                    "id:2": 35,
+                    "lvl:2": 3
+                  }
+                }
+              },
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "740:10": {
+    "753:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57562,7 +58526,7 @@
         }
       }
     },
-    "741:10": {
+    "754:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57626,7 +58590,7 @@
         }
       }
     },
-    "742:10": {
+    "755:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -57702,7 +58666,7 @@
         }
       }
     },
-    "743:10": {
+    "756:10": {
       "tasks:9": {},
       "preRequisites:11": [],
       "questID:3": 756,
@@ -57733,7 +58697,7 @@
       },
       "rewards:9": {}
     },
-    "744:10": {
+    "757:10": {
       "tasks:9": {},
       "preRequisites:11": [
         773
@@ -57766,7 +58730,7 @@
       },
       "rewards:9": {}
     },
-    "745:10": {
+    "758:10": {
       "tasks:9": {},
       "preRequisites:11": [
         761
@@ -57799,7 +58763,7 @@
       },
       "rewards:9": {}
     },
-    "746:10": {
+    "759:10": {
       "tasks:9": {},
       "preRequisites:11": [
         756
@@ -57832,7 +58796,7 @@
       },
       "rewards:9": {}
     },
-    "747:10": {
+    "760:10": {
       "tasks:9": {},
       "preRequisites:11": [
         756
@@ -57865,7 +58829,7 @@
       },
       "rewards:9": {}
     },
-    "748:10": {
+    "761:10": {
       "tasks:9": {},
       "preRequisites:11": [
         760
@@ -57898,7 +58862,7 @@
       },
       "rewards:9": {}
     },
-    "749:10": {
+    "762:10": {
       "tasks:9": {},
       "preRequisites:11": [
         553
@@ -57929,9 +58893,22 @@
           "desc:8": "No Description"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "750:10": {
+    "763:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58067,7 +59044,7 @@
       },
       "rewards:9": {}
     },
-    "751:10": {
+    "764:10": {
       "tasks:9": {},
       "preRequisites:11": [
         756
@@ -58100,7 +59077,7 @@
       },
       "rewards:9": {}
     },
-    "752:10": {
+    "765:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58236,7 +59213,7 @@
       },
       "rewards:9": {}
     },
-    "753:10": {
+    "766:10": {
       "tasks:9": {},
       "preRequisites:11": [
         768
@@ -58269,7 +59246,7 @@
       },
       "rewards:9": {}
     },
-    "754:10": {
+    "767:10": {
       "tasks:9": {},
       "preRequisites:11": [
         764
@@ -58302,7 +59279,7 @@
       },
       "rewards:9": {}
     },
-    "755:10": {
+    "768:10": {
       "tasks:9": {},
       "preRequisites:11": [
         767
@@ -58335,7 +59312,7 @@
       },
       "rewards:9": {}
     },
-    "756:10": {
+    "769:10": {
       "tasks:9": {},
       "preRequisites:11": [
         767,
@@ -58369,7 +59346,7 @@
       },
       "rewards:9": {}
     },
-    "757:10": {
+    "770:10": {
       "tasks:9": {},
       "preRequisites:11": [
         766
@@ -58402,7 +59379,7 @@
       },
       "rewards:9": {}
     },
-    "758:10": {
+    "771:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58538,7 +59515,7 @@
       },
       "rewards:9": {}
     },
-    "759:10": {
+    "772:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58617,9 +59594,22 @@
           "desc:8": "tfru.q65d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 4,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "760:10": {
+    "773:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58755,7 +59745,7 @@
       },
       "rewards:9": {}
     },
-    "761:10": {
+    "774:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58819,7 +59809,7 @@
         }
       }
     },
-    "762:10": {
+    "775:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -58873,15 +59863,28 @@
           "partySingleReward:1": 0,
           "visibility:8": "NORMAL",
           "isMain:1": 0,
-          "name:8": "New Quest",
+          "name:8": "tfru.q47n",
           "autoClaim:1": 0,
           "isSilent:1": 0,
-          "desc:8": "No Description"
+          "desc:8": "tfru.q47d"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
     },
-    "763:10": {
+    "776:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59015,9 +60018,64 @@
           "desc:8": "tfru.q47d"
         }
       },
+      "rewards:9": {
+        "0:10": {
+          "index:3": 0,
+          "rewardID:8": "bq_standard:item",
+          "rewards:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "enhancedlootbags:lootbag",
+              "Damage:2": 8,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    },
+    "777:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 777,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
       "rewards:9": {}
     },
-    "764:10": {
+    "778:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59091,7 +60149,7 @@
         }
       }
     },
-    "765:10": {
+    "779:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59159,7 +60217,7 @@
           "rewardID:8": "bq_standard:item",
           "rewards:9": {
             "0:10": {
-              "Count:3": 16,
+              "Count:3": 64,
               "id:8": "Botania:manaResource",
               "Damage:2": 14,
               "OreDict:8": ""
@@ -59168,7 +60226,7 @@
         }
       }
     },
-    "766:10": {
+    "780:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59266,7 +60324,7 @@
         }
       }
     },
-    "767:10": {
+    "781:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59336,7 +60394,7 @@
         }
       }
     },
-    "768:10": {
+    "782:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59406,7 +60464,7 @@
         }
       }
     },
-    "769:10": {
+    "783:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59457,7 +60515,7 @@
       },
       "rewards:9": {}
     },
-    "770:10": {
+    "784:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59527,7 +60585,7 @@
         }
       }
     },
-    "771:10": {
+    "785:10": {
       "tasks:9": {
         "0:10": {
           "taskID:8": "bq_standard:checkbox",
@@ -59580,7 +60638,7 @@
         }
       }
     },
-    "772:10": {
+    "786:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59641,7 +60699,7 @@
       },
       "rewards:9": {}
     },
-    "773:10": {
+    "787:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59692,7 +60750,7 @@
       },
       "rewards:9": {}
     },
-    "774:10": {
+    "788:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59750,7 +60808,7 @@
         }
       }
     },
-    "775:10": {
+    "789:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59822,7 +60880,7 @@
         }
       }
     },
-    "776:10": {
+    "790:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59904,7 +60962,49 @@
         }
       }
     },
-    "777:10": {
+    "791:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 791,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "792:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -59974,7 +61074,7 @@
         }
       }
     },
-    "778:10": {
+    "793:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60054,7 +61154,7 @@
         }
       }
     },
-    "779:10": {
+    "794:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60118,7 +61218,7 @@
         }
       }
     },
-    "780:10": {
+    "795:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60188,7 +61288,62 @@
         }
       }
     },
-    "781:10": {
+    "796:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "tag:10": {
+                "ench:9": {}
+              },
+              "Damage:2": 62,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 796,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "tag:10": {
+              "ench:9": {}
+            },
+            "Damage:2": 62,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q94n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q94d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "797:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60258,7 +61413,49 @@
         }
       }
     },
-    "782:10": {
+    "798:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 798,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "799:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60322,7 +61519,7 @@
         }
       }
     },
-    "783:10": {
+    "800:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60395,7 +61592,7 @@
         }
       }
     },
-    "784:10": {
+    "801:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60465,7 +61662,7 @@
         }
       }
     },
-    "785:10": {
+    "802:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60565,7 +61762,7 @@
         }
       }
     },
-    "786:10": {
+    "803:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60622,7 +61819,7 @@
       },
       "rewards:9": {}
     },
-    "787:10": {
+    "804:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60686,7 +61883,7 @@
         }
       }
     },
-    "788:10": {
+    "805:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60756,7 +61953,7 @@
         }
       }
     },
-    "789:10": {
+    "806:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60820,7 +62017,7 @@
         }
       }
     },
-    "790:10": {
+    "807:10": {
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -60883,6 +62080,2040 @@
           }
         }
       }
+    },
+    "808:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 808,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "809:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multitileentity",
+              "Damage:2": 30256,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        96
+      ],
+      "questID:3": 809,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "810:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 810,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "811:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 811,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "812:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 812,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "813:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {},
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 813,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "minecraft:nether_star",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "ALWAYS",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "814:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "ae2fc:part_fluid_terminal",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        529
+      ],
+      "questID:3": 814,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "ae2fc:part_fluid_terminal",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "815:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "OpenBlocks:tank",
+              "tag:10": {
+                "tank:10": {
+                  "FluidName:8": "water",
+                  "Amount:3": 16000
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        376
+      ],
+      "questID:3": 815,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregapi:gt.display.fluid",
+            "tag:10": {
+              "f:8": "heavywater",
+              "h:2": 300
+            },
+            "Damage:2": 562,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q75n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q75d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "816:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "OpenBlocks:tank",
+              "tag:10": {
+                "tank:10": {
+                  "FluidName:8": "gas_natural_gas",
+                  "Amount:3": 16000
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        376
+      ],
+      "questID:3": 816,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregapi:gt.display.fluid",
+            "tag:10": {
+              "f:8": "gas_natural_gas",
+              "h:2": 300,
+              "s:1": 1
+            },
+            "Damage:2": 86,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q76n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q76d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "817:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "appliedenergistics2:tile.BlockInterface",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 1,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        522
+      ],
+      "questID:3": 817,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "appliedenergistics2:tile.BlockInterface",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "818:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 1,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "ae2fc:fluid_interface",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        817
+      ],
+      "questID:3": 818,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "ae2fc:fluid_interface",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "819:10": {
+      "tasks:9": {},
+      "preRequisites:11": [
+        376
+      ],
+      "questID:3": 819,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregapi:gt.display.fluid",
+            "tag:10": {
+              "f:8": "liquid_light_oil",
+              "h:2": 300
+            },
+            "Damage:2": 84,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q77n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q77d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "820:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "ae2fc:fluid_part",
+              "Damage:2": 7,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        524
+      ],
+      "questID:3": 820,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "ae2fc:fluid_part",
+            "Damage:2": 7,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "821:10": {
+      "tasks:9": {
+        "0:10": {
+          "taskID:8": "bq_standard:checkbox",
+          "index:3": 0
+        }
+      },
+      "preRequisites:11": [
+        12
+      ],
+      "questID:3": 821,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 62,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfr.quest710.name",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfr.quest710.desc"
+        }
+      },
+      "rewards:9": {}
+    },
+    "822:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.technological",
+              "Damage:2": 1003,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        824
+      ],
+      "questID:3": 822,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.technological",
+            "Damage:2": 1003,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "823:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.technological",
+              "Damage:2": 1015,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.technological",
+              "Damage:2": 1005,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.technological",
+              "Damage:2": 1006,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        824
+      ],
+      "questID:3": 823,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 2,
+            "id:8": "gregtech:gt.multiitem.technological",
+            "Damage:2": 1015,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "824:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.technological",
+              "Damage:2": 1000,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 0
+        }
+      },
+      "preRequisites:11": [
+        61
+      ],
+      "questID:3": 824,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.technological",
+            "Damage:2": 1000,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "New Quest",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "No Description"
+        }
+      },
+      "rewards:9": {}
+    },
+    "825:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 54,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 56,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 825,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 54,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q88n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q88d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "826:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.randomtools",
+              "Damage:2": 5012,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 826,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.randomtools",
+            "Damage:2": 5012,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q87n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q87d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "827:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 72,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 827,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 72,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "828:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 34,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 828,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 34,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "829:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 1000,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 829,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 1000,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "830:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multitileentity",
+              "Damage:2": 32736,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 830,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multitileentity",
+            "Damage:2": 32736,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "831:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregapi:gt.integrated_circuit",
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 833,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregapi:gt.integrated_circuit",
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q86n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q86d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "832:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 50,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 834,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 50,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q85n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q85d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "833:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.randomtools",
+              "Damage:2": 12000,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 835,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.randomtools",
+            "Damage:2": 12000,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "834:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 28,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 836,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 28,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "835:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.randomtools",
+              "Damage:2": 10000,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 837,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.randomtools",
+            "Damage:2": 10000,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "836:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.technological",
+              "Damage:2": 32001,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 838,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.technological",
+            "Damage:2": 32001,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "837:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 46,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 840,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 46,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "838:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "tag:10": {
+                "ench:9": {}
+              },
+              "Damage:2": 74,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 841,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "tag:10": {},
+            "Damage:2": 74,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "839:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 16,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 842,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 16,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q78n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q78d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "840:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 26,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 843,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 26,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q80n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q80d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "841:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 52,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 844,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 52,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q79n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q79d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "842:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.multiitem.randomtools",
+              "Damage:2": 7010,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 845,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.multiitem.randomtools",
+            "Damage:2": 7010,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "843:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 100,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 846,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 100,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "844:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 4,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 848,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 4,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "845:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 18,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 849,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 18,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q84n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q84d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "846:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 48,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 850,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 48,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q83n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q83d"
+        }
+      },
+      "rewards:9": {}
+    },
+    "847:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 66,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [],
+      "questID:3": 851,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 66,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q"
+        }
+      },
+      "rewards:9": {}
+    },
+    "848:10": {
+      "tasks:9": {
+        "0:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "id:8": "gregtech:gt.metatool.01",
+              "Damage:2": 22,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval",
+          "partialMatch:1": 1,
+          "index:3": 0,
+          "ignoreNBT:1": 1
+        }
+      },
+      "preRequisites:11": [
+        289
+      ],
+      "questID:3": 852,
+      "properties:10": {
+        "betterquesting:10": {
+          "simultaneous:1": 0,
+          "icon:10": {
+            "Count:3": 1,
+            "id:8": "gregtech:gt.metatool.01",
+            "Damage:2": 22,
+            "OreDict:8": ""
+          },
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "repeatTime:3": -1,
+          "globalShare:1": 0,
+          "questLogic:8": "AND",
+          "lockedProgress:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "taskLogic:8": "AND",
+          "partySingleReward:1": 0,
+          "visibility:8": "NORMAL",
+          "isMain:1": 0,
+          "name:8": "tfru.q82n",
+          "autoClaim:1": 0,
+          "isSilent:1": 0,
+          "desc:8": "tfru.q82d"
+        }
+      },
+      "rewards:9": {}
     }
   },
   "questLines:9": {
@@ -61668,21 +64899,21 @@
           "id:3": 28,
           "sizeX:3": 24,
           "x:3": 24,
-          "y:3": -180,
+          "y:3": -192,
           "sizeY:3": 24
         },
         "11:10": {
           "id:3": 29,
           "sizeX:3": 24,
           "x:3": 84,
-          "y:3": -180,
+          "y:3": -192,
           "sizeY:3": 24
         },
         "12:10": {
           "id:3": 30,
           "sizeX:3": 24,
           "x:3": 204,
-          "y:3": -180,
+          "y:3": -192,
           "sizeY:3": 24
         },
         "13:10": {
@@ -61696,7 +64927,7 @@
           "id:3": 32,
           "sizeX:3": 24,
           "x:3": 84,
-          "y:3": -252,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "15:10": {
@@ -61773,21 +65004,21 @@
           "id:3": 58,
           "sizeX:3": 48,
           "x:3": 144,
-          "y:3": -264,
+          "y:3": -276,
           "sizeY:3": 48
         },
         "26:10": {
           "id:3": 65,
           "sizeX:3": 24,
           "x:3": -36,
-          "y:3": -312,
+          "y:3": -324,
           "sizeY:3": 24
         },
         "27:10": {
           "id:3": 66,
           "sizeX:3": 24,
           "x:3": -36,
-          "y:3": -180,
+          "y:3": -192,
           "sizeY:3": 24
         },
         "28:10": {
@@ -61836,21 +65067,21 @@
           "id:3": 86,
           "sizeX:3": 24,
           "x:3": 24,
-          "y:3": -252,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "35:10": {
           "id:3": 88,
           "sizeX:3": 24,
           "x:3": 144,
-          "y:3": -180,
+          "y:3": -192,
           "sizeY:3": 24
         },
         "36:10": {
           "id:3": 89,
           "sizeX:3": 24,
           "x:3": 24,
-          "y:3": -312,
+          "y:3": -324,
           "sizeY:3": 24
         },
         "37:10": {
@@ -61892,7 +65123,7 @@
           "id:3": 263,
           "sizeX:3": 24,
           "x:3": 84,
-          "y:3": -132,
+          "y:3": -144,
           "sizeY:3": 24
         },
         "43:10": {
@@ -61934,21 +65165,21 @@
           "id:3": 392,
           "sizeX:3": 24,
           "x:3": 144,
-          "y:3": -132,
+          "y:3": -144,
           "sizeY:3": 24
         },
         "49:10": {
           "id:3": 393,
           "sizeX:3": 24,
           "x:3": 204,
-          "y:3": -132,
+          "y:3": -144,
           "sizeY:3": 24
         },
         "50:10": {
           "id:3": 394,
           "sizeX:3": 24,
           "x:3": -96,
-          "y:3": -252,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "51:10": {
@@ -61983,7 +65214,7 @@
           "id:3": 412,
           "sizeX:3": 24,
           "x:3": 24,
-          "y:3": -132,
+          "y:3": -144,
           "sizeY:3": 24
         },
         "56:10": {
@@ -61997,14 +65228,14 @@
           "id:3": 418,
           "sizeX:3": 24,
           "x:3": -36,
-          "y:3": -252,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "58:10": {
           "id:3": 455,
           "sizeX:3": 24,
           "x:3": 264,
-          "y:3": -180,
+          "y:3": -192,
           "sizeY:3": 24
         },
         "59:10": {
@@ -62025,7 +65256,35 @@
           "id:3": 639,
           "sizeX:3": 24,
           "x:3": 84,
-          "y:3": -312,
+          "y:3": -324,
+          "sizeY:3": 24
+        },
+        "62:10": {
+          "id:3": 815,
+          "sizeX:3": 24,
+          "x:3": 180,
+          "y:3": -72,
+          "sizeY:3": 24
+        },
+        "63:10": {
+          "id:3": 816,
+          "sizeX:3": 24,
+          "x:3": 108,
+          "y:3": -72,
+          "sizeY:3": 24
+        },
+        "64:10": {
+          "id:3": 819,
+          "sizeX:3": 24,
+          "x:3": 144,
+          "y:3": -108,
+          "sizeY:3": 24
+        },
+        "65:10": {
+          "id:3": 821,
+          "sizeX:3": 24,
+          "x:3": 216,
+          "y:3": 0,
           "sizeY:3": 24
         }
       },
@@ -62101,15 +65360,15 @@
         "7:10": {
           "id:3": 45,
           "sizeX:3": 24,
-          "x:3": 252,
-          "y:3": 228,
+          "x:3": 276,
+          "y:3": 84,
           "sizeY:3": 24
         },
         "8:10": {
           "id:3": 48,
           "sizeX:3": 24,
-          "x:3": 324,
-          "y:3": 228,
+          "x:3": 348,
+          "y:3": 84,
           "sizeY:3": 24
         },
         "9:10": {
@@ -62171,8 +65430,8 @@
         "17:10": {
           "id:3": 73,
           "sizeX:3": 24,
-          "x:3": 252,
-          "y:3": 72,
+          "x:3": 276,
+          "y:3": 132,
           "sizeY:3": 24
         },
         "18:10": {
@@ -62185,15 +65444,15 @@
         "19:10": {
           "id:3": 79,
           "sizeX:3": 24,
-          "x:3": 324,
-          "y:3": 12,
+          "x:3": 348,
+          "y:3": -132,
           "sizeY:3": 24
         },
         "20:10": {
           "id:3": 82,
           "sizeX:3": 24,
-          "x:3": 252,
-          "y:3": 132,
+          "x:3": 276,
+          "y:3": -12,
           "sizeY:3": 24
         },
         "21:10": {
@@ -62241,8 +65500,8 @@
         "27:10": {
           "id:3": 96,
           "sizeX:3": 24,
-          "x:3": 180,
-          "y:3": 264,
+          "x:3": 228,
+          "y:3": 300,
           "sizeY:3": 24
         },
         "28:10": {
@@ -62297,8 +65556,8 @@
         "35:10": {
           "id:3": 235,
           "sizeX:3": 24,
-          "x:3": 324,
-          "y:3": 180,
+          "x:3": 348,
+          "y:3": 36,
           "sizeY:3": 24
         },
         "36:10": {
@@ -62311,8 +65570,8 @@
         "37:10": {
           "id:3": 267,
           "sizeX:3": 24,
-          "x:3": 252,
-          "y:3": 180,
+          "x:3": 276,
+          "y:3": 36,
           "sizeY:3": 24
         },
         "38:10": {
@@ -62516,6 +65775,34 @@
           "sizeX:3": 24,
           "x:3": 12,
           "y:3": 48,
+          "sizeY:3": 24
+        },
+        "67:10": {
+          "id:3": 809,
+          "sizeX:3": 24,
+          "x:3": 276,
+          "y:3": 300,
+          "sizeY:3": 24
+        },
+        "68:10": {
+          "id:3": 822,
+          "sizeX:3": 24,
+          "x:3": 180,
+          "y:3": 252,
+          "sizeY:3": 24
+        },
+        "69:10": {
+          "id:3": 823,
+          "sizeX:3": 24,
+          "x:3": 228,
+          "y:3": 252,
+          "sizeY:3": 24
+        },
+        "70:10": {
+          "id:3": 824,
+          "sizeX:3": 24,
+          "x:3": 180,
+          "y:3": 300,
           "sizeY:3": 24
         }
       },
@@ -64647,21 +67934,21 @@
         "2:10": {
           "id:3": 522,
           "sizeX:3": 24,
-          "x:3": -168,
+          "x:3": -36,
           "y:3": -168,
           "sizeY:3": 24
         },
         "3:10": {
           "id:3": 523,
           "sizeX:3": 24,
-          "x:3": -108,
+          "x:3": -180,
           "y:3": -168,
           "sizeY:3": 24
         },
         "4:10": {
           "id:3": 524,
           "sizeX:3": 24,
-          "x:3": -108,
+          "x:3": -180,
           "y:3": -120,
           "sizeY:3": 24
         },
@@ -64669,112 +67956,140 @@
           "id:3": 525,
           "sizeX:3": 24,
           "x:3": -288,
-          "y:3": -216,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "6:10": {
           "id:3": 526,
           "sizeX:3": 24,
           "x:3": -228,
-          "y:3": -216,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "7:10": {
           "id:3": 527,
           "sizeX:3": 24,
-          "x:3": -168,
-          "y:3": -216,
+          "x:3": -180,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "8:10": {
           "id:3": 528,
           "sizeX:3": 24,
-          "x:3": -108,
+          "x:3": -180,
           "y:3": -216,
           "sizeY:3": 24
         },
         "9:10": {
           "id:3": 529,
           "sizeX:3": 24,
-          "x:3": -48,
+          "x:3": -120,
           "y:3": -168,
           "sizeY:3": 24
         },
         "10:10": {
           "id:3": 530,
           "sizeX:3": 24,
-          "x:3": -48,
-          "y:3": -216,
+          "x:3": -36,
+          "y:3": -264,
           "sizeY:3": 24
         },
         "11:10": {
           "id:3": 531,
           "sizeX:3": 24,
-          "x:3": 12,
+          "x:3": -120,
           "y:3": -216,
           "sizeY:3": 24
         },
         "12:10": {
           "id:3": 532,
           "sizeX:3": 24,
-          "x:3": 12,
+          "x:3": 24,
           "y:3": -168,
           "sizeY:3": 24
         },
         "13:10": {
           "id:3": 533,
           "sizeX:3": 24,
-          "x:3": -48,
+          "x:3": -36,
           "y:3": -120,
           "sizeY:3": 24
         },
         "14:10": {
           "id:3": 544,
           "sizeX:3": 24,
-          "x:3": 12,
+          "x:3": 24,
           "y:3": -120,
           "sizeY:3": 24
         },
         "15:10": {
           "id:3": 545,
           "sizeX:3": 24,
-          "x:3": -48,
+          "x:3": -36,
           "y:3": -72,
           "sizeY:3": 24
         },
         "16:10": {
           "id:3": 546,
           "sizeX:3": 24,
-          "x:3": 72,
+          "x:3": 84,
           "y:3": -216,
           "sizeY:3": 24
         },
         "17:10": {
           "id:3": 547,
           "sizeX:3": 24,
-          "x:3": 72,
+          "x:3": 84,
           "y:3": -168,
           "sizeY:3": 24
         },
         "18:10": {
           "id:3": 548,
           "sizeX:3": 24,
-          "x:3": 72,
+          "x:3": 84,
           "y:3": -120,
           "sizeY:3": 24
         },
         "19:10": {
           "id:3": 549,
           "sizeX:3": 24,
-          "x:3": -108,
+          "x:3": -180,
           "y:3": -72,
           "sizeY:3": 24
         },
         "20:10": {
           "id:3": 550,
           "sizeX:3": 24,
-          "x:3": -168,
+          "x:3": -228,
           "y:3": -120,
+          "sizeY:3": 24
+        },
+        "21:10": {
+          "id:3": 814,
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -120,
+          "sizeY:3": 24
+        },
+        "22:10": {
+          "id:3": 817,
+          "sizeX:3": 24,
+          "x:3": -36,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "23:10": {
+          "id:3": 818,
+          "sizeX:3": 24,
+          "x:3": 24,
+          "y:3": -264,
+          "sizeY:3": 24
+        },
+        "24:10": {
+          "id:3": 820,
+          "sizeX:3": 24,
+          "x:3": -228,
+          "y:3": -72,
           "sizeY:3": 24
         }
       },
@@ -65123,8 +68438,8 @@
         "0:10": {
           "id:3": 259,
           "sizeX:3": 24,
-          "x:3": -588,
-          "y:3": -288,
+          "x:3": -732,
+          "y:3": -108,
           "sizeY:3": 24
         },
         "1:10": {
@@ -65219,45 +68534,227 @@
           "sizeY:3": 24
         },
         "14:10": {
+          "id:3": 399,
+          "sizeX:3": 24,
+          "x:3": -624,
+          "y:3": -252,
+          "sizeY:3": 24
+        },
+        "15:10": {
           "id:3": 678,
           "sizeX:3": 24,
           "x:3": -504,
           "y:3": -108,
           "sizeY:3": 24
         },
-        "15:10": {
+        "16:10": {
           "id:3": 706,
           "sizeX:3": 24,
-          "x:3": -540,
-          "y:3": -252,
-          "sizeY:3": 24
-        },
-        "16:10": {
-          "id:3": 708,
-          "sizeX:3": 24,
-          "x:3": -540,
-          "y:3": -288,
+          "x:3": -588,
+          "y:3": -324,
           "sizeY:3": 24
         },
         "17:10": {
+          "id:3": 708,
+          "sizeX:3": 24,
+          "x:3": -768,
+          "y:3": -252,
+          "sizeY:3": 24
+        },
+        "18:10": {
           "id:3": 746,
           "sizeX:3": 24,
           "x:3": -372,
           "y:3": -144,
           "sizeY:3": 24
         },
-        "18:10": {
+        "19:10": {
           "id:3": 747,
           "sizeX:3": 24,
           "x:3": -372,
           "y:3": -108,
           "sizeY:3": 24
         },
-        "19:10": {
+        "20:10": {
           "id:3": 748,
           "sizeX:3": 24,
           "x:3": -372,
           "y:3": -60,
+          "sizeY:3": 24
+        },
+        "21:10": {
+          "id:3": 796,
+          "sizeX:3": 24,
+          "x:3": -624,
+          "y:3": -180,
+          "sizeY:3": 24
+        },
+        "22:10": {
+          "id:3": 825,
+          "sizeX:3": 24,
+          "x:3": -588,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "23:10": {
+          "id:3": 826,
+          "sizeX:3": 24,
+          "x:3": -624,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "24:10": {
+          "id:3": 827,
+          "sizeX:3": 24,
+          "x:3": -588,
+          "y:3": -180,
+          "sizeY:3": 24
+        },
+        "25:10": {
+          "id:3": 828,
+          "sizeX:3": 24,
+          "x:3": -660,
+          "y:3": -180,
+          "sizeY:3": 24
+        },
+        "26:10": {
+          "id:3": 829,
+          "sizeX:3": 24,
+          "x:3": -588,
+          "y:3": -144,
+          "sizeY:3": 24
+        },
+        "27:10": {
+          "id:3": 830,
+          "sizeX:3": 24,
+          "x:3": -624,
+          "y:3": -144,
+          "sizeY:3": 24
+        },
+        "28:10": {
+          "id:3": 833,
+          "sizeX:3": 24,
+          "x:3": -660,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "29:10": {
+          "id:3": 834,
+          "sizeX:3": 24,
+          "x:3": -696,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "30:10": {
+          "id:3": 835,
+          "sizeX:3": 24,
+          "x:3": -696,
+          "y:3": -180,
+          "sizeY:3": 24
+        },
+        "31:10": {
+          "id:3": 836,
+          "sizeX:3": 24,
+          "x:3": -732,
+          "y:3": -180,
+          "sizeY:3": 24
+        },
+        "32:10": {
+          "id:3": 837,
+          "sizeX:3": 24,
+          "x:3": -660,
+          "y:3": -144,
+          "sizeY:3": 24
+        },
+        "33:10": {
+          "id:3": 838,
+          "sizeX:3": 24,
+          "x:3": -696,
+          "y:3": -144,
+          "sizeY:3": 24
+        },
+        "34:10": {
+          "id:3": 840,
+          "sizeX:3": 24,
+          "x:3": -696,
+          "y:3": -108,
+          "sizeY:3": 24
+        },
+        "35:10": {
+          "id:3": 841,
+          "sizeX:3": 24,
+          "x:3": -660,
+          "y:3": -108,
+          "sizeY:3": 24
+        },
+        "36:10": {
+          "id:3": 842,
+          "sizeX:3": 24,
+          "x:3": -732,
+          "y:3": -252,
+          "sizeY:3": 24
+        },
+        "37:10": {
+          "id:3": 843,
+          "sizeX:3": 24,
+          "x:3": -660,
+          "y:3": -252,
+          "sizeY:3": 24
+        },
+        "38:10": {
+          "id:3": 844,
+          "sizeX:3": 24,
+          "x:3": -696,
+          "y:3": -252,
+          "sizeY:3": 24
+        },
+        "39:10": {
+          "id:3": 845,
+          "sizeX:3": 24,
+          "x:3": -732,
+          "y:3": -144,
+          "sizeY:3": 24
+        },
+        "40:10": {
+          "id:3": 846,
+          "sizeX:3": 24,
+          "x:3": -768,
+          "y:3": -144,
+          "sizeY:3": 24
+        },
+        "41:10": {
+          "id:3": 848,
+          "sizeX:3": 24,
+          "x:3": -768,
+          "y:3": -108,
+          "sizeY:3": 24
+        },
+        "42:10": {
+          "id:3": 849,
+          "sizeX:3": 24,
+          "x:3": -732,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "43:10": {
+          "id:3": 850,
+          "sizeX:3": 24,
+          "x:3": -768,
+          "y:3": -216,
+          "sizeY:3": 24
+        },
+        "44:10": {
+          "id:3": 851,
+          "sizeX:3": 24,
+          "x:3": -768,
+          "y:3": -180,
+          "sizeY:3": 24
+        },
+        "45:10": {
+          "id:3": 852,
+          "sizeX:3": 24,
+          "x:3": -588,
+          "y:3": -252,
           "sizeY:3": 24
         }
       },
@@ -67054,10 +70551,143 @@
       "order:3": 18,
       "quests:9": {
         "0:10": {
-          "id:3": 398,
+          "id:3": 401,
           "sizeX:3": 24,
-          "x:3": -168,
+          "x:3": -192,
+          "y:3": -8,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "id:3": 402,
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": 24,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "id:3": 403,
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -80,
+          "sizeY:3": 24
+        },
+        "3:10": {
+          "id:3": 404,
+          "sizeX:3": 24,
+          "x:3": 24,
+          "y:3": 24,
+          "sizeY:3": 24
+        },
+        "4:10": {
+          "id:3": 405,
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": -32,
+          "sizeY:3": 24
+        },
+        "5:10": {
+          "id:3": 407,
+          "sizeX:3": 24,
+          "x:3": 24,
           "y:3": -96,
+          "sizeY:3": 24
+        },
+        "6:10": {
+          "id:3": 408,
+          "sizeX:3": 24,
+          "x:3": 24,
+          "y:3": -152,
+          "sizeY:3": 24
+        },
+        "7:10": {
+          "id:3": 409,
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": -96,
+          "sizeY:3": 24
+        },
+        "8:10": {
+          "id:3": 410,
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": 40,
+          "sizeY:3": 24
+        },
+        "9:10": {
+          "id:3": 411,
+          "sizeX:3": 24,
+          "x:3": -48,
+          "y:3": -152,
+          "sizeY:3": 24
+        },
+        "10:10": {
+          "id:3": 596,
+          "sizeX:3": 24,
+          "x:3": -120,
+          "y:3": -24,
+          "sizeY:3": 24
+        },
+        "11:10": {
+          "id:3": 613,
+          "sizeX:3": 24,
+          "x:3": -192,
+          "y:3": 56,
+          "sizeY:3": 24
+        },
+        "12:10": {
+          "id:3": 777,
+          "sizeX:3": 24,
+          "x:3": -264,
+          "y:3": 88,
+          "sizeY:3": 24
+        },
+        "13:10": {
+          "id:3": 791,
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": -80,
+          "sizeY:3": 24
+        },
+        "14:10": {
+          "id:3": 798,
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": -24,
+          "sizeY:3": 24
+        },
+        "15:10": {
+          "id:3": 808,
+          "sizeX:3": 24,
+          "x:3": 96,
+          "y:3": 40,
+          "sizeY:3": 24
+        },
+        "16:10": {
+          "id:3": 810,
+          "sizeX:3": 24,
+          "x:3": 240,
+          "y:3": 88,
+          "sizeY:3": 24
+        },
+        "17:10": {
+          "id:3": 811,
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": -8,
+          "sizeY:3": 24
+        },
+        "18:10": {
+          "id:3": 812,
+          "sizeX:3": 24,
+          "x:3": 168,
+          "y:3": 56,
+          "sizeY:3": 24
+        },
+        "19:10": {
+          "id:3": 813,
+          "sizeX:3": 24,
+          "x:3": 24,
+          "y:3": -32,
           "sizeY:3": 24
         }
       },
@@ -67065,7 +70695,7 @@
         "betterquesting:10": {
           "icon:10": {
             "Count:3": 1,
-            "id:8": "minecraft:book",
+            "id:8": "OpenBlocks:hangglider",
             "Damage:2": 0,
             "OreDict:8": ""
           },
