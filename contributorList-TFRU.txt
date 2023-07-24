@@ -11,6 +11,8 @@ nonexist UID1102350351@bilibili.com
 EOF UID348709887@bilibili.com
 - 文案: 整条养蜂任务线，工具任务线中的绝大部分GT工具的描述
 银心 UID39663463@bilibili.com
-- 美工: kTFRUAddon中晶圆涂胶机、晶圆测试机、燃料电池的材质
+- 美工: kTFRUAddon中晶圆涂胶机、晶圆测试机、燃料电池、两种计算集群的材质
+白鸦 UID208148@mcmod.cn
+- 提供使用含水大桶制作面团的想法
 
 苦钻怕非常感谢以上每位贡献者的付出qwq
