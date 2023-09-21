@@ -863,8 +863,8 @@
     <Recipe timeRequired="200" power="100">
         <input>
             <itemStack>advancedRocketry:circuitplate;1</itemStack>
-            <oreDict>wireFineRedAlloy 4</oreDict>
-            <fluidStack>sulfuricacid 2000</fluidStack>
+            <oreDict>wireFineRedAlloy;4</oreDict>
+            <fluidStack>sulfuricacid;2000</fluidStack>
         </input>
         <output>
             <itemStack>advancedRocketry:circuitplate;1;1</itemStack>
@@ -872,11 +872,11 @@
     </Recipe>
     <Recipe timeRequired="80" power="50">
         <input>
-            <fluidStack>latex 100</fluidStack>
+            <fluidStack>latex;100</fluidStack>
             <oreDict>dustSulphur</oreDict>
         </input>
         <output>
-            <oreDict>itemRubber 6</oreDict>
+            <oreDict>itemRubber;6</oreDict>
         </output>
     </Recipe>
     <Recipe timeRequired="40" power="100">
@@ -884,7 +884,7 @@
             <oreDict>dustTin</oreDict>
         </input>
         <output>
-            <fluidStack>molten.tin 144</fluidStack>
+            <fluidStack>molten.tin;144</fluidStack>
         </output>
     </Recipe>
     <Recipe timeRequired="40" power="100">
@@ -892,7 +892,7 @@
             <oreDict>dustSolderingAlloy</oreDict>
         </input>
         <output>
-            <fluidStack>molten.solderingalloy 144</fluidStack>
+            <fluidStack>molten.solderingalloy;144</fluidStack>
         </output>
     </Recipe>
     <Recipe timeRequired="40" power="100">
@@ -900,13 +900,13 @@
             <oreDict>dustLead</oreDict>
         </input>
         <output>
-            <fluidStack>molten.lead 144</fluidStack>
+            <fluidStack>molten.lead;144</fluidStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="1">
         <input>
             <itemStack>minecraft:bone</itemStack>
-            <fluidStack>nitrogen 10</fluidStack>
+            <fluidStack>nitrogen;10</fluidStack>
         </input>
         <output>
             <itemStack>minecraft:dye;6;15</itemStack>
