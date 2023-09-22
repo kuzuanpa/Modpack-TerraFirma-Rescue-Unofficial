@@ -631,7 +631,7 @@ recipes.addShaped(y0,[
 
 recipes.remove(y02);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 200 ,0,[10000],
-[y0,x01 *4, x03 *4 , <ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:30403>*4],
+[y0,x01 *4, x03 *4 , <ktfruaddon:ktfru.item.it.computer:15>,<gregtech:gt.multiitem.technological:30403>*4],
 [<liquid:ic2coolant>*1000],
 [null],
 [y02]);
