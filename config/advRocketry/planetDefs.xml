@@ -19,19 +19,6 @@
 
 <galaxy>
 	<star name="Da Shuai Bi a" temp="10" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
-		<planet name="Venus" DIMID="18" customIcon="VENUS">
-			<isKnown>true</isKnown>
-			<fogColor>0.0,0.0,1.0</fogColor>
-			<skyColor>0.0,0.0,1.0</skyColor>
-			<gravitationalMultiplier>70</gravitationalMultiplier>
-			<orbitalDistance>70</orbitalDistance>
-			<orbitalTheta>160</orbitalTheta>
-			<avgTemperature>30</avgTemperature>
-			<orbitalPhi>0</orbitalPhi>
-			<rotationalPeriod>1728000</rotationalPeriod>
-			<atmosphereDensity>20</atmosphereDensity>
-			<biomeIds>120</biomeIds>
-		</planet>
 		<planet name="Duck Egg" DIMID="10" customIcon="GasGiantBlue">
 			<isKnown>true</isKnown>
 			<GasGiant>true</GasGiant>
@@ -46,7 +33,7 @@
 			<orbitalPhi>76</orbitalPhi>
 			<rotationalPeriod>24000</rotationalPeriod>
 			<atmosphereDensity>40</atmosphereDensity>
-			<planet name="Terrafirma" DIMID="0" dimMapping="" customIcon="EarthLike">
+			<planet name="Terrafirma" DIMID="11" dimMapping="" customIcon="EarthLike">
 				<isKnown>true</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
 				<skyColor>1.0,1.0,1.0</skyColor>
@@ -58,7 +45,7 @@
 				<rotationalPeriod>41000</rotationalPeriod>
 				<atmosphereDensity>100</atmosphereDensity>
 			</planet>
-			<planet name="Duck Egg B" DIMID="11" customIcon="Moon">
+			<planet name="Duck Egg B" DIMID="12" customIcon="Moon">
 				<isKnown>false</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
 				<skyColor>1.0,1.0,1.0</skyColor>
@@ -69,9 +56,9 @@
 				<orbitalPhi>0</orbitalPhi>
 				<rotationalPeriod>41000</rotationalPeriod>
 				<atmosphereDensity>0</atmosphereDensity>
-				<biomeIds>90,119</biomeIds>
+				<biomeIds>142,143</biomeIds>
 			</planet>
-			<planet name="Duck Egg C" DIMID="12" customIcon="IceWorld">
+			<planet name="Duck Egg C" DIMID="13" customIcon="IceWorld">
 				<isKnown>true</isKnown>
 				<fogColor>0.0,0.0,1.0</fogColor>
 				<skyColor>0.0,0.0,1.0</skyColor>
@@ -81,24 +68,171 @@
 				<avgTemperature>24</avgTemperature>
 				<orbitalPhi>90</orbitalPhi>
 				<rotationalPeriod>48000</rotationalPeriod>
-				<atmosphereDensity>45</atmosphereDensity>
+				<spawnable weight="10" groupMin="1" groupMax="4">etfuturum.stray</spawnable>
+				<spawnable weight="10" groupMin="1" groupMax="4">Creeper</spawnable>
+				<spawnable weight="10" groupMin="1" groupMax="4">Spider</spawnable>
+				<spawnable weight="10" groupMin="1" groupMax="4">FuryBoar</spawnable>
+				<spawnable weight="1" groupMin="1" groupMax="2">Blizz</spawnable>
+				<spawnable weight="1" groupMin="1" groupMax="1">EFYeti</spawnable>
+				<atmosphereDensity>85</atmosphereDensity>
 				<biomeIds>140</biomeIds>
 			</planet>
 		</planet>
-		<planet name="H D" DIMID="13" customIcon="MarsLike">
+	</star>
+	<star name="Da Shuai Bi b" temp="1000" x="100" y="100" size="1.0" numPlanets="0" numGasGiants="0">
+	</star>
+	<star name="Sun" temp="50" x="1077" y="1030" size="1.2" numPlanets="0" numGasGiants="0">
+		<planet name="Mercury" DIMID="21">
 			<isKnown>true</isKnown>
-			<fogColor>0.85,0.32,0.0</fogColor>
-			<skyColor>0.93,0.9,0.69</skyColor>
-			<gravitationalMultiplier>70</gravitationalMultiplier>
-			<orbitalDistance>90</orbitalDistance>
-			<orbitalTheta>160</orbitalTheta>
-			<avgTemperature>26</avgTemperature>
-			<orbitalPhi>90</orbitalPhi>
-			<rotationalPeriod>36000</rotationalPeriod>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.9,0.0</skyColor>
+			<gravitationalMultiplier>78</gravitationalMultiplier>
+			<orbitalDistance>8</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>312</avgTemperature>
+			<orbitalTheta>0</orbitalTheta>
+			<rotationalPeriod>1392000</rotationalPeriod>
 			<atmosphereDensity>0</atmosphereDensity>
-			<biomeIds>92</biomeIds>
+			<biomeIds>142,143</biomeIds>
 		</planet>
-		<planet name="Evan" DIMID="14" customIcon="GasGiantRed">
+		<planet name="Venus" DIMID="22">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.9,0.0</skyColor>
+			<gravitationalMultiplier>88</gravitationalMultiplier>
+			<orbitalDistance>28</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>737</avgTemperature>
+			<orbitalTheta>3</orbitalTheta>
+			<rotationalPeriod>5832000</rotationalPeriod>
+			<atmosphereDensity>200</atmosphereDensity>
+			<biomeIds>139</biomeIds>
+		</planet>
+		<planet name="Earth" DIMID="23">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.933095,0.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>40</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>316</avgTemperature>
+			<orbitalTheta>-60</orbitalTheta>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>180</atmosphereDensity>
+			<biomeIds>139</biomeIds>
+			<planet name="Luna" DIMID="30">
+				<isKnown>true</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.8,0.9205717,0.0</skyColor>
+				<gravitationalMultiplier>50</gravitationalMultiplier>
+				<orbitalDistance>187</orbitalDistance>
+				<orbitalTheta>169</orbitalTheta>
+				<avgTemperature>102</avgTemperature>
+				<orbitalPhi>10</orbitalPhi>
+				<rotationalPeriod>192000</rotationalPeriod>
+				<atmosphereDensity>17</atmosphereDensity>
+				<biomeIds>142,143</biomeIds>
+				<oceanBlock>minecraft:lava</oceanBlock>
+			</planet>
+			<oceanBlock>minecraft:lava</oceanBlock>
+		</planet>
+		<planet name="Mars" DIMID="24">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.933095,0.0</skyColor>
+			<gravitationalMultiplier>77</gravitationalMultiplier>
+			<orbitalDistance>50</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>210</avgTemperature>
+			<orbitalTheta>-25</orbitalTheta>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>5</atmosphereDensity>
+			<biomeIds>139</biomeIds>
+		</planet>
+		<planet name="Jupiter" DIMID="25" customIcon="GasGiantBrown">
+			<isKnown>true</isKnown>
+			<GasGiant>true</GasGiant>
+			<gas>hydrogen</gas>
+			<gas>helium</gas>
+			<gas>ammonia</gas>
+			<fogColor>0.6901961,0.76862746,0.87058824</fogColor>
+			<skyColor>0.6901961,0.76862746,0.87058824</skyColor>
+			<gravitationalMultiplier>3217</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>290</orbitalPhi>
+			<avgTemperature>19</avgTemperature>
+			<orbitalTheta>120</orbitalTheta>
+			<rotationalPeriod>48000</rotationalPeriod>
+			<atmosphereDensity>20</atmosphereDensity>
+		</planet>
+		<planet name="Saturn" DIMID="26" customIcon="GasGiantBrown">
+			<isKnown>true</isKnown>
+			<hasRings>true</hasRings>
+			<ringColor>0.4,0.4,0.7</ringColor>
+			<GasGiant>true</GasGiant>
+			<gas>hydrogen</gas>
+			<gas>oxygen</gas>
+			<gas>ammonia</gas>
+			<fogColor>0.6901961,0.76862746,0.87058824</fogColor>
+			<skyColor>0.6901961,0.76862746,0.87058824</skyColor>
+			<gravitationalMultiplier>633</gravitationalMultiplier>
+			<orbitalDistance>380</orbitalDistance>
+			<orbitalPhi>290</orbitalPhi>
+			<avgTemperature>19</avgTemperature>
+			<orbitalTheta>120</orbitalTheta>
+			<rotationalPeriod>48000</rotationalPeriod>
+			<atmosphereDensity>20</atmosphereDensity>
+		</planet>
+		<planet name="Uranus" DIMID="27" customIcon="GasGiantBlue">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.933095,0.0</skyColor>
+			<gravitationalMultiplier>88</gravitationalMultiplier>
+			<orbitalDistance>600</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>47</avgTemperature>
+			<orbitalTheta>97</orbitalTheta>
+			<rotationalPeriod>17230</rotationalPeriod>
+			<atmosphereDensity>30</atmosphereDensity>
+			<biomeIds>139</biomeIds>
+		</planet>
+		<planet name="Neptune" DIMID="28" customIcon="GasGiantBlue">
+			<isKnown>true</isKnown>
+			<hasRings>true</hasRings>
+			<ringColor>0.4,0.4,0.9</ringColor>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.933095,0.0</skyColor>
+			<gravitationalMultiplier>114</gravitationalMultiplier>
+			<orbitalDistance>1000</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>55</avgTemperature>
+			<orbitalTheta>28</orbitalTheta>
+			<rotationalPeriod>16000</rotationalPeriod>
+			<atmosphereDensity>40</atmosphereDensity>
+			<biomeIds>139</biomeIds>
+		</planet>
+	</star>
+	<star name="No-129" temp="50" x="127" y="269" size="1.2" numPlanets="0" numGasGiants="0">
+		<planet name="No-129-1" DIMID="31" customIcon="Moon">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.9,1.0</skyColor>
+			<gravitationalMultiplier>78</gravitationalMultiplier>
+			<orbitalDistance>240</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>540</avgTemperature>
+			<orbitalTheta>3</orbitalTheta>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<seaLevel>1</seaLevel>
+			<spawnable weight="10" groupMin="1" groupMax="2">etfuturum.husk</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">Creeper</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">Skeleton</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">Spider</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">etfuturum.rabbit</spawnable>
+			<biomeIds>2,17</biomeIds>
+		</planet>
+		<planet name="Evan" DIMID="32" customIcon="GasGiantRed">
 			<isKnown>true</isKnown>
 			<hasRings>true</hasRings>
 			<ringColor>0.4,0.4,0.7</ringColor>
@@ -115,28 +249,109 @@
 			<rotationalPeriod>24000</rotationalPeriod>
 			<atmosphereDensity>100</atmosphereDensity>
 		</planet>
-		<planet name="Saturn" DIMID="15" customIcon="GasGiantBrown">
+	</star>
+	<star name="No-932" temp="50" x="0" y="269" size="1.2" numPlanets="0" numGasGiants="0">
+		<planet name="No-932-1" DIMID="41" customIcon="IceWorld">
 			<isKnown>true</isKnown>
-			<hasRings>true</hasRings>
-			<ringColor>0.4,0.4,0.7</ringColor>
-			<GasGiant>true</GasGiant>
-			<gas>nitrogen</gas>
-			<gas>hydrogen</gas>
-			<gas>oxygen</gas>
-			<gas>ammonia</gas>
-			<fogColor>0.6901961,0.76862746,0.87058824</fogColor>
-			<skyColor>0.6901961,0.76862746,0.87058824</skyColor>
-			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>180</orbitalDistance>
+			<fogColor>0.0,0.0,1.0</fogColor>
+			<skyColor>0.0,0.0,1.0</skyColor>
+			<gravitationalMultiplier>50</gravitationalMultiplier>
+			<orbitalDistance>110</orbitalDistance>
 			<orbitalTheta>290</orbitalTheta>
-			<avgTemperature>19</avgTemperature>
-			<orbitalPhi>120</orbitalPhi>
-			<rotationalPeriod>48000</rotationalPeriod>
-			<atmosphereDensity>20</atmosphereDensity>
+			<avgTemperature>24</avgTemperature>
+			<orbitalPhi>90</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<spawnable weight="10" groupMin="1" groupMax="4">etfuturum.stray</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="4">Creeper</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="4">Spider</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="4">FuryBoar</spawnable>
+			<spawnable weight="1" groupMin="1" groupMax="2">Blizz</spawnable>
+			<spawnable weight="1" groupMin="1" groupMax="1">EFYeti</spawnable>
+			<atmosphereDensity>85</atmosphereDensity>
+			<biomeIds>137,140</biomeIds>
+		</planet>
+		<planet name="Ch-2432-2" DIMID="42" customIcon="Moon">
+			<isKnown>true</isKnown>
+			<fogColor>0.2,0.1,0.1</fogColor>
+			<skyColor>0.2,0.1,0.1</skyColor>
+			<gravitationalMultiplier>78</gravitationalMultiplier>
+			<orbitalDistance>240</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>62</avgTemperature>
+			<orbitalTheta>3</orbitalTheta>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>110</atmosphereDensity>
+			<spawnable weight="100" groupMin="1" groupMax="4">ranged_rogue_android</spawnable>
+			<spawnable weight="100" groupMin="1" groupMax="4">rogue_android</spawnable>
+			<seaLevel>1</seaLevel>
+			<biomeIds>136</biomeIds>
 		</planet>
 	</star>
-	<star name="Da Shuai Bi b" temp="1000" x="100" y="100" size="1.0" numPlanets="0" numGasGiants="0">
-		<planet name="Dracona" DIMID="16" customIcon="Moon">
+	<star name="No-122" temp="50" x="0" y="-269" size="1.2" numPlanets="0" numGasGiants="0">
+		<planet name="-1" DIMID="-31" customIcon="EarthLike">
+			<isKnown>true</isKnown>
+			<fogColor>0.0,0.0,1.0</fogColor>
+			<skyColor>0.0,0.0,1.0</skyColor>
+			<gravitationalMultiplier>50</gravitationalMultiplier>
+			<orbitalDistance>110</orbitalDistance>
+			<orbitalTheta>290</orbitalTheta>
+			<avgTemperature>24</avgTemperature>
+			<orbitalPhi>90</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<seaLevel>82</seaLevel>
+			<spawnable weight="10" groupMin="1" groupMax="2">etfuturum.husk</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">Creeper</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">Skeleton</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">Spider</spawnable>
+			<spawnable weight="10" groupMin="1" groupMax="2">etfuturum.rabbit</spawnable>
+			<atmosphereDensity>85</atmosphereDensity>
+			<biomeIds>35,36</biomeIds>
+		</planet>
+	</star>
+	<star name="No-630" temp="50" x="233" y="-219" size="1.2" numPlanets="0" numGasGiants="0">
+		<planet name="No-630-1" DIMID="0" dimMapping="" customIcon="EarthLike">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>99</orbitalDistance>
+			<orbitalTheta>65</orbitalTheta>
+			<avgTemperature>28</avgTemperature>
+			<orbitalPhi>28</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+		</planet>
+	</star>
+	<star name="No-329" temp="50" x="-119" y="169" size="1.2" numPlanets="0" numGasGiants="0">
+	</star>
+	<star name="Ch-2432" temp="750" x="647" y="510" size="1.6" numPlanets="0" numGasGiants="0">
+		<planet name="Ch-2432-1" DIMID="-12" customIcon="Moon">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.8,0.9,0.0</skyColor>
+			<gravitationalMultiplier>78</gravitationalMultiplier>
+			<orbitalDistance>240</orbitalDistance>
+			<orbitalPhi>275</orbitalPhi>
+			<avgTemperature>62</avgTemperature>
+			<orbitalTheta>3</orbitalTheta>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>20</atmosphereDensity>
+			<seaLevel>64</seaLevel>
+			<biomeIds>146</biomeIds>
+		</planet>
+		<planet name="Ch-2432-2" DIMID="-45" dimMapping="" customIcon="EarthLike">
+			<isKnown>true</isKnown>
+			<gravitationalMultiplier>140</gravitationalMultiplier>
+			<orbitalDistance>600</orbitalDistance>
+			<orbitalTheta>0</orbitalTheta>
+			<avgTemperature>246</avgTemperature>
+			<orbitalPhi>-20</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>80</atmosphereDensity>
+		</planet>
+	</star>
+	<star name="Ch-2237" temp="250" x="617" y="612" size="1.8" numPlanets="0" numGasGiants="0">
+		<planet name="Dracona" DIMID="-21" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<fogColor>0.0,0.0,1.0</fogColor>
 			<skyColor>0.0,0.0,1.0</skyColor>
@@ -147,10 +362,12 @@
 			<orbitalPhi>120</orbitalPhi>
 			<rotationalPeriod>30000</rotationalPeriod>
 			<atmosphereDensity>70</atmosphereDensity>
-			<biomeIds>92</biomeIds>
+			<biomeIds>139</biomeIds>
 			<fillerBlock>minecraft:end_stone</fillerBlock>
 		</planet>
-		<planet name="Endest" DIMID="17" customIcon="Moon">
+	</star>
+	<star name="Ch-2116" temp="550" x="737" y="722" size="2.4" numPlanets="0" numGasGiants="0">
+		<planet name="Endest" DIMID="-11" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>1.0,1.0,1.0</skyColor>
@@ -161,38 +378,71 @@
 			<orbitalPhi>120</orbitalPhi>
 			<rotationalPeriod>45000</rotationalPeriod>
 			<atmosphereDensity>0</atmosphereDensity>
-			<biomeIds>90,119</biomeIds>
+			<biomeIds>142,143</biomeIds>
 			<fillerBlock>minecraft:end_stone</fillerBlock>
 		</planet>
 	</star>
-	<star name="Sun" temp="50" x="77" y="230" size="1.2" numPlanets="0" numGasGiants="0">
-		<planet name="Earth" DIMID="19">
+	<star name="Ch-2736" temp="50" x="747" y="582" size="2.0" numPlanets="0" numGasGiants="0">
+		<planet name="The End" DIMID="1" dimMapping="" customIcon="Moon">
 			<isKnown>true</isKnown>
-			<fogColor>1.0,1.0,1.0</fogColor>
-			<skyColor>0.8,0.933095,0.0</skyColor>
-			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>35</orbitalDistance>
-			<orbitalTheta>275</orbitalTheta>
-			<avgTemperature>316</avgTemperature>
-			<orbitalPhi>-60</orbitalPhi>
+			<gravitationalMultiplier>40</gravitationalMultiplier>
+			<orbitalDistance>60</orbitalDistance>
+			<orbitalTheta>10</orbitalTheta>
+			<avgTemperature>236</avgTemperature>
+			<orbitalPhi>-20</orbitalPhi>
 			<rotationalPeriod>24000</rotationalPeriod>
-			<atmosphereDensity>210</atmosphereDensity>
-			<biomeIds>92</biomeIds>
-			<planet name="Luna" DIMID="20">
-				<isKnown>true</isKnown>
-				<fogColor>1.0,1.0,1.0</fogColor>
-				<skyColor>0.8,0.9205717,0.0</skyColor>
-				<gravitationalMultiplier>50</gravitationalMultiplier>
-				<orbitalDistance>187</orbitalDistance>
-				<orbitalTheta>169</orbitalTheta>
-				<avgTemperature>102</avgTemperature>
-				<orbitalPhi>10</orbitalPhi>
-				<rotationalPeriod>192000</rotationalPeriod>
-				<atmosphereDensity>17</atmosphereDensity>
-				<biomeIds>90,119</biomeIds>
-				<oceanBlock>minecraft:lava</oceanBlock>
-			</planet>
-			<oceanBlock>minecraft:lava</oceanBlock>
+			<atmosphereDensity>80</atmosphereDensity>
+		</planet>
+	</star>
+	<star name="Ch-3151" temp="1250" x="857" y="542" size="2.0" numPlanets="0" numGasGiants="0">
+	</star>
+	<star name="Na-322" temp="120" x="-547" y="-610" size="0.6" numPlanets="0" numGasGiants="0">
+		<planet name="Tropics" DIMID="-127" dimMapping="" customIcon="EarthLike">
+			<isKnown>true</isKnown>
+			<gravitationalMultiplier>120</gravitationalMultiplier>
+			<orbitalDistance>50</orbitalDistance>
+			<orbitalTheta>10</orbitalTheta>
+			<avgTemperature>316</avgTemperature>
+			<orbitalPhi>-20</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>110</atmosphereDensity>
+		</planet>
+		<planet name="Cookies" DIMID="-44" dimMapping="" customIcon="EarthLike">
+			<isKnown>true</isKnown>
+			<gravitationalMultiplier>140</gravitationalMultiplier>
+			<orbitalDistance>600</orbitalDistance>
+			<orbitalTheta>0</orbitalTheta>
+			<avgTemperature>246</avgTemperature>
+			<orbitalPhi>-20</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>80</atmosphereDensity>
+		</planet>
+
+	</star>
+	<star name="Na-507" temp="50" x="-617" y="-912" size="0.8" numPlanets="0" numGasGiants="0">
+		<planet name="Twilight Forest" DIMID="7" dimMapping="" customIcon="EarthLike">
+			<isKnown>true</isKnown>
+			<gravitationalMultiplier>80</gravitationalMultiplier>
+			<orbitalDistance>320</orbitalDistance>
+			<orbitalTheta>10</orbitalTheta>
+			<avgTemperature>276</avgTemperature>
+			<orbitalPhi>-20</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>90</atmosphereDensity>
+		</planet>
+	</star>
+	<star name="Na-316" temp="30" x="-737" y="-722" size="0.4" numPlanets="0" numGasGiants="0">
+		<planet name="Aether" DIMID="4" customIcon="Aether">
+			<isKnown>true</isKnown>
+			<fogColor>0.85,0.32,0.8</fogColor>
+			<skyColor>0.93,0.9,0.75</skyColor>
+			<gravitationalMultiplier>70</gravitationalMultiplier>
+			<orbitalDistance>90</orbitalDistance>
+			<orbitalTheta>160</orbitalTheta>
+			<avgTemperature>26</avgTemperature>
+			<orbitalPhi>90</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
 		</planet>
 	</star>
 </galaxy>

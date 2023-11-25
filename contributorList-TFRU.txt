@@ -4,14 +4,16 @@
 称呼 可用于标识该贡献者的独特标志
 - 贡献列表
 
-苦钻怕 kuzuanpa@github.com
+苦钻怕 github.com/kuzuanpa
 - 省略
-nonexist UID1102350351@bilibili.com
+nonexist space.bilibili.com/UID1102350351
 - 策划: 绝大部分金属产线，部分半导体产线，燃料电池产线等
-EOF UID348709887@bilibili.com
+EOF space.bilibili.com/348709887
 - 文案: 整条养蜂任务线，工具任务线中的绝大部分GT工具的描述
-银心 UID39663463@bilibili.com
-- 美工: kTFRUAddon中晶圆涂胶机、晶圆测试机、燃料电池、两种计算集群的材质
+银心 space.bilibili.com/39663463
+- 美工: kTFRUAddon中多种机器、部分物品的材质
+VK8040 github.com/Pactivsa
+- 程序: 太阳光热站的反射镜算法
 白鸦 UID208148@mcmod.cn
 - 提供使用含水大桶制作面团的想法
 

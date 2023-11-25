@@ -140,7 +140,7 @@ recipes.remove(<ae2stuff:Inscriber>);
 // Controller
 recipes.remove(<appliedenergistics2:tile.BlockController>);
 recipes.addShaped(<appliedenergistics2:tile.BlockController>,
-[[<appliedenergistics2:tile.BlockSkyStone:1>,Cutter,<appliedenergistics2:tile.BlockSkyStone:1>],
+[[<appliedenergistics2:tile.BlockSkyStone:1>,<ktfruaddon:ktfru.item.compact:100>,<appliedenergistics2:tile.BlockSkyStone:1>],
 [<appliedenergistics2:item.ItemMultiMaterial:12>,<ore:ktfruModerateComputer>,<appliedenergistics2:item.ItemMultiMaterial:12>],
 [<appliedenergistics2:tile.BlockSkyStone:1>,Wrench,<appliedenergistics2:tile.BlockSkyStone:1>]]);
 
@@ -154,8 +154,8 @@ recipes.addShaped(<appliedenergistics2:tile.BlockDrive>,
 // Interface
 recipes.remove(<appliedenergistics2:tile.BlockInterface>);
 recipes.addShaped(<appliedenergistics2:tile.BlockInterface>,
-[[null,<gregtech:gt.multiitem.technological:12041>,null],
-[<appliedenergistics2:item.ItemMultiMaterial:43>,<gregtech:gt.meta.machine:220>,<appliedenergistics2:item.ItemMultiMaterial:44>],
+[[null,<ktfruaddon:ktfru.item.compact:100>,null],
+[<appliedenergistics2:item.ItemMultiMaterial:43>,<gregtech:gt.meta.machine:8636>,<appliedenergistics2:item.ItemMultiMaterial:44>],
 [null,<gregtech:gt.multiitem.technological:12041>,null]]);
 
 // Energy Acceptor
@@ -169,52 +169,25 @@ recipes.addShaped(<appliedenergistics2:tile.BlockEnergyAcceptor>,
 recipes.remove(<appliedenergistics2:tile.BlockMolecularAssembler>);
 recipes.addShaped(<appliedenergistics2:tile.BlockMolecularAssembler>,
 [[<appliedenergistics2:tile.BlockQuartzGlass>,<gregtech:gt.multiitem.technological:12084>,<appliedenergistics2:tile.BlockQuartzGlass>],
-[<appliedenergistics2:item.ItemMultiMaterial:44>,<gregtech:gt.meta.machine:220>,<appliedenergistics2:item.ItemMultiMaterial:43>],
-[null,null,null]]);
+[<appliedenergistics2:item.ItemMultiMaterial:44>,<gregtech:gt.meta.machine:8636>,<appliedenergistics2:item.ItemMultiMaterial:43>],
+[null,<ktfruaddon:ktfru.item.compact:100>,null]]);
 
 // Output Bus
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:260>);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiPart:260>,
 [[<appliedenergistics2:item.ItemMultiMaterial:43>],
-[<gregtech:gt.multiitem.technological:12041>],
+[<gregtech:gt.multiitem.technological:12041>,<ktfruaddon:ktfru.item.compact:100>],
 [<gregtech:gt.meta.plate:220>]]);
 
 // Input Bus
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:240>);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiPart:240>,
 [[<appliedenergistics2:item.ItemMultiMaterial:44>],
-[<gregtech:gt.multiitem.technological:12041>],
+[<gregtech:gt.multiitem.technological:12041>,<ktfruaddon:ktfru.item.compact:100>],
 [<gregtech:gt.meta.plate:220>]]);
 
 // Remove grinder
 recipes.remove(<appliedenergistics2:tile.BlockGrinder>);
-
-/*--Crafting Storage Cells--*/
-
-recipes.remove(<appliedenergistics2:tile.BlockCraftingStorage>);
-recipes.remove(<appliedenergistics2:tile.BlockCraftingStorage:1>);
-recipes.remove(<appliedenergistics2:tile.BlockCraftingStorage:2>);
-recipes.remove(<appliedenergistics2:tile.BlockCraftingStorage:3>);
-
-recipes.addShaped(<appliedenergistics2:tile.BlockCraftingStorage>,
-[[<gregtech:gt.meta.screw:8651>,<ore:RAM256M>,<gregtech:gt.meta.ring:8651>],
-[null,<appliedenergistics2:tile.BlockCraftingUnit>,null],
-[<gregtech:gt.meta.screw:8651>,<appliedenergistics2:item.ItemMultiMaterial:35>,Screwdriver]]);
-
-recipes.addShaped(<appliedenergistics2:tile.BlockCraftingStorage:1>,
-[[<gregtech:gt.meta.screw:130>,<ore:RAM512M>,<gregtech:gt.meta.ring:130>],
-[null,<appliedenergistics2:tile.BlockCraftingUnit>,null],
-[<gregtech:gt.meta.screw:130>,<appliedenergistics2:item.ItemMultiMaterial:36>,Screwdriver]]);
-
-recipes.addShaped(<appliedenergistics2:tile.BlockCraftingStorage:2>,
-[[<gregtech:gt.meta.screw:8636>,<ore:RAM1G>,<gregtech:gt.meta.ring:8636>],
-[null,<appliedenergistics2:tile.BlockCraftingUnit>,null],
-[<gregtech:gt.meta.screw:8636>,<appliedenergistics2:item.ItemMultiMaterial:37>,Screwdriver]]);
-
-recipes.addShaped(<appliedenergistics2:tile.BlockCraftingStorage:3>,
-[[<gregtech:gt.meta.screw:240>,<ore:RAM2G>,<gregtech:gt.meta.ring:240>],
-[null,<appliedenergistics2:tile.BlockCraftingUnit>,null],
-[<gregtech:gt.meta.screw:240>,<appliedenergistics2:item.ItemMultiMaterial:38>,Screwdriver]]);
 
 // AE2 Basic Chips
 
@@ -543,12 +516,12 @@ recipes.addShaped(<appliedenergistics2:tile.BlockCondenser>,
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:460>);
 MTUtilsGT.removeAllRecipes("gt.recipe.press",<appliedenergistics2:item.ItemMultiPart:460>);
 MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
-[fluix*3,<appliedenergistics2:item.ItemMultiMaterial:8>,engin],
+[fluix*3,<ktfruaddon:ktfru.item.compact:100>,engin],
 [n],
 [n],
 [<appliedenergistics2:item.ItemMultiPart:460>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
-[<appliedenergistics2:item.ItemMultiMaterial:12>*3,<appliedenergistics2:item.ItemMultiMaterial:8>,engin],
+[<appliedenergistics2:item.ItemMultiMaterial:12>*3,<ktfruaddon:ktfru.item.compact:100>,engin],
 [n],
 [n],
 [<appliedenergistics2:item.ItemMultiPart:460>]);
@@ -557,7 +530,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
 recipes.remove(<appliedenergistics2:tile.BlockCraftingUnit>);
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<appliedenergistics2:tile.BlockCraftingUnit>);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 200, 0, [10000],
-[logic,calc*2,fcable*2,<moegadd:EpoxyPlate>*6],
+[logic,calc*2,fcable*2,<gregtech:gt.meta.plate:22042>*6,<ktfruaddon:ktfru.item.compact:100>],
 [n],
 [n],
 [<appliedenergistics2:tile.BlockCraftingUnit>]);
@@ -597,12 +570,12 @@ recipes.addShaped(<ae2fc:fluid_interface>,
 recipes.remove(<ae2fc:part_fluid_export>);
 recipes.addShaped(<ae2fc:part_fluid_export>,
 [[<appliedenergistics2:item.ItemMultiMaterial:43>],
-[pump],
+[pump,<ktfruaddon:ktfru.item.compact:100>],
 [<gregtech:gt.meta.plate:220>]]);
 
 // Input Bus F
 recipes.remove(<ae2fc:part_fluid_import>);
 recipes.addShaped(<ae2fc:part_fluid_import>,
 [[<appliedenergistics2:item.ItemMultiMaterial:44>],
-[pump],
+[pump,<ktfruaddon:ktfru.item.compact:100>],
 [<gregtech:gt.meta.plate:220>]]);

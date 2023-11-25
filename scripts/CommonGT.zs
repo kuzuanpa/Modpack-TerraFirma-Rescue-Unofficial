@@ -1136,4 +1136,3 @@ recipes.addShaped(<gregtech:gt.meta.toolHeadHammer:9300>,
 [TPlank,TPlank,null],
 [TPlank,TPlank,Saw]]);
 }
-MTUtilsGT.removeAllRecipes("gt.recipe.centrifuge",<gregtech:gt.meta.nugget:470>);
