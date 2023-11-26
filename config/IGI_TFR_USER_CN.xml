@@ -30,8 +30,6 @@
             </round>
             <str>%</str>
 
-            <str>$8 使用/igi disable关闭信息显示</str>
-
         </line>
         <line>
             <icon>
@@ -60,35 +58,58 @@
             <op>
                 <str>eq</str>
                 <var>dimensionid</var>
-                <num>-1</num>
-                <num>-1</num>
+                <num>-127</num>
+                <num>-127</num>
+                <num>-123</num>
+                <num>-122</num>
+                <num>-121</num>
+                <num>-14</num>
+                <num>-13</num>
+                <num>-12</num>
+                <num>-11</num>
                 <num>0</num>
                 <num>1</num>
-                <num>2</num>
-                <num>7</num>
-                <num>10</num>
                 <num>11</num>
                 <num>12</num>
                 <num>13</num>
-                <num>14</num>
-                <num>15</num>
-                <num>16</num>
-                <num>17</num>
-                <num>18</num>
+                <num>21</num>
+                <num>22</num>
+                <num>23</num>
+                <num>24</num>
+                <num>27</num>
+                <num>28</num>
+                <num>29</num>
+                <num>31</num>
+                <num>32</num>
+                <num>33</num>
+                <num>34</num>
+                <num>35</num>
 
-                <str>$6下界 $e(Ne)</str>
-                <str>$6群峦星 $e(TF)</str>
-                <str>$6末地 $e(EN)</str>
-                <str>$6通灵空间 $e(不建议使用)</str>
+                <str>$6热带星 $e(Tr)</str>
+                <str>$6曲奇星 $e(Co)</str>
                 <str>$6暮色森林 $e(TF)</str>
-                <str>$6鸭蛋星 $e(DU)</str>
-                <str>$6鸭卫二 $e(DB)</str>
-                <str>$6鸭卫三 $e(DC)</str>
-                <str>$6HD星 $e(HD)</str>
-                <str>$6伊万星 $e(EV)</str>
-                <str>$6萨特恩星 $e(SA)</str>
-                <str>$6德拉克纳星 $e(DR)</str>
-                <str>$6终望星 $e(ED)</str>
+                <str>$6天堂 $e(Ae)</str>
+                <str>$6Ch-24-1</str>
+                <str>$6暗影星 $e(Sh)</str>
+                <str>$6龙星 $e(Dr)</str>
+                <str>$6终末星 $e(En)</str>
+                <str>$6主世界 $e(OW)</str>
+                <str>$6末地 $e(END)</str>
+                <str>$6群峦星 $e(TF)</str>
+                <str>$6鸭卫B $e(DB)</str>
+                <str>$6鸭卫C $e(DC)</str>
+                <str>$6水星 $e(Me)</str>
+                <str>$6金星 $e(Ve)</str>
+                <str>$6地球 $e(Ea)</str>
+                <str>$6火星 $e(Ma)</str>
+                <str>$6天王星 $e(Ur)</str>
+                <str>$6海王星 $e(Ne)</str>
+                <str>$6月球 $e(Mo)</str>
+                <str>$6No-12-1</str>
+                <str>$6No-12-2</str>
+                <str>$6No-93-1</str>
+                <str>$6No-93-2</str>
+                <str>$6No-43-1</str>
             </op>
         </line>
         <line>
@@ -96,493 +117,7 @@
                 <str>terrafirmacraft:Flora</str>
                 <num>4</num>
             </icon>
-            <str> 生物群系： $6</str>
-            <op>
-                <str>eq</str>
-                <var>biomeid</var>
-                <num>0</num>
-                <num>1</num>
-                <num>2</num>
-                <num>3</num>
-                <num>4</num>
-                <num>5</num>
-                <num>6</num>
-                <num>7</num>
-                <num>8</num>
-                <num>9</num>
-                <num>10</num>
-                <num>11</num>
-                <num>12</num>
-                <num>13</num>
-                <num>14</num>
-                <num>15</num>
-                <num>16</num>
-                <num>17</num>
-                <num>18</num>
-                <num>19</num>
-                <num>20</num>
-                <num>21</num>
-                <num>22</num>
-                <num>23</num>
-                <num>24</num>
-                <num>25</num>
-                <num>26</num>
-                <num>27</num>
-                <num>28</num>
-                <num>29</num>
-                <num>30</num>
-                <num>31</num>
-                <num>32</num>
-                <num>33</num>
-                <num>34</num>
-                <num>35</num>
-                <num>36</num>
-                <num>37</num>
-                <num>38</num>
-                <num>39</num>
-                <num>40</num>
-                <num>41</num>
-                <num>42</num>
-                <num>43</num>
-                <num>44</num>
-                <num>45</num>
-
-                <num>47</num>
-                <num>48</num>
-                <num>49</num>
-                <num>50</num>
-                <num>51</num>
-                <num>52</num>
-                <num>53</num>
-                <num>54</num>
-
-                <num>56</num>
-                <num>57</num>
-                <num>58</num>
-                <num>59</num>
-                <num>60</num>
-                <num>61</num>
-                <num>62</num>
-                <num>63</num>
-                <num>64</num>
-                <num>65</num>
-                <num>66</num>
-                <num>67</num>
-                <num>68</num>
-                <num>69</num>
-                <num>70</num>
-                <num>71</num>
-                <num>72</num>
-                <num>73</num>
-                <num>74</num>
-                <num>75</num>
-                <num>76</num>
-                <num>77</num>
-                <num>78</num>
-                <num>79</num>
-                <num>80</num>
-                <num>81</num>
-                <num>82</num>
-                <num>83</num>
-                <num>84</num>
-                <num>85</num>
-                <num>86</num>
-                <num>87</num>
-                <num>88</num>
-                <num>89</num>
-                <num>90</num>
-                <num>91</num>
-                <num>92</num>
-
-                <num>94</num>
-                <num>95</num>
-                <num>96</num>
-                <num>97</num>
-                <num>98</num>
-                <num>99</num>
-                <num>100</num>
-                <num>101</num>
-                <num>102</num>
-                <num>103</num>
-                <num>104</num>
-                <num>105</num>
-                <num>106</num>
-                <num>107</num>
-                <num>108</num>
-                <num>109</num>
-                <num>110</num>
-                <num>111</num>
-                <num>112</num>
-                <num>113</num>
-                <num>114</num>
-                <num>115</num>
-
-                <num>117</num>
-                <num>118</num>
-                <num>119</num>
-                <num>120</num>
-                <num>121</num>
-                <num>122</num>
-                <num>123</num>
-
-                <num>126</num>
-                <num>127</num>
-                <num>128</num>
-                <num>129</num>
-                <num>130</num>
-                <num>131</num>
-                <num>132</num>
-                <num>133</num>
-                <num>134</num>
-                <num>135</num>
-                <num>136</num>
-                <num>137</num>
-                <num>138</num>
-
-                <num>140</num>
-                <num>141</num>
-                <num>142</num>
-                <num>143</num>
-                <num>144</num>
-
-                <num>149</num>
-
-                <num>151</num>
-
-                <num>155</num>
-                <num>156</num>
-                <num>157</num>
-                <num>158</num>
-
-                <num>160</num>
-                <num>161</num>
-                <num>162</num>
-                <num>163</num>
-                <num>164</num>
-                <num>165</num>
-                <num>166</num>
-                <num>167</num>
-
-                <num>170</num>
-                <num>171</num>
-                <num>172</num>
-                <num>173</num>
-
-                <num>175</num>
-                <num>176</num>
-                <num>177</num>
-                <num>178</num>
-                <num>179</num>
-                <num>180</num>
-                <num>181</num>
-                <num>182</num>
-
-                <num>184</num>
-                <num>185</num>
-                <num>186</num>
-                <num>187</num>
-                <num>188</num>
-                <num>189</num>
-                <num>190</num>
-                <num>191</num>
-                <num>192</num>
-                <num>193</num>
-
-                <num>196</num>
-
-                <num>199</num>
-                <num>200</num>
-                <num>201</num>
-                <num>202</num>
-                <num>203</num>
-                <num>204</num>
-                <num>205</num>
-                <num>206</num>
-                <num>207</num>
-                <num>208</num>
-                <num>209</num>
-                <num>210</num>
-                <num>211</num>
-                <num>212</num>
-                <num>213</num>
-                <num>214</num>
-                <num>215</num>
-                <num>216</num>
-                <num>217</num>
-                <num>218</num>
-                <num>219</num>
-                <num>220</num>
-                <num>221</num>
-                <num>222</num>
-                <num>223</num>
-                <num>224</num>
-                <num>225</num>
-                <num>226</num>
-                <num>227</num>
-                <num>228</num>
-                <num>229</num>
-                <num>230</num>
-                <num>231</num>
-                <num>232</num>
-                <num>233</num>
-                <num>234</num>
-                <num>235</num>
-                <num>236</num>
-                <num>237</num>
-                <num>238</num>
-                <num>239</num>
-                <num>240</num>
-                <num>241</num>
-                <num>242</num>
-                <num>243</num>
-                <num>244</num>
-                <num>245</num>
-
-                <num>255</num>
-
-                <str>海洋</str>
-                <str>平原</str>
-                <str>湖泊</str> <!--TFC-->
-                <str>峭壁</str>
-                <str>森林</str>
-                <str>针叶林</str>
-                <str>沼泽</str>
-                <str>河流</str>
-                <str>下界</str>
-                <str>天空</str>
-                <str>冻洋</str>
-                <str>冻河</str>
-                <str>冰原</str>
-                <str>雪山</str>
-                <str>蘑菇岛</str>
-                <str>蘑菇岛岸</str>
-                <str>沙滩</str>
-                <str>沙丘</str>
-                <str>森林山丘</str>
-                <str>针叶林山丘</str>
-                <str>悬崖</str>
-                <str>丛林</str>
-                <str>丛林山丘</str>
-                <str>丛林边缘</str>
-                <str>深海</str>
-                <str>石滩</str>
-                <str>寒冷沙滩</str>
-                <str>桦木林</str>
-                <str>桦木林山丘</str>
-                <str>黑森林</str>
-                <str>丘陵地带</str> <!--TFC-->
-                <str>山丘</str> <!--TFC-->
-                <str>山丘边缘</str> <!--TFC-->
-                <str>大型针叶林山丘</str>
-                <str>峭壁+</str>
-                <str>高原</str> <!--TFC-->
-                <str>深海</str> <!--TFC-->
-                <str>平顶山</str>
-                <str>平顶山高原F</str>
-                <str>平顶山高原</str>
-                <str>阿尔卑斯山林</str>
-                <str>阿尔卑斯山</str>
-                <str>北极</str>
-                <str>竹林</str>
-                <str>河口</str>
-                <str>泥沼</str>
-
-                <str>寒带森林</str>
-                <str>灌木林</str>
-                <str>峡谷</str>
-                <str>河谷</str>
-                <str>阔叶灌木林</str>
-                <str>樱花林</str>
-                <str>针叶林</str>
-                <str>珊瑚礁</str>
-
-                <str>峭壁</str>
-                <str>死亡森林</str>
-                <str>荒芜沼泽</str>
-                <str>落叶林</str>
-                <str>干涸河床</str>
-                <str>桉树林</str>
-                <str>低位沼泽</str>
-                <str>花海</str>
-                <str>霜冻森林</str>
-                <str>蘑菇森林</str>
-                <str>花园</str>
-                <str>冰川</str>
-                <str>草地</str>
-                <str>小树林</str>
-                <str>荒原</str>
-                <str>高地</str>
-                <str>琼崖</str>
-                <str>海藻森林</str>
-                <str>湖泊之地</str>
-                <str>湖沼之地</str>
-                <str>薰衣草田</str>
-                <str>葱郁沙漠</str>
-                <str>葱郁河流</str>
-                <str>葱郁沼泽</str>
-                <str>红树林</str>
-                <str>枫树林</str>
-                <str>湿地</str>
-                <str>草甸森林</str>
-                <str>草甸</str>
-                <str>旷野</str>
-                <str>高山</str>
-                <str>诡秘之森</str>
-                <str>绿洲</str>
-                <str>不祥之森</str>
-                <str>果园</str>
-                <str>起源山谷</str>
-                <str>干燥石滩</str>
-
-                <str>极地裂谷</str>
-                <str>草原</str>
-                <str>泥潭</str>
-                <str>雨林</str>
-                <str>红木林</str>
-                <str>神圣之泉</str>
-                <str>灌木丛</str>
-                <str>季节性森林-平原</str>
-                <str>季节性森林-森林</str>
-                <str>避风港</str>
-                <str>灌丛</str>
-                <str>丝林空地</str>
-                <str>泥坑</str>
-                <str>雪山针叶林</str>
-                <str>幽灵花园</str>
-                <str>云杉林</str>
-                <str>干草原</str>
-                <str>温带雨林</str>
-                <str>树丛</str>
-                <str>热带雨林</str>
-                <str>热带海岛</str>
-                <str>苔原</str>
-
-                <str>血池肉林</str>
-                <str>火山</str>
-                <str>类月平原</str>
-                <str>湿地</str>
-                <str>林地</str>
-                <str>旱生灌丛</str>
-                <str>密林</str>
-
-                <str>原油海域</str>
-                <str>原油沙漠</str>
-                <str>骨林</str>
-                <str>向日葵平原</str>
-                <str>沙漠 M</str>
-                <str>峭壁 M</str>
-                <str>繁花森林</str>
-                <str>针叶林 M</str>
-                <str>沼泽 M</str>
-                <str>存储单元</str>
-                <str>腐化沙地</str>
-                <str>无间炼狱</str>
-                <str>地下花园</str>
-
-                <str>冰刺平原</str>
-                <str>月面</str>
-                <str>火星表面</str>
-                <str>小行星</str>
-                <str>太空</str>
-
-                <str>丛林 M</str>
-
-                <str>丛林边缘 M</str>
-
-                <str>桦木林 M</str>
-                <str>桦木林山丘 M</str>
-                <str>黑森林 M</str>
-                <str>冷针叶林 M</str>
-
-                <str>红木林</str>
-                <str>红木林山丘</str>
-                <str>峭壁+ M</str>
-                <str>热带草原 M</str>
-                <str>热带高原 M</str>
-                <str>平顶山（岩柱）</str>
-                <str>平顶山高原 F M</str>
-                <str>平顶山高原 M</str>
-
-                <str>暮色林中空地</str>
-                <str>黑暗森林</str>
-                <str>黑暗森林中心</str>
-                <str>蘑菇密林</str>
-
-                <str>火焰沼泽</str>
-                <str>暮色冰川</str>
-                <str>暮色高地</str>
-                <str>高地中心</str>
-                <str>暮色湖泊</str>
-                <str>萤火虫森林</str>
-                <str>蘑菇森林</str>
-                <str>橡木稀树草原</str>
-
-                <str>暮色溪流</str>
-                <str>暮色沼泽</str>
-                <str>荆棘之地</str>
-                <str>暮色森林</str>
-                <str>暮色密林</str>
-                <str>魔幻森林</str>
-                <str>诡秘之地</str>
-                <str>邪术之地</str>
-                <str>魔法森林</str>
-                <str>腐化之地</str>
-
-                <str>积雪森林</str>
-
-                <str>剧毒废土</str>
-                <str>冰河</str>
-                <str>太空</str>
-                <str>寒带河流</str>
-                <str>金星</str>
-                <str>冥王星</str>
-                <str>温带河流</str>
-                <str>冥王星2</str>
-                <str>热带河流</str>
-                <str>冥王星3</str>
-                <str>潮湿河流</str>
-                <str>冥王星4</str>
-                <str>绿洲河流</str>
-                <str>柯伊伯带</str>
-                <str>冰洋</str>
-                <str>寒带海洋</str>
-                <str>木卫一</str>
-                <str>温带海洋</str>
-                <str>木卫一灰烬</str>
-                <str>热带海洋</str>
-                <str>土卫六</str>
-                <str>巴纳德C岸</str>
-                <str>巴纳德C山地</str>
-                <str>巴纳德C盆地</str>
-                <str>绿洲海洋</str>
-                <str>降雪沙漠</str>
-                <str>降雪森林</str>
-                <str>冰冷平原</str>
-                <str>冰冷森林</str>
-                <str>炎热平原</str>
-                <str>炎热森林</str>
-                <str>炎热沙漠</str>
-                <str>平原</str>
-                <str>热带</str>
-                <str>红木林</str>
-                <str>丛林</str>
-                <str>绿洲</str>
-                <str>温带森林</str>
-                <str>潮湿海洋</str>
-                <str>巴纳德C花海</str>
-                <str>巴纳德C海洋</str>
-                <str>澳大利亚沙漠 II</str>
-                <str>澳大利亚沙漠 III</str>
-                <str>澳大利亚平原</str>
-                <str>澳大利亚内陆</str>
-                <str>澳大利亚海洋</str>
-                <str>澳大利亚森林</str>
-
-                <str>鲸鱼座T星E</str>
-
-                <str/>
-            </op>
-            <str> $f 湿度: $b{humidity}%</str>
+            <str> $f湿度: $b{humidity}%</str>
             <str> $f 降水量: $b{tfcrainfall}</str>
         </line>
         <line>

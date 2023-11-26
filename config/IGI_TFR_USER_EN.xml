@@ -56,39 +56,62 @@
             <icon>
                 <str>terrafirmacraft:item.LooseRock</str>
             </icon>
-            <str> $rWorld： </str>
+            <str> $rWorld: </str>
             <op>
                 <str>eq</str>
                 <var>dimensionid</var>
-                <num>-1</num>
-                <num>-1</num>
+                <num>-127</num>
+                <num>-127</num>
+                <num>-123</num>
+                <num>-122</num>
+                <num>-121</num>
+                <num>-14</num>
+                <num>-13</num>
+                <num>-12</num>
+                <num>-11</num>
                 <num>0</num>
                 <num>1</num>
-                <num>2</num>
-                <num>7</num>
-                <num>10</num>
                 <num>11</num>
                 <num>12</num>
                 <num>13</num>
-                <num>14</num>
-                <num>15</num>
-                <num>16</num>
-                <num>17</num>
-                <num>18</num>
+                <num>21</num>
+                <num>22</num>
+                <num>23</num>
+                <num>24</num>
+                <num>27</num>
+                <num>28</num>
+                <num>29</num>
+                <num>31</num>
+                <num>32</num>
+                <num>33</num>
+                <num>34</num>
+                <num>35</num>
 
-                <str>$6Nether $e(Ne)</str>
-                <str>$6Terrafirma $e(TF)</str>
-                <str>$6End $e(EN)</str>
-                <str>$6Soul $e(Not recommended)</str>
+                <str>$6Tropical $e(Tr)</str>
+                <str>$6Cookie $e(Co)</str>
                 <str>$6Twilight Forest $e(TF)</str>
-                <str>$6Duck Egg $e(DU)</str>
-                <str>$6Duck Egg B $e(DB)</str>
-                <str>$6Duck Egg C $e(DC)</str>
-                <str>$6HD $e(HD)</str>
-                <str>$6Evan $e(EV)</str>
-                <str>$6Saturn $e(SA)</str>
-                <str>$6Dracona $e(DR)</str>
-                <str>$6Endest $e(ED)</str>
+                <str>$6Aether $e(Ae)</str>
+                <str>$6Ch-24-1</str>
+                <str>$6Shadow $e(Sh)</str>
+                <str>$6Dracona $e(Dr)</str>
+                <str>$6Endest $e(En)</str>
+                <str>$6OverWorld $e(OW)</str>
+                <str>$6The End $e(END)</str>
+                <str>$6TerraFirma $e(TF)</str>
+                <str>$6DuckEgg B $e(DB)</str>
+                <str>$6DuckDgg C $e(DC)</str>
+                <str>$6Mercury $e(Me)</str>
+                <str>$6Venus $e(Ve)</str>
+                <str>$6Earth $e(Ea)</str>
+                <str>$6Mars $e(Ma)</str>
+                <str>$6Uranus $e(Ur)</str>
+                <str>$6Neptune $e(Ne)</str>
+                <str>$6Moon $e(Mo)</str>
+                <str>$6No-12-1</str>
+                <str>$6No-12-2</str>
+                <str>$6No-93-1</str>
+                <str>$6No-93-2</str>
+                <str>$6No-43-1</str>
             </op>
         </line>
         <line>
@@ -96,7 +119,6 @@
                 <str>terrafirmacraft:Flora</str>
                 <num>4</num>
             </icon>
-            <str> Biome: $3{biome}$f</str>
             <str> $f Humidity: $b{humidity}%</str>
             <str> $f Rain: $b{tfcrainfall}</str>
         </line>
