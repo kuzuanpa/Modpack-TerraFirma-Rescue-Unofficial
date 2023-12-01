@@ -2890,14 +2890,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotAnyHardPlastic</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick;2;8197</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotElvenElementium</oreDict>
 		</input>
 		<output>

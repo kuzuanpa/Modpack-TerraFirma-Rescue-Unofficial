@@ -16,7 +16,7 @@ Use the monkey wrench to adjust the buck-boost mode of the transformers.
 Right-click the item in the item filter to set it to fuzzy filtering mode.
 Most items from TerraFrimaCraft can be transform to vanilia items.
 Ore nuggets on the surface hint corresponding ore veins under them.
-Kaolinite and graphite don't have tagged nuggets on the surface.
+Kaolinite and graphite also have tagged nuggets on the surface.
 GregTech's tools can be made with almost any metal
 Refined iron billets less than 100 unit can be recycled in the bloomery
 Death does not restore thirst and hunger level
