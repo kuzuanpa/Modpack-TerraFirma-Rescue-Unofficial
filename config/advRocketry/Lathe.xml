@@ -2706,14 +2706,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotAnyPlastic</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.stick;2;8196</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotAntiAluminum</oreDict>
 		</input>
 		<output>

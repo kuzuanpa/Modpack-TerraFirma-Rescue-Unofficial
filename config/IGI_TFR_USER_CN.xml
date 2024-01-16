@@ -67,6 +67,7 @@
                 <num>-13</num>
                 <num>-12</num>
                 <num>-11</num>
+                <num>-1</num>
                 <num>0</num>
                 <num>1</num>
                 <num>11</num>
@@ -93,6 +94,7 @@
                 <str>$6暗影星 $e(Sh)</str>
                 <str>$6龙星 $e(Dr)</str>
                 <str>$6终末星 $e(En)</str>
+                <str>$6地狱 $e(Ne)</str>
                 <str>$6主世界 $e(OW)</str>
                 <str>$6末地 $e(END)</str>
                 <str>$6群峦星 $e(TF)</str>

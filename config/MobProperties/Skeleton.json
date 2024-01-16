@@ -12,7 +12,7 @@
   {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "value": 2200,
+                "value": 2980,
                 "operator": 0
         }]
 }

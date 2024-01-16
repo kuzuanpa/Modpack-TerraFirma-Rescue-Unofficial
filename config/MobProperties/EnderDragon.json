@@ -10,7 +10,7 @@
         },  {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "value": 60000,
+                "value": 39800,
                 "operator": 0
         }]
 }

@@ -151,7 +151,7 @@ recipes.addShaped(<appliedenergistics2:tile.BlockController>,
 // Drive
 recipes.remove(<appliedenergistics2:tile.BlockDrive>);
 recipes.addShaped(<appliedenergistics2:tile.BlockDrive>,
-[[null,<appliedenergistics2:item.ItemMultiMaterial:24>,null],
+[[null,<ore:ktfruBasicComputer>,null],
 [<appliedenergistics2:item.ItemMultiPart:16>,<gregtech:gt.meta.machine:220>,<appliedenergistics2:item.ItemMultiPart:16>],
 [null,<appliedenergistics2:item.ItemMultiMaterial:24>,null]]);
 
@@ -253,38 +253,38 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:60>);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a1k);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 270, 200, 0, [10000],
-[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20008>*2],
+[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20008>*2,<ktfruaddon:ktfru.item.it:10300>],
 [<liquid:molten.redalloy>*144],
 [n],
 [a1k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a4k);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 350, 400, 0, [10000],
-[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<ktfruaddon:ktfru.item.it:20008>*8],
+[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<ktfruaddon:ktfru.item.it:20008>*8,<ktfruaddon:ktfru.item.it:10308>],
 [<liquid:molten.redalloy>*144],
 [n],
 [a4k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a16k);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 630, 600, 0, [10000],
-[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<ktfruaddon:ktfru.item.it:20012>*32],
+[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<ktfruaddon:ktfru.item.it:20012>*32,<ktfruaddon:ktfru.item.it:10301>],
 [<liquid:molten.redalloy>*144],
 [n],
 [a16k]);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 320, 48, 0, [10000],
-[<gregapi:gt.integrated_circuit:3>*0,a4k*3,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20012>*16],
+[<gregapi:gt.integrated_circuit:3>*0,a4k*3,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20012>*16,<ktfruaddon:ktfru.item.it:10301>],
 [<liquid:molten.redalloy>*72],
 [n],
 [a16k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a64k);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 870, 800, 0, [10000],
-[<gregapi:gt.integrated_circuit:4>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8708>*64,<gregtech:gt.meta.wireFine:8708>*64,<ktfruaddon:ktfru.item.it:20012>*64],
+[<gregapi:gt.integrated_circuit:4>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8708>*64,<gregtech:gt.meta.wireFine:8708>*64,<ktfruaddon:ktfru.item.it:20012>*64,<ktfruaddon:ktfru.item.it:10309>],
 [<liquid:molten.redalloy>*144],
 [n],
 [a64k]);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 540, 82, 0, [10000],
-[<gregapi:gt.integrated_circuit:4>*0,a16k*3,<gregtech:gt.meta.wireFine:8708>*32,<ktfruaddon:ktfru.item.it:20012>*32],
+[<gregapi:gt.integrated_circuit:4>*0,a16k*3,<gregtech:gt.meta.wireFine:8708>*32,<ktfruaddon:ktfru.item.it:20012>*32,<ktfruaddon:ktfru.item.it:10309>],
 [<liquid:molten.redalloy>*72],
 [n],
 [a64k]);

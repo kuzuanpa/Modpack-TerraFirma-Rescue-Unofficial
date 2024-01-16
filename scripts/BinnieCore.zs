@@ -58,9 +58,9 @@ recipes.remove(<BinnieCore:storage:4>);
 recipes.remove(<BinnieCore:storage:5>);
 
 recipes.addShaped(<BinnieCore:storage>,
-[[<ore:buttonWood>,<ore:chestWood>,<ore:buttonWood>],
-[<ore:chestWood>,<advancedRocketry:circuitIC>,<ore:chestWood>],
-[<ore:buttonWood>,<ore:chestWood>,<ore:buttonWood>]]);
+[[<ore:dyeBlack>,<ore:chestWood>,<ore:dyeBlack>],
+[<ore:chestWood>,<ore:buttonWood>,<ore:chestWood>],
+[<ore:paperEmpty>,<ore:chestWood>,<ore:paperEmpty>]]);
 
 recipes.addShaped(<BinnieCore:storage:1>,
 [[<ore:plateCopper>,<ore:chestWood>,<ore:plateCopper>],
