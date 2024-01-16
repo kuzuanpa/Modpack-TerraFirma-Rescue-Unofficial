@@ -1,0 +1,430 @@
+{
+  "quests:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 240,
+      "y:3": -264,
+      "questIDLow:4": 397,
+      "sizeY:3": 24
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 192,
+      "y:3": -216,
+      "questIDLow:4": 454,
+      "sizeY:3": 24
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -12,
+      "y:3": 108,
+      "questIDLow:4": 599,
+      "sizeY:3": 24
+    },
+    "3:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 120,
+      "y:3": 228,
+      "questIDLow:4": 600,
+      "sizeY:3": 24
+    },
+    "4:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 240,
+      "y:3": 144,
+      "questIDLow:4": 601,
+      "sizeY:3": 24
+    },
+    "5:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 144,
+      "y:3": -60,
+      "questIDLow:4": 602,
+      "sizeY:3": 24
+    },
+    "6:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 108,
+      "y:3": -324,
+      "questIDLow:4": 603,
+      "sizeY:3": 24
+    },
+    "7:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -12,
+      "y:3": -216,
+      "questIDLow:4": 604,
+      "sizeY:3": 24
+    },
+    "8:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 84,
+      "y:3": -168,
+      "questIDLow:4": 605,
+      "sizeY:3": 24
+    },
+    "9:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -144,
+      "y:3": -324,
+      "questIDLow:4": 606,
+      "sizeY:3": 24
+    },
+    "10:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -108,
+      "y:3": 108,
+      "questIDLow:4": 607,
+      "sizeY:3": 24
+    },
+    "11:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 60,
+      "y:3": 108,
+      "questIDLow:4": 608,
+      "sizeY:3": 24
+    },
+    "12:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -12,
+      "y:3": -108,
+      "questIDLow:4": 609,
+      "sizeY:3": 24
+    },
+    "13:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -108,
+      "y:3": -120,
+      "questIDLow:4": 610,
+      "sizeY:3": 24
+    },
+    "14:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -108,
+      "y:3": -168,
+      "questIDLow:4": 611,
+      "sizeY:3": 24
+    },
+    "15:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -264,
+      "y:3": -276,
+      "questIDLow:4": 612,
+      "sizeY:3": 24
+    },
+    "16:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -264,
+      "y:3": -168,
+      "questIDLow:4": 614,
+      "sizeY:3": 24
+    },
+    "17:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -168,
+      "y:3": -60,
+      "questIDLow:4": 615,
+      "sizeY:3": 24
+    },
+    "18:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -264,
+      "y:3": 36,
+      "questIDLow:4": 616,
+      "sizeY:3": 24
+    },
+    "19:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -144,
+      "y:3": 228,
+      "questIDLow:4": 617,
+      "sizeY:3": 24
+    },
+    "20:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -36,
+      "y:3": 132,
+      "questIDLow:4": 618,
+      "sizeY:3": 24
+    },
+    "21:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 144,
+      "y:3": -216,
+      "questIDLow:4": 620,
+      "sizeY:3": 24
+    },
+    "22:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -168,
+      "y:3": 12,
+      "questIDLow:4": 621,
+      "sizeY:3": 24
+    },
+    "23:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -168,
+      "y:3": 60,
+      "questIDLow:4": 774,
+      "sizeY:3": 24
+    },
+    "24:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -168,
+      "y:3": -120,
+      "questIDLow:4": 778,
+      "sizeY:3": 24
+    },
+    "25:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -168,
+      "y:3": -168,
+      "questIDLow:4": 779,
+      "sizeY:3": 24
+    },
+    "26:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -108,
+      "y:3": -60,
+      "questIDLow:4": 780,
+      "sizeY:3": 24
+    },
+    "27:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 36,
+      "y:3": 60,
+      "questIDLow:4": 781,
+      "sizeY:3": 24
+    },
+    "28:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 192,
+      "y:3": 156,
+      "questIDLow:4": 782,
+      "sizeY:3": 24
+    },
+    "29:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 36,
+      "y:3": -60,
+      "questIDLow:4": 783,
+      "sizeY:3": 24
+    },
+    "30:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 240,
+      "y:3": -168,
+      "questIDLow:4": 784,
+      "sizeY:3": 24
+    },
+    "31:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 240,
+      "y:3": 24,
+      "questIDLow:4": 785,
+      "sizeY:3": 24
+    },
+    "32:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 36,
+      "y:3": 12,
+      "questIDLow:4": 786,
+      "sizeY:3": 24
+    },
+    "33:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -12,
+      "y:3": -12,
+      "questIDLow:4": 787,
+      "sizeY:3": 24
+    },
+    "34:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 36,
+      "y:3": 264,
+      "questIDLow:4": 788,
+      "sizeY:3": 24
+    },
+    "35:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 84,
+      "y:3": -120,
+      "questIDLow:4": 789,
+      "sizeY:3": 24
+    },
+    "36:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -60,
+      "y:3": 12,
+      "questIDLow:4": 790,
+      "sizeY:3": 24
+    },
+    "37:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -168,
+      "y:3": -216,
+      "questIDLow:4": 792,
+      "sizeY:3": 24
+    },
+    "38:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -12,
+      "y:3": 264,
+      "questIDLow:4": 793,
+      "sizeY:3": 24
+    },
+    "39:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 144,
+      "y:3": -120,
+      "questIDLow:4": 794,
+      "sizeY:3": 24
+    },
+    "40:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -60,
+      "y:3": 60,
+      "questIDLow:4": 795,
+      "sizeY:3": 24
+    },
+    "41:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 84,
+      "y:3": -60,
+      "questIDLow:4": 797,
+      "sizeY:3": 24
+    },
+    "42:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -108,
+      "y:3": -216,
+      "questIDLow:4": 799,
+      "sizeY:3": 24
+    },
+    "43:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -144,
+      "y:3": 156,
+      "questIDLow:4": 800,
+      "sizeY:3": 24
+    },
+    "44:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 216,
+      "y:3": 120,
+      "questIDLow:4": 801,
+      "sizeY:3": 24
+    },
+    "45:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -264,
+      "y:3": 156,
+      "questIDLow:4": 802,
+      "sizeY:3": 24
+    },
+    "46:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -60,
+      "y:3": -60,
+      "questIDLow:4": 803,
+      "sizeY:3": 24
+    },
+    "47:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 144,
+      "y:3": -168,
+      "questIDLow:4": 804,
+      "sizeY:3": 24
+    },
+    "48:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -12,
+      "y:3": -60,
+      "questIDLow:4": 805,
+      "sizeY:3": 24
+    },
+    "49:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": -216,
+      "y:3": -216,
+      "questIDLow:4": 806,
+      "sizeY:3": 24
+    },
+    "50:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 84,
+      "y:3": -216,
+      "questIDLow:4": 807,
+      "sizeY:3": 24
+    }
+  },
+  "questLineIDLow:4": 21,
+  "questLineIDHigh:4": 0,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "icon:10": {
+        "id:8": "Botania:cosmetic",
+        "Count:3": 1,
+        "tag:10": {},
+        "Damage:2": 21,
+        "OreDict:8": ""
+      },
+      "name:8": "tfr.line21.name",
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "tfr.line21.desc"
+    }
+  }
+}

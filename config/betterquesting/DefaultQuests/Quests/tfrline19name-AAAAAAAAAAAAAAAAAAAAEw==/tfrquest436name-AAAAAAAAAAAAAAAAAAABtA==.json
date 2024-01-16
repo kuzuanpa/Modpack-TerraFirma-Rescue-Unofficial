@@ -1,0 +1,103 @@
+{
+  "questIDHigh:4": 0,
+  "preRequisites:9": {},
+  "questIDLow:4": 436,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "partySingleReward:1": 1,
+      "visibility:8": "NORMAL",
+      "isMain:1": 1,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "terrafirmacraft:item.Sandwich",
+        "Count:3": 1,
+        "tag:10": {
+          "foodWeight:5": 140.0,
+          "FG:11": [
+            30024,
+            10004,
+            20010,
+            40000,
+            2
+          ],
+          "RepairCost:3": 2,
+          "tasteSalty:3": 20,
+          "tasteBitter:3": 15,
+          "tasteUmami:3": 115,
+          "display:10": {
+            "Name:8": "蟹黄堡"
+          },
+          "tasteSour:3": 30,
+          "tasteSweet:3": 40,
+          "mealSkill:3": 0
+        },
+        "Damage:2": 2,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": 432000,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "tfr.quest436.name",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "tfr.quest436.desc"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "consume:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "moegadd:point10",
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.Sandwich",
+          "Count:3": 1,
+          "tag:10": {
+            "foodWeight:5": 200.0,
+            "FG:11": [
+              30024,
+              10004,
+              20010,
+              40000,
+              2
+            ],
+            "tasteSalty:3": 70,
+            "tasteBitter:3": 70,
+            "tasteUmami:3": 115,
+            "display:10": {
+              "Name:8": "超级蟹黄堡"
+            },
+            "tasteSour:3": 70,
+            "tasteSweet:3": 70,
+            "mealSkill:3": 0
+          },
+          "Damage:2": 2,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

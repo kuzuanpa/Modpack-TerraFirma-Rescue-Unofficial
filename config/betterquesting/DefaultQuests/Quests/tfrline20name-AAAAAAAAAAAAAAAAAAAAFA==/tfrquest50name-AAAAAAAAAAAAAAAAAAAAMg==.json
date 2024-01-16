@@ -1,0 +1,112 @@
+{
+  "questIDHigh:4": 0,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 624
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 119
+    }
+  },
+  "questIDLow:4": 50,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "partySingleReward:1": 0,
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "minecraft:grass",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "tfr.quest50.name",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "tfr.quest50.desc"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "visible:1": 0,
+      "invert:1": 0,
+      "range:3": -1,
+      "index:3": 0,
+      "structure:8": "",
+      "hideInfo:1": 0,
+      "posX:3": 0,
+      "posY:3": 0,
+      "posZ:3": 0,
+      "biome:3": -1,
+      "name:8": "Earth",
+      "dimension:3": 19,
+      "taxiCabDist:1": 0,
+      "taskID:8": "bq_standard:location"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "minecraft:written_book",
+          "Count:3": 1,
+          "tag:10": {
+            "pages:9": {
+              "0:8": "21X1年8月10日\n\n距离核聚变反应堆开始稳定运行已经过去八年了，我不再需要担心能源耗尽——鸭蛋星有取之不尽的氦-3资源，至少能够供我使用20000年。\n但是我可活不了那么久。我没忘记我那最开始的祈望：回到地球上去。",
+              "1:8": "21X2年2月3日\n\n这段时间我一直在研究超远跃迁技术的应用。跃迁技术已经能让我前往临近的星系，但是前往地球那样远距离的星系——68光年以外的地方，我依旧无法安心。\n我明白超远距离的跃迁可能对我造成永久性的伤害。",
+              "2:8": "21X2年6月10日\n\n春天又过去了，群峦星开始变得生机勃勃，但我却变得越发萎靡不振。\n直到昨天，我才发现了一件令人害怕的事实：我患上了白血病。我想这很可能是鸭蛋星所释放的高能粒子在这几十年间对我持续的影响导致的。",
+              "3:8": "这件事就像一个响雷，让我不得不沉思我的对策。我没有防辐射或治疗癌症的药物。即使我能研发，我也可能撑不到那个时候。\n",
+              "4:8": "21X2年6月15日\n\n我决定冒险。我将我所能制造出的最坚硬的合金——无尽——打造成一身防护服。我希望这将能保护我免受超远距离跃迁的伤害。\n",
+              "5:8": "21X2年7月16日\n\n不管是谁在阅读这段日记，我想告诉你：我出发了。我花费了一个月的时间将我需要携带的物品运送上空间站，然而留在群峦星上的机械依旧很多。\n地球的坐标已经输入跃迁控制器，我身穿无尽防护服，推下跃迁拉杆。\n开始了...返乡之旅。"
+            },
+            "author:8": "Alexander Steve II",
+            "Count:1": 1,
+            "id:2": 386,
+            "title:8": "The Last Diary",
+            "Damage:2": 0
+          },
+          "Damage:2": 0,
+          "OreDict:8": ""
+        },
+        "1:10": {
+          "id:8": "minecraft:written_book",
+          "Count:3": 1,
+          "tag:10": {
+            "pages:9": {
+              "0:8": "August 10, 21X1\n\nIt\u0027s been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.",
+              "1:8": "But I won\u0027t live that long. I haven\u0027t forgotten my first and always wish: to return to Earth.\n",
+              "2:8": "February 3, 21X2.\n\nI\u0027ve been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.",
+              "3:8": "I understand that space-warp over great distances could cause permanent damage to me.\n",
+              "4:8": "June 10, 21X2.\n\nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.\n",
+              "5:8": "It wasn\u0027t until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.\n",
+              "6:8": "The incident was like a thunderbolt that forced me to contemplate my response. I don\u0027t have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn\u0027t make it through that time.\n",
+              "7:8": "June 15, 21X2.\n\nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.\n",
+              "8:8": "July 16, 21X2.\n\nWhoever is reading this diary, I want you to know that I\u0027m off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.\n",
+              "9:8": "Earth\u0027s coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.\nBeginning the... the homeward journey."
+            },
+            "author:8": "亚历山大·史蒂夫·二世",
+            "Count:1": 1,
+            "id:2": 386,
+            "title:8": "最后的日记",
+            "Damage:2": 0
+          },
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "quests:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 180,
+      "y:3": 300,
+      "questIDLow:4": 5,
+      "sizeY:3": 24
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 468,
+      "y:3": 132,
+      "questIDLow:4": 19,
+      "sizeY:3": 24
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 396,
+      "y:3": 60,
+      "questIDLow:4": 59,
+      "sizeY:3": 24
+    },
+    "3:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 48,
+      "x:3": 684,
+      "y:3": 288,
+      "questIDLow:4": 99,
+      "sizeY:3": 48
+    },
+    "4:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 540,
+      "y:3": 132,
+      "questIDLow:4": 108,
+      "sizeY:3": 24
+    },
+    "5:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 540,
+      "y:3": 192,
+      "questIDLow:4": 136,
+      "sizeY:3": 24
+    },
+    "6:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 540,
+      "y:3": 300,
+      "questIDLow:4": 155,
+      "sizeY:3": 24
+    },
+    "7:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 132,
+      "y:3": 132,
+      "questIDLow:4": 164,
+      "sizeY:3": 24
+    },
+    "8:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 396,
+      "y:3": 192,
+      "questIDLow:4": 168,
+      "sizeY:3": 24
+    },
+    "9:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 48,
+      "x:3": 168,
+      "y:3": 120,
+      "questIDLow:4": 216,
+      "sizeY:3": 48
+    },
+    "10:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 288,
+      "y:3": 132,
+      "questIDLow:4": 217,
+      "sizeY:3": 24
+    },
+    "11:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 288,
+      "y:3": -36,
+      "questIDLow:4": 218,
+      "sizeY:3": 24
+    },
+    "12:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 48,
+      "x:3": 600,
+      "y:3": -48,
+      "questIDLow:4": 219,
+      "sizeY:3": 48
+    },
+    "13:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 396,
+      "y:3": 132,
+      "questIDLow:4": 261,
+      "sizeY:3": 24
+    },
+    "14:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 348,
+      "y:3": 96,
+      "questIDLow:4": 262,
+      "sizeY:3": 24
+    },
+    "15:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 468,
+      "y:3": 192,
+      "questIDLow:4": 270,
+      "sizeY:3": 24
+    },
+    "16:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 588,
+      "y:3": 192,
+      "questIDLow:4": 277,
+      "sizeY:3": 24
+    },
+    "17:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 612,
+      "y:3": 348,
+      "questIDLow:4": 289,
+      "sizeY:3": 24
+    },
+    "18:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 240,
+      "y:3": 96,
+      "questIDLow:4": 291,
+      "sizeY:3": 24
+    },
+    "19:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 612,
+      "y:3": 132,
+      "questIDLow:4": 320,
+      "sizeY:3": 24
+    },
+    "20:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 612,
+      "y:3": 300,
+      "questIDLow:4": 349,
+      "sizeY:3": 24
+    },
+    "21:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 180,
+      "y:3": -36,
+      "questIDLow:4": 351,
+      "sizeY:3": 24
+    },
+    "22:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 348,
+      "y:3": 348,
+      "questIDLow:4": 371,
+      "sizeY:3": 24
+    },
+    "23:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 288,
+      "y:3": 252,
+      "questIDLow:4": 372,
+      "sizeY:3": 24
+    },
+    "24:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 396,
+      "y:3": 252,
+      "questIDLow:4": 438,
+      "sizeY:3": 24
+    },
+    "25:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 396,
+      "y:3": 348,
+      "questIDLow:4": 439,
+      "sizeY:3": 24
+    },
+    "26:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 48,
+      "x:3": 336,
+      "y:3": 288,
+      "questIDLow:4": 440,
+      "sizeY:3": 48
+    },
+    "27:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 336,
+      "y:3": 168,
+      "questIDLow:4": 441,
+      "sizeY:3": 24
+    },
+    "28:10": {
+      "questIDHigh:4": 0,
+      "sizeX:3": 24,
+      "x:3": 288,
+      "y:3": 192,
+      "questIDLow:4": 644,
+      "sizeY:3": 24
+    }
+  },
+  "questLineIDLow:4": 13,
+  "questLineIDHigh:4": 0,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "icon:10": {
+        "id:8": "terrafirmacraft:item.Bronze Ingot",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "name:8": "tfr.line13.name",
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "tfr.line13.desc"
+    }
+  }
+}

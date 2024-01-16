@@ -1,0 +1,76 @@
+{
+  "questIDHigh:4": 0,
+  "preRequisites:9": {},
+  "questIDLow:4": 3,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "partySingleReward:1": 0,
+      "visibility:8": "NORMAL",
+      "isMain:1": 1,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "minecraft:potato",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 1,
+      "questLogic:8": "AND",
+      "repeat_relative:1": 1,
+      "name:8": "tfr.quest3.name",
+      "isGlobal:1": 0,
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "tfr.quest3.desc"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  },
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "terrafirmacraft:item.Seeds Potato",
+          "Count:3": 2,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        },
+        "1:10": {
+          "id:8": "gregtech:gt.armor.hazmat.frost.head",
+          "Count:3": 1,
+          "Damage:2": 50,
+          "OreDict:8": ""
+        },
+        "2:10": {
+          "id:8": "gregtech:gt.armor.hazmat.frost.boots",
+          "Count:3": 1,
+          "Damage:2": 98,
+          "OreDict:8": ""
+        },
+        "3:10": {
+          "id:8": "gregtech:gt.armor.hazmat.frost.chest",
+          "Count:3": 1,
+          "Damage:2": 120,
+          "OreDict:8": ""
+        },
+        "4:10": {
+          "id:8": "gregtech:gt.armor.hazmat.frost.legs",
+          "Count:3": 1,
+          "Damage:2": 80,
+          "OreDict:8": ""
+        }
+      }
+    }
+  }
+}
