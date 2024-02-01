@@ -472,6 +472,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=Go to the Nether to look for An
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Тир 2 — эра пара
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=Однажды ты случайно поставила чайник рядом с кузницей, когда ковала. В другой раз крышка чайника была поднята белым туманом. Ты построил паровой двигатель, основываясь на руководстве "империи". %n%n основано на % % от технологии грей. % %n
 
+# Quest: jinxi
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name="Б" l вскипятить воду!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=Первое оборудование для производства пара в вашем путешествии. Пора повысить производительность! Несмотря на то, что после завершения работы над наковальней из черной стали вы можете вступить в эру пара, я предлагаю вам завершить линию наковальни из красной или синей стали, чтобы вы могли получить тигель GT, очень мощный инструмент для увеличения производства, в противном случае у вас будет чрезвычайно мало материала в эру пара. 5 %n% "6" указывает на то, что в данный момент задача разделена на две стороны симметрии: бронзовые машины и стальные машины. Вы можете выбрать любую сторону по своему усмотрению, независимо от того, на какой стороне вы будете, просто выполните задачу по форме короны и продвинете ваши технические линии.%n
@@ -810,10 +814,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=Ток высвобождает
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Генератор (HV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=Генератор HV уровня
 
-# Quest: tfr.quest48.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.name=генератор
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.desc=Генератор на уровне эв
-
 # Quest: tfr.quest55.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=Соединительный кабель
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=
@@ -846,10 +846,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Базовая плата (в ожидании сварки)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=
 
-# Quest: tfr.quest73.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=Кристаллический кремний
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=Один из самых базовых компонентов цепи, который делает более продвинутые платные платы, может также создавать низкоуровневые
-
 # Quest: tfr.quest74.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Полное отражение (TIR)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=Свет может полностью отражаться в двух средах с различными коэффициентами преломления. Оптоволоконное волокно является одним из применений этого открытия, и он может передавать лазерную энергию (LU). Похоже на использование проводов
@@ -870,17 +866,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.desc=Хлористый Титан �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=Александр!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=Автоклав может делать алюминиевый порошок с гидроксидом натрия из пара, что делает его ключевым компонентом алюминия.
 
-# Quest: tfr.quest92.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=Плавильный тигель (вольфрам)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=Более высокая точка плавления, чем плавильная плавильная плавильная масса, которую можно использовать для плавления более продвинутых сплавов.
-
 # Quest: tfr.quest93.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=Из вольфрамов
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=Один из лучших материалов для машины
-
-# Quest: tfr.quest94.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=бк
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=Один из самых жестких материалов, в то же время с хорошей теплоустойчивостью, одним из лучших материалов для машин.
 
 # Quest: tfr.quest95.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=Магний-алюминиевый сплав
@@ -894,29 +882,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=Фильтр обладает �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=- мне нужно больше электричества
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=У вас аспирация, гепатит, слабые материалы, слабые генераторы, каждая пристойная машина, даже если вы хотите перейти от LV к HV генератору? Сладких снов!
 
-# Quest: tfr.quest102.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Тигель из карбида гафния
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=Тигель из карбида гафния
-
 # Quest: tfr.quest103.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=Элемент номер шесть
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=Вы можете электролизировать уголь в углеродные порошки для более эффективных металлургических руд и, что более важно, для производства более качественных материалов
 
-# Quest: tfr.quest104.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=Настоящая обработка металла
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=Для обработки всех металлов GT и выше ингаляционных стальных модуляторов необходимо также карбонизировать вольфрамовые формы, чтобы их обработать.
-
 # Quest: tfr.quest114.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=Разложение воздуха
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=Требуется 2xMV / 8xLV охлаждающий аппарат для ввода в CU. Создание неоновых, таких редких газов, как гелий, произвело первый слой электросхемы: 3x3 термопроводов, 2 уровень: 3x3 центр антифриз-механических блоков с произвольной стороны: 3 × 3 × 3 части главного блока криогенной дистилляции: 3 × 3 × 3
-
-# Quest: tfr.quest213.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=Дуговая доменная печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=Используя дуговую доменную печь, можно плавить первую вольфрамовую слитку. Также можно использовать для изготовления вольфрамовой и вольфрамовой стали. Vn - % - n метод изготовления материалов и размещения, пожалуйста, используйте голографический проектор
-
-# Quest: tfr.quest235.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.name=Электронно-ступенчатая схема
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.desc=Последняя примитивная плата, которую можно использовать для создания продвинутых гравюров
 
 # Quest: tfr.quest240.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Группа электропередач, загружайте T1
@@ -3071,6 +3043,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.desc=
 # Quest: tfr.quest732.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
+
+# Quest: tfr.quest740.name
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
 
 ## Quest Line: tfr.line24.name

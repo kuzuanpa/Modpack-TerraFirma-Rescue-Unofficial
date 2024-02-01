@@ -472,6 +472,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=Go to the Nether to look for An
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - Steam Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=One day, when you were forging, you accidentally left the kettle by the forge stove. Soon the lid of the kettle was plumped up by a white mist. You built a steam engine according to the guide. - based on GregTech
 
+# Quest: jinxi
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§ § §lBoiling water!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=Your first steam production device in this journey. It's time to boost productivity! Although you can enter the age of steam after the completion the steel anvil, I would suggest that you complete the red steel anvil or blue steel anvil task line, so that you can obtain the GT crucible, a strong tool that can boost your production, otherwise you would be extremely short of materials in the age of steam. Note: you will notice that the task is now divided into two  branches, bronze and steel. You can choose the side you want, you can progress as long as you complete the crown shape task.%n
@@ -810,10 +814,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=When an electric current passes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Generator (HV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=An HV class generator
 
-# Quest: tfr.quest48.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.name=Generator (EV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.desc=An EV-class generator
-
 # Quest: tfr.quest55.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=
@@ -846,10 +846,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Base circuit board (waiting for welding)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=
 
-# Quest: tfr.quest73.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=Crystalline silicon
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=One of the most basic circuit elements, it can be made into higher level circuit boards or lower level circuit boards
-
 # Quest: tfr.quest74.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Total Internal Reflection (TIR)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=Light can be completely reflected in two media with different refractive indices. One application of this discovery is optical fiber, which can transmit laser energy (LU). It's similar to electric cables
@@ -870,17 +866,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.desc=Titanium powder can be produced
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=WITH SO MUCH PRESSURE IM STRESSED OUT
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=In autoclave, bauxite powder and sodium hydroxide can be made into sodium aluminate with steam, which is the key raw material for aluminum production.
 
-# Quest: tfr.quest92.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=Crucible (Tungsten)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=It has a higher melting point than the tantalum crucible and can be used to produce more advanced alloys.
-
 # Quest: tfr.quest93.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=Tungsten steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=One of the best machine materials
-
-# Quest: tfr.quest94.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=The WC (Toilet? Oh no..)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=One of the hardest materials, but also has a very good heat resistance, one of the best machine materials.
 
 # Quest: tfr.quest95.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=When Magnesium meets Aluminium
@@ -894,29 +882,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=Filters have a wide range of US
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Generator (MV)- I want more electricity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=You are weak, your liver is not perfect(a chinese idiom meaning you aren't a grinding god), your materials are loose, your power is slow, none of the machines are decent, but you still want to jump from LV to HV to generate electricity? DON"T EVEN THINK ABOUT IT!
 
-# Quest: tfr.quest102.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Hafnium Tantalum Carbide crucible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=Pretty Green, huh?
-
 # Quest: tfr.quest103.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=Element Sixth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=You can electrolyze the charcoal powder into carbon, which can be used to make iron more efficiently and, more importantly, to make more advanced materials
 
-# Quest: tfr.quest104.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=Metalworking is Sooooooo easy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=Steel and higher tier mold press can handle all GT metals, of course you also need tungsten carbide molds to process them.
-
 # Quest: tfr.quest114.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=Separating air
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=A 2xMV / 8xLV level semiconductor coolant is required for CU operation. Neon, helium and other noble gases are produced to make circuit elements %n%n. The first layer: 3X3 heat transmitter%n. The second layer: 3X3 antifreeze machine block
-
-# Quest: tfr.quest213.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=Electric arc furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=With an arc blast furnace you can smelt your first tungsten ingot. It can also be used to make tungsten carbide and tungsten steel. %n%n Please use holographic projector for specific materials and placement
-
-# Quest: tfr.quest235.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.name=Advanced electronic circuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.desc=The last is a rudimentary circuit board that can be used to make advanced etchers
 
 # Quest: tfr.quest240.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Circuit assembly T1. %n%nHelium could be obtained from Pitchblende in centrifuge.
@@ -3071,6 +3043,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.desc=
 # Quest: tfr.quest732.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
+
+# Quest: tfr.quest740.name
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
 
 ## Quest Line: tfr.line24.name

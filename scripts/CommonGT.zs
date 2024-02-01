@@ -84,20 +84,6 @@ recipes.remove(<gregtech:gt.meta.machine:830>);
 recipes.remove(<gregtech:gt.meta.machine:8636>);
 
 // Remove low tier gt crucibles
-recipes.remove(<gregtech:gt.multitileentity:1000>);
-recipes.remove(<gregtech:gt.multitileentity:1001>);
-recipes.remove(<gregtech:gt.multitileentity:1002>);
-recipes.remove(<gregtech:gt.multitileentity:1003>);
-recipes.remove(<gregtech:gt.multitileentity:1004>);
-recipes.remove(<gregtech:gt.multitileentity:1006>);
-recipes.remove(<gregtech:gt.multitileentity:1020>);
-recipes.remove(<gregtech:gt.multitileentity:1032>);
-recipes.remove(<gregtech:gt.multitileentity:1021>);
-recipes.remove(<gregtech:gt.multitileentity:1022>);
-recipes.remove(<gregtech:gt.multitileentity:1025>);
-recipes.remove(<gregtech:gt.multitileentity:1031>);
-recipes.remove(<gregtech:gt.multitileentity:1033>);
-recipes.remove(<gregtech:gt.multitileentity:1018>);
 
 // Remove low tier gt parts by crafting
 recipes.remove(<gregtech:gt.meta.gearGt:8661> );
@@ -302,17 +288,6 @@ recipes.addShaped(<gregtech:gt.multiitem.randomtools:989>,
 [<ore:itemClay>,<ore:plateBlueSteel>,<ore:itemClay>],
 [<ore:itemClay>,<ore:itemClay>,<ore:itemClay>]]);
 
-
-// higher tier crucibles
-recipes.addShaped(<gregtech:gt.multitileentity:1033>,
-[[<ore:plateChromium>,Chisel,<ore:plateChromium>],
-[<ore:plateChromium>,HHammer,<ore:plateChromium>],
-[<ore:plateChromium>,<ore:plateBlueOrRedSteel>,<ore:plateChromium>]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:1018>,
-[[<ore:craftingQuartz>,Chisel,<ore:craftingQuartz>],
-[<ore:craftingQuartz>,HHammer,<ore:craftingQuartz>],
-[<ore:craftingQuartz>,<ore:plateBlueOrRedSteel>,<ore:craftingQuartz>]]);
 
 // gt furnaces
 recipes.remove(<gregtech:gt.multitileentity:20001>);

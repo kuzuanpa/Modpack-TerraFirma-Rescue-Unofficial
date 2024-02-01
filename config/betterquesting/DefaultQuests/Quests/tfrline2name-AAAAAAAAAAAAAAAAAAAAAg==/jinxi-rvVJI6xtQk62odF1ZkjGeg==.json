@@ -1,24 +1,23 @@
 {
-  "questIDHigh:4": 0,
+  "questIDHigh:4": -5839680924250455474,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 213
+      "questIDLow:4": 32
     }
   },
-  "questIDLow:4": 92,
+  "questIDLow:4": -5286714185398827398,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
-      "isMain:1": 1,
+      "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
         "id:8": "gregtech:gt.multitileentity",
         "Count:3": 1,
-        "Damage:2": 1024,
+        "Damage:2": 32708,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -26,11 +25,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfr.quest92.name",
+      "name:8": "jinxi",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfr.quest92.desc"
+      "desc:8": "No Description"
     }
   },
   "tasks:9": {
@@ -38,20 +37,14 @@
       "partialMatch:1": 1,
       "autoConsume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 1024,
-          "OreDict:8": ""
-        },
-        "1:10": {
-          "id:8": "gregtech:gt.multitileentity",
-          "Count:3": 1,
-          "Damage:2": 1074,
+          "Damage:2": 32708,
           "OreDict:8": ""
         }
       },

@@ -472,6 +472,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=前往地獄尋找遠古殘骸A
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - 蒸汽時代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天，你在鍛造的時候不小心把水壺放在了鍛造爐旁邊。不一會，水壺的蓋撲通撲通地被一種白霧頂了起來。你根據帝國指南製作了一台蒸汽機。%n%n基于格雷科技%n
 
+# Quest: jinxi
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b§l燒開水！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你這趟旅途中的第一台蒸汽生產設備.該是提高生產力的時候了！%n%n§5雖然你完成鋼砧之後就能進入蒸汽時代，但我還是建議你完成紅鋼砧或者藍鋼砧的任務線，這樣你才能獲得GT坩鍋，一個極強的增產工具，否則你在蒸汽時代會極度缺乏材料。%n%n§6說明：你會發現任務此時上下分為了對稱的兩側，分別是青銅機器和鋼機器。你完全可以根據你的需求隨意選擇，無論選擇哪一邊，只要完成王冠形狀的任務就可以推進你的科技線。%n
@@ -810,10 +814,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=電流通過二氧化碳鐳射�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=發電機(HV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=一台HV級別的發電機
 
-# Quest: tfr.quest48.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.name=發電機(EV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.desc=一台EV級別的發電機
-
 # Quest: tfr.quest55.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=連接線纜
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=
@@ -846,10 +846,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=基礎電路板(等待焊接)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=
 
-# Quest: tfr.quest73.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=結晶矽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=最基礎的電路元件之一，製作更高級的電路板，也可以製作低級電路板
-
 # Quest: tfr.quest74.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=全反射(TIR)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=光可以在折射率不同的兩種介質中發生全反射。光纖就是此發現的運用之一，他可以傳輸雷射能(LU)。用法和電線類似
@@ -870,17 +866,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.desc=浸洗機中加入四氯化鈦�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=亞歷山大
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=高壓釜可以用蒸汽將鋁土礦粉與氫氧化鈉製成偏鋁酸鈉，製作鋁的關鍵原料。
 
-# Quest: tfr.quest92.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=熔煉坩堝(鎢)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=比鉭坩堝熔點更高，可以用來熔煉更高級的合金。
-
 # Quest: tfr.quest93.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=鎢鋼
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=最好的機器材料之一
-
-# Quest: tfr.quest94.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=WC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=最硬的材料之一，同時也有很好的耐熱性，最好的機器材料之一。
 
 # Quest: tfr.quest95.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=鎂鋁合金
@@ -894,29 +882,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=過濾器有著只讓特定種�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=發電機(MV)-我想要更多的電
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=你歐氣無力，肝度不精，材料鬆散，發電遲鈍，每一個機器像樣，就你還想直接從LV跳到HV發電？做你的美夢！
 
-# Quest: tfr.quest102.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=碳化鉿鉭坩鍋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=碳化鉿鉭坩鍋
-
 # Quest: tfr.quest103.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=第六號元素
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=你可以把木炭粉電解成碳粉，用來更高效的冶煉鐵礦，更重要的是製作更高級的材料
 
-# Quest: tfr.quest104.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=真正的金屬加工
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=殷鋼級別及以上的壓模機能夠處理所有GT的金屬，當然你也需要碳化鎢模具才能加工他們。
-
 # Quest: tfr.quest114.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=分解空氣
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=需要一個 2xMV / 8xLV 級別半導體冷卻機輸入CU運行。產生氖氣，氦氣等稀有氣體，製作電路元件%n%n第一層：3x3熱傳導器%n第二層：3x3防凍機械方塊 任意一側中心為低溫蒸餾塔主方塊%n第三層-第九層：3x3防凍機械方塊
-
-# Quest: tfr.quest213.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=電弧高爐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=使用電弧高爐你可以冶煉你的第一塊鎢錠。當然也可以用來做碳化鎢和鎢鋼。%n%n具體製作材料和擺放方法請使用全息投影儀
-
-# Quest: tfr.quest235.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.name=進階電子電路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.desc=最後一種簡陋的電路板，可以用來製作高級的蝕刻機
 
 # Quest: tfr.quest240.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=電路組裝機T1
@@ -3071,6 +3043,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.desc=
 # Quest: tfr.quest732.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
+
+# Quest: tfr.quest740.name
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
 
 ## Quest Line: tfr.line24.name

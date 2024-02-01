@@ -88,10 +88,7 @@ recipes.addShapeless(<gregtech:gt.multitileentity:28950>,[<tfctech:item.Steel Wi
 
 recipes.remove(<mo:isolinear_circuit>);
 
-recipes.addShaped(<tfctech:item.Circuit>*3,
-[[<ore:dustSmallAnySiliconDioxide>,<ore:dyeGreen>,<ore:dustSmallAnySiliconDioxide>],
-[<gregtech:gt.meta.plateDouble:8216>,<gregtech:gt.meta.plateDouble:8216>,<gregtech:gt.meta.plateDouble:8216>],
-[<ore:dustSmallAnySiliconDioxide>,<tfctech:item.Rubber Mix>,<ore:dustSmallAnySiliconDioxide>]]);
+recipes.addShapeless(<tfctech:item.Circuit>*2,[<gregtech:gt.meta.plateDouble:8216>,<ore:dustSmallAnySiliconDioxide>,<tfctech:item.Rubber Mix>]);
 
 recipes.addShapeless(<tfctech:item.Circuit>,[<gregtech:gt.multiitem.technological:30000>]);
 

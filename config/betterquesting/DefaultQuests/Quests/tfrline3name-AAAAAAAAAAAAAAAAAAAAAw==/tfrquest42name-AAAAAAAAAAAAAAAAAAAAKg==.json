@@ -18,7 +18,7 @@
       "icon:10": {
         "id:8": "ktfruaddon:ktfru.multitileentity",
         "Count:3": 1,
-        "Damage:2": 27001,
+        "Damage:2": 27000,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -45,7 +45,7 @@
         "0:10": {
           "id:8": "ktfruaddon:ktfru.multitileentity",
           "Count:3": 1,
-          "Damage:2": 27001,
+          "Damage:2": 27000,
           "OreDict:8": ""
         }
       },

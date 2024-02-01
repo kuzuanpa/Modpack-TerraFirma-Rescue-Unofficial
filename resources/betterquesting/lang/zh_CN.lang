@@ -472,6 +472,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=前往地狱寻找远古残骸A
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - 蒸汽时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天，你在锻造的时候不小心把水壶放在了锻造炉旁边. 不一会，水壶的盖扑通扑通地被一种白雾顶了起来. 你根据帝国指南制作了一台蒸汽机.
 
+# Quest: jinxi
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b§l烧开水！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了！%n%n§5虽然你完成钢砧之后就能进入蒸汽时代，但我还是建议你完成红钢砧或者蓝钢砧的任务线，这样你才能获得GT坩锅，一个极强的增产工具，否则你在蒸汽时代会极度缺乏材料. %n%n§6说明：你会发现任务此时上下分为了对称的两侧，分别是青铜机器和钢机器. 你完全可以根据你的需求随意选择，无论选择哪一边，只要完成王冠形状的任务就可以推进你的科技线. %n
@@ -810,10 +814,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=电流通过二氧化碳镭射�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=发电机(HV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=一台HV级别的发电机
 
-# Quest: tfr.quest48.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.name=发电机(EV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMA.desc=一台EV级别的发电机
-
 # Quest: tfr.quest55.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=连接线缆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=
@@ -846,10 +846,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=基础电路板(等待焊接)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=
 
-# Quest: tfr.quest73.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.name=结晶硅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASQ.desc=最基础的电路元件之一，制作更高级的电路板，也可以制作低级电路板
-
 # Quest: tfr.quest74.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=全反射(TIR)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=光可以在折射率不同的两种介质中发生全反射. 光纤就是此发现的运用之一，他可以传输激光能(LU). 用法和电线类似
@@ -870,17 +866,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVA.desc=浸洗机中加入四氯化钛�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=亚历山大
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=高压釜可以用蒸汽将铝土矿粉与氢氧化钠制成偏铝酸钠，制作铝的关键原料. 
 
-# Quest: tfr.quest92.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.name=熔炼坩埚(钨)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXA.desc=比钽坩埚熔点更高，可以用来熔炼更高级的合金. 
-
 # Quest: tfr.quest93.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=钨钢
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=最好的机器材料之一
-
-# Quest: tfr.quest94.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=WC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=最硬的材料之一，同时也有很好的耐热性，最好的机器材料之一. 
 
 # Quest: tfr.quest95.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=镁铝合金
@@ -894,29 +882,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=过滤器有着只让特定种�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=发电机(MV)-我想要更多的电
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=你欧气无力，肝度不精，材料松散，发电迟钝，没一个机器像样，就你还想直接从LV跳到HV发电？做你的美梦！
 
-# Quest: tfr.quest102.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=碳化铪钽坩锅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=碳化铪钽坩锅
-
 # Quest: tfr.quest103.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=第六号元素
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=你可以把木炭粉电解成碳粉，用来更高效的冶炼铁矿，更重要的是制作更高级的材料
 
-# Quest: tfr.quest104.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=真正的金属加工
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=殷钢级别及以上的压模机能够处理所有GT的金属，当然你也需要碳化钨模具才能加工他们. 
-
 # Quest: tfr.quest114.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=分解空气
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=需要一个 2xMV / 8xLV 级别半导体冷却机输入CU运行. 产生氖气，氦气等稀有气体，制作电路元件%n%n第一层：3x3热传导器%n第二层：3x3防冻机械方块 任意一侧中心为低温蒸馏塔主方块%n第三层-第九层：3x3防冻机械方块 
-
-# Quest: tfr.quest213.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.name=电弧高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1Q.desc=使用电弧高炉你可以冶炼你的第一块钨锭. 当然也可以用来做碳化钨和钨钢. %n%n具体制作材料和摆放方法请使用全息投影仪
-
-# Quest: tfr.quest235.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.name=进阶电子电路
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6w.desc=最后一种简陋的电路板，可以用来制作高级的蚀刻机
 
 # Quest: tfr.quest240.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=电路组装机T1
@@ -3071,6 +3043,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.desc=原产艾尔夫海姆的神奇�
 # Quest: tfr.quest732.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.name=炼金催化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=魔力远比你想象的有用得多，只不过有时它们需要一些帮助. 把这个放在魔力池下面可以让你进行魔力炼金，具体配方请参考词典
+
+# Quest: tfr.quest740.name
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
 
 ## Quest Line: tfr.line24.name
