@@ -58,6 +58,8 @@ val w = <liquid:water>;
 val dw = <liquid:ic2distilledwater>;
 val fw = <liquid:freshwater>;
 
+recipes.remove(<OpenBlocks:blockBreaker>);
+
 // Auto iron forge
 recipes.remove(<OpenBlocks:autoanvil>);
 recipes.addShaped(<OpenBlocks:autoanvil>,[[<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8660>],

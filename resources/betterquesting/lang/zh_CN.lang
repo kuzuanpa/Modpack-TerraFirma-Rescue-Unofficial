@@ -372,12 +372,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.name=打磨石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.desc=可以刮制皮革，而不需要你用小刀. 需要放置一个沙石(不是沙子)才可以用. 
 
 # Quest: tfru.q140n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9Q.name=坩埚模具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9Q.desc=用它来制作坩埚,它将成为下一个时代的敲门砖, 也会极大地提升你的生产力. %n%n放置模具方块后，放入6个黏土，再放入内层模具，之后在有风箱加热的锻造炉上烘烤至黏土变为陶瓷即可拆除模具取出坩埚.
-
-# Quest: tfru.q140n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.name=坩埚模具
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=用它来制作坩埚,它将成为下一个时代的敲门砖, 也会极大地提升你的生产力. %n%n放置模具方块后，放入6个黏土，再放入内层模具，之后在有风箱加热的锻造炉上烘烤至黏土变为陶瓷即可拆除模具取出坩埚.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=用它来制作坩埚,它将成为下一个时代的敲门砖, 也会极大地提升你的生产力. %n%n放置模具方块后，放入7个黏土，再放入内层模具，之后在有风箱加热的锻造炉上烘烤至黏土变为陶瓷即可拆除模具取出坩埚. %n%n%n两组任务只需要完成其一即可
 
 # Quest: tfr.quest260.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=伏特加发电
@@ -477,7 +473,7 @@ betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
 # Quest: tfr.quest12.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b§l烧开水！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b烧开水！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了！%n%n§5虽然你完成钢砧之后就能进入蒸汽时代，但我还是建议你完成红钢砧或者蓝钢砧的任务线，这样你才能获得GT坩锅，一个极强的增产工具，否则你在蒸汽时代会极度缺乏材料. %n%n§6说明：你会发现任务此时上下分为了对称的两侧，分别是青铜机器和钢机器. 你完全可以根据你的需求随意选择，无论选择哪一边，只要完成王冠形状的任务就可以推进你的科技线. %n
 
 # Quest: tfr.quest16.name
@@ -828,7 +824,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=格雷6的进阶材料之一，
 
 # Quest: tfr.quest61.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=§b§l铝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=格雷6的进阶材料之一. %n格雷5用电力高炉一烧就能得到的东西竟然变成了制作流程最复杂的材料之一...%n同样建议自动化. %n*氟化铝和冰晶石用量很小，可以一次做一堆，屯着用一年. %n%n铝可以用来做无限水井和液体过滤器，很重要的材料！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=格雷6的进阶材料之一. %n格雷5用电力高炉一烧就能得到的东西竟然变成了制作流程最复杂的材料之一...%n初期使用铝土矿与氢氧化钠浸洗，之后与苏打水搅拌，获得的氢氧化铝放入坩埚加热即可获得氧化铝，之后与氟化铝和冰晶石一同电解即可.%n同样建议自动化. %n*氟化铝和冰晶石用量很小，可以一次做一堆，屯着用一年. %n你或许可以试着寻找冰晶石矿石.%n%n铝可以用来做无限水井和液体过滤器，很重要的材料！
 
 # Quest: tfr.quest62.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name=§l钨
@@ -1077,7 +1073,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=石油脱硫需要使用石油�
 
 # Quest: tfru.q123n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.name=丁苯橡胶
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.desc=用于高压导线的绝缘橡胶，在EV电压以上会有应用
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.desc=用于高压导线的绝缘橡胶，在EV及电压以上会有应用
 
 # Quest: tfru.q124n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.name=硅橡胶
@@ -2982,7 +2978,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADFA.desc=缤纷的神秘花时常占用�
 
 # Quest: tfr.quest717.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFQ.name=魔力透镜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFQ.desc=魔力光束并不只是用于击打魔力池，在发射器上或者在棱镜上安装魔力透镜可以让魔力光束带上一些额外的效果
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFQ.desc=尽管你常见在魔力发射器与魔力池之间见到它,魔力光束却并不只是用于击打魔力池，在发射器上或者在棱镜上安装魔力透镜可以改变魔力光束的某些性质,或者带上一些额外的效果.可以用于挖矿(挖掘透镜),伤害生物(伤害透镜)等.
 
 # Quest: tfr.quest728.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFg.name=炽玫瑰
@@ -3045,8 +3041,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.name=炼金催化
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=魔力远比你想象的有用得多，只不过有时它们需要一些帮助. 把这个放在魔力池下面可以让你进行魔力炼金，具体配方请参考词典
 
 # Quest: tfr.quest740.name
-betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
-betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=魔力脉冲枪
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器,可以安装透镜(包括复合透镜)以达成许多有趣的应用,可以安装透镜夹,潜行即可切换透镜 %n%n§o比如安装挖掘透镜可以当作低配版采矿镭射枪使用.
 
 
 ## Quest Line: tfr.line24.name

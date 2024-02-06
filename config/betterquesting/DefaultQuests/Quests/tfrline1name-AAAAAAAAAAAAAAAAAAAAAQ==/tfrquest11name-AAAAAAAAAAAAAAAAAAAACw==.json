@@ -3,13 +3,9 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 245
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
       "questIDLow:4": 246
     },
-    "2:10": {
+    "1:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 106
     }
@@ -32,7 +28,7 @@
       "snd_update:8": "random.levelup",
       "repeatTime:3": -1,
       "globalShare:1": 1,
-      "questLogic:8": "OR",
+      "questLogic:8": "AND",
       "repeat_relative:1": 1,
       "name:8": "tfr.quest11.name",
       "isGlobal:1": 0,
