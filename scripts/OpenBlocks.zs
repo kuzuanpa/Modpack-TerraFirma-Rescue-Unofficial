@@ -58,7 +58,7 @@ val w = <liquid:water>;
 val dw = <liquid:ic2distilledwater>;
 val fw = <liquid:freshwater>;
 
-recipes.remove(<OpenBlocks:blockBreaker>);
+recipes.remove(<OpenBlocks:blockbreaker>);
 
 // Auto iron forge
 recipes.remove(<OpenBlocks:autoanvil>);

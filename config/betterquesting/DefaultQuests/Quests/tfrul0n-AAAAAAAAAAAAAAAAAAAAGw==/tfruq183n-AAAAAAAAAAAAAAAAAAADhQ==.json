@@ -3,10 +3,10 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 903
+      "questIDLow:4": 897
     }
   },
-  "questIDLow:4": 899,
+  "questIDLow:4": 901,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -19,9 +19,9 @@
         "id:8": "gregtech:gt.multitileentity",
         "Count:3": 1,
         "tag:10": {
-          "gt.durability:4": 12000000000
+          "gt.durability:3": 1200000000
         },
-        "Damage:2": 9210,
+        "Damage:2": 9221,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -29,11 +29,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "New Quest",
+      "name:8": "tfru.q183n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "No Description"
+      "desc:8": "tfru.q183d"
     }
   },
   "tasks:9": {
@@ -49,9 +49,9 @@
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
           "tag:10": {
-            "gt.durability:4": 12000000000
+            "gt.durability:3": 1200000000
           },
-          "Damage:2": 9210,
+          "Damage:2": 9221,
           "OreDict:8": ""
         }
       },

@@ -10,7 +10,7 @@ UniMixins-0.1.15:
   https://github.com/LegacyModdingMC/UniMixins
   https://modrinth.com/mod/unimixins
 
-ArchaicFix-0.7.0:
+ArchaicFix-0.7.1:
   https://github.com/embeddedt/ArchaicFix
   https://modrinth.com/mod/archaicfix
 
@@ -36,7 +36,7 @@ OpenComputers-1.8.3:
 
 
 GTNH (Download from Github Release):
-  ae2fc-1.1.66:
+  ae2fc-1.2.17:
     https://github.com/GTNewHorizons/AE2FluidCraft-Rework
 
   AppliedEnergistics2-rv3-beta-282:
@@ -50,5 +50,6 @@ GTNH (Download from Github Release):
 
   CodeChickenLib-1.2.1:
     https://github.com/GTNewHorizons/CodeChickenLib
+
   WirelessCraftingTerminal-1.10.1:
    https://github.com/GTNewHorizons/WirelessCraftingTerminal

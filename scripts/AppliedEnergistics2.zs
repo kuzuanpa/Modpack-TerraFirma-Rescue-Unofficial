@@ -82,6 +82,12 @@ MTUtilsGT.addCustomRecipe("gt.recipe.", false, 16, 64, 0, [10000],
 [],[]);
 */
 
+// OreDict Filter Card
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:55>,[<appliedenergistics2:item.ItemMultiMaterial:28>,<gregtech:gt.multiitem.technological:1023>,<gregtech:gt.multiitem.technological:1023>]);
+
+// Super Boost Card
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:56>,[<appliedenergistics2:item.ItemMultiMaterial:30>,<appliedenergistics2:item.ItemMultiMaterial:30>,<gregtech:gt.multiitem.technological:12>,<gregtech:gt.multiitem.technological:12>]);
+
 // Quartz Wrench
 recipes.addShaped(<appliedenergistics2:item.ToolCertusQuartzWrench>,
 [[<ore:itemCertusQuartz>, null,<ore:itemCertusQuartz>],

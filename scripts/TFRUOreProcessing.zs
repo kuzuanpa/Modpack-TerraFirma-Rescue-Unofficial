@@ -30,6 +30,18 @@ MTUtilsGT.addCustomRecipe("gt.recipe.MACHINE", checkNBT, PowerRate, Duration, 0,
 <Type null if no output>
 );
 */
+/* 模板 */
+/*
+MTUtilsGT.removeAllRecipes("gt.recipe.某机器",输出物品);
+MTUtilsGT.addCustomRecipe("gt.recipe.某机器", 原料是否匹配NBT, 功率, 时间, 0, [几率],
+[物品输入],
+[液体输入],
+[液体输出],
+[物品输出]
+<*0 = 不消耗此物品>
+<如果没有输入/输出物品,填null >
+);
+*/
 
 MTUtilsGT.removeAllRecipes("gt.recipe.autoclave",<gregtech:gt.meta.crushedCentrifugedTiny:9120>);
 MTUtilsGT.removeAllRecipes("gt.recipe.bath",<gregtech:gt.meta.dust:8014>);

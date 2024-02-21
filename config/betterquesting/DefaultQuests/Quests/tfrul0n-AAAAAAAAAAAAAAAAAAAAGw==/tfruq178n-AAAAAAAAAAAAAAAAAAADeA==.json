@@ -3,18 +3,10 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 899
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 900
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 901
+      "questIDLow:4": 885
     }
   },
-  "questIDLow:4": 890,
+  "questIDLow:4": 888,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -24,21 +16,21 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.multitileentity",
+        "id:8": "gregtech:gt.meta.dust",
         "Count:3": 1,
-        "Damage:2": 9200,
+        "Damage:2": 9134,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
       "repeatTime:3": -1,
       "globalShare:1": 0,
-      "questLogic:8": "OR",
+      "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "New Quest",
+      "name:8": "tfru.q178n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "No Description"
+      "desc:8": "tfru.q178d"
     }
   },
   "tasks:9": {
@@ -47,13 +39,13 @@
       "autoConsume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 0,
-      "index:3": 0,
+      "index:3": 1,
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.multitileentity",
+          "id:8": "gregtech:gt.meta.dust",
           "Count:3": 1,
-          "Damage:2": 9200,
+          "Damage:2": 9134,
           "OreDict:8": ""
         }
       },
