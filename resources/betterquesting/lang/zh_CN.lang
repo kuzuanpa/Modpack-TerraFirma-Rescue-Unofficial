@@ -5,6 +5,10 @@
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.name=Tier - 降临
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.desc=你驾驶着逃生梭降落到了群峦星的一片平原——"新西伯利亚". 在做一切之前, 先活下去吧
 
+# Quest: tfru.q187n
+betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=狼牙棒
+betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=用原木和石头做的大棒,可用于前期防身
+
 # Quest: tfr.quest0.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=石器时代
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=啊, 头好痛, 一定是还没从大气刹车的高频率震荡中缓过来. %n%n啊对了, 我想我应该把最基础的工具都做出来, 现在手边只有石头了啊. . 
@@ -471,6 +475,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在锻造的时�
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
+# Quest: tfru.q188n
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=区块加载
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=拥有机器后你很可能需要保持区块加载,这个节点加载器可以常加载它所在的区块.
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b烧开水！

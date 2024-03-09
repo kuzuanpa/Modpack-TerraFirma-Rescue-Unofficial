@@ -5,6 +5,10 @@
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.name=Tier - Arrival
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.desc=You landed your shuttle on a Terrafirma's plain called Novosibirsk. Be alive before you do anything else!
 
+# Quest: tfru.q187n
+betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
+betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
+
 # Quest: tfr.quest0.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=The Stone Age
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=Oh, I have a terrible headache. I must have not recovered from the high frequency oscillation of the atmospheric brake. By the way, I think I should make the most basic tools, now I only have the stones.
@@ -471,6 +475,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=One day, when you were forg
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
+# Quest: tfru.q188n
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§ § §lBoiling water!
