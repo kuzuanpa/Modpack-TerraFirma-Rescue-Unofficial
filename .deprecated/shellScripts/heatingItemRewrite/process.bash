@@ -4,7 +4,7 @@ cat /dev/null >itemContains
 cat /dev/null >HeatingReplacedNormal.zs
 cat /dev/null >HeatingReplacedExpert.zs
 export copyright="/*
- * Copyright (c) 2023.
+ * Copyright (c) 2024.
  * Original Author: TeamMoeg
  * https://teammoeg.com
  * Unofficial Version Main Author: kuzuanpa
