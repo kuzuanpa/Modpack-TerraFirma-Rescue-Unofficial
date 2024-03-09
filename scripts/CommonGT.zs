@@ -1097,12 +1097,6 @@ recipes.addShapeless(<gregtech:gt.meta.dust:9165>,[<gregtech:gt.meta.dust:9139>,
 //Rubber tree seedlings
 recipes.addShapeless(<gregtech:gt.block.sapling>, [<tfctech:HeveaS>]);
 
-// Ceramic Mixing Bowl
-recipes.addShaped(<gregtech:gt.multitileentity:32706>,
-[[<ore:craftingToolChisel>,null,<ore:craftingToolHardHammer>],
-[<minecraft:brick_block>,<minecraft:brick_block>,<minecraft:brick_block>],
-[null,null,null]]);
-
 // Soft Hammer with TFC planks
 var TPlank = [<terrafirmacraft:planks:*>,<terrafirmacraft:planks2>] as IItemStack[];
 for i , TPlank in TPlank {

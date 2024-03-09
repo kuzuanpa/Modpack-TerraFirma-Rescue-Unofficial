@@ -64,6 +64,7 @@ MTUtilsGT.removeAllRecipes("gt.recipe.bath",<minecraft:paper>);
 MTUtilsGT.removeAllRecipes("gt.recipe.loom",<minecraft:paper>);
 MTUtilsGT.removeAllRecipes("gt.recipe.fermenter",<tfctech:item.Glue>);
 recipes.remove(<tfcprimitivetech:itemWoodenTwig>);
+recipes.remove(<tfctech:InductionSmelter>);
 
 //delete ends
 
@@ -198,3 +199,10 @@ MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 16, 128 ,0,[10000],
 [<liquid:latex>*144],
 [<liquid:glue>*36],
 [<tfctech:item.Rubber Mix>*5]);
+
+//Wooden Club
+recipes.remove(<tfcprimitivetech:itemWoodenClub>);
+recipes.addShaped(<tfcprimitivetech:itemWoodenClub>,[
+[<ore:itemRock>,<ore:itemRock>,n],
+[<ore:itemRock>,<ore:logWood>,n],
+[n,n,n]]);
