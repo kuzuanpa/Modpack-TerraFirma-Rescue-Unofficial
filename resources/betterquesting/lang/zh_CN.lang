@@ -796,11 +796,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=和制作镀锌钢的方式类�
 
 # Quest: tfr.quest40.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=不想洗矿了就学化学吧
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=你需要将铬铁矿粉制成铬酸钠, 再制成重铬酸钠, 再制成氧化铬, 以便进行下一步的操作. %n制作一条产线和铝相配合是一个很好的选择. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=请查看nei了解具体配方,当前阶段铬处理会剩下一种较难处理的含铬产物, 当你进入HV后可以将铬铁矿彻底处理为铬. 注意铬铁矿处理中的副产物并不是完全自循环的,你需要额外补充氢气.
 
 # Quest: tfr.quest41.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=铝热反应
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=在燃烧反应室中放入铝粉和氧化铬, 然后用打火石点火, 产生铝热反应生产熔融的铬金属, 并且你可以回收氧化铝. 模具放在液体输出口即可固化铬金属. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=
 
 # Quest: tfr.quest42.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=高温搅拌机(LV)
@@ -1344,7 +1344,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入�
 
 
 ## Quest Line: tfr.line4.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.name=计算学
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.name=§d计算学
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9更快的计算机可以让一切加速, 而随着计算速度的增长, 更多意想不到的用途会显现出来…
 
 # Quest: tfru.q168n
@@ -1537,7 +1537,7 @@ betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=由于晶圆杂质, 光刻不�
 
 
 ## Quest Line: tfr.line6.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=航天时代
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=§e航天时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=载人航天, 小行星采矿, 气体行星开发——基于高级火箭
 
 # Quest: tfr.quest189.name
@@ -1670,7 +1670,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=有时候你在想, 我对那�
 
 
 ## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=万用商店
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=§a万用商店
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=购买你想要的
 
 # Quest: tfr.quest290.name
@@ -1779,7 +1779,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兑换每3小时刷新一次
 
 
 ## Quest Line: tfr.line10.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=农业、畜牧业与渔业
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=§b农业、畜牧业与渔业
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=关于你作为一个碳基生物在这个星球活下去的帮助
 
 # Quest: tfr.quest105.name
@@ -2008,7 +2008,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=不想出门挖矿？不想寻�
 
 
 ## Quest Line: tfr.line18.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=征服新世界
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=§a征服新世界
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=证明你的实力吧(指杀敌数)
 
 # Quest: tfr.quest97.name
@@ -2249,7 +2249,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(目前不在世界生成, 制�
 
 
 ## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=存储与物流学
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=§d存储与物流学
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=关于管道, 存储, 和传输系统. 
 
 # Quest: tfr.quest6.name
@@ -2402,7 +2402,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
 
 ## Quest Line: tfr.line17.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=人类的能力没有极限
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=§d人类的能力没有极限
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=虽然你是一介凡夫, 但是学好物理能让你上天入地. 关于武器与装备
 
 # Quest: tfru.q102n
@@ -2680,7 +2680,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
 
 
 ## Quest Line: tfr.line0.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=养蜂人的日常
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=§b养蜂人的日常
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=关于蜜蜂的养殖与杂交
 
 # Quest: tfru.q47n
@@ -2841,7 +2841,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=获得此蜂之后便可以养�
 
 
 ## Quest Line: tfr.line21.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=[BOT]魔法觉醒
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=§a[BOT]魔法觉醒
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=来自自然的力量
 
 # Quest: New Quest
@@ -3054,7 +3054,7 @@ betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器, �
 
 
 ## Quest Line: tfr.line24.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.name=[OB]开放式方块
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.name=§a[OB]开放式方块
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.desc=关于开放式方块模组的基本介绍, 制作中
 
 # Quest: tfr.quest640.name
@@ -3067,7 +3067,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.desc=一个箱子宠物，会自动�
 
 
 ## Quest Line: tfr.line23.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.name=[OC]信息时代
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.name=§e[OC]信息时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=用代码改变世界, 使用lua语言制作的脚本将在本mod的计算机上解决看似不可能的问题.
 
 # Quest: tfr.quest641.name
@@ -3180,7 +3180,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=使用无线网卡可以摆脱�
 
 
 ## Quest Line: tfr.line15.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE]质量-信息转换技术
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=§d[AE]质量-信息转换技术
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=一种神奇的蓝色水晶-赛特斯-将允许你通过建造一种名为ME的网络, 开启一个潜能无限的自动化工厂
 
 # Quest: New Quest
@@ -3289,7 +3289,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=存储一整片海!
 
 
 ## Quest Line: tfr.line9.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACQ.name=多方块产能
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACQ.name=§e多方块产能
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACQ.desc=增加耗能的同时增加产能
 
 # Quest: tfr.quest67.name
@@ -3350,7 +3350,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.desc=以下的机器并非科技线�
 
 
 ## Quest Line: tfr.line25.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.name=平行处理
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.name=§e平行处理
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.desc=除了很浪漫之外, 多方块机器还能在消耗同等能量的情况下加工更多的配方
 
 # Quest: tfr.quest142.name
@@ -3427,7 +3427,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.desc=这台多方块机器消耗鱼�
 
 
 ## Quest Line: tfr.line8.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACA.name=[MO]人类的能力是有极限的
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACA.name=§6[MO]人类的能力是有极限的
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACA.desc=钛金和双锂允许你获得强大的武器和巨量的红石通量能源
 
 # Quest: tfr.quest121.name
@@ -3496,7 +3496,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACHw.desc=和ME网络不太一样, 但是
 
 
 ## Quest Line: tfr.line16.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEA.name=[DE]龙之进化
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEA.name=§c[DE]龙之进化
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEA.desc=德拉克纳星深处有一种能量强大的紫色矿石, 等待着觉醒. 提供大量的红石通量, 工具, 和武器.
 
 # Quest: tfru.q8n
@@ -3673,7 +3673,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.desc=由神龙之力维持的巨型�
 
 
 ## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=非酋福音
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=§a非酋福音
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=钻石找不到, 来看看这里？
 
 # Quest: tfr.quest283.name

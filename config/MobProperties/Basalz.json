@@ -1,0 +1,17 @@
+{
+  "_name": "Basalz",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [    {
+                "function": "modifier",
+                "attribute": "generic.attackDamage",
+                "value": 300,
+                "operator": 0
+        },
+  {
+                "function": "modifier",
+                "attribute": "generic.maxHealth",
+                "value": 1480,
+                "operator": 0
+        }]
+}

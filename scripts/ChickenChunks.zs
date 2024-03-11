@@ -45,3 +45,9 @@ recipes.addShaped(<ChickenChunks:chickenChunkLoader:1>*8,
 [[null,<ore:craftingBook>,null],
 [<ore:manaPearl>,<ore:clothManaweave>,<ore:manaPearl>],
 [<ore:ingotGold>,<ore:obsidian>,<ore:ingotGold>]]);
+
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 800, 0, [10000],
+[<Botania:storage:1>*4,<Botania:manaResource:5>*25,<ChickenChunks:chickenChunkLoader:1>*64,<Botania:manaResource:22>*16,<Botania:pylon>*4],
+[<liquid:mana>*4000],
+[],
+[<ChickenChunks:chickenChunkLoader>]);
