@@ -558,7 +558,7 @@ recipes.remove(<libVulpes:item.holoProjector>);
 recipes.addShaped(<libVulpes:item.holoProjector>,
 [[<advancedRocketry:satellitePrimaryFunction>,<gregtech:gt.meta.wireFine:8660>,<advancedRocketry:satellitePrimaryFunction>],
 [<gregtech:gt.meta.wireFine:8660>,<advancedRocketry:circuitIC:3>,<gregtech:gt.meta.wireFine:8660>],
-[<moegadd:Simpleresistance>,<moegadd:SimpleCapacitance>,<moegadd:Simpletransistor>]]);
+[null,<ore:plateSteel>,null]]);
 //tou ying yi
 
 // Satellite builder
