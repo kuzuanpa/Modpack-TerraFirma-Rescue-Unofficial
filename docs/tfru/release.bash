@@ -1,7 +1,10 @@
+ #/bin/bash
+ 
  if [ ! -z "$(find modsUpdateTmp -name '*.jar')" ]; then echo "仍有临时mod升级存在于./modUpdateTmp, 请检查后移除它们"; exit;fi
- if [ -f release/zhCN ];then echo "错误的目录结构: release/zhCN! 请删除多余的文件";fi 
+ if [ -f release/zhCN ];then echo "错误的目录结构: release/zhCN! 请删除多余的文件"; exit;fi 
  if [ ! -d release/zhCN ];then mkdir -p release/zhCN;fi
  cp ~/projects/Modpack-TerraFirma-Rescue-Unofficial/* release/zhCN -r
+ echo "已获取最新modpack文件"
  cd release/zhCN/
  export version=$( head -n 1 changelog_zh_CN.txt | grep -o [0-9]\\.[0-9]\\.[0-9]\\.[0-9] | sed 's/ //g')
  echo "正在发布: ${version} ?"
@@ -18,7 +21,7 @@
  cp modsClient/* release/zhCN/mods -r
  echo "已复制mods"
  cp release/TFR\ BlueLine\ UI.zip release/zhCN/resourcepacks
- echo "已复制配置,脚本等文件"
+ echo "已复制TFR蓝线UI材质包"
  cd release/zhCN/
  mkdir ../overrides
  mv * ../overrides
