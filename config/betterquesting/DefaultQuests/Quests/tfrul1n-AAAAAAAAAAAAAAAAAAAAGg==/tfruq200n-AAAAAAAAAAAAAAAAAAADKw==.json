@@ -1,7 +1,12 @@
 {
   "questIDHigh:4": 0,
-  "preRequisites:9": {},
-  "questIDLow:4": 813,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 164
+    }
+  },
+  "questIDLow:4": 811,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -21,11 +26,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q",
+      "name:8": "tfru.q200n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q"
+      "desc:8": "tfru.q200d"
     }
   },
   "tasks:9": {

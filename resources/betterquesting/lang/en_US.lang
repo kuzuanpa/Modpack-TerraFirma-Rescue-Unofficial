@@ -798,10 +798,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=Similar to making galvanized st
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=I don't want to wash ores!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=You need to make the chromite powder into sodium chromate, then into sodium dichromate, then into chromium oxide for the next step.%n It is a good choice to make a production line with aluminum.
 
-# Quest: tfr.quest41.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=Thermite reaction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=You put aluminum powder and chromium oxide in the combustion chamber, and then you fire it to produce an aluminum-thermal reaction to produce molten chromium, and you can recycle aluminum oxide. Place the mold at the liquid output to solidify the chromium metal.
-
 # Quest: tfr.quest42.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=High temperature mixer (LV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=We're dealing with chemical reactions that require a lot of activation energy
@@ -1033,6 +1029,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 # Quest: tfru.q165n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
+
+# Quest: tfru.q190n
+betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=
+betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=
 
 
 ## Quest Line: tfr.line11.name
@@ -1536,718 +1536,6 @@ betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
 
 
-## Quest Line: tfr.line6.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=Tier 5.2 - Aerospace Era
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Manned spaceflight, asteroid mining, gas planet development - based on advanced rockets
-
-# Quest: tfr.quest189.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Dream of the stars and sea
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=The beginning of space travel %n%n%n How to use it: Place it in an open area %n and then place the launch pad and the structure tower next to it. The bottom of the structure tower should be the same as the Y axis of the launch pad.%n %n The width of the launch tower, the height of the structure tower, as big as you can DIY the rocket.%n
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
-
-# Quest: tfr.quest191.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=Artificial satellite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=%n Artificial satellites are used to collect various kinds of data.%n It is needed to assemble the satellite and put it into orbit in the satellite capsule. %n%n Optical sensors are used to collect distance data
-
-# Quest: tfr.quest192.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=Satellite assembly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=%n This machine is a multi-block %n, put an energy input bin %n%n on the bottom, you need the left side, you need the orbiter and the satellite chip put the satellite chip in the middle %n%n on the top right, you need the sensor %n on the top, you need the solar panel in the middle, you can make it a generating satellite, %n%n, put the data chip at the bottom, you have to put the data chip to collect the data
-
-# Quest: tfr.quest193.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=Collection of satellite data
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n It requires RF to use the satellite chip. %n In the upper right corner click Connect to receive data
-
-# Quest: tfr.quest194.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=Observe celestial objects
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=Multiblock block. %n It needs a data bus inside. Out 100 point distance data inside to work. It works only at night. %n%n Spend 100 point distance data scanning asteroids. %n Put at the bottom of the asteroids selection list asteroids chip%n selected you want an asteroid and then click the gear icon next to the chip for writing%n%n available object data processor to strengthen asteroid chips
-
-# Quest: tfr.quest195.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Mining rocket assembly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=Assembling a mining rocket. %n%n Requires a drill to mine and requires vanilla chest as storage
-
-# Quest: tfr.quest196.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=Mining rocket launch!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=Assemble a mining rocket %n%n You need to pair a rocket monitor to it.
-
-# Quest: tfr.quest197.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Process the data
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Multiblock. %n It is used to enhance the asteroid chip data to make the benefits greater
-
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Liquid rocket!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=It takes a lot of push to send you up into the sky
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
-
-# Quest: tfru.q143n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
-
-# Quest: tfr.quest334.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Everything is ready
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
-
-# Quest: tfr.quest335.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Get the oxygen ready!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
-
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Liquid rocket!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=It takes a lot of push to send you up into the sky
-
-# Quest: tfr.quest337.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
-
-# Quest: tfr.quest626.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=Brain of a rocket
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=The navigation computer is the key to controlling the flight of a rocket. It is needed in any rocket, whether manned or unmanned.
-
-# Quest: tfr.quest627.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=Reach Duck Egg C
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=You should also head to Duck Egg Where you can get a wide variety of minerals, even some heavy elements - like thorium, platinum, and some rare gems.
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
-
-# Quest: tfru.q142n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest424.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=gold
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. Delicious and affordable.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=I need a lot of steel recently. Can you fulfill my order?
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§ C § A §bBuy a durable electric drill
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Exclusive formula from Shuaibi.%n USES tungsten steel body, only one in the world.%n%nMV level, but using LV battery can be charged.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC big chicken
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Beijing Third Transportation Commission
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=We need to lay some railways recently. Can you make some strong tracks?
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Painter's commission
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lately. Could you help me make some lime dye? Three primary colors will do
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=Kaolinate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
-
-
-## Quest Line: tfr.line10.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Agriculture, animal husbandry and fisheries
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=Help %n about your survival on this planet as a carbon-based creature based on the Legend of Sierra, Industrial Age 2, and GregTech technology.
-
-# Quest: tfr.quest105.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Strange saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=After making a carpenter machine, you can convert the TFC oak sapling into the vanilla oak seedling. The bark can be obtained by right-clicking a log with the GregTech axe, or by machine.
-
-# Quest: tfr.quest220.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Agriculture
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=You start with 1000 drops of blood, and you probably already see that the cap is coming down. If agriculture is not well developed, the ceiling will soon fall. There are many wild crops in the world. Go and collect some seeds. The importance of this chapter has been repeatedly emphasized. If the main push tired, come to the development of development here.
-
-# Quest: tfr.quest225.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Drink more hot water
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=In the TFC world, your hunger tank (green) is empty and you won't die quickly, but if the water tank (blue) is empty, you'll keep bleeding to death. %n can drink by right-clicking fresh water with empty hands, which is the only way to restore the sink until you have made pottery (see next chapter).
-
-# Quest: tfr.quest226.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Balanced diet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Open the inventory bar. There is a box on the right. There are four boxes, which are your inventory, time, skills and nutrition %n nutrition and experience. There are five kinds of nutrition, and you need to eat different kinds of food to recover. %n%n When born, every nutrient of the player is full. As the player's hunger wears off, so do their nutritional bars. %n%n In order to supplement the nutrition, the player must eat the corresponding category of food. When the player is full, they get extra nutrients, and according to the player's current nutrition level, when the player is malnourished, they get more nutrients. %n%n The first four categories account for 25 percent of a player's maximum health, and dairy products have an additional 25 percent maximum health. For example, a starting player with no level is likely to reach a maximum life span of 800HP(the first four nutrients are filled). If one of the nutrients is empty and the other three are full, the player's maximum health value is 600HP. If a player has all five nutrients, their maximum life span is 1000HP.
-
-# Quest: tfr.quest227.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=Fruit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Fruits are obtained in two ways: berry bushes and fruit trees, both of which can be found in the wild. %n Berry bushes can be gathered directly by hand and cannot reproduce. When the shrub is in season and in the right temperature range, it can produce a new fruit every month. Each berry has a different life span, and at the end of that life span, the fruit is removed from the bush. To harvest the fruit, just right-click on the bush and the fruit will drop. The harvested weights vary from 3 to 8 ounces. There is a chance of getting a sapling by chopping it down with an axe. If the trunk is left, it can continue to grow, multiply and produce more. %n%n tree seedlings do not grow immediately. On the contrary, the fruit trees grow slowly, with branches and leaves coming out in stages. This means that the saplings will eventually grow back after the branches have been cut off for harvest. But it also means that saplings take a long time to grow into trees as big as those in the wild. The trunk will reach its maximum height after 30 days, with a branch every 20 days and a leaf every two days. At harvest time, the tree will have a fruit on each leaf. To harvest the fruit, right-click on the leaves or left-click on the leaves and the fruit will fall. Fruit per serving is 4 to 16 ounces. %n%n fruit trees bear fruit only when the current temperature is between 0 and 38. For most cases, the corresponding seasonal temperatures (spring to late fall) are within this range, except in deserts, equatorial jungles, and deep tundra.%n
-
-# Quest: tfr.quest228.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=Amino acids
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=There are two main ways to get protein: 1. Kill animals 2. Plant soybeans In the sierra World, where wild animals are produced only once since the world began, slaughtering is not a sustainable path! So, you need to raise animals, and Here I recommend cages to take them home, but also a leash or ears of wheat. N animals have sex and need to get to know you before they can mate with each other, but of course you have to feed them. In general, cows have fewer calves, but pigs have a litter.
-
-# Quest: tfr.quest229.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=Vegetables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Again, only through crops. The individual pushed the potato and cabbage, the yield is large, the growth condition is not harsh.
-
-# Quest: tfr.quest230.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Do you remember how much oz bread you've eaten in your life -- DIO
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=One of the five sources of nutrition, the only way to get it is by growing grain.%n Directly harvested grains need to be processed before they can be eaten. Bake them over a fire, or use a knife to cut them into grains. If you want a grain to last longer, or if you want to make a sandwich, you should make the grain into bread. Grain grains are ground in a stone mill to make flour, which is combined with a wooden bucket to make dough, which is baked over a fire to make bread. If you grow five food crops, you get the ultimate food: bread between bread and bread between bread and bread
-
-# Quest: tfr.quest231.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Dairy products
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Dairy products are obtained in two ways: by drinking milk and by eating cheese (cheese is made of milk and is essentially milk). Cows that have been domesticated enough can milk a pail once a day for a pail of milk. 9 pails of milk and 1 pail of vinegar are sealed in wooden pails to obtain cheese.
-
-# Quest: tfr.quest233.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Animal cages
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=With this device, you can put animals into mysterious Spaces without suffocating them.
-
-# Quest: tfr.quest273.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=farmland
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Farmland, also known as soil, contains the three basic nutrients of a plant, and if there's enough water cube nearby, your plant can get important water. By using the water and nutrient pattern of the metal hoe, you can see the nutrient level of the crop and the availability of water. Growing crops in the soil reduces soil nutrients and must be fallow, fertilized, or planted periodically with crops that require different nutrient types in order to replenish nutrients. Note: Some crops, such as soybeans and green beans, require additional nutrients as they grow. %n%n Unlike the original, farmland cannot be turned back into soil. The destruction of cropland also does not produce any soil to prevent the reuse of nutrients.
-
-# Quest: tfr.quest274.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=Animal husbandry: 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=Chickens, cows, horses, pigs and sheep are all livestock. The natural generation of the world's animals is based on the climate of the region. %n%n livestock will follow any kind of refined grain and ear of corn, similar to the original animals will follow wheat, carrots and seeds. The rope is also the same as in the original drawing of livestock %n%n Bears, deer and pheasants are wild animals and cannot breed. Wild animals will be refreshed all over the world, except named animals, or at least tethered once, which won't disappear. All animals have a degree of intimacy that increases the need to interact in some way, such as milking, shearing, riding, raising and naming animals. The exact value of these interactions varies from species to species, and some require more interaction. Familiarity can be improved by performing specific actions every 24 game hours. To raise an animal, the player must sneak around to provide food so that the animal does not get spooked. If intimacy does not reach 30 percent and the animal does not interact with the human within 24 hours, then intimacy will decline. Adult animals are limited in their ability to be domesticated, only small animals can be fully domesticated, and intimacy increases faster. Young animals retain 50 per cent of their mother's closeness at birth, unless she is close to the maximum, in which case they will retain 90 per cent. %n%n Stealthily looking at an animal displays a closeness indicator. As the intimacy increases, the indicator will fill with red, and when it reaches 100 percent, it will turn gold. A white border means that the animal has reached at least 30 percent and intimacy is no longer diminished. %n%n Sex: %n%n animals (excluding squid) have different sex (male or female), which is determined randomly at the time of animal generation. With the exception of bears, horses and wolves, all animals have visual cues to easily determine sex, such as horns, teeth, breasts and different feather colors. For creatures with no visual cues, players can right click on the animal, and the chat window will indicate gender.
-
-# Quest: tfr.quest275.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=Animal husbandry: Reproduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=All reproducible animals except chickens are bred by bringing together animals of different genders and feeding them until heart-shaped particles begin to appear. The animals consumed 5 ounces of grain each time they were fed, and if both animals had the heart, they would approach within seconds of the particles disappearing. A successful breeding can be confirmed by right-clicking on the female animal, which will produce a chat message, "pregnant". %n % chicken %n%n chickens are bred by using nesting boxes. The hen will lay an egg in the nest box every day. If there is a rooster in the box, the egg will be fertilized. A fertilized egg has a hint of fertilization on it. After three quarters of a month in the nest, the fertilized eggs hatch into chicks. Note: This calculation is based on months, not days. So a world with a long month will have a longer incubation period because there are more days in a month. %n%n pregnancy and baby %n%n all reproducible animals except chickens, the female will become pregnant directly after breeding. Once a female becomes pregnant, she must pass through pregnancy before giving birth. Note: This calculation is based on months, not days. Therefore, longer months will lead to longer pregnancies. %n%n When the time of conception is complete, the female gives birth. The length of pregnancy, the length of adulthood, and the number of offspring born depend on the type of animal.%n
-
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=Wild crops: In the wild, crops are randomly generated and each type of crop is contained in block 8x8. This means that players need to explore considerable distances to collect each crop. Wild crops are produced only between spring and late summer, and there is a chance to regenerate each year.   %n%n seeds: Harvesting a crop will drop at least one seed, while increasing the player's seedtime skill. The better your farming skills, the more likely you are to gain  machine seed that will help you expand your farm. %n%n Crop types: Plant crops that mimic real life, and how long they grow before they can be harvested. Note, however, that these values have been scaled to the TFC year length, which is 96 days by default. %n%n use: Most of the harvested products can be eaten directly by the player, making them a renewable food source. The following grain products can be used to feed animals: barley, rice, rye, wheat, and oats
-
-# Quest: tfr.quest305.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=I'm going to break
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=§4 Press F3 to open block boundary display: make sure your ice cellar is in a block, otherwise it won't work. The cellar will keep your hard-earned food from going bad. %n%n made a hollow rectangular structure with an external height of 4 meters and an internal height of 2 meters from the ice cellar wall block. %n%n Ice cellar door should have two layers. The ice cellar door should be located in a space that protrudes from the wall itself, and there should also be ice wall blocks around it. %n%n One of the cubes in the bottom of the cellar needs to be the core of the ice cellar, and the TFC ice excavated by the ice saw needs to be placed inside to start the operation of the ice cellar. The temperature can be seen in the upper right corner of the GUI that opens the core of the ice pit when %n%n starts running. %n%n Food can only be put in the ice shelf. There should be no cubes in the ice cellar except for the ice shelf. There should be no square contact around the wall of the ice cellar. Only the bottom side should contact with the ground. %n%n This is a top view: %n%nX: wall %nD: gate %n%nXXXXX%nX X%nXX %nXXDXX%n XDX
-
-# Quest: tfr.quest306.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=barbecue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Some foods can only be eaten cooked: this includes all meats. Still others get more cooking after baking, such as baking dough into bread. You can grill food in a hot tub over an open fire, or put this grill on top of a forge. The grill can grill 8 items at once. Shift right - click grill can flip up.
-
-# Quest: tfr.quest308.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=New seeds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=Some seeds cannot be found on the surface of sierra stars, but you can get them by sifting through the soil. These seeds are important for your future development.
-
-# Quest: tfr.quest309.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=Agricultural tycoon.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Now you will never lack for food again. Be careful, overfarming may cause your fields to lose nutrients. As you work your way up the grade, hold a hoe and you'll see how nutritious the field is. To thank you for your efforts, I will send you two Earth pigs, which can provide l-protein, a specialty not available in the TFC star population.
-
-# Quest: tfr.quest310.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Hard farmer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=The following task will be difficult for you at the beginning: You will need to collect more than 20 kinds of food and harvest them. However, the final reward is very rich oh.%n
-
-# Quest: tfr.quest311.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Crop frame
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=The crop rack increases the growth rate of the original crop. Not only that, but placing two overlapping racks between two crops has the potential to cross-breed two crops to produce a new crop. New crops will inherit the attributes of their ancestors and may change. %n%n even, it will become a new crop. Note: If no crops are planted on the rack, it will soon be covered with weeds, which are contagious and can easily destroy your field! %n%n To solve this problem, you can only make one weeder now.%n
-
-# Quest: tfr.quest312.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=reed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Reed is not edible, but its fiber is good for paper, and there is no harm in growing it more often.
-
-# Quest: tfr.quest313.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Sugar cane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Here, sugarcane can only be synthesized from reeds, but it can still reproduce. But mind you, sugar cane needs the original soil to grow.
-
-# Quest: tfr.quest314.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=The original soil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=You can synthesize the original clay from any legendary clay of the hills. The fabled soil of the hills can only grow the fabled crops of the hills, but the original soil can only grow the original crops. It's a bit of a hassle, but the original crop has many USES.%n
-
-# Quest: tfr.quest315.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Not just keeping warm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Wool is obtained by shearing. A sheep of high intimacy can be trimmed with scissors or a knife. Using scissors will give you more wool %n %n Another method is to use a knife to scrape the sheepskin in the composite column, depending on the size of the sheepskin, you can produce a different amount of wool. %n%n You need a spindle to synthesize it into wool yarn, which is then made into wool yarn at the loom. Wool yarn is an important material for making space suits in the future.
-
-# Quest: tfr.quest317.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Jute, not marijuana
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=It can be made into linen or rope and is a practical industrial material.
-
-# Quest: tfr.quest318.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=What, rubber sugar cane?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=One of the easiest crops to hybridize is probably resinous sugar cane. Growing this crop on a large scale will get you out of the trouble of collecting latex from bakerwood.%n
-
-# Quest: tfr.quest319.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=ZhongZiDai
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=Once the crop on the shelf is ripe, you have two options:%n1.Right click to get the crop, the seeds remain in the field%n2.Left click to get the crop and seed bag%n2.Please plant some sugar cane and get their seed, And I'll give you some reward
-
-# Quest: tfr.quest326.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Okay, tomatoes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=Tomatoes may seem like a harmless vegetable (or fruit?) But it's loaded with vitamins. It can only be obtained by hybridization.%n
-
-# Quest: tfr.quest327.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=The first step in becoming a botanist
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=You get more and more hybridization %n%n and you look at the crop seeds with empty eyes and you can't see anything, and then you have to use the power of technology. %n%n This portable crop scanner can be used to learn the names and properties of crops after the battery case is charged. You just need to hold it and right click on the crop shelf. %n%n Also, the scanned crop dropped seeds with the crop name! %n%n hold the crop analyzer and press C to open the hybridization test interface %n
-
-# Quest: tfr.quest328.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Crop monitor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=All it takes is a little electricity, water, fertilizer, and herbicide to help you grow your crops faster and get rid of weeds.
-
-# Quest: tfr.quest329.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Silent spring
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=To permanently solve the overgrown problem, you have to use chemical weapons. %n%n herbicides should only be used in crop control.
-
-# Quest: tfr.quest330.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Nitrogen, phosphorus, potassium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=There are many ways to make fertilizer. They can speed up the growth of crops on crop shelves. Fertilizer can only be used in a crop control machine.
-
-# Quest: tfr.quest331.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.name=Automatic harvester
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.desc=The machines aren't cheap, but once you have a large field of finished crops that have been cross-bred, with crop regulators, they can provide a steady stream of output for your plant.
-
-# Quest: tfr.quest332.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=fisheries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=You need to make a fishing rod to fish. A fishing rod needs to be made of line. Any fish of any size can be submitted!
-
-# Quest: tfr.quest333.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=line
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Important resources, can be made from jute fiber or wool yarn
-
-# Quest: tfr.quest339.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Emerald bush
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=Producing emeralds
-
-# Quest: tfr.quest340.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Crude oil berries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=The production of crude oil
-
-# Quest: tfr.quest341.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=Silver grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=Silver leaf production
-
-# Quest: tfr.quest342.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.name=Tin Ye Teng
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Produce tin twigs
-
-# Quest: tfr.quest344.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Lead the leaves
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=
-
-# Quest: tfr.quest345.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.name=Diamond grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Production of diamond powder
-
-# Quest: tfr.quest346.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.name=Gold leaf grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=The production of gold
-
-# Quest: tfr.quest347.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Miners necessary
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=If you have a lot of wool yarn or jute fiber, this rope is much cheaper than a ladder. It allows you to climb up and down a mine without having to dig a stepped tunnel that might collapse.
-
-# Quest: tfr.quest350.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Copper and cotton
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=Production of copper wire
-
-# Quest: tfr.quest352.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.name=Peaceful mobs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Don't want to go out and fight monsters? Or don't want to breed cattle for leather? Or don't want to build a mob tower? Crossbreeding helps you!
-
-# Quest: tfr.quest353.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=The corpse of the grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=Production of rotten meat
-
-# Quest: tfr.quest354.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=The spider grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=Production of spider products
-
-# Quest: tfr.quest355.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Flame reed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=Production of flame powder
-
-# Quest: tfr.quest356.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Is hybridization worth it?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=Hybridization is a long term task. In general, if you start hybridizing early in the game, you'll be able to get through the resource crunch much more easily later in the game.%n It's still your choice. I've set up a lot of missions to reward you for crossbreeding.
-
-# Quest: tfr.quest357.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.name=Flowers of the wilders
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=Produce litter products
-
-# Quest: tfr.quest358.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.name=Mucus grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=Producing mucus ball
-
-# Quest: tfr.quest359.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=The explosion of grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=The production of powder
-
-# Quest: tfr.quest360.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Strengthen shadow lily
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=Produce shadow pearl
-
-# Quest: tfr.quest361.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.name=Leather flower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=The production of leather
-
-# Quest: tfr.quest362.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.name=The flower of tears
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=Produce the tears of evil spirits
-
-# Quest: tfr.quest363.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Mineral farm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=Don't want to go out and dig? Don't want to find oil? Crossbreeding helps you!
-
-
-## Quest Line: tfr.line18.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=Conquer Terrafirma
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=Prove your worth.
-
-# Quest: tfr.quest97.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=Hostile creatures
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=The creatures of this world are very different from the vanilla, and I will be your mentor and lead you through a series of challenges.
-
-# Quest: tfr.quest462.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.name=Zombie hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.desc=Kill some zombies and I'll give you a good sword
-
-# Quest: tfr.quest463.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=The skeleton hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=A mallet deals additional damage to skeletons. Kill some skeletons and I'll give you a good hammer.
-
-# Quest: tfr.quest464.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.name=The spider hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.desc=Spiders are very dangerous and you need to be careful. Kill some spiders, and I'll give you a good slingshot.
-
-# Quest: tfr.quest465.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.name=Bear hunters
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=Kill some bears
-
-# Quest: tfr.quest466.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.name=Flaming Man hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.desc=Kill some flamers %n(not currently in production in the world)
-
-# Quest: tfr.quest467.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.name=Cave spider hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=Kill some cave spiders %n(not currently in production in the world)
-
-# Quest: tfr.quest468.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.name=Reptile hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=Kill some crawlers
-
-# Quest: tfr.quest469.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.name=The last film hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=Kill some of the last endermen
-
-# Quest: tfr.quest470.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.name=Evil soul hunters
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.desc=Kill some evil spirits %n(not currently in world creation, production)
-
-# Quest: tfr.quest471.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=Zombie pig hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Kill some zombie pig people and I will give you a good village sword %n(not currently in production in the world)
-
-# Quest: tfr.quest472.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=Polar bear hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=Kill some polar bears
-
-# Quest: tfr.quest473.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=Stupid worm hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=Kill some bugs %n(not currently in production in the world)
-
-# Quest: tfr.quest474.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=Slyme hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.desc=Kill some Shrem %n(not currently in world generation, production)
-
-# Quest: tfr.quest475.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.name=Slew fading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.desc=Same build as the original, but withering Skull requires at least a lightning processor to get it.
-
-# Quest: tfr.quest476.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.name=Zombie hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.desc=Kill some zombies and I'll give you a good village sword
-
-# Quest: tfr.quest477.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.name=Skeleton Hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.desc=Kill some skeletons and I'll give you a good hammer
-
-# Quest: tfr.quest478.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.name=Spider Hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc=Kill some spiders, and I'll give you a good slingshot
-
-# Quest: tfr.quest479.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.name=Crawler Hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.desc=Kill some crawlers
-
-# Quest: tfr.quest480.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.name=Final film hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=Kill some of the last endermen
-
-# Quest: tfr.quest481.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=Bear hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=Kill some bears
-
-# Quest: tfr.quest482.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=Polar Bear Hunter T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=Kill some polar bears
-
-# Quest: tfr.quest483.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=Kill dead T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.desc=
-
-# Quest: tfr.quest484.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=Stronger than a bear
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=
-
-# Quest: tfr.quest485.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.name=Monster hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.desc=
-
-# Quest: tfr.quest486.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.name=get
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.desc=
-
-# Quest: tfr.quest487.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.name=Qualified revenant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.desc=
-
-# Quest: tfr.quest488.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.name=Kill withering T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.desc=
-
-# Quest: tfr.quest489.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.name=Kill withering T4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.desc=
-
-# Quest: tfr.quest490.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.name=Kill Withering T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.desc=
-
-# Quest: tfr.quest491.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.name=Zombie Hunter T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.desc=Kill some zombies and I'll give you a good village sword
-
-# Quest: tfr.quest492.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.name=Skull Hunter T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.desc=Kill some skeletons and I'll give you a good hammer
-
-# Quest: tfr.quest493.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.name=Spider Hunter T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc=Kill some spiders, and I'll give you a good slingshot
-
-# Quest: tfr.quest494.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.name=Reptile Hunter T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.desc=Kill some crawlers
-
-# Quest: tfr.quest495.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.name=Final film hunter T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.desc=Kill some of the last endermen
-
-# Quest: tfr.quest496.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.name=Bear hunters T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=Kill some bears
-
-# Quest: tfr.quest497.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=Polar Bear Hunter T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=Kill some polar bears
-
-# Quest: tfr.quest498.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.name=Zombie Hunter T4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.desc=Kill some zombies and I'll give you a good village sword
-
-# Quest: tfr.quest499.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.name=Skeleton Hunter T4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.desc=Kill some skeletons and I'll give you a good hammer
-
-# Quest: tfr.quest500.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.name=Spider Hunter T4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.desc=Kill some spiders, and I'll give you a good slingshot
-
-# Quest: tfr.quest501.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.name=Crawler Hunter T4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.desc=Kill some crawlers
-
-# Quest: tfr.quest502.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.name=T4, the last film hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.desc=Kill some of the last endermen
-
-# Quest: tfr.quest503.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.name=Bear hunters T4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.desc=Kill some bears
-
-# Quest: tfr.quest504.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=T4, Polar Bear Hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=Kill some polar bears
-
-# Quest: tfr.quest505.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.name=Zombie Hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.desc=Kill some zombies and I'll give you a good village sword
-
-# Quest: tfr.quest506.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.name=Skeleton Hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.desc=Kill some skeletons and I'll give you a good hammer
-
-# Quest: tfr.quest507.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.name=Spider Hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.desc=Kill some spiders, and I'll give you a good slingshot
-
-# Quest: tfr.quest508.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.name=Reptilian hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=Kill some crawlers
-
-# Quest: tfr.quest509.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.name=The last film hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.desc=Kill some of the last endermen
-
-# Quest: tfr.quest510.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.name=Bear hunters T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Kill some bears
-
-# Quest: tfr.quest511.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Polar bear hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=Kill some polar bears
-
-# Quest: tfr.quest512.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Bear Grylls
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.desc=
-
-# Quest: tfr.quest513.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.name=Bear Grylls was afraid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.desc=
-
-# Quest: tfr.quest514.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.name=Top of the food chain
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.desc=
-
-# Quest: tfr.quest515.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.name=To the enemy
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.desc=
-
-# Quest: tfr.quest516.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.name=A ride when thousands
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.desc=
-
-# Quest: tfr.quest517.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.name=Horses stand mute.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.desc=
-
-# Quest: tfr.quest518.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.name=Achievement: Meat grinder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=
-
-# Quest: tfr.quest519.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=The Lord of chaos
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(Not in the world generation and production at present)
-
-
 ## Quest Line: tfr.line14.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
@@ -2594,15 +1882,266 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
 
+## Quest Line: tfr.line15.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] Mass-Data Conversion
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=A magical blue crystal - Certus - will allow you to unlock a potentially infinite automated factory by building a network called ME - based on Applied Energistics 2
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
+
+# Quest: tfr.quest343.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=Etching template
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Meteorites no longer form: you can only make them by etching iron blocks.
+
+# Quest: tfr.quest521.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Lithography template
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=You need a photolithographer and a pressure molding machine to make the raw material into a corresponding board and then press it into shape.
+
+# Quest: tfr.quest522.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
+
+# Quest: tfr.quest523.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
+
+# Quest: tfr.quest524.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=The more the more
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.desc=Is not enough! %n I need more storage!
+
+# Quest: tfr.quest525.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.name=The manager!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.desc=The base mineral of AE
+
+# Quest: tfr.quest526.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.name=Charge racers!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.desc=It has only one purpose: to make Flux crystals
+
+# Quest: tfr.quest527.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.name=Flux crystal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Throw one charging Flux crystal and one red stone and one incoming quartz into the water and you will get two Flux crystals %n%n which can also be made with a blender. %n%n multiple preparation points are always harmless.
+
+# Quest: tfr.quest528.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=cable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Connect %n has the transmission function of energy, goods and fluid at the same time
+
+# Quest: tfr.quest529.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=The communication of matter and information
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=A panel that communicates matter and information, %n, that can turn a virtual reality into a real reality, %n, %n is a bit of a waste of electricity
+
+# Quest: tfr.quest530.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Ae start
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Ae automatic control terminal
+
+# Quest: tfr.quest531.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=More convenient!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=The ability to take and synthesize at the same time
+
+# Quest: tfr.quest532.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.name=Ae automation
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=Simple,%n%n § §ra molecular assembly room, motherboard, CPU needs ae network to start automatically workbench, after I receive my ae's instruction, through me port input items and for automatic synthesis, again through the me port will be pumped in ae synthetic items, form the automatic synthesis%n%n § § ame port r, ae network and machine goods input and output ports, through the "memory" of a synthesis load model formula%n%n § § a items input/output bus r, is a fixed input or output items of port, after when connected to the machine or box, As long as the ae/network/box machine with items, will be automatically output input%n%n § a parallel processing units + synthetic § r, equivalent to the CPU, synthetic unit for CPU memory, parallel processing unit as the number of threads, it is important to note that they need to put on, but too much after put together will only count as a%n%n § § 9 a, in general, the model of terminal production synthetic model - inside me - terminal port selected production how many - processing unit receives instructions - synthesis unit provides memory - me port items - molecular assembly room make%n%n%n%n%n
+
+# Quest: tfr.quest533.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=Safety!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=Give your AE network a lock!
+
+# Quest: tfr.quest544.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=Upgrade upgrade upgrade upgrade!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=Expand the use of
+
+# Quest: tfr.quest545.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=Space transmission technology!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Retrieve items from a distance
+
+# Quest: tfr.quest546.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=P2p technology
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=Point to point transmission?
+
+# Quest: tfr.quest547.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=True space transmission technology
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n put the eight quantum rings in a ring and put a quantum link bin in the middle to form%n. The two structures can be transported %n across space
+
+# Quest: tfr.quest548.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=Large space transfer technology
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=%n transfers all the squares in a certain space together, not useful and more troublesome %n%n specific method McMod has detailed tutorial
+
+# Quest: tfr.quest549.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=King of wealth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=If you actually fill this up, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n
+
+# Quest: tfr.quest550.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=Liquid storage element
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Make ae network can store liquid%n%n%n note: gas and by the same token, the memory element can store gas%n § § § § 4 b 1 c § § § § § k n e r l n § § § § § m m m m § § § § §rl r l m is not my lazy don't want to write x
+
+# Quest: tfru.q138n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
+
+# Quest: tfru.q139n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
+
+
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
+
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of a stonecutter? Don't be afraid! Argon nitrogen will help you
+
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
+
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
+
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
+
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
+
+
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
+
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
+
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
+
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+
+# Quest: tfr.quest424.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=gold
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=
+
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. Delicious and affordable.
+
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=I need a lot of steel recently. Can you fulfill my order?
+
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§ C § A §bBuy a durable electric drill
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Exclusive formula from Shuaibi.%n USES tungsten steel body, only one in the world.%n%nMV level, but using LV battery can be charged.
+
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC big chicken
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
+
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
+
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
+
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Beijing Third Transportation Commission
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=We need to lay some railways recently. Can you make some strong tracks?
+
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Painter's commission
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lately. Could you help me make some lime dye? Three primary colors will do
+
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
+
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=Kaolinate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
+
+
 ## Quest Line: tfru.l1n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q194n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q199n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 
@@ -2610,23 +2149,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q201n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=
 
@@ -2634,7 +2173,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q198n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 
@@ -2642,209 +2181,289 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q193n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q192n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q202n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
 
 
-## Quest Line: tfr.line0.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=Beekeeper
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=On bee breeding and hybridization - based on GregTech Technology, Forestry, Gendustry.
+## Quest Line: tfr.line18.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=Conquer Terrafirma
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=Prove your worth.
 
-# Quest: tfru.q47n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=
+# Quest: tfr.quest97.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=Hostile creatures
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=The creatures of this world are very different from the vanilla, and I will be your mentor and lead you through a series of challenges.
 
-# Quest: tfru.q49n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=
+# Quest: tfr.quest462.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.name=Zombie hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.desc=Kill some zombies and I'll give you a good sword
 
-# Quest: tfru.q53n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.desc=
+# Quest: tfr.quest463.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=The skeleton hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=A mallet deals additional damage to skeletons. Kill some skeletons and I'll give you a good hammer.
 
-# Quest: tfru.q56n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.desc=
+# Quest: tfr.quest464.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.name=The spider hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.desc=Spiders are very dangerous and you need to be careful. Kill some spiders, and I'll give you a good slingshot.
 
-# Quest: tfru.q50n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=
+# Quest: tfr.quest465.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.name=Bear hunters
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=Kill some bears
 
-# Quest: tfru.q52n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.desc=
+# Quest: tfr.quest466.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.name=Flaming Man hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.desc=Kill some flamers %n(not currently in production in the world)
 
-# Quest: tfru.q51n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=
+# Quest: tfr.quest467.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.name=Cave spider hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=Kill some cave spiders %n(not currently in production in the world)
 
-# Quest: tfru.q54n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=
+# Quest: tfr.quest468.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.name=Reptile hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=Kill some crawlers
 
-# Quest: tfru.q58n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=
+# Quest: tfr.quest469.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.name=The last film hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=Kill some of the last endermen
 
-# Quest: tfru.q48n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.desc=
+# Quest: tfr.quest470.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.name=Evil soul hunters
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.desc=Kill some evil spirits %n(not currently in world creation, production)
 
-# Quest: tfru.q55n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=
+# Quest: tfr.quest471.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=Zombie pig hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Kill some zombie pig people and I will give you a good village sword %n(not currently in production in the world)
 
-# Quest: tfru.q61n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=
+# Quest: tfr.quest472.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=Polar bear hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=Kill some polar bears
 
-# Quest: tfru.q57n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=
+# Quest: tfr.quest473.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=Stupid worm hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=Kill some bugs %n(not currently in production in the world)
 
-# Quest: tfru.q66n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=
+# Quest: tfr.quest474.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=Slyme hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.desc=Kill some Shrem %n(not currently in world generation, production)
 
-# Quest: tfru.q68n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=
+# Quest: tfr.quest475.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.name=Slew fading
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.desc=Same build as the original, but withering Skull requires at least a lightning processor to get it.
 
-# Quest: 测序
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=
+# Quest: tfr.quest476.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.name=Zombie hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.desc=Kill some zombies and I'll give you a good village sword
 
-# Quest: tfru.q64n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=
+# Quest: tfr.quest477.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.name=Skeleton Hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.desc=Kill some skeletons and I'll give you a good hammer
 
-# Quest: tfr.quest552.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=Bumble!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=To open this chapter, you need a bee trap
+# Quest: tfr.quest478.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.name=Spider Hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc=Kill some spiders, and I'll give you a good slingshot
 
-# Quest: tfru.q62n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.desc=
+# Quest: tfr.quest479.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.name=Crawler Hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.desc=Kill some crawlers
 
-# Quest: tfru.q60n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=
+# Quest: tfr.quest480.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.name=Final film hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=Kill some of the last endermen
 
-# Quest: tfru.q59n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.desc=
+# Quest: tfr.quest481.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=Bear hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=Kill some bears
 
-# Quest: 基因时代
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.desc=
+# Quest: tfr.quest482.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=Polar Bear Hunter T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=Kill some polar bears
 
-# Quest: tfru.q72n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=
+# Quest: tfr.quest483.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=Kill dead T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.desc=
 
-# Quest: 定向
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.desc=
+# Quest: tfr.quest484.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=Stronger than a bear
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=
 
-# Quest: 训练
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.desc=
+# Quest: tfr.quest485.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.name=Monster hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.desc=
 
-# Quest: 创造变异条件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc=
+# Quest: tfr.quest486.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.name=get
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.desc=
 
-# Quest: 加速变异
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=
+# Quest: tfr.quest487.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.name=Qualified revenant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.desc=
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=
+# Quest: tfr.quest488.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.name=Kill withering T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.desc=
 
-# Quest: tfru.q69n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.desc=
+# Quest: tfr.quest489.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.name=Kill withering T4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.desc=
 
-# Quest: 培养
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.desc=
+# Quest: tfr.quest490.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.name=Kill Withering T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.desc=
 
-# Quest: tfru.q67n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.desc=
+# Quest: tfr.quest491.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.name=Zombie Hunter T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.desc=Kill some zombies and I'll give you a good village sword
 
-# Quest: 人为干预
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.desc=
+# Quest: tfr.quest492.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.name=Skull Hunter T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.desc=Kill some skeletons and I'll give you a good hammer
 
-# Quest: 分析基因
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.desc=
+# Quest: tfr.quest493.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.name=Spider Hunter T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc=Kill some spiders, and I'll give you a good slingshot
 
-# Quest: PCR技术
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=
+# Quest: tfr.quest494.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.name=Reptile Hunter T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.desc=Kill some crawlers
 
-# Quest: 加速测序
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.desc=
+# Quest: tfr.quest495.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.name=Final film hunter T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.desc=Kill some of the last endermen
 
-# Quest: 迫不及待
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.desc=
+# Quest: tfr.quest496.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.name=Bear hunters T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=Kill some bears
 
-# Quest: tfru.q70n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=
+# Quest: tfr.quest497.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=Polar Bear Hunter T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=Kill some polar bears
 
-# Quest: tfru.q65n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.desc=
+# Quest: tfr.quest498.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.name=Zombie Hunter T4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.desc=Kill some zombies and I'll give you a good village sword
 
-# Quest: tfru.q71n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
+# Quest: tfr.quest499.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.name=Skeleton Hunter T4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.desc=Kill some skeletons and I'll give you a good hammer
+
+# Quest: tfr.quest500.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.name=Spider Hunter T4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.desc=Kill some spiders, and I'll give you a good slingshot
+
+# Quest: tfr.quest501.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.name=Crawler Hunter T4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.desc=Kill some crawlers
+
+# Quest: tfr.quest502.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.name=T4, the last film hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.desc=Kill some of the last endermen
+
+# Quest: tfr.quest503.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.name=Bear hunters T4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.desc=Kill some bears
+
+# Quest: tfr.quest504.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=T4, Polar Bear Hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=Kill some polar bears
+
+# Quest: tfr.quest505.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.name=Zombie Hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.desc=Kill some zombies and I'll give you a good village sword
+
+# Quest: tfr.quest506.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.name=Skeleton Hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.desc=Kill some skeletons and I'll give you a good hammer
+
+# Quest: tfr.quest507.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.name=Spider Hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.desc=Kill some spiders, and I'll give you a good slingshot
+
+# Quest: tfr.quest508.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.name=Reptilian hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=Kill some crawlers
+
+# Quest: tfr.quest509.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.name=The last film hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.desc=Kill some of the last endermen
+
+# Quest: tfr.quest510.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.name=Bear hunters T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Kill some bears
+
+# Quest: tfr.quest511.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Polar bear hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=Kill some polar bears
+
+# Quest: tfr.quest512.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Bear Grylls
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.desc=
+
+# Quest: tfr.quest513.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.name=Bear Grylls was afraid
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.desc=
+
+# Quest: tfr.quest514.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.name=Top of the food chain
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.desc=
+
+# Quest: tfr.quest515.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.name=To the enemy
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.desc=
+
+# Quest: tfr.quest516.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.name=A ride when thousands
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.desc=
+
+# Quest: tfr.quest517.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.name=Horses stand mute.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.desc=
+
+# Quest: tfr.quest518.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.name=Achievement: Meat grinder
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=
+
+# Quest: tfr.quest519.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=The Lord of chaos
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(Not in the world generation and production at present)
 
 
 ## Quest Line: tfr.line21.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=[BOT] Magic awakening
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=From the forces of nature
 
-# Quest: New Quest
+# Quest: tfru.q189n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=
 
@@ -3066,6 +2685,529 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.desc=一个箱子宠物，会自动帮你吃掉附近的掉落物%n右键打开它的物品栏，shift+右键可以把它收回背包%n§8此任务是Unofficial版本特有的
 
 
+## Quest Line: tfr.line10.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Agriculture, animal husbandry and fisheries
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=Help %n about your survival on this planet as a carbon-based creature based on the Legend of Sierra, Industrial Age 2, and GregTech technology.
+
+# Quest: tfr.quest105.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Strange saplings
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=After making a carpenter machine, you can convert the TFC oak sapling into the vanilla oak seedling. The bark can be obtained by right-clicking a log with the GregTech axe, or by machine.
+
+# Quest: tfr.quest220.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Agriculture
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=You start with 1000 drops of blood, and you probably already see that the cap is coming down. If agriculture is not well developed, the ceiling will soon fall. There are many wild crops in the world. Go and collect some seeds. The importance of this chapter has been repeatedly emphasized. If the main push tired, come to the development of development here.
+
+# Quest: tfr.quest225.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Drink more hot water
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=In the TFC world, your hunger tank (green) is empty and you won't die quickly, but if the water tank (blue) is empty, you'll keep bleeding to death. %n can drink by right-clicking fresh water with empty hands, which is the only way to restore the sink until you have made pottery (see next chapter).
+
+# Quest: tfr.quest226.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Balanced diet
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Open the inventory bar. There is a box on the right. There are four boxes, which are your inventory, time, skills and nutrition %n nutrition and experience. There are five kinds of nutrition, and you need to eat different kinds of food to recover. %n%n When born, every nutrient of the player is full. As the player's hunger wears off, so do their nutritional bars. %n%n In order to supplement the nutrition, the player must eat the corresponding category of food. When the player is full, they get extra nutrients, and according to the player's current nutrition level, when the player is malnourished, they get more nutrients. %n%n The first four categories account for 25 percent of a player's maximum health, and dairy products have an additional 25 percent maximum health. For example, a starting player with no level is likely to reach a maximum life span of 800HP(the first four nutrients are filled). If one of the nutrients is empty and the other three are full, the player's maximum health value is 600HP. If a player has all five nutrients, their maximum life span is 1000HP.
+
+# Quest: tfr.quest227.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=Fruit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Fruits are obtained in two ways: berry bushes and fruit trees, both of which can be found in the wild. %n Berry bushes can be gathered directly by hand and cannot reproduce. When the shrub is in season and in the right temperature range, it can produce a new fruit every month. Each berry has a different life span, and at the end of that life span, the fruit is removed from the bush. To harvest the fruit, just right-click on the bush and the fruit will drop. The harvested weights vary from 3 to 8 ounces. There is a chance of getting a sapling by chopping it down with an axe. If the trunk is left, it can continue to grow, multiply and produce more. %n%n tree seedlings do not grow immediately. On the contrary, the fruit trees grow slowly, with branches and leaves coming out in stages. This means that the saplings will eventually grow back after the branches have been cut off for harvest. But it also means that saplings take a long time to grow into trees as big as those in the wild. The trunk will reach its maximum height after 30 days, with a branch every 20 days and a leaf every two days. At harvest time, the tree will have a fruit on each leaf. To harvest the fruit, right-click on the leaves or left-click on the leaves and the fruit will fall. Fruit per serving is 4 to 16 ounces. %n%n fruit trees bear fruit only when the current temperature is between 0 and 38. For most cases, the corresponding seasonal temperatures (spring to late fall) are within this range, except in deserts, equatorial jungles, and deep tundra.%n
+
+# Quest: tfr.quest228.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=Amino acids
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=There are two main ways to get protein: 1. Kill animals 2. Plant soybeans In the sierra World, where wild animals are produced only once since the world began, slaughtering is not a sustainable path! So, you need to raise animals, and Here I recommend cages to take them home, but also a leash or ears of wheat. N animals have sex and need to get to know you before they can mate with each other, but of course you have to feed them. In general, cows have fewer calves, but pigs have a litter.
+
+# Quest: tfr.quest229.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=Vegetables
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Again, only through crops. The individual pushed the potato and cabbage, the yield is large, the growth condition is not harsh.
+
+# Quest: tfr.quest230.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Do you remember how much oz bread you've eaten in your life -- DIO
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=One of the five sources of nutrition, the only way to get it is by growing grain.%n Directly harvested grains need to be processed before they can be eaten. Bake them over a fire, or use a knife to cut them into grains. If you want a grain to last longer, or if you want to make a sandwich, you should make the grain into bread. Grain grains are ground in a stone mill to make flour, which is combined with a wooden bucket to make dough, which is baked over a fire to make bread. If you grow five food crops, you get the ultimate food: bread between bread and bread between bread and bread
+
+# Quest: tfr.quest231.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Dairy products
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Dairy products are obtained in two ways: by drinking milk and by eating cheese (cheese is made of milk and is essentially milk). Cows that have been domesticated enough can milk a pail once a day for a pail of milk. 9 pails of milk and 1 pail of vinegar are sealed in wooden pails to obtain cheese.
+
+# Quest: tfr.quest233.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Animal cages
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=With this device, you can put animals into mysterious Spaces without suffocating them.
+
+# Quest: tfr.quest273.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=farmland
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Farmland, also known as soil, contains the three basic nutrients of a plant, and if there's enough water cube nearby, your plant can get important water. By using the water and nutrient pattern of the metal hoe, you can see the nutrient level of the crop and the availability of water. Growing crops in the soil reduces soil nutrients and must be fallow, fertilized, or planted periodically with crops that require different nutrient types in order to replenish nutrients. Note: Some crops, such as soybeans and green beans, require additional nutrients as they grow. %n%n Unlike the original, farmland cannot be turned back into soil. The destruction of cropland also does not produce any soil to prevent the reuse of nutrients.
+
+# Quest: tfr.quest274.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=Animal husbandry: 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=Chickens, cows, horses, pigs and sheep are all livestock. The natural generation of the world's animals is based on the climate of the region. %n%n livestock will follow any kind of refined grain and ear of corn, similar to the original animals will follow wheat, carrots and seeds. The rope is also the same as in the original drawing of livestock %n%n Bears, deer and pheasants are wild animals and cannot breed. Wild animals will be refreshed all over the world, except named animals, or at least tethered once, which won't disappear. All animals have a degree of intimacy that increases the need to interact in some way, such as milking, shearing, riding, raising and naming animals. The exact value of these interactions varies from species to species, and some require more interaction. Familiarity can be improved by performing specific actions every 24 game hours. To raise an animal, the player must sneak around to provide food so that the animal does not get spooked. If intimacy does not reach 30 percent and the animal does not interact with the human within 24 hours, then intimacy will decline. Adult animals are limited in their ability to be domesticated, only small animals can be fully domesticated, and intimacy increases faster. Young animals retain 50 per cent of their mother's closeness at birth, unless she is close to the maximum, in which case they will retain 90 per cent. %n%n Stealthily looking at an animal displays a closeness indicator. As the intimacy increases, the indicator will fill with red, and when it reaches 100 percent, it will turn gold. A white border means that the animal has reached at least 30 percent and intimacy is no longer diminished. %n%n Sex: %n%n animals (excluding squid) have different sex (male or female), which is determined randomly at the time of animal generation. With the exception of bears, horses and wolves, all animals have visual cues to easily determine sex, such as horns, teeth, breasts and different feather colors. For creatures with no visual cues, players can right click on the animal, and the chat window will indicate gender.
+
+# Quest: tfr.quest275.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=Animal husbandry: Reproduction
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=All reproducible animals except chickens are bred by bringing together animals of different genders and feeding them until heart-shaped particles begin to appear. The animals consumed 5 ounces of grain each time they were fed, and if both animals had the heart, they would approach within seconds of the particles disappearing. A successful breeding can be confirmed by right-clicking on the female animal, which will produce a chat message, "pregnant". %n % chicken %n%n chickens are bred by using nesting boxes. The hen will lay an egg in the nest box every day. If there is a rooster in the box, the egg will be fertilized. A fertilized egg has a hint of fertilization on it. After three quarters of a month in the nest, the fertilized eggs hatch into chicks. Note: This calculation is based on months, not days. So a world with a long month will have a longer incubation period because there are more days in a month. %n%n pregnancy and baby %n%n all reproducible animals except chickens, the female will become pregnant directly after breeding. Once a female becomes pregnant, she must pass through pregnancy before giving birth. Note: This calculation is based on months, not days. Therefore, longer months will lead to longer pregnancies. %n%n When the time of conception is complete, the female gives birth. The length of pregnancy, the length of adulthood, and the number of offspring born depend on the type of animal.%n
+
+# Quest: ph.empty
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=Wild crops: In the wild, crops are randomly generated and each type of crop is contained in block 8x8. This means that players need to explore considerable distances to collect each crop. Wild crops are produced only between spring and late summer, and there is a chance to regenerate each year.   %n%n seeds: Harvesting a crop will drop at least one seed, while increasing the player's seedtime skill. The better your farming skills, the more likely you are to gain  machine seed that will help you expand your farm. %n%n Crop types: Plant crops that mimic real life, and how long they grow before they can be harvested. Note, however, that these values have been scaled to the TFC year length, which is 96 days by default. %n%n use: Most of the harvested products can be eaten directly by the player, making them a renewable food source. The following grain products can be used to feed animals: barley, rice, rye, wheat, and oats
+
+# Quest: tfr.quest305.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=I'm going to break
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=§4 Press F3 to open block boundary display: make sure your ice cellar is in a block, otherwise it won't work. The cellar will keep your hard-earned food from going bad. %n%n made a hollow rectangular structure with an external height of 4 meters and an internal height of 2 meters from the ice cellar wall block. %n%n Ice cellar door should have two layers. The ice cellar door should be located in a space that protrudes from the wall itself, and there should also be ice wall blocks around it. %n%n One of the cubes in the bottom of the cellar needs to be the core of the ice cellar, and the TFC ice excavated by the ice saw needs to be placed inside to start the operation of the ice cellar. The temperature can be seen in the upper right corner of the GUI that opens the core of the ice pit when %n%n starts running. %n%n Food can only be put in the ice shelf. There should be no cubes in the ice cellar except for the ice shelf. There should be no square contact around the wall of the ice cellar. Only the bottom side should contact with the ground. %n%n This is a top view: %n%nX: wall %nD: gate %n%nXXXXX%nX X%nXX %nXXDXX%n XDX
+
+# Quest: tfr.quest306.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=barbecue
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Some foods can only be eaten cooked: this includes all meats. Still others get more cooking after baking, such as baking dough into bread. You can grill food in a hot tub over an open fire, or put this grill on top of a forge. The grill can grill 8 items at once. Shift right - click grill can flip up.
+
+# Quest: tfr.quest308.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=New seeds
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=Some seeds cannot be found on the surface of sierra stars, but you can get them by sifting through the soil. These seeds are important for your future development.
+
+# Quest: tfr.quest309.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=Agricultural tycoon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Now you will never lack for food again. Be careful, overfarming may cause your fields to lose nutrients. As you work your way up the grade, hold a hoe and you'll see how nutritious the field is. To thank you for your efforts, I will send you two Earth pigs, which can provide l-protein, a specialty not available in the TFC star population.
+
+# Quest: tfr.quest310.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Hard farmer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=The following task will be difficult for you at the beginning: You will need to collect more than 20 kinds of food and harvest them. However, the final reward is very rich oh.%n
+
+# Quest: tfr.quest311.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Crop frame
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=The crop rack increases the growth rate of the original crop. Not only that, but placing two overlapping racks between two crops has the potential to cross-breed two crops to produce a new crop. New crops will inherit the attributes of their ancestors and may change. %n%n even, it will become a new crop. Note: If no crops are planted on the rack, it will soon be covered with weeds, which are contagious and can easily destroy your field! %n%n To solve this problem, you can only make one weeder now.%n
+
+# Quest: tfr.quest312.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=reed
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Reed is not edible, but its fiber is good for paper, and there is no harm in growing it more often.
+
+# Quest: tfr.quest313.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Sugar cane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Here, sugarcane can only be synthesized from reeds, but it can still reproduce. But mind you, sugar cane needs the original soil to grow.
+
+# Quest: tfr.quest314.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=The original soil
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=You can synthesize the original clay from any legendary clay of the hills. The fabled soil of the hills can only grow the fabled crops of the hills, but the original soil can only grow the original crops. It's a bit of a hassle, but the original crop has many USES.%n
+
+# Quest: tfr.quest315.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Not just keeping warm
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Wool is obtained by shearing. A sheep of high intimacy can be trimmed with scissors or a knife. Using scissors will give you more wool %n %n Another method is to use a knife to scrape the sheepskin in the composite column, depending on the size of the sheepskin, you can produce a different amount of wool. %n%n You need a spindle to synthesize it into wool yarn, which is then made into wool yarn at the loom. Wool yarn is an important material for making space suits in the future.
+
+# Quest: tfr.quest317.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Jute, not marijuana
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=It can be made into linen or rope and is a practical industrial material.
+
+# Quest: tfr.quest318.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=What, rubber sugar cane?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=One of the easiest crops to hybridize is probably resinous sugar cane. Growing this crop on a large scale will get you out of the trouble of collecting latex from bakerwood.%n
+
+# Quest: tfr.quest319.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=ZhongZiDai
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=Once the crop on the shelf is ripe, you have two options:%n1.Right click to get the crop, the seeds remain in the field%n2.Left click to get the crop and seed bag%n2.Please plant some sugar cane and get their seed, And I'll give you some reward
+
+# Quest: tfr.quest326.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Okay, tomatoes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=Tomatoes may seem like a harmless vegetable (or fruit?) But it's loaded with vitamins. It can only be obtained by hybridization.%n
+
+# Quest: tfr.quest327.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=The first step in becoming a botanist
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=You get more and more hybridization %n%n and you look at the crop seeds with empty eyes and you can't see anything, and then you have to use the power of technology. %n%n This portable crop scanner can be used to learn the names and properties of crops after the battery case is charged. You just need to hold it and right click on the crop shelf. %n%n Also, the scanned crop dropped seeds with the crop name! %n%n hold the crop analyzer and press C to open the hybridization test interface %n
+
+# Quest: tfr.quest328.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Crop monitor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=All it takes is a little electricity, water, fertilizer, and herbicide to help you grow your crops faster and get rid of weeds.
+
+# Quest: tfr.quest329.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Silent spring
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=To permanently solve the overgrown problem, you have to use chemical weapons. %n%n herbicides should only be used in crop control.
+
+# Quest: tfr.quest330.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Nitrogen, phosphorus, potassium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=There are many ways to make fertilizer. They can speed up the growth of crops on crop shelves. Fertilizer can only be used in a crop control machine.
+
+# Quest: tfr.quest331.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.name=Automatic harvester
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.desc=The machines aren't cheap, but once you have a large field of finished crops that have been cross-bred, with crop regulators, they can provide a steady stream of output for your plant.
+
+# Quest: tfr.quest332.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=fisheries
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=You need to make a fishing rod to fish. A fishing rod needs to be made of line. Any fish of any size can be submitted!
+
+# Quest: tfr.quest333.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=line
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Important resources, can be made from jute fiber or wool yarn
+
+# Quest: tfr.quest339.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Emerald bush
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=Producing emeralds
+
+# Quest: tfr.quest340.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Crude oil berries
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=The production of crude oil
+
+# Quest: tfr.quest341.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=Silver grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=Silver leaf production
+
+# Quest: tfr.quest342.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.name=Tin Ye Teng
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Produce tin twigs
+
+# Quest: tfr.quest344.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Lead the leaves
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=
+
+# Quest: tfr.quest345.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.name=Diamond grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Production of diamond powder
+
+# Quest: tfr.quest346.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.name=Gold leaf grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=The production of gold
+
+# Quest: tfr.quest347.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Miners necessary
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=If you have a lot of wool yarn or jute fiber, this rope is much cheaper than a ladder. It allows you to climb up and down a mine without having to dig a stepped tunnel that might collapse.
+
+# Quest: tfr.quest350.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Copper and cotton
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=Production of copper wire
+
+# Quest: tfr.quest352.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.name=Peaceful mobs
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Don't want to go out and fight monsters? Or don't want to breed cattle for leather? Or don't want to build a mob tower? Crossbreeding helps you!
+
+# Quest: tfr.quest353.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=The corpse of the grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=Production of rotten meat
+
+# Quest: tfr.quest354.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=The spider grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=Production of spider products
+
+# Quest: tfr.quest355.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Flame reed
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=Production of flame powder
+
+# Quest: tfr.quest356.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Is hybridization worth it?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=Hybridization is a long term task. In general, if you start hybridizing early in the game, you'll be able to get through the resource crunch much more easily later in the game.%n It's still your choice. I've set up a lot of missions to reward you for crossbreeding.
+
+# Quest: tfr.quest357.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.name=Flowers of the wilders
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=Produce litter products
+
+# Quest: tfr.quest358.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.name=Mucus grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=Producing mucus ball
+
+# Quest: tfr.quest359.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=The explosion of grass
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=The production of powder
+
+# Quest: tfr.quest360.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Strengthen shadow lily
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=Produce shadow pearl
+
+# Quest: tfr.quest361.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.name=Leather flower
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=The production of leather
+
+# Quest: tfr.quest362.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.name=The flower of tears
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=Produce the tears of evil spirits
+
+# Quest: tfr.quest363.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Mineral farm
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=Don't want to go out and dig? Don't want to find oil? Crossbreeding helps you!
+
+
+## Quest Line: tfr.line0.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=Beekeeper
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=On bee breeding and hybridization - based on GregTech Technology, Forestry, Gendustry.
+
+# Quest: tfru.q47n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=
+
+# Quest: tfru.q49n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=
+
+# Quest: tfru.q53n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.desc=
+
+# Quest: tfru.q56n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.desc=
+
+# Quest: tfru.q50n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=
+
+# Quest: tfru.q52n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.desc=
+
+# Quest: tfru.q51n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=
+
+# Quest: tfru.q54n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=
+
+# Quest: tfru.q58n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=
+
+# Quest: tfru.q48n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.desc=
+
+# Quest: tfru.q55n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=
+
+# Quest: tfru.q61n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=
+
+# Quest: tfru.q57n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=
+
+# Quest: tfru.q66n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=
+
+# Quest: tfru.q68n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=
+
+# Quest: 测序
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=
+
+# Quest: tfru.q64n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=
+
+# Quest: tfr.quest552.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=Bumble!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=To open this chapter, you need a bee trap
+
+# Quest: tfru.q62n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.desc=
+
+# Quest: tfru.q60n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=
+
+# Quest: tfru.q59n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.desc=
+
+# Quest: 基因时代
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.desc=
+
+# Quest: tfru.q72n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=
+
+# Quest: 定向
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.desc=
+
+# Quest: 训练
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.desc=
+
+# Quest: 创造变异条件
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc=
+
+# Quest: 加速变异
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=
+
+# Quest: tfru.q69n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.desc=
+
+# Quest: 培养
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.desc=
+
+# Quest: tfru.q67n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.desc=
+
+# Quest: 人为干预
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.desc=
+
+# Quest: 分析基因
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.desc=
+
+# Quest: PCR技术
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=
+
+# Quest: 加速测序
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.desc=
+
+# Quest: 迫不及待
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.desc=
+
+# Quest: tfru.q70n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=
+
+# Quest: tfru.q65n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.desc=
+
+# Quest: tfru.q71n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
+
+
+## Quest Line: tfr.line6.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=Tier 5.2 - Aerospace Era
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Manned spaceflight, asteroid mining, gas planet development - based on advanced rockets
+
+# Quest: tfr.quest189.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Dream of the stars and sea
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=The beginning of space travel %n%n%n How to use it: Place it in an open area %n and then place the launch pad and the structure tower next to it. The bottom of the structure tower should be the same as the Y axis of the launch pad.%n %n The width of the launch tower, the height of the structure tower, as big as you can DIY the rocket.%n
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
+
+# Quest: tfr.quest191.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=Artificial satellite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=%n Artificial satellites are used to collect various kinds of data.%n It is needed to assemble the satellite and put it into orbit in the satellite capsule. %n%n Optical sensors are used to collect distance data
+
+# Quest: tfr.quest192.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=Satellite assembly
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=%n This machine is a multi-block %n, put an energy input bin %n%n on the bottom, you need the left side, you need the orbiter and the satellite chip put the satellite chip in the middle %n%n on the top right, you need the sensor %n on the top, you need the solar panel in the middle, you can make it a generating satellite, %n%n, put the data chip at the bottom, you have to put the data chip to collect the data
+
+# Quest: tfr.quest193.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=Collection of satellite data
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n It requires RF to use the satellite chip. %n In the upper right corner click Connect to receive data
+
+# Quest: tfr.quest194.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=Observe celestial objects
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=Multiblock block. %n It needs a data bus inside. Out 100 point distance data inside to work. It works only at night. %n%n Spend 100 point distance data scanning asteroids. %n Put at the bottom of the asteroids selection list asteroids chip%n selected you want an asteroid and then click the gear icon next to the chip for writing%n%n available object data processor to strengthen asteroid chips
+
+# Quest: tfr.quest195.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Mining rocket assembly
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=Assembling a mining rocket. %n%n Requires a drill to mine and requires vanilla chest as storage
+
+# Quest: tfr.quest196.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=Mining rocket launch!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=Assemble a mining rocket %n%n You need to pair a rocket monitor to it.
+
+# Quest: tfr.quest197.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Process the data
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Multiblock. %n It is used to enhance the asteroid chip data to make the benefits greater
+
+# Quest: tfr.quest336.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Liquid rocket!!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=It takes a lot of push to send you up into the sky
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
+
+# Quest: tfru.q143n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
+
+# Quest: tfr.quest334.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Everything is ready
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
+
+# Quest: tfr.quest335.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Get the oxygen ready!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
+
+# Quest: tfr.quest336.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Liquid rocket!!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=It takes a lot of push to send you up into the sky
+
+# Quest: tfr.quest337.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
+
+# Quest: tfr.quest626.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=Brain of a rocket
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=The navigation computer is the key to controlling the flight of a rocket. It is needed in any rocket, whether manned or unmanned.
+
+# Quest: tfr.quest627.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=Reach Duck Egg C
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=You should also head to Duck Egg Where you can get a wide variety of minerals, even some heavy elements - like thorium, platinum, and some rare gems.
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
+
+# Quest: tfru.q142n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
+
+
 ## Quest Line: tfr.line23.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.name=[OC] Information Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=Basic introduction of open computer module, in process
@@ -3177,115 +3319,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACwQ.desc=
 # Quest: tfr.quest706.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=
-
-
-## Quest Line: tfr.line15.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] Mass-Data Conversion
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=A magical blue crystal - Certus - will allow you to unlock a potentially infinite automated factory by building a network called ME - based on Applied Energistics 2
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
-
-# Quest: tfr.quest343.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=Etching template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Meteorites no longer form: you can only make them by etching iron blocks.
-
-# Quest: tfr.quest521.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Lithography template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=You need a photolithographer and a pressure molding machine to make the raw material into a corresponding board and then press it into shape.
-
-# Quest: tfr.quest522.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
-
-# Quest: tfr.quest523.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
-
-# Quest: tfr.quest524.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=The more the more
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.desc=Is not enough! %n I need more storage!
-
-# Quest: tfr.quest525.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.name=The manager!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.desc=The base mineral of AE
-
-# Quest: tfr.quest526.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.name=Charge racers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.desc=It has only one purpose: to make Flux crystals
-
-# Quest: tfr.quest527.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.name=Flux crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Throw one charging Flux crystal and one red stone and one incoming quartz into the water and you will get two Flux crystals %n%n which can also be made with a blender. %n%n multiple preparation points are always harmless.
-
-# Quest: tfr.quest528.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=cable
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Connect %n has the transmission function of energy, goods and fluid at the same time
-
-# Quest: tfr.quest529.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=The communication of matter and information
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=A panel that communicates matter and information, %n, that can turn a virtual reality into a real reality, %n, %n is a bit of a waste of electricity
-
-# Quest: tfr.quest530.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Ae start
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Ae automatic control terminal
-
-# Quest: tfr.quest531.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=More convenient!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=The ability to take and synthesize at the same time
-
-# Quest: tfr.quest532.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.name=Ae automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=Simple,%n%n § §ra molecular assembly room, motherboard, CPU needs ae network to start automatically workbench, after I receive my ae's instruction, through me port input items and for automatic synthesis, again through the me port will be pumped in ae synthetic items, form the automatic synthesis%n%n § § ame port r, ae network and machine goods input and output ports, through the "memory" of a synthesis load model formula%n%n § § a items input/output bus r, is a fixed input or output items of port, after when connected to the machine or box, As long as the ae/network/box machine with items, will be automatically output input%n%n § a parallel processing units + synthetic § r, equivalent to the CPU, synthetic unit for CPU memory, parallel processing unit as the number of threads, it is important to note that they need to put on, but too much after put together will only count as a%n%n § § 9 a, in general, the model of terminal production synthetic model - inside me - terminal port selected production how many - processing unit receives instructions - synthesis unit provides memory - me port items - molecular assembly room make%n%n%n%n%n
-
-# Quest: tfr.quest533.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=Safety!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=Give your AE network a lock!
-
-# Quest: tfr.quest544.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=Upgrade upgrade upgrade upgrade!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=Expand the use of
-
-# Quest: tfr.quest545.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=Space transmission technology!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Retrieve items from a distance
-
-# Quest: tfr.quest546.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=P2p technology
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=Point to point transmission?
-
-# Quest: tfr.quest547.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=True space transmission technology
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n put the eight quantum rings in a ring and put a quantum link bin in the middle to form%n. The two structures can be transported %n across space
-
-# Quest: tfr.quest548.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=Large space transfer technology
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=%n transfers all the squares in a certain space together, not useful and more troublesome %n%n specific method McMod has detailed tutorial
-
-# Quest: tfr.quest549.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=King of wealth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=If you actually fill this up, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n
-
-# Quest: tfr.quest550.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=Liquid storage element
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Make ae network can store liquid%n%n%n note: gas and by the same token, the memory element can store gas%n § § § § 4 b 1 c § § § § § k n e r l n § § § § § m m m m § § § § §rl r l m is not my lazy don't want to write x
-
-# Quest: tfru.q138n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
-
-# Quest: tfru.q139n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
 
 
 ## Quest Line: tfr.line9.name
@@ -3672,39 +3705,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.desc=
 
 
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of a stonecutter? Don't be afraid! Argon nitrogen will help you
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
-
-
 ### Quests in multiple quest lines ###
 
 # Quest: tfr.quest5.name
@@ -3737,31 +3737,3 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Store 5000 items per piece
 
 
 ### Quests in no quest lines ###
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.desc=
-
-# Quest: tfru.q73n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=
-
-# Quest: tfr.quest564.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNA.name=Test30
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNA.desc=
-
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPw.desc=
-
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpw.desc=

@@ -37,7 +37,12 @@
       "desc:8": "tfr.quest107.desc"
     }
   },
-  "tasks:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  },
   "rewards:9": {
     "0:10": {
       "rewardID:8": "bq_standard:item",

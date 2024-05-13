@@ -40,7 +40,7 @@
       "targetNBT:10": {
         "Attributes:9": {
           "0:10": {
-            "Base:6": 1000.0,
+            "Base:6": 10.0,
             "Name:8": "generic.maxHealth"
           },
           "1:10": {
@@ -69,25 +69,25 @@
           "4:5": 0.085
         },
         "PersistenceRequired:1": 0,
-        "id:8": "ghastTFC",
-        "HealF:5": 1000.0,
+        "id:8": "Ghast",
+        "HealF:5": 10.0,
         "Motion:9": {
           "0:6": 0.0,
           "1:6": 0.0,
           "2:6": 0.0
         },
         "Leashed:1": 0,
-        "UUIDLeast:4": -4150685531775178897,
-        "Health:2": 1000,
+        "UUIDLeast:4": -5856747256270540303,
+        "Health:2": 10,
         "Air:2": 300,
         "OnGround:1": 0,
-        "Dimension:3": 0,
+        "Dimension:3": 11,
         "ExplosionPower:3": 1,
         "Rotation:9": {
-          "0:5": 6.1154056,
+          "0:5": 5.0406084,
           "1:5": 0.0
         },
-        "UUIDMost:4": 28431428485590,
+        "UUIDMost:4": 4098417169050979331,
         "Equipment:9": {
           "0:10": {},
           "1:10": {},
@@ -110,7 +110,7 @@
       "damageType:8": "",
       "required:3": 10,
       "taskID:8": "bq_standard:hunt",
-      "target:8": "ghastTFC",
+      "target:8": "Ghast",
       "subtypes:1": 1
     }
   },

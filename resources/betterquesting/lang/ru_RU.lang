@@ -798,10 +798,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=Аналогично тому, 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=Не хочешь мыть шахту, иди изучать химию
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=Вам нужно превратить хромированную железорудную породу в хромистый натрий, затем в дихромат натрия, затем окись хрома, чтобы сделать следующий шаг. % % - это хороший выбор для создания линии производства, которая сочетается с алюминием.
 
-# Quest: tfr.quest41.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=Термическая реакция алюминия
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=Алюминиевый порошок и окись хрома помещают в камеры сгорания, а затем поджигают их порохом из порохового камня, создавая термическую реакцию из алюминия, которая производит расплавленный металл хрома, и можно перерабатывать окись алюминия. Форма крепится в хромированном металле на выходе из жидкого раствора.
-
 # Quest: tfr.quest42.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=Жаромешалка (LV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=Обрабатывать химические реакции, которые требуют высокой активной энергии
@@ -1033,6 +1029,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 # Quest: tfru.q165n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
+
+# Quest: tfru.q190n
+betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=
+betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=
 
 
 ## Quest Line: tfr.line11.name
@@ -1536,718 +1536,6 @@ betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
 
 
-## Quest Line: tfr.line6.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=Тир 5.2 — космическая эпоха
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Пилотируемые космические аппараты, добыча астероидов, газовая разработка планет-на основе продвинутых ракет
-
-# Quest: tfr.quest189.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Мечта, принадлежащая звездам и морю
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=Метод старта в 1 % %n% %n% используется в начале космических полётов: % % в безлимитном месте, % % в непосредственной связи со структурой башни, а затем в непосредственной связи с нижней частью башни, которая должна быть такой же (связанной) шириной (связанной) с осями Y-вышки, как у платформы Y), % и насколько высокой должна быть ракета DIY
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
-
-# Quest: tfr.quest191.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=Искусственный спутник
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=% искусственный спутник используется для сбора различных данных и подготовки к горным ракетам.%n-n-n оптические сенсоры для сбора данных на расстоянии
-
-# Quest: tfr.quest192.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=Спутник.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=Эта машина принадлежит к мультипликационному блоку % % от ввода энергии в нижнюю часть, и для этого требуется, чтобы на левой стороне были установлены спутниковые и спутниковые чипы, а на правой стороне — спутниковые и спутниковые чипы
-
-# Quest: tfr.quest193.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=Сбор данных со спутника
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n нуждается в RF для того, чтобы использовать % % - ный верхний правый угловой спутниковый чип % - n для запуска данных Connect
-
-# Quest: tfr.quest194.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=Наблюдение за небесными телами
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=Мног бакс%n нуж полож на 100 пункт расстоян шин Дан % н % н работа ночн чтоб % н%n трат на 100 пункт расстоян сканирован Дан астероид%n на под астероид выбор список астероид чип%n избра ты хочеш посл астероид кликн на иконк чип бел кален ряд с для записыва%n%n доступн небесн тел Дан процессор чтоб интенсивн астероид чип
-
-# Quest: tfr.quest195.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Копаем шахту для сборки ракет
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=%n (%) для сборки горной ракеты %n% (% %) требуются буры, чтобы добывать % % % % % % (% %), а % % % — для хранения оригинальных коробок
-
-# Quest: tfr.quest196.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=Запуск ракеты!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=% % собрали горнодобывающую ракету % % % соединены с ракетным наблюдением
-
-# Quest: tfr.quest197.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Обработка данных
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Данные %, используемые для усиления чипа астероидов, % %, чтобы увеличить прибыль
-
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Ракеты с жидким топливом!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=Полный толчок, чтобы поднять тебя в небо
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
-
-# Quest: tfru.q143n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
-
-# Quest: tfr.quest334.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Все готово.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
-
-# Quest: tfr.quest335.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Приготовьте кислород!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
-
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Ракеты с жидким топливом!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=Полный толчок, чтобы поднять тебя в небо
-
-# Quest: tfr.quest337.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Прибыл на дак эгг б
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=Первая планета, к которой вы должны отправиться, это Duck Egg B
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
-
-# Quest: tfr.quest626.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=Мозг ракеты
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=Навигационный компьютер-ключ к управлению полетом ракеты, которая нужна любой ракете, будь то человек или беспилотник.
-
-# Quest: tfr.quest627.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=Прибытие на Duck Egg C
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=Вам также следует отправиться в Duck Egg C%, где вы сможете получить больше полезных ископаемых, даже некоторые тяжелые элементы, такие как торий, платина и редкие камни.
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
-
-# Quest: tfru.q142n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Универсальный магазин
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Покупайте, что хотите
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Ремонт дома
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Мой дом нуждается в ремонте в последнее время, и я был бы признателен, если бы вы предоставили мне материалы.
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Совершенствовать других
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ах, прекрасный металл, я хочу купить несколько золотых и серебряных ниток для моей невесты
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Слиток бронзы
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Кован желез
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=серебрян
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest424.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=ким
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=медн
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=вольфр
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=титанов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=алюмин
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Купи крабсбургер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Эксклюзивный рецепт от мистера краба.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=никел
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=хром
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=марганц
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Продажа стали
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=Мне нужно много стали в последнее время.
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name="C" а "b" покупает прочные электродрели
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=% % используют вольфрамовый стальной фюзеляж, который является единственным в мире.%n%nMV класса, но может быть заряжен LV-аккумулятором.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=Кфу большая курица
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC большая курица!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Суперкрабовый желтый замок
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Эксклюзивный рецепт от владельца краба.
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=Охранять деревню.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Наша деревня под прицелом! Помоги нам сделать шлемы, и я отплачу тебе тем же!
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Третий транспортный комитет пекина
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=Нам нужно проложить несколько железных дорог.
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Заказ художника
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=У меня не так много краски в последнее время, так что, пожалуйста, помоги мне сделать краситель для лайма
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=бриллиант
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=No Description
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=Этот обмен обновляется каждые 3 часа
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=Этот обмен обновляется каждые 3 часа
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Этот обмен обновляется каждые 3 часа
-
-
-## Quest Line: tfr.line10.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Сельское хозяйство, животноводство и рыболовство
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=О вашей помощи в выживании на планете как углеродного организма в %, основанной на группах холмических легенд, индустриальной эпохе 2 и греческих технологиях.
-
-# Quest: tfr.quest105.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Странный росток
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=После постройки плотника, вы можете преобразовать холмистые ростки дуба в оригинальные ростки дуба. Кора дерева может быть получена через бревно с правой клавишей греческого топора или через машину.
-
-# Quest: tfr.quest220.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Сельск хозяйств
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=Вы начали с 1000 капель крови, и вы предполагаете, что потолок снижается. Без надлежащего развития сельского хозяйства потолок упадет очень быстро. В мире много диких культур, так что собирайте семена! %n%n "l" o неоднократно подчеркивал важность этой главы. Если основная линия устанет, идите сюда и работайте.
-
-# Quest: tfr.quest225.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Пейте горячую воду.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=В мире группировки холмов, то, что ваши цистерны голода (зеленые) пусты, не означает, что они умрут быстро, но если бак для питья будет пуст (синий), вы будете продолжать падать до смерти от потери крови. В % случаев питьевая вода может быть подана с правой руки, и это единственный способ вернуться к питьевой раковине до того, как ты сделаешь керамику (см. следующую главу).
-
-# Quest: tfr.quest226.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Сбалансированное питание
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Открывая панель с правой стороны, вы видите коробку с четырьмя блоками, в которой указаны ваши таблицы с предметами, время, навыки и питательные вещества на уровне % и опыт, которые совместно определяют максимальное количество крови. 5 % питательных веществ, которые должны быть отведены различными видами пищи. Когда игрок рождается, каждый питательный элемент полностью заряжен. Поскольку голод игрока истощается, его питательные батончики постепенно истощаются. Для дополнительного питания игрок должен есть соответствующую категорию пищи. Когда игрок наедается, он получает дополнительные питательные вещества, которые, согласно текущему уровню питания игрока, получают больше питательных веществ, когда игрок недоедает. Первые четыре категории составляют 25% от максимальной жизни игрока, в то время как молочные продукты добавляют 25% к самым высоким показателям жизни. Например, наибольшая жизнь, которую игрок может получить без ранга, составляет 800HP(все питательные вещества первого класса заполнены). Если Один из питательных веществ пуст, а остальные три полны, то максимальное значение здоровья игрока составляет 600HP. Если игрок полностью питается пятью питательными веществами, его максимальная жизнь составляет 1000HP.
-
-# Quest: tfr.quest227.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=фрукт
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Есть два способа получения фруктов: ягодный кустарник и фруктовое дерево, и то и другое можно найти в дикой природе. % ягодных кустарников можно собирать непосредственно вручную и не размножаться. Когда кустарник в сезон дождей и в благоприятных температурах, он может производить новый фрукт каждый месяц. Каждая ягода имеет разную продолжительность жизни, и когда она заканчивается, плоды будут удалены из кустарника. Чтобы собрать плоды, достаточно ударить по кустарнику справа, и они упадут. Вес урожая варьируется от 3 до 8 унций. Вероятность того, что фруктовые деревья разрушают свои ветви топором, составляет вероятность того, что они могут получить ростки, сохраняется при сохранении основного ствола, которое может размножаться и производить больше. %n% % фруктовых саженцев не растут сразу. Напрот, фруктов дерев выгляд медлен, отрезк отраст ветк и лист. Это значит, что они вырастут в конце концов после того, как срубят ветки, чтобы собрать урожай. Но эт означа, что саженц займет долг преврат в как Дик природ больш дерев. Ствол через 30 дне долг до верховн, кажд 20 дне раст ветк, кажд 2 дня рост лист. Во время сбора урожая на каждом листке фруктовое дерево образует по одному фрукту. Фруктов сбор урож сбок, мультитач ил Лев кнопк лист, фрукт отвал. Получ по фрукт составля 40 до 16 унц кажд. % % фруктовых деревьев дают плоды только при текущей температуре от 0 до 38 %. В большинстве случаев соответствует сезонной температуре (от весны до поздней осени) в этом диапазоне, за исключением пустыни, джунглей вблизи экватора и глубокого тундра. % р % н
-
-# Quest: tfr.quest228.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=аминокислота
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=Белков можно получить в основном двумя способами: 1 зарезать животных 2 % выращивать сою в горном мире, где дикие животные рождаются только Один раз в мире, так что убийство не является устойчивым способом развития! Поэтому я рекомендую клетки для животных, чтобы вернуть их домой, и, конечно, можно держать их на поводке или в пшенице. У % животных есть Пол, и они должны быть знакомы с вами, прежде чем спариваться друг с другом, и, конечно, вы должны их кормить. Как правило, у коров меньше потомства, но у свиней одно потомство-одно гнездо.
-
-# Quest: tfr.quest229.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=овощ
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Кроме того, его можно получить только через урожай. Индивидуумы сильно давят картошку и капусту, производят много и условия роста не суровые.
-
-# Quest: tfr.quest230.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Вспомните, сколько хлеба оз вы съели за свою жизнь-дио
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=Один из пяти питательных источников, единственный способ получить его-посадить зерно. Зерновые, собранные непосредственно из нн, должны быть обработаны, чтобы их можно было есть. Жарить на огне или резать на зернышки перочинным ножом. (урожай кукурузы-это зернышки, хрущев в возбуждённом состоянии)% % если вы хотите, чтобы зернышки были съеденными дольше или если вы хотите сделать сэндвич, вы должны сделать хлеб из зерна. В каменной мельнице % зерновых мельницы могут быть перемолоты в порошок, порошка и древесная бочка могут быть синтезированы в тесто, а тесто можно получить за выпечку на огне. Если вы выращиваете пять зерновых культур, вы получаете элитные продукты питания: хлеб-булочка-булочка-булочка-булочка-булочка
-
-# Quest: tfr.quest231.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Молочные продукты.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Молочные продукты могут быть получены двумя способами: молоко и сыр (сыр производится из молока, таким образом, по существу, молоко). 9 бочек молока +1 ведерко уксуса, запечатанных в бочках, дают сыр.
-
-# Quest: tfr.quest233.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Клетка для животных
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=С помощью этой штуки можно погрузить животных в загадочное пространство и не задохнуться.
-
-# Quest: tfr.quest273.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=Пахотн земл
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Поле, также известное как почва, содержит три основных питательных вещества культур, которые, если поблизости достаточно блоков воды, могут получить важные источники воды. Используя металлические мотыги для воды и питательные модели, можно увидеть уровень питательных веществ на культурах и доступ к источникам воды. Культивирование культур в почве сокращает питательные вещества, а для того, чтобы их можно было культивировать и использовать удобрения или периодические культуры, которые нуждаются в различных типах питательных веществ. Примечание: некоторые культуры, такие как соя и зелёные бобы, нуждаются в дополнительных питательных веществах, когда растут. В отличие от оригинала, земля не может вернуться в землю. Разрушение сельскохозяйственных блоков также не создает почвы для предотвращения повторного использования питательных веществ.
-
-# Quest: tfr.quest274.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=Животноводство: 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=Курица, корова, лошадь, свинья, овца-это скот. Естественное образование животных в мире основано на климате региона. %n% домашних животных последуют за любой рацион зерновых и початков кукурузы, подобно оригинальным животным, которые последуют за пшеницей, морковью и семенами. Канат также является на % % таким же образом, как и при оттягивающем животноводстве в оригинале, когда медведи, олени и фазаны являются дикими животными, которые не могут размножаться. Дикие животные будут освещаться в мире, за исключением названных животных или, по крайней мере, прикованных к ним в последний раз, чтобы они не исчезли. % % от близости: % % от всех животных имеют близость, и увеличение требует какого-либо взаимодействия, например, доения, стрижки шерсти, верховой езды, разведения животных и их названий. Специфические значения этих эффектов варьируются от видов, и некоторые виды нуждаются в большем взаимодействии. Близость может быть увеличена, выполняя определенные движения каждые 24 часа игры. Чтобы содержать животных, игрок должен незаметно кормить их, чтобы животные не пугались. Если близость не достигнет 30% и животные не будут взаимодействовать с людьми в течение 24 часов, то уровень близости снизится. Возможности одомашнения взрослых животных ограничены, и только мелкие животные могут быть полностью одомашнены, а близость растет быстрее. Детёныши сохраняют 50% материнской близости при рождении, если только они не близки к максимальной близости, в этом случае они сохраняют 90% близости. %n - % % скрытности животных показывает индикатор близости. С увеличением интимной близости, индикатор будет наполнен красным, и когда он достигнет 100%, он станет золотым. Белая рамка означает, что животное достигло по крайней мере 30%, и близость больше не уменьшится. %n% Пола: % % % животных (за исключением кальмаров) имеют различные половые группы (мужчины или женщины), которые произвольно определяются при рождении животных. У всех животных, кроме медведей, лошадей и волков, есть визуальные подсказки для определения Пола, такие как рога, зубы, грудь и различные цвета перьев. Для создания, у которого нет визуального сигнала, игрок может нажать на животное правым клавишем, и окно чата показывает Пол.
-
-# Quest: tfr.quest275.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=Животноводство: размножение
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=Все воспроизводимые животные, кроме цыплят, питаются двумя животными разных полов и кормят их до тех пор, пока не начнут появляться частицы в форме сердца. Эти животные потребляют 5 унций зерна во время каждого кормления, и если у обоих животных есть сердце, они будут рядом за секунды до того, как исчезнут частицы. Успешное размножение может быть подтверждено с помощью клика на правую кнопку самки, что создаст сообщение в чате "беременна". % р % н % р % н куриц % р % н % р % н использу гнезд ящик отпочковыва. Каждый день курица откладывает одно яйцо в гнездовье, и если в 5 - й части гнезда находится петух, то яйцо оплодотворяется. Оплодотворенное яйцо с намеком на "оплодотворение". После 3/4 месяцев, проведённых в гнезде, % оплодотворённых яиц вылупляются в птенцов. Обратите внимание: этот расчет основан на месяцах, а не на днях. Таким образом, месячный период инкубации в мире будет длиннее, поскольку каждый месяц будет больше дней. Самки беременеют в %n% и в % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %. Как только самка забеременеет, роды должны проходить через период беременности. Обратите внимание: этот расчет основан на месяцах, а не на днях. Таким образом, увеличение числа месяцев может привести к более продолжительной беременности. Когда время беременности заканчивается, женщина рожает. Время беременности, время взросления, количество потомков зависит от типа животных.%n
-
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=В дикой природе культуры производятся случайным образом, и каждый тип культуры содержится в блоках 8x8. Это означает, что игрок должен исследовать равные расстояния, чтобы собрать каждый урожай. Дикие культуры растут только между весной и концом Лета и каждый год имеют возможность регенерировать.%n%n%n%n сем: урожа будет по крайн мер сбор урож след семен, при одновремен увеличен игрок навык JiaSe. Чем выше уровень пахотных навыков игрока, тем больше вероятность того, что у него появится второе семечко, тем больше он будет способствовать расширению фермы. Тип культуры: культивирование культур имитирует реальную жизнь и как долго они растут, прежде чем смогут собрать урожай. Но имейте в виду, что эти значения были сокращены до длины года TFC, что по умолчанию составляет 96 дней.%n%n%n%n использова: сбор урож большинств продукц бы прям игрок съел, эт дела он возобновля источник источник пищ. Для разведения животных могут использоваться следующие зерновые продукты: большие пшеничные зерна, большие рисовые зерна, черные зерна, маленькие пшеничные зерна и овсянки
-
-# Quest: tfr.quest305.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=Я сейчас сломаюсь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=Открывая границы блока по ф3, 4 показывает: убедитесь, что ваш ледяной погреб находится внутри блока, иначе он не сработает. %n% - е % - е погреба предотвращают распад пищи, которую вы так усердно собирали. %n%n использует блоки льда, чтобы создать вакуальную кубовидную структуру с внешней высотой 4 м и внутренней высотой 2 метра. Дверь в подвал должна иметь два слоя, а место, где она расположена, должно выделять одну клетку самой стены, а также окружать ее кубиками льда. Один из блоков в нижней части винного погреба должен быть заложен в ядро для льда, а внутри должен быть кубик льда из TFC, откопанный ледяной пилой, чтобы заставить его работать. Температура в правом верхнем углу GUI, открывающем ядро ледяного погреба в начале работы %n%n, видна. % % всей еды можно положить только в холодильник. В ледяном погребе не должно быть ни одного квадрата, кроме холодильника. Не должно быть никакого блочного контакта вокруг стен в подвале и только снизу к земле. * %n% — это вид на землю: %n%nX: % на стену nD: %nX, %nXX,%nXXXXDXX и % на XDX
-
-# Quest: tfr.quest306.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=барбек
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Некоторые продукты можно есть только после того, как их запекут: это включает в себя все мясо. И некоторые из них получают больше рецептов приготовления после выпечки, например, запечение теста в хлеб. Вы можете положить еду в печь для костра или поставить этот гриль над кузницей. Гриль может поджарить 8 предметов одновременно. Гриль "шифт" с правой клавишей можно переворачивать.
-
-# Quest: tfr.quest308.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=Новые семена.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=Некоторые семена не могут быть найдены на поверхности группы холмов, но их можно получить, просеивая землю. Эти семена важны для вашего будущего развития.
-
-# Quest: tfr.quest309.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=агромагнат
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Теперь у тебя никогда не будет недостатка еды. Осторожно, чрезмерное вспахивание может привести к потере питательных веществ на вашей ферме. Когда ваш уровень земледелия постепенно повышается, мотыга с помощью мотыги видит питательные вещества на полях. В качестве благодарности за вашу работу, я пришлю вам двух земных свиней, которые смогут обеспечить вас левоспинальным белком, уникальным продуктом, которого нет у горных звёзд.
-
-# Quest: tfr.quest310.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Трудолюбивый фермер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=Следующие задачи сложны для вас в предсрочном порядке: вы должны собрать более 20 видов пищи и собрать их. Но последнее предложение было очень щедрым.%n
-
-# Quest: tfr.quest311.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Стеллажи.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=Стеллажи могут увеличить скорость роста оригинальных культур. И не только в этом случае, размещение двух пересекающихся полос культур между двумя культурами и вероятность того, что гибрид двух культур создаст новые культуры. Новые культуры могут унаследовать атрибуты своих предков и могут также произвести изменения. %n%n и даже больше, это будет новый урожай. Обратите внимание: если на культовом поле нет посевов, он быстро покрыт сорняками, которые распространяются и могут уничтожить ваши поля! Чтобы решить эту проблему, вы можете сделать только одну стрижку.%n
-
-# Quest: tfr.quest312.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=тростник
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Тростник не может быть съеден, но его волокна идеально подходят для изготовления бумаги, и нет ничего плохого в Том, чтобы выращивать больше.
-
-# Quest: tfr.quest313.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Сахарн тростник
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Здесь сахарный тростник можно получить только через тростник, но он все еще может размножаться. Заметьте, сахарному тростнику нужна оригинальная земля для посадки.
-
-# Quest: tfr.quest314.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=Оригинальная земля.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=Вы можете синтезировать любую группу холмистых легенд о беспорядке почвы в оригинальную. Грунта, которая является культурой, может культивировать только культуры, которые являются культурами холмистых легенд, в то время как оригинальная земля может выращивать только оригинальные культуры. Были некоторые проблемы, но у оригинальной культуры было много применений.%n
-
-# Quest: tfr.quest315.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Дело не только в тепле
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Шерсть приобретается путем стрижки шерсти, и овца высокой интимной близости может быть подстрижена ножницами или ножами. Использование ножниц даст вам больше шерсти на % % %n% % %, а другой способ, при помощи перочинного ножа, отскрести овечью кожу в синтезированной панеле, и в зависимости от размера козы, можно произвести различное количество шерсти. Вам нужен спиннер, чтобы синтезировать его в шерстяную нить и сделать из неё пряжу в ткацком станке. % % % шерсти является важным материалом для будущего производства скафандров.
-
-# Quest: tfr.quest317.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Жолен, это не травка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=Из него можно сделать ткань или верёвку, это практический промышленный материал.
-
-# Quest: tfr.quest318.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=Что, сахарный тростник из резины?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=Один из самых легко скрещиваемых культур должен быть из смолы сахарного тростника. Крупномасштабное выращивание этого урожая полностью избавит вас от необходимости собирать молоко из трилистника.%n
-
-# Quest: tfr.quest319.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=Мешок семян.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=Как только созреет урожай, выращенный на культовом поле, у вас есть два варианта: % н1. Если вы посадите сахарный тростник и заберёте их семена, я вознагражу вас
-
-# Quest: tfr.quest326.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Ладно, помидор
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=Помидор кажется безвредным овощем для человека и скота (или фруктом?) Но в нём полно витаминов. Его можно получить только через гибрид.%n
-
-# Quest: tfr.quest327.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=Первый шаг к ботанике
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=Продукт гибрида становится все больше и больше процентов, % %, %, %, %, %, %, и вы видите эти семена с пустыми глазами, ничего не различающие, и в этот момент вы будете опираться на силу технологий. Этот портативный сканер может быть использован после зарядки аккумуляторной коробки, чтобы узнать название и свойства посева, и вы просто должны держать его в руке на полке с его правой связкой. В то же время, отсканированные зерновые семена с названиями культур! При помощи анализатора урожая в % % % можно открыть интерфейс для тестирования гибридов в % %
-
-# Quest: tfr.quest328.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Машина для регулирования культур
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=Машине нужно лишь немного электричества, воды, удобрений и гербицидов, чтобы ускорить рост и избавиться от сорняков.
-
-# Quest: tfr.quest329.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Безмолвный весна
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=Чтобы навсегда решить проблему с заросшими сорняками, вам придется применить химическое оружие. До тех пор, пока в сельхозстанторах не будут установлены бинарные гербициды %n%n %.
-
-# Quest: tfr.quest330.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Азот, фосфор, калий
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=Есть много способов изготовления удобрений, которые могут ускорить рост культур на культовом поле. Удобрения можно использовать только в регулирующих машинах.
-
-# Quest: tfr.quest331.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.name=комбайн
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.desc=Цена машины, хоть и не дешевая, но как только у вас будет обширное поле готовых культур, которые уже гибридированы, и в сочетании с регуляторами урожая, они смогут обеспечить непрерывный поток продукции для ваших заводов.
-
-# Quest: tfr.quest332.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=рыболовств
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=Для рыбалки нужно сделать удочку, а удочке нужна леска. Поймать любую рыбу любого размера и отправить на задание!
-
-# Quest: tfr.quest333.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=лин
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Важные ресурсы, которые можно сделать из желтого волокна или шерстяной пряжи
-
-# Quest: tfr.quest339.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Изумрудный куст
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=Производить изумруды
-
-# Quest: tfr.quest340.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Ягоды сырой нефти
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=Производить сырую нефть
-
-# Quest: tfr.quest341.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=Серебряные листья.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=Производить серебряные листья
-
-# Quest: tfr.quest342.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.name=Сито.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Производство оловянных веточек
-
-# Quest: tfr.quest344.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Свинец.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=
-
-# Quest: tfr.quest345.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.name=Бриллиантовая трава.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Производство алмазного порошка
-
-# Quest: tfr.quest346.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.name=Золотые листья.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=Золото.
-
-# Quest: tfr.quest347.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Шахтеры должны.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=Если у вас есть много шерстяной пряжи или желтых волокон, эта веревка намного дешевле лестницы. Вы можете взбираться по ней, когда будете спускаться вниз, без необходимости копать ступенчатые шахты, которые могут рухнуть.
-
-# Quest: tfr.quest350.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Медн хлопк
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=Производство сырой медной проволоки
-
-# Quest: tfr.quest352.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.name=Мирные.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Не хочешь выйти и пострелять? Или не хочешь выращивать скот, чтобы получить кожу? Или ты не хочешь строить кисточную башню? Гибрид поможет тебе!
-
-# Quest: tfr.quest353.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=Трава мертвых.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=Производить кэррион
-
-# Quest: tfr.quest354.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=Паучья трава.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=Производить продукт паука
-
-# Quest: tfr.quest355.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Огненная тростница
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=Производство огненного порошка
-
-# Quest: tfr.quest356.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Оно того стоило?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=Гибрид-это долгая миссия. В целом, если скрещиваться в предфазовом периоде игры, то в более поздних периодах вам будет легче справиться с дефицитом ресурсов. Это все еще твой выбор. Я договорился о вознаграждении за множество миссий, которые вдохновили тебя на гибрид.
-
-# Quest: tfr.quest357.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.name=Увядающий цветок
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=Производство увядших продуктов
-
-# Quest: tfr.quest358.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.name=Слизистая трава.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=Чтобы сделать слизистый шар
-
-# Quest: tfr.quest359.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=Взрывающаяся трава.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=Производить порох
-
-# Quest: tfr.quest360.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Увеличь скорость
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=Производство "жемчужины теней"
-
-# Quest: tfr.quest361.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.name=Кожаные цветы.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=Производство кожи
-
-# Quest: tfr.quest362.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.name=Цветок слез.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=Производя слезы злых духов
-
-# Quest: tfr.quest363.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Минеральная ферма
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=Не хочешь пойти на шахту? Не хочешь искать нефть? Гибрид поможет тебе!
-
-
-## Quest Line: tfr.line18.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=Покорить новый мир
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=Докажи свою силу.
-
-# Quest: tfr.quest97.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=Враждебные существа.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=Существа этого мира сильно отличаются от оригинала, и я, как твой наставник, поведу тебя на серию испытаний.
-
-# Quest: tfr.quest462.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.name=Охотник на ходячих.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.desc=Убей зомби, и я дам тебе хороший меч
-
-# Quest: tfr.quest463.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=Охотник на черепов.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=Дополнительные повреждения черепа могут быть нанесены молотком. Разбей несколько черепов, и я дам тебе молоток
-
-# Quest: tfr.quest464.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.name=Охотник на пауков.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.desc=Количество крови паука очень густое и требует осторожности. Убей пауков, и я дам тебе хорошую катапульту
-
-# Quest: tfr.quest465.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.name=Охотник на медведей.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=Убить несколько медведей
-
-# Quest: tfr.quest466.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.name=Охотник на горящих людей
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.desc=[в настоящее время не производится в мире]
-
-# Quest: tfr.quest467.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.name=Пещерный охотник на пауков.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=Некоторые пещерные пауки в % (в настоящее время не созданы в мире, не созданы).
-
-# Quest: tfr.quest468.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.name=Охотник на рептилий.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=Убить несколько рептилий
-
-# Quest: tfr.quest469.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.name=охотник
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=Убить несколько моржей
-
-# Quest: tfr.quest470.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.name=Охотник за привидениями.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.desc=- да.
-
-# Quest: tfr.quest471.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=Охотник на зомби-свиней
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Уничтожь зомби-свиномаха, и я дам тебе 10% хорошего меча деревни.
-
-# Quest: tfr.quest472.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=Охотник на белых медведей.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=Убил несколько белых медведей
-
-# Quest: tfr.quest473.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=Охотник на жуков.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=Убить какого-нибудь тупого жука на %.
-
-# Quest: tfr.quest474.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=Охотник на слима
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.desc=Некоторые slem % (в настоящее время не производится в мире, не производится)
-
-# Quest: tfr.quest475.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.name=смерть
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.desc=То же самое, что и в оригинале, но для того, чтобы добраться до уходящего черепа, нужен хотя бы Один процессор молнии.
-
-# Quest: tfr.quest476.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.name=Охотник на зомби т2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.desc=Убей зомби, и я дам тебе хороший меч
-
-# Quest: tfr.quest477.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.name=Охотник на черепов т2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.desc=Разбей несколько черепов, и я дам тебе молоток
-
-# Quest: tfr.quest478.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.name=Охотник на пауков T2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc=Убей пауков, и я дам тебе хорошую катапульту
-
-# Quest: tfr.quest479.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.name=Охотник на рептилий т2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.desc=Убить несколько рептилий
-
-# Quest: tfr.quest480.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.name=Последний охотник т2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=Убить несколько моржей
-
-# Quest: tfr.quest481.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=Охотник на медведей т2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=Убить несколько медведей
-
-# Quest: tfr.quest482.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=Охотник на белых медведей т2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=Убил несколько белых медведей
-
-# Quest: tfr.quest483.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=Смерть ти2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.desc=
-
-# Quest: tfr.quest484.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=Сильнее медведя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=
-
-# Quest: tfr.quest485.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.name=Охотник на монстров.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.desc=
-
-# Quest: tfr.quest486.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.name=Все лучше и лучше
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.desc=
-
-# Quest: tfr.quest487.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.name=Настоящий восставший
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.desc=
-
-# Quest: tfr.quest488.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.name=Смерть на отметке т3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.desc=
-
-# Quest: tfr.quest489.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.name=Ударим по увядшей т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.desc=
-
-# Quest: tfr.quest490.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.name=Смерть на отметке т5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.desc=
-
-# Quest: tfr.quest491.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.name=Охотник на зомби т3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.desc=Убей зомби, и я дам тебе хороший меч
-
-# Quest: tfr.quest492.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.name=Охотник на черепов 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.desc=Разбей несколько черепов, и я дам тебе молоток
-
-# Quest: tfr.quest493.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.name=Охотник на пауков T3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc=Убей пауков, и я дам тебе хорошую катапульту
-
-# Quest: tfr.quest494.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.name=Охотник на рептилий т3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.desc=Убить несколько рептилий
-
-# Quest: tfr.quest495.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.name=Последний охотник на т3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.desc=Убить несколько моржей
-
-# Quest: tfr.quest496.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.name=Охотник на медведей т3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=Убить несколько медведей
-
-# Quest: tfr.quest497.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=Охотник на белых медведей т3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=Убил несколько белых медведей
-
-# Quest: tfr.quest498.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.name=Охотник на зомби т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.desc=Убей зомби, и я дам тебе хороший меч
-
-# Quest: tfr.quest499.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.name=Охотник за черепами т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.desc=Разбей несколько черепов, и я дам тебе молоток
-
-# Quest: tfr.quest500.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.name=Охотник на пауков т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.desc=Убей пауков, и я дам тебе хорошую катапульту
-
-# Quest: tfr.quest501.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.name=Охотник на рептилий т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.desc=Убить несколько рептилий
-
-# Quest: tfr.quest502.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.name=Последний охотник на т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.desc=Убить несколько моржей
-
-# Quest: tfr.quest503.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.name=Охотник на медведей т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.desc=Убить несколько медведей
-
-# Quest: tfr.quest504.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=Охотник на белых медведей т4
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=Убил несколько белых медведей
-
-# Quest: tfr.quest505.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.name=Охотник на зомби т5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.desc=Убей зомби, и я дам тебе хороший меч
-
-# Quest: tfr.quest506.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.name=Охотник на черепов T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.desc=Разбей несколько черепов, и я дам тебе молоток
-
-# Quest: tfr.quest507.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.name=Охотник на пауков T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.desc=Убей пауков, и я дам тебе хорошую катапульту
-
-# Quest: tfr.quest508.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.name=Охотник на рептилий T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=Убить несколько рептилий
-
-# Quest: tfr.quest509.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.name=Последний охотник на т5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.desc=Убить несколько моржей
-
-# Quest: tfr.quest510.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.name=Охотник на медведей т5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Убить несколько медведей
-
-# Quest: tfr.quest511.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Охотник на белых медведей т5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=Убил несколько белых медведей
-
-# Quest: tfr.quest512.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Белль-грир
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.desc=
-
-# Quest: tfr.quest513.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.name=Белль-грир боится
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.desc=
-
-# Quest: tfr.quest514.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.name=Человек на вершине пищевой цепочки
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.desc=
-
-# Quest: tfr.quest515.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.name=С одним врагом на сотню
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.desc=
-
-# Quest: tfr.quest516.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.name=тысячу
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.desc=
-
-# Quest: tfr.quest517.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.name=неподвижно
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.desc=
-
-# Quest: tfr.quest518.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.name=Достижение: мясорубка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=
-
-# Quest: tfr.quest519.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=Повелитель хаоса.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(в настоящее время не производится в мире, не производится)
-
-
 ## Quest Line: tfr.line14.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Хранение и логистика
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=О трубах, хранении и системах передачи.
@@ -2594,15 +1882,266 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
 
+## Quest Line: tfr.line15.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] технология превращения информации в массу
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=Волшебный голубой кристалл-ситус-позволит вам открыть автоматизированный завод с неограниченным потенциалом, построенный на основе 2% прикладной энергии, при помощи сети под названием ME
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
+
+# Quest: tfr.quest343.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=трафарет
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Метеориты больше не производят: их можно сделать только с помощью гравюры.
+
+# Quest: tfr.quest521.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Фотогравированный шаблон
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=Нужна фотогравировка и комп для создания соответствующих досок сырья, а затем для подавления формы.
+
+# Quest: tfr.quest522.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=Центральный терминал
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Эквивалент %, %, %, %, % от общего числа каналов в главном мозге, означает, что он может поставлять 32 порта/машины в общей сложности: Обычн кабел ограничива верховн выходн восем кана, тож имен то, что вам нужн отвеча на четыр в кабел чтоб использова полност%n%n нескольк ME контроллер вмест, он будут цел, § а обм общ количеств поток % н но с морфологическ ограничен, например тольк на § 4 "0 §1§ 2" 3 "5". 6 § 7 § 8 "9". A линейн, прямоугольн § р ил § а кубовидн кост ". Р % н сам больш в в кажд направлен даж 7 одновремен, тож сам значительн 7 * 7 * куб%n%n примечан: Его собственный «энергетический приёмник» (%) преобразования энергии по компактному кабелю может иметь 32 канала, % «n» 9, который также может быть доступен для соседних блоков без кабельного кабеля
+
+# Quest: tfr.quest523.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Центр памяти
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Диск + элементы памяти  equal  2 %, составляющие только одну клетку, является достаточно большим ящиком, чтобы сказать, что этот обычный элемент памяти может хранить только предметы, а для хранения жидкости или газа требуется особый элемент хранения
+
+# Quest: tfr.quest524.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=модо
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.desc=Этого недостаточно! Мне нужно больше места для хранения!
+
+# Quest: tfr.quest525.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.name=Сайтус!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.desc=Основные минералы в AE
+
+# Quest: tfr.quest526.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.name=Сайтус!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.desc=Он используется только для одного: изготовления кристаллов флакса
+
+# Quest: tfr.quest527.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.name=Кристаллы флакса
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Насыщенный кристалл сета и красный камень в воду вместе со следующим кварцем, вы получите 2 % кристалла флакса, которые также могут быть сделаны из блендера. %n% и n% многоточие всегда безвредны.
+
+# Quest: tfr.quest528.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=кабел
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Функции передачи энергии, предметов, жидкости могут быть совместимы с функцией % взаимодействия
+
+# Quest: tfr.quest529.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=Связь материи с информацией
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=Часть панелей, связывающей материю с информацией, на уровне % может быть виртуальной, а на самом деле виртуальной, а на уровне % виртуальной, просто немного напрягает электричество
+
+# Quest: tfr.quest530.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Старт ae
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Автоматизированный терминал управления
+
+# Quest: tfr.quest531.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=Так удобнее!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=Можно взять предмет и синтезировать одновременно
+
+# Quest: tfr.quest532.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.name=Автоматизация ae
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=Прост,%n % н "а молекулярн сборочн комнат". Р, процессор материнск плат, нужн э сет завод автоматическ стол, посл тог, как получ инструкц от э, посредств me порт ввест предмет и автоматическ синтетическ, больш me порт синтетическ вещ кур в э сет, формир автоматизирова синтетическ%n%n § ам порт § r, э сет с машин для вещ ввод и вывод порт, посредств в шаблон "памя" синтетическ формул%n%n § а вещ ввод/вывод шин ". Р, - фиксирова ввод вещ ил вывод вещ порт, когд даж когд машин ил чемода, Пок в э сет/чемода/машин вещ, введ будет происход автоматическ в%n % н "а параллельн блок обработк + синтетическ подразделен § r, эквивалент процессор, синтетическ блок процессор памят, параллельн блок обработк ткан, важн отмет, что им нужн с, но слишк мног посл полож тольк счита%n % н" а ". 9 в цел, в шаблон термина синтетическ шаблон-в me порт-в течен термина выбор инструкц скольк-блок обработк получ-синтетическ подразделен котор предоставля-ми порт модул памят передач вещ-молекулярн сборочн комнат % н%n%n % н % н
+
+# Quest: tfr.quest533.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=Чисто!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=Заблокировать вашу сеть!
+
+# Quest: tfr.quest544.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=Апгрейд, апгрейд!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=Расширять применение
+
+# Quest: tfr.quest545.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=Технология пространственной передачи!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Бери вещи на расстоянии
+
+# Quest: tfr.quest546.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=Технология p2p
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=Передача от точки к точке?
+
+# Quest: tfr.quest547.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=Технология передачи настоящего пространства
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n располагает 8 квантовых колец в кольцевой форме, в середине — квантовый отсек связи, который может быть преобразован в % %, а две структуры могут быть переданы в межпространственное пространство в %
+
+# Quest: tfr.quest548.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=Технология больших пространственных телепортаций
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=% передаёт вместе все блоки в определенном пространстве и содержит подробные инструкции в mcmod, которые являются менее полезными и менее трудными
+
+# Quest: tfr.quest549.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=Сокровище короля
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=Если бы они были заполнены, то были бы заполнены картами %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %
+
+# Quest: tfr.quest550.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=Элементы хранения жидкости
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Для того, чтобы сеть скорой помощи могла хранить жидкости в %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, % и газ, который можно хранить в газовых ячейках, % — в, в, в, в, с, в, с, м, м, м, р
+
+# Quest: tfru.q138n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
+
+# Quest: tfru.q139n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
+
+
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=Евангелие от неэмиратов
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=Бриллианты не могут быть найдены.
+
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Алмаз 1.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=Гравий не может найти алмаз? Не бойся! Аргон тебе поможет
+
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Поменяйся со мной бриллиантами
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=Если вы найдете рудники кимберли, а раскопки принесут в основном разбитые алмазы, вы сможете обменять некоторые из них на более качественные в этой главе. Или можешь поменяться со мной.
+
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Алмаз 2.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Без бриллиантов? Ничего, утиные яйца помогут
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Алмаз 3.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=Без бриллиантов? Ничего, утиные яйца помогут
+
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Карбонат кальция
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Не смог найти электросварочный камень? Не бойся, лунное убийство тебе поможет
+
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Купить магму
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Сера будет продолжать накапливаться в блоках вокруг магмы, и если вы не сможете найти бассейн магмы, приходите обменять его.
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Поменять каолин и графит
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Каолин и графит являются важными минералами, но поскольку нет инструкций, найти их будет труднее. Мы можем обменять их здесь, если их не найдут в ближайшее время.
+
+
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Универсальный магазин
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Покупайте, что хотите
+
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Ремонт дома
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Мой дом нуждается в ремонте в последнее время, и я был бы признателен, если бы вы предоставили мне материалы.
+
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Совершенствовать других
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ах, прекрасный металл, я хочу купить несколько золотых и серебряных ниток для моей невесты
+
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Слиток бронзы
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Кован желез
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=серебрян
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+
+# Quest: tfr.quest424.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=ким
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=
+
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=медн
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=вольфр
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=титанов
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=алюмин
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Купи крабсбургер
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Эксклюзивный рецепт от мистера краба.
+
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=никел
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=хром
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=марганц
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Продажа стали
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=Мне нужно много стали в последнее время.
+
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name="C" а "b" покупает прочные электродрели
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=% % используют вольфрамовый стальной фюзеляж, который является единственным в мире.%n%nMV класса, но может быть заряжен LV-аккумулятором.
+
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=Кфу большая курица
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC большая курица!%n200oz
+
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Суперкрабовый желтый замок
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Эксклюзивный рецепт от владельца краба.
+
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=Охранять деревню.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Наша деревня под прицелом! Помоги нам сделать шлемы, и я отплачу тебе тем же!
+
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Третий транспортный комитет пекина
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=Нам нужно проложить несколько железных дорог.
+
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Заказ художника
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=У меня не так много краски в последнее время, так что, пожалуйста, помоги мне сделать краситель для лайма
+
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=бриллиант
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=No Description
+
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Этот обмен обновляется каждые 3 часа
+
+
 ## Quest Line: tfru.l1n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q194n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q199n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 
@@ -2610,23 +2149,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q201n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=
 
@@ -2634,7 +2173,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q198n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 
@@ -2642,209 +2181,289 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q193n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q192n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q202n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
 
 
-## Quest Line: tfr.line0.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=Обычный день для пчеловодов
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=О размножении и скрещивании пчел, основанных на греческих технологиях, лесоводстве, генной инженерии.
+## Quest Line: tfr.line18.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.name=Покорить новый мир
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=Докажи свою силу.
 
-# Quest: tfru.q47n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=
+# Quest: tfr.quest97.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=Враждебные существа.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=Существа этого мира сильно отличаются от оригинала, и я, как твой наставник, поведу тебя на серию испытаний.
 
-# Quest: tfru.q49n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=
+# Quest: tfr.quest462.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.name=Охотник на ходячих.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.desc=Убей зомби, и я дам тебе хороший меч
 
-# Quest: tfru.q53n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.desc=
+# Quest: tfr.quest463.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=Охотник на черепов.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=Дополнительные повреждения черепа могут быть нанесены молотком. Разбей несколько черепов, и я дам тебе молоток
 
-# Quest: tfru.q56n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.desc=
+# Quest: tfr.quest464.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.name=Охотник на пауков.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.desc=Количество крови паука очень густое и требует осторожности. Убей пауков, и я дам тебе хорошую катапульту
 
-# Quest: tfru.q50n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=
+# Quest: tfr.quest465.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.name=Охотник на медведей.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0Q.desc=Убить несколько медведей
 
-# Quest: tfru.q52n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.desc=
+# Quest: tfr.quest466.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.name=Охотник на горящих людей
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0g.desc=[в настоящее время не производится в мире]
 
-# Quest: tfru.q51n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=
+# Quest: tfr.quest467.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.name=Пещерный охотник на пауков.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0w.desc=Некоторые пещерные пауки в % (в настоящее время не созданы в мире, не созданы).
 
-# Quest: tfru.q54n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=
+# Quest: tfr.quest468.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.name=Охотник на рептилий.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1A.desc=Убить несколько рептилий
 
-# Quest: tfru.q58n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=
+# Quest: tfr.quest469.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.name=охотник
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1Q.desc=Убить несколько моржей
 
-# Quest: tfru.q48n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.desc=
+# Quest: tfr.quest470.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.name=Охотник за привидениями.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1g.desc=- да.
 
-# Quest: tfru.q55n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=
+# Quest: tfr.quest471.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.name=Охотник на зомби-свиней
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB1w.desc=Уничтожь зомби-свиномаха, и я дам тебе 10% хорошего меча деревни.
 
-# Quest: tfru.q61n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=
+# Quest: tfr.quest472.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.name=Охотник на белых медведей.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2A.desc=Убил несколько белых медведей
 
-# Quest: tfru.q57n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=
+# Quest: tfr.quest473.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.name=Охотник на жуков.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2Q.desc=Убить какого-нибудь тупого жука на %.
 
-# Quest: tfru.q66n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=
+# Quest: tfr.quest474.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.name=Охотник на слима
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2g.desc=Некоторые slem % (в настоящее время не производится в мире, не производится)
 
-# Quest: tfru.q68n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=
+# Quest: tfr.quest475.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.name=смерть
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB2w.desc=То же самое, что и в оригинале, но для того, чтобы добраться до уходящего черепа, нужен хотя бы Один процессор молнии.
 
-# Quest: 测序
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=
+# Quest: tfr.quest476.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.name=Охотник на зомби т2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3A.desc=Убей зомби, и я дам тебе хороший меч
 
-# Quest: tfru.q64n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=
+# Quest: tfr.quest477.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.name=Охотник на черепов т2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3Q.desc=Разбей несколько черепов, и я дам тебе молоток
 
-# Quest: tfr.quest552.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=Бамбл!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=Чтобы открыть эту главу, нужна пчелиная сеть
+# Quest: tfr.quest478.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.name=Охотник на пауков T2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3g.desc=Убей пауков, и я дам тебе хорошую катапульту
 
-# Quest: tfru.q62n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.desc=
+# Quest: tfr.quest479.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.name=Охотник на рептилий т2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB3w.desc=Убить несколько рептилий
 
-# Quest: tfru.q60n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=
+# Quest: tfr.quest480.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.name=Последний охотник т2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4A.desc=Убить несколько моржей
 
-# Quest: tfru.q59n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.desc=
+# Quest: tfr.quest481.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.name=Охотник на медведей т2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4Q.desc=Убить несколько медведей
 
-# Quest: 基因时代
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.desc=
+# Quest: tfr.quest482.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.name=Охотник на белых медведей т2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4g.desc=Убил несколько белых медведей
 
-# Quest: tfru.q72n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=
+# Quest: tfr.quest483.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.name=Смерть ти2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB4w.desc=
 
-# Quest: 定向
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.desc=
+# Quest: tfr.quest484.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.name=Сильнее медведя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5A.desc=
 
-# Quest: 训练
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.desc=
+# Quest: tfr.quest485.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.name=Охотник на монстров.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5Q.desc=
 
-# Quest: 创造变异条件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc=
+# Quest: tfr.quest486.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.name=Все лучше и лучше
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5g.desc=
 
-# Quest: 加速变异
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=
+# Quest: tfr.quest487.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.name=Настоящий восставший
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB5w.desc=
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=
+# Quest: tfr.quest488.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.name=Смерть на отметке т3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6A.desc=
 
-# Quest: tfru.q69n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.desc=
+# Quest: tfr.quest489.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.name=Ударим по увядшей т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6Q.desc=
 
-# Quest: 培养
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.desc=
+# Quest: tfr.quest490.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.name=Смерть на отметке т5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6g.desc=
 
-# Quest: tfru.q67n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.desc=
+# Quest: tfr.quest491.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.name=Охотник на зомби т3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB6w.desc=Убей зомби, и я дам тебе хороший меч
 
-# Quest: 人为干预
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.desc=
+# Quest: tfr.quest492.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.name=Охотник на черепов 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7A.desc=Разбей несколько черепов, и я дам тебе молоток
 
-# Quest: 分析基因
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.desc=
+# Quest: tfr.quest493.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.name=Охотник на пауков T3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7Q.desc=Убей пауков, и я дам тебе хорошую катапульту
 
-# Quest: PCR技术
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=
+# Quest: tfr.quest494.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.name=Охотник на рептилий т3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7g.desc=Убить несколько рептилий
 
-# Quest: 加速测序
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.desc=
+# Quest: tfr.quest495.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.name=Последний охотник на т3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB7w.desc=Убить несколько моржей
 
-# Quest: 迫不及待
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.desc=
+# Quest: tfr.quest496.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.name=Охотник на медведей т3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8A.desc=Убить несколько медведей
 
-# Quest: tfru.q70n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=
+# Quest: tfr.quest497.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.name=Охотник на белых медведей т3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8Q.desc=Убил несколько белых медведей
 
-# Quest: tfru.q65n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.desc=
+# Quest: tfr.quest498.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.name=Охотник на зомби т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8g.desc=Убей зомби, и я дам тебе хороший меч
 
-# Quest: tfru.q71n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
+# Quest: tfr.quest499.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.name=Охотник за черепами т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB8w.desc=Разбей несколько черепов, и я дам тебе молоток
+
+# Quest: tfr.quest500.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.name=Охотник на пауков т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9A.desc=Убей пауков, и я дам тебе хорошую катапульту
+
+# Quest: tfr.quest501.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.name=Охотник на рептилий т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9Q.desc=Убить несколько рептилий
+
+# Quest: tfr.quest502.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.name=Последний охотник на т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.desc=Убить несколько моржей
+
+# Quest: tfr.quest503.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.name=Охотник на медведей т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.desc=Убить несколько медведей
+
+# Quest: tfr.quest504.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=Охотник на белых медведей т4
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=Убил несколько белых медведей
+
+# Quest: tfr.quest505.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.name=Охотник на зомби т5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.desc=Убей зомби, и я дам тебе хороший меч
+
+# Quest: tfr.quest506.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.name=Охотник на черепов T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.desc=Разбей несколько черепов, и я дам тебе молоток
+
+# Quest: tfr.quest507.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.name=Охотник на пауков T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.desc=Убей пауков, и я дам тебе хорошую катапульту
+
+# Quest: tfr.quest508.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.name=Охотник на рептилий T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=Убить несколько рептилий
+
+# Quest: tfr.quest509.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.name=Последний охотник на т5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_Q.desc=Убить несколько моржей
+
+# Quest: tfr.quest510.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.name=Охотник на медведей т5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Убить несколько медведей
+
+# Quest: tfr.quest511.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Охотник на белых медведей т5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=Убил несколько белых медведей
+
+# Quest: tfr.quest512.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Белль-грир
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.desc=
+
+# Quest: tfr.quest513.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.name=Белль-грир боится
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAQ.desc=
+
+# Quest: tfr.quest514.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.name=Человек на вершине пищевой цепочки
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAg.desc=
+
+# Quest: tfr.quest515.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.name=С одним врагом на сотню
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACAw.desc=
+
+# Quest: tfr.quest516.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.name=тысячу
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBA.desc=
+
+# Quest: tfr.quest517.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.name=неподвижно
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.desc=
+
+# Quest: tfr.quest518.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.name=Достижение: мясорубка
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=
+
+# Quest: tfr.quest519.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=Повелитель хаоса.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(в настоящее время не производится в мире, не производится)
 
 
 ## Quest Line: tfr.line21.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=Магическое пробуждение
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=От силы природы
 
-# Quest: New Quest
+# Quest: tfru.q189n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=
 
@@ -3066,6 +2685,529 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.desc=一个箱子宠物，会自动帮你吃掉附近的掉落物%n右键打开它的物品栏，shift+右键可以把它收回背包%n§8此任务是Unofficial版本特有的
 
 
+## Quest Line: tfr.line10.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Сельское хозяйство, животноводство и рыболовство
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=О вашей помощи в выживании на планете как углеродного организма в %, основанной на группах холмических легенд, индустриальной эпохе 2 и греческих технологиях.
+
+# Quest: tfr.quest105.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Странный росток
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=После постройки плотника, вы можете преобразовать холмистые ростки дуба в оригинальные ростки дуба. Кора дерева может быть получена через бревно с правой клавишей греческого топора или через машину.
+
+# Quest: tfr.quest220.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Сельск хозяйств
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=Вы начали с 1000 капель крови, и вы предполагаете, что потолок снижается. Без надлежащего развития сельского хозяйства потолок упадет очень быстро. В мире много диких культур, так что собирайте семена! %n%n "l" o неоднократно подчеркивал важность этой главы. Если основная линия устанет, идите сюда и работайте.
+
+# Quest: tfr.quest225.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Пейте горячую воду.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=В мире группировки холмов, то, что ваши цистерны голода (зеленые) пусты, не означает, что они умрут быстро, но если бак для питья будет пуст (синий), вы будете продолжать падать до смерти от потери крови. В % случаев питьевая вода может быть подана с правой руки, и это единственный способ вернуться к питьевой раковине до того, как ты сделаешь керамику (см. следующую главу).
+
+# Quest: tfr.quest226.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Сбалансированное питание
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Открывая панель с правой стороны, вы видите коробку с четырьмя блоками, в которой указаны ваши таблицы с предметами, время, навыки и питательные вещества на уровне % и опыт, которые совместно определяют максимальное количество крови. 5 % питательных веществ, которые должны быть отведены различными видами пищи. Когда игрок рождается, каждый питательный элемент полностью заряжен. Поскольку голод игрока истощается, его питательные батончики постепенно истощаются. Для дополнительного питания игрок должен есть соответствующую категорию пищи. Когда игрок наедается, он получает дополнительные питательные вещества, которые, согласно текущему уровню питания игрока, получают больше питательных веществ, когда игрок недоедает. Первые четыре категории составляют 25% от максимальной жизни игрока, в то время как молочные продукты добавляют 25% к самым высоким показателям жизни. Например, наибольшая жизнь, которую игрок может получить без ранга, составляет 800HP(все питательные вещества первого класса заполнены). Если Один из питательных веществ пуст, а остальные три полны, то максимальное значение здоровья игрока составляет 600HP. Если игрок полностью питается пятью питательными веществами, его максимальная жизнь составляет 1000HP.
+
+# Quest: tfr.quest227.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=фрукт
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Есть два способа получения фруктов: ягодный кустарник и фруктовое дерево, и то и другое можно найти в дикой природе. % ягодных кустарников можно собирать непосредственно вручную и не размножаться. Когда кустарник в сезон дождей и в благоприятных температурах, он может производить новый фрукт каждый месяц. Каждая ягода имеет разную продолжительность жизни, и когда она заканчивается, плоды будут удалены из кустарника. Чтобы собрать плоды, достаточно ударить по кустарнику справа, и они упадут. Вес урожая варьируется от 3 до 8 унций. Вероятность того, что фруктовые деревья разрушают свои ветви топором, составляет вероятность того, что они могут получить ростки, сохраняется при сохранении основного ствола, которое может размножаться и производить больше. %n% % фруктовых саженцев не растут сразу. Напрот, фруктов дерев выгляд медлен, отрезк отраст ветк и лист. Это значит, что они вырастут в конце концов после того, как срубят ветки, чтобы собрать урожай. Но эт означа, что саженц займет долг преврат в как Дик природ больш дерев. Ствол через 30 дне долг до верховн, кажд 20 дне раст ветк, кажд 2 дня рост лист. Во время сбора урожая на каждом листке фруктовое дерево образует по одному фрукту. Фруктов сбор урож сбок, мультитач ил Лев кнопк лист, фрукт отвал. Получ по фрукт составля 40 до 16 унц кажд. % % фруктовых деревьев дают плоды только при текущей температуре от 0 до 38 %. В большинстве случаев соответствует сезонной температуре (от весны до поздней осени) в этом диапазоне, за исключением пустыни, джунглей вблизи экватора и глубокого тундра. % р % н
+
+# Quest: tfr.quest228.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=аминокислота
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=Белков можно получить в основном двумя способами: 1 зарезать животных 2 % выращивать сою в горном мире, где дикие животные рождаются только Один раз в мире, так что убийство не является устойчивым способом развития! Поэтому я рекомендую клетки для животных, чтобы вернуть их домой, и, конечно, можно держать их на поводке или в пшенице. У % животных есть Пол, и они должны быть знакомы с вами, прежде чем спариваться друг с другом, и, конечно, вы должны их кормить. Как правило, у коров меньше потомства, но у свиней одно потомство-одно гнездо.
+
+# Quest: tfr.quest229.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=овощ
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Кроме того, его можно получить только через урожай. Индивидуумы сильно давят картошку и капусту, производят много и условия роста не суровые.
+
+# Quest: tfr.quest230.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Вспомните, сколько хлеба оз вы съели за свою жизнь-дио
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=Один из пяти питательных источников, единственный способ получить его-посадить зерно. Зерновые, собранные непосредственно из нн, должны быть обработаны, чтобы их можно было есть. Жарить на огне или резать на зернышки перочинным ножом. (урожай кукурузы-это зернышки, хрущев в возбуждённом состоянии)% % если вы хотите, чтобы зернышки были съеденными дольше или если вы хотите сделать сэндвич, вы должны сделать хлеб из зерна. В каменной мельнице % зерновых мельницы могут быть перемолоты в порошок, порошка и древесная бочка могут быть синтезированы в тесто, а тесто можно получить за выпечку на огне. Если вы выращиваете пять зерновых культур, вы получаете элитные продукты питания: хлеб-булочка-булочка-булочка-булочка-булочка
+
+# Quest: tfr.quest231.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Молочные продукты.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Молочные продукты могут быть получены двумя способами: молоко и сыр (сыр производится из молока, таким образом, по существу, молоко). 9 бочек молока +1 ведерко уксуса, запечатанных в бочках, дают сыр.
+
+# Quest: tfr.quest233.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Клетка для животных
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=С помощью этой штуки можно погрузить животных в загадочное пространство и не задохнуться.
+
+# Quest: tfr.quest273.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=Пахотн земл
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Поле, также известное как почва, содержит три основных питательных вещества культур, которые, если поблизости достаточно блоков воды, могут получить важные источники воды. Используя металлические мотыги для воды и питательные модели, можно увидеть уровень питательных веществ на культурах и доступ к источникам воды. Культивирование культур в почве сокращает питательные вещества, а для того, чтобы их можно было культивировать и использовать удобрения или периодические культуры, которые нуждаются в различных типах питательных веществ. Примечание: некоторые культуры, такие как соя и зелёные бобы, нуждаются в дополнительных питательных веществах, когда растут. В отличие от оригинала, земля не может вернуться в землю. Разрушение сельскохозяйственных блоков также не создает почвы для предотвращения повторного использования питательных веществ.
+
+# Quest: tfr.quest274.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=Животноводство: 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=Курица, корова, лошадь, свинья, овца-это скот. Естественное образование животных в мире основано на климате региона. %n% домашних животных последуют за любой рацион зерновых и початков кукурузы, подобно оригинальным животным, которые последуют за пшеницей, морковью и семенами. Канат также является на % % таким же образом, как и при оттягивающем животноводстве в оригинале, когда медведи, олени и фазаны являются дикими животными, которые не могут размножаться. Дикие животные будут освещаться в мире, за исключением названных животных или, по крайней мере, прикованных к ним в последний раз, чтобы они не исчезли. % % от близости: % % от всех животных имеют близость, и увеличение требует какого-либо взаимодействия, например, доения, стрижки шерсти, верховой езды, разведения животных и их названий. Специфические значения этих эффектов варьируются от видов, и некоторые виды нуждаются в большем взаимодействии. Близость может быть увеличена, выполняя определенные движения каждые 24 часа игры. Чтобы содержать животных, игрок должен незаметно кормить их, чтобы животные не пугались. Если близость не достигнет 30% и животные не будут взаимодействовать с людьми в течение 24 часов, то уровень близости снизится. Возможности одомашнения взрослых животных ограничены, и только мелкие животные могут быть полностью одомашнены, а близость растет быстрее. Детёныши сохраняют 50% материнской близости при рождении, если только они не близки к максимальной близости, в этом случае они сохраняют 90% близости. %n - % % скрытности животных показывает индикатор близости. С увеличением интимной близости, индикатор будет наполнен красным, и когда он достигнет 100%, он станет золотым. Белая рамка означает, что животное достигло по крайней мере 30%, и близость больше не уменьшится. %n% Пола: % % % животных (за исключением кальмаров) имеют различные половые группы (мужчины или женщины), которые произвольно определяются при рождении животных. У всех животных, кроме медведей, лошадей и волков, есть визуальные подсказки для определения Пола, такие как рога, зубы, грудь и различные цвета перьев. Для создания, у которого нет визуального сигнала, игрок может нажать на животное правым клавишем, и окно чата показывает Пол.
+
+# Quest: tfr.quest275.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=Животноводство: размножение
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=Все воспроизводимые животные, кроме цыплят, питаются двумя животными разных полов и кормят их до тех пор, пока не начнут появляться частицы в форме сердца. Эти животные потребляют 5 унций зерна во время каждого кормления, и если у обоих животных есть сердце, они будут рядом за секунды до того, как исчезнут частицы. Успешное размножение может быть подтверждено с помощью клика на правую кнопку самки, что создаст сообщение в чате "беременна". % р % н % р % н куриц % р % н % р % н использу гнезд ящик отпочковыва. Каждый день курица откладывает одно яйцо в гнездовье, и если в 5 - й части гнезда находится петух, то яйцо оплодотворяется. Оплодотворенное яйцо с намеком на "оплодотворение". После 3/4 месяцев, проведённых в гнезде, % оплодотворённых яиц вылупляются в птенцов. Обратите внимание: этот расчет основан на месяцах, а не на днях. Таким образом, месячный период инкубации в мире будет длиннее, поскольку каждый месяц будет больше дней. Самки беременеют в %n% и в % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %. Как только самка забеременеет, роды должны проходить через период беременности. Обратите внимание: этот расчет основан на месяцах, а не на днях. Таким образом, увеличение числа месяцев может привести к более продолжительной беременности. Когда время беременности заканчивается, женщина рожает. Время беременности, время взросления, количество потомков зависит от типа животных.%n
+
+# Quest: ph.empty
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=В дикой природе культуры производятся случайным образом, и каждый тип культуры содержится в блоках 8x8. Это означает, что игрок должен исследовать равные расстояния, чтобы собрать каждый урожай. Дикие культуры растут только между весной и концом Лета и каждый год имеют возможность регенерировать.%n%n%n%n сем: урожа будет по крайн мер сбор урож след семен, при одновремен увеличен игрок навык JiaSe. Чем выше уровень пахотных навыков игрока, тем больше вероятность того, что у него появится второе семечко, тем больше он будет способствовать расширению фермы. Тип культуры: культивирование культур имитирует реальную жизнь и как долго они растут, прежде чем смогут собрать урожай. Но имейте в виду, что эти значения были сокращены до длины года TFC, что по умолчанию составляет 96 дней.%n%n%n%n использова: сбор урож большинств продукц бы прям игрок съел, эт дела он возобновля источник источник пищ. Для разведения животных могут использоваться следующие зерновые продукты: большие пшеничные зерна, большие рисовые зерна, черные зерна, маленькие пшеничные зерна и овсянки
+
+# Quest: tfr.quest305.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=Я сейчас сломаюсь
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=Открывая границы блока по ф3, 4 показывает: убедитесь, что ваш ледяной погреб находится внутри блока, иначе он не сработает. %n% - е % - е погреба предотвращают распад пищи, которую вы так усердно собирали. %n%n использует блоки льда, чтобы создать вакуальную кубовидную структуру с внешней высотой 4 м и внутренней высотой 2 метра. Дверь в подвал должна иметь два слоя, а место, где она расположена, должно выделять одну клетку самой стены, а также окружать ее кубиками льда. Один из блоков в нижней части винного погреба должен быть заложен в ядро для льда, а внутри должен быть кубик льда из TFC, откопанный ледяной пилой, чтобы заставить его работать. Температура в правом верхнем углу GUI, открывающем ядро ледяного погреба в начале работы %n%n, видна. % % всей еды можно положить только в холодильник. В ледяном погребе не должно быть ни одного квадрата, кроме холодильника. Не должно быть никакого блочного контакта вокруг стен в подвале и только снизу к земле. * %n% — это вид на землю: %n%nX: % на стену nD: %nX, %nXX,%nXXXXDXX и % на XDX
+
+# Quest: tfr.quest306.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=барбек
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Некоторые продукты можно есть только после того, как их запекут: это включает в себя все мясо. И некоторые из них получают больше рецептов приготовления после выпечки, например, запечение теста в хлеб. Вы можете положить еду в печь для костра или поставить этот гриль над кузницей. Гриль может поджарить 8 предметов одновременно. Гриль "шифт" с правой клавишей можно переворачивать.
+
+# Quest: tfr.quest308.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=Новые семена.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=Некоторые семена не могут быть найдены на поверхности группы холмов, но их можно получить, просеивая землю. Эти семена важны для вашего будущего развития.
+
+# Quest: tfr.quest309.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=агромагнат
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Теперь у тебя никогда не будет недостатка еды. Осторожно, чрезмерное вспахивание может привести к потере питательных веществ на вашей ферме. Когда ваш уровень земледелия постепенно повышается, мотыга с помощью мотыги видит питательные вещества на полях. В качестве благодарности за вашу работу, я пришлю вам двух земных свиней, которые смогут обеспечить вас левоспинальным белком, уникальным продуктом, которого нет у горных звёзд.
+
+# Quest: tfr.quest310.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Трудолюбивый фермер
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=Следующие задачи сложны для вас в предсрочном порядке: вы должны собрать более 20 видов пищи и собрать их. Но последнее предложение было очень щедрым.%n
+
+# Quest: tfr.quest311.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Стеллажи.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=Стеллажи могут увеличить скорость роста оригинальных культур. И не только в этом случае, размещение двух пересекающихся полос культур между двумя культурами и вероятность того, что гибрид двух культур создаст новые культуры. Новые культуры могут унаследовать атрибуты своих предков и могут также произвести изменения. %n%n и даже больше, это будет новый урожай. Обратите внимание: если на культовом поле нет посевов, он быстро покрыт сорняками, которые распространяются и могут уничтожить ваши поля! Чтобы решить эту проблему, вы можете сделать только одну стрижку.%n
+
+# Quest: tfr.quest312.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=тростник
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Тростник не может быть съеден, но его волокна идеально подходят для изготовления бумаги, и нет ничего плохого в Том, чтобы выращивать больше.
+
+# Quest: tfr.quest313.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Сахарн тростник
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Здесь сахарный тростник можно получить только через тростник, но он все еще может размножаться. Заметьте, сахарному тростнику нужна оригинальная земля для посадки.
+
+# Quest: tfr.quest314.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=Оригинальная земля.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=Вы можете синтезировать любую группу холмистых легенд о беспорядке почвы в оригинальную. Грунта, которая является культурой, может культивировать только культуры, которые являются культурами холмистых легенд, в то время как оригинальная земля может выращивать только оригинальные культуры. Были некоторые проблемы, но у оригинальной культуры было много применений.%n
+
+# Quest: tfr.quest315.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Дело не только в тепле
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Шерсть приобретается путем стрижки шерсти, и овца высокой интимной близости может быть подстрижена ножницами или ножами. Использование ножниц даст вам больше шерсти на % % %n% % %, а другой способ, при помощи перочинного ножа, отскрести овечью кожу в синтезированной панеле, и в зависимости от размера козы, можно произвести различное количество шерсти. Вам нужен спиннер, чтобы синтезировать его в шерстяную нить и сделать из неё пряжу в ткацком станке. % % % шерсти является важным материалом для будущего производства скафандров.
+
+# Quest: tfr.quest317.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Жолен, это не травка
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=Из него можно сделать ткань или верёвку, это практический промышленный материал.
+
+# Quest: tfr.quest318.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=Что, сахарный тростник из резины?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=Один из самых легко скрещиваемых культур должен быть из смолы сахарного тростника. Крупномасштабное выращивание этого урожая полностью избавит вас от необходимости собирать молоко из трилистника.%n
+
+# Quest: tfr.quest319.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=Мешок семян.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=Как только созреет урожай, выращенный на культовом поле, у вас есть два варианта: % н1. Если вы посадите сахарный тростник и заберёте их семена, я вознагражу вас
+
+# Quest: tfr.quest326.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Ладно, помидор
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=Помидор кажется безвредным овощем для человека и скота (или фруктом?) Но в нём полно витаминов. Его можно получить только через гибрид.%n
+
+# Quest: tfr.quest327.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=Первый шаг к ботанике
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=Продукт гибрида становится все больше и больше процентов, % %, %, %, %, %, %, и вы видите эти семена с пустыми глазами, ничего не различающие, и в этот момент вы будете опираться на силу технологий. Этот портативный сканер может быть использован после зарядки аккумуляторной коробки, чтобы узнать название и свойства посева, и вы просто должны держать его в руке на полке с его правой связкой. В то же время, отсканированные зерновые семена с названиями культур! При помощи анализатора урожая в % % % можно открыть интерфейс для тестирования гибридов в % %
+
+# Quest: tfr.quest328.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Машина для регулирования культур
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=Машине нужно лишь немного электричества, воды, удобрений и гербицидов, чтобы ускорить рост и избавиться от сорняков.
+
+# Quest: tfr.quest329.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Безмолвный весна
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=Чтобы навсегда решить проблему с заросшими сорняками, вам придется применить химическое оружие. До тех пор, пока в сельхозстанторах не будут установлены бинарные гербициды %n%n %.
+
+# Quest: tfr.quest330.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Азот, фосфор, калий
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=Есть много способов изготовления удобрений, которые могут ускорить рост культур на культовом поле. Удобрения можно использовать только в регулирующих машинах.
+
+# Quest: tfr.quest331.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.name=комбайн
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.desc=Цена машины, хоть и не дешевая, но как только у вас будет обширное поле готовых культур, которые уже гибридированы, и в сочетании с регуляторами урожая, они смогут обеспечить непрерывный поток продукции для ваших заводов.
+
+# Quest: tfr.quest332.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=рыболовств
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=Для рыбалки нужно сделать удочку, а удочке нужна леска. Поймать любую рыбу любого размера и отправить на задание!
+
+# Quest: tfr.quest333.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=лин
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Важные ресурсы, которые можно сделать из желтого волокна или шерстяной пряжи
+
+# Quest: tfr.quest339.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Изумрудный куст
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=Производить изумруды
+
+# Quest: tfr.quest340.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Ягоды сырой нефти
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=Производить сырую нефть
+
+# Quest: tfr.quest341.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=Серебряные листья.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=Производить серебряные листья
+
+# Quest: tfr.quest342.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.name=Сито.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Производство оловянных веточек
+
+# Quest: tfr.quest344.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Свинец.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=
+
+# Quest: tfr.quest345.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.name=Бриллиантовая трава.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Производство алмазного порошка
+
+# Quest: tfr.quest346.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.name=Золотые листья.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=Золото.
+
+# Quest: tfr.quest347.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Шахтеры должны.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=Если у вас есть много шерстяной пряжи или желтых волокон, эта веревка намного дешевле лестницы. Вы можете взбираться по ней, когда будете спускаться вниз, без необходимости копать ступенчатые шахты, которые могут рухнуть.
+
+# Quest: tfr.quest350.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Медн хлопк
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=Производство сырой медной проволоки
+
+# Quest: tfr.quest352.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.name=Мирные.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Не хочешь выйти и пострелять? Или не хочешь выращивать скот, чтобы получить кожу? Или ты не хочешь строить кисточную башню? Гибрид поможет тебе!
+
+# Quest: tfr.quest353.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=Трава мертвых.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=Производить кэррион
+
+# Quest: tfr.quest354.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=Паучья трава.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=Производить продукт паука
+
+# Quest: tfr.quest355.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Огненная тростница
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=Производство огненного порошка
+
+# Quest: tfr.quest356.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Оно того стоило?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=Гибрид-это долгая миссия. В целом, если скрещиваться в предфазовом периоде игры, то в более поздних периодах вам будет легче справиться с дефицитом ресурсов. Это все еще твой выбор. Я договорился о вознаграждении за множество миссий, которые вдохновили тебя на гибрид.
+
+# Quest: tfr.quest357.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.name=Увядающий цветок
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=Производство увядших продуктов
+
+# Quest: tfr.quest358.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.name=Слизистая трава.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=Чтобы сделать слизистый шар
+
+# Quest: tfr.quest359.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=Взрывающаяся трава.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=Производить порох
+
+# Quest: tfr.quest360.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Увеличь скорость
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=Производство "жемчужины теней"
+
+# Quest: tfr.quest361.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.name=Кожаные цветы.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=Производство кожи
+
+# Quest: tfr.quest362.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.name=Цветок слез.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=Производя слезы злых духов
+
+# Quest: tfr.quest363.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Минеральная ферма
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=Не хочешь пойти на шахту? Не хочешь искать нефть? Гибрид поможет тебе!
+
+
+## Quest Line: tfr.line0.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=Обычный день для пчеловодов
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=О размножении и скрещивании пчел, основанных на греческих технологиях, лесоводстве, генной инженерии.
+
+# Quest: tfru.q47n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=
+
+# Quest: tfru.q49n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=
+
+# Quest: tfru.q53n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlA.desc=
+
+# Quest: tfru.q56n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqg.desc=
+
+# Quest: tfru.q50n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArQ.desc=
+
+# Quest: tfru.q52n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAArw.desc=
+
+# Quest: tfru.q51n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsg.desc=
+
+# Quest: tfru.q54n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsw.desc=
+
+# Quest: tfru.q58n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtA.desc=
+
+# Quest: tfru.q48n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtg.desc=
+
+# Quest: tfru.q55n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtw.desc=
+
+# Quest: tfru.q61n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuA.desc=
+
+# Quest: tfru.q57n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuQ.desc=
+
+# Quest: tfru.q66n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=
+
+# Quest: tfru.q68n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=
+
+# Quest: 测序
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=
+
+# Quest: tfru.q64n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=
+
+# Quest: tfr.quest552.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=Бамбл!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=Чтобы открыть эту главу, нужна пчелиная сеть
+
+# Quest: tfru.q62n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.desc=
+
+# Quest: tfru.q60n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=
+
+# Quest: tfru.q59n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.desc=
+
+# Quest: 基因时代
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9A.desc=
+
+# Quest: tfru.q72n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9Q.desc=
+
+# Quest: 定向
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.desc=
+
+# Quest: 训练
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.desc=
+
+# Quest: 创造变异条件
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc=
+
+# Quest: 加速变异
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=
+
+# Quest: tfru.q69n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.desc=
+
+# Quest: 培养
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.desc=
+
+# Quest: tfru.q67n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_Q.desc=
+
+# Quest: 人为干预
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_g.desc=
+
+# Quest: 分析基因
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_w.desc=
+
+# Quest: PCR技术
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAA.desc=
+
+# Quest: 加速测序
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAQ.desc=
+
+# Quest: 迫不及待
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAg.desc=
+
+# Quest: tfru.q70n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADAw.desc=
+
+# Quest: tfru.q65n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBA.desc=
+
+# Quest: tfru.q71n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
+
+
+## Quest Line: tfr.line6.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=Тир 5.2 — космическая эпоха
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Пилотируемые космические аппараты, добыча астероидов, газовая разработка планет-на основе продвинутых ракет
+
+# Quest: tfr.quest189.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Мечта, принадлежащая звездам и морю
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=Метод старта в 1 % %n% %n% используется в начале космических полётов: % % в безлимитном месте, % % в непосредственной связи со структурой башни, а затем в непосредственной связи с нижней частью башни, которая должна быть такой же (связанной) шириной (связанной) с осями Y-вышки, как у платформы Y), % и насколько высокой должна быть ракета DIY
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
+
+# Quest: tfr.quest191.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=Искусственный спутник
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=% искусственный спутник используется для сбора различных данных и подготовки к горным ракетам.%n-n-n оптические сенсоры для сбора данных на расстоянии
+
+# Quest: tfr.quest192.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=Спутник.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=Эта машина принадлежит к мультипликационному блоку % % от ввода энергии в нижнюю часть, и для этого требуется, чтобы на левой стороне были установлены спутниковые и спутниковые чипы, а на правой стороне — спутниковые и спутниковые чипы
+
+# Quest: tfr.quest193.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=Сбор данных со спутника
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n нуждается в RF для того, чтобы использовать % % - ный верхний правый угловой спутниковый чип % - n для запуска данных Connect
+
+# Quest: tfr.quest194.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=Наблюдение за небесными телами
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=Мног бакс%n нуж полож на 100 пункт расстоян шин Дан % н % н работа ночн чтоб % н%n трат на 100 пункт расстоян сканирован Дан астероид%n на под астероид выбор список астероид чип%n избра ты хочеш посл астероид кликн на иконк чип бел кален ряд с для записыва%n%n доступн небесн тел Дан процессор чтоб интенсивн астероид чип
+
+# Quest: tfr.quest195.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Копаем шахту для сборки ракет
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=%n (%) для сборки горной ракеты %n% (% %) требуются буры, чтобы добывать % % % % % % (% %), а % % % — для хранения оригинальных коробок
+
+# Quest: tfr.quest196.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=Запуск ракеты!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=% % собрали горнодобывающую ракету % % % соединены с ракетным наблюдением
+
+# Quest: tfr.quest197.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Обработка данных
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Данные %, используемые для усиления чипа астероидов, % %, чтобы увеличить прибыль
+
+# Quest: tfr.quest336.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Ракеты с жидким топливом!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=Полный толчок, чтобы поднять тебя в небо
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
+
+# Quest: tfru.q143n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
+
+# Quest: tfr.quest334.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Все готово.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
+
+# Quest: tfr.quest335.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Приготовьте кислород!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
+
+# Quest: tfr.quest336.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Ракеты с жидким топливом!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=Полный толчок, чтобы поднять тебя в небо
+
+# Quest: tfr.quest337.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Прибыл на дак эгг б
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=Первая планета, к которой вы должны отправиться, это Duck Egg B
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
+
+# Quest: tfr.quest626.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=Мозг ракеты
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=Навигационный компьютер-ключ к управлению полетом ракеты, которая нужна любой ракете, будь то человек или беспилотник.
+
+# Quest: tfr.quest627.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=Прибытие на Duck Egg C
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=Вам также следует отправиться в Duck Egg C%, где вы сможете получить больше полезных ископаемых, даже некоторые тяжелые элементы, такие как торий, платина и редкие камни.
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
+
+# Quest: tfru.q142n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
+
+
 ## Quest Line: tfr.line23.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.name=Век информации
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=Базовое введение в свободную компьютерную моду в процессе производства
@@ -3177,115 +3319,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACwQ.desc=
 # Quest: tfr.quest706.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=
-
-
-## Quest Line: tfr.line15.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] технология превращения информации в массу
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=Волшебный голубой кристалл-ситус-позволит вам открыть автоматизированный завод с неограниченным потенциалом, построенный на основе 2% прикладной энергии, при помощи сети под названием ME
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
-
-# Quest: tfr.quest343.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=трафарет
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Метеориты больше не производят: их можно сделать только с помощью гравюры.
-
-# Quest: tfr.quest521.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Фотогравированный шаблон
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=Нужна фотогравировка и комп для создания соответствующих досок сырья, а затем для подавления формы.
-
-# Quest: tfr.quest522.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=Центральный терминал
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Эквивалент %, %, %, %, % от общего числа каналов в главном мозге, означает, что он может поставлять 32 порта/машины в общей сложности: Обычн кабел ограничива верховн выходн восем кана, тож имен то, что вам нужн отвеча на четыр в кабел чтоб использова полност%n%n нескольк ME контроллер вмест, он будут цел, § а обм общ количеств поток % н но с морфологическ ограничен, например тольк на § 4 "0 §1§ 2" 3 "5". 6 § 7 § 8 "9". A линейн, прямоугольн § р ил § а кубовидн кост ". Р % н сам больш в в кажд направлен даж 7 одновремен, тож сам значительн 7 * 7 * куб%n%n примечан: Его собственный «энергетический приёмник» (%) преобразования энергии по компактному кабелю может иметь 32 канала, % «n» 9, который также может быть доступен для соседних блоков без кабельного кабеля
-
-# Quest: tfr.quest523.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Центр памяти
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Диск + элементы памяти  equal  2 %, составляющие только одну клетку, является достаточно большим ящиком, чтобы сказать, что этот обычный элемент памяти может хранить только предметы, а для хранения жидкости или газа требуется особый элемент хранения
-
-# Quest: tfr.quest524.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=модо
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.desc=Этого недостаточно! Мне нужно больше места для хранения!
-
-# Quest: tfr.quest525.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.name=Сайтус!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.desc=Основные минералы в AE
-
-# Quest: tfr.quest526.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.name=Сайтус!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.desc=Он используется только для одного: изготовления кристаллов флакса
-
-# Quest: tfr.quest527.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.name=Кристаллы флакса
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Насыщенный кристалл сета и красный камень в воду вместе со следующим кварцем, вы получите 2 % кристалла флакса, которые также могут быть сделаны из блендера. %n% и n% многоточие всегда безвредны.
-
-# Quest: tfr.quest528.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=кабел
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Функции передачи энергии, предметов, жидкости могут быть совместимы с функцией % взаимодействия
-
-# Quest: tfr.quest529.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=Связь материи с информацией
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=Часть панелей, связывающей материю с информацией, на уровне % может быть виртуальной, а на самом деле виртуальной, а на уровне % виртуальной, просто немного напрягает электричество
-
-# Quest: tfr.quest530.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Старт ae
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Автоматизированный терминал управления
-
-# Quest: tfr.quest531.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=Так удобнее!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=Можно взять предмет и синтезировать одновременно
-
-# Quest: tfr.quest532.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.name=Автоматизация ae
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=Прост,%n % н "а молекулярн сборочн комнат". Р, процессор материнск плат, нужн э сет завод автоматическ стол, посл тог, как получ инструкц от э, посредств me порт ввест предмет и автоматическ синтетическ, больш me порт синтетическ вещ кур в э сет, формир автоматизирова синтетическ%n%n § ам порт § r, э сет с машин для вещ ввод и вывод порт, посредств в шаблон "памя" синтетическ формул%n%n § а вещ ввод/вывод шин ". Р, - фиксирова ввод вещ ил вывод вещ порт, когд даж когд машин ил чемода, Пок в э сет/чемода/машин вещ, введ будет происход автоматическ в%n % н "а параллельн блок обработк + синтетическ подразделен § r, эквивалент процессор, синтетическ блок процессор памят, параллельн блок обработк ткан, важн отмет, что им нужн с, но слишк мног посл полож тольк счита%n % н" а ". 9 в цел, в шаблон термина синтетическ шаблон-в me порт-в течен термина выбор инструкц скольк-блок обработк получ-синтетическ подразделен котор предоставля-ми порт модул памят передач вещ-молекулярн сборочн комнат % н%n%n % н % н
-
-# Quest: tfr.quest533.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=Чисто!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=Заблокировать вашу сеть!
-
-# Quest: tfr.quest544.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=Апгрейд, апгрейд!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=Расширять применение
-
-# Quest: tfr.quest545.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=Технология пространственной передачи!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Бери вещи на расстоянии
-
-# Quest: tfr.quest546.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=Технология p2p
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=Передача от точки к точке?
-
-# Quest: tfr.quest547.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=Технология передачи настоящего пространства
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n располагает 8 квантовых колец в кольцевой форме, в середине — квантовый отсек связи, который может быть преобразован в % %, а две структуры могут быть переданы в межпространственное пространство в %
-
-# Quest: tfr.quest548.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=Технология больших пространственных телепортаций
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=% передаёт вместе все блоки в определенном пространстве и содержит подробные инструкции в mcmod, которые являются менее полезными и менее трудными
-
-# Quest: tfr.quest549.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=Сокровище короля
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=Если бы они были заполнены, то были бы заполнены картами %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %
-
-# Quest: tfr.quest550.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=Элементы хранения жидкости
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Для того, чтобы сеть скорой помощи могла хранить жидкости в %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, %, % и газ, который можно хранить в газовых ячейках, % — в, в, в, в, с, в, с, м, м, м, р
-
-# Quest: tfru.q138n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
-
-# Quest: tfru.q139n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
 
 
 ## Quest Line: tfr.line9.name
@@ -3672,39 +3705,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.desc=
 
 
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=Евангелие от неэмиратов
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=Бриллианты не могут быть найдены.
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Алмаз 1.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=Гравий не может найти алмаз? Не бойся! Аргон тебе поможет
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Поменяйся со мной бриллиантами
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=Если вы найдете рудники кимберли, а раскопки принесут в основном разбитые алмазы, вы сможете обменять некоторые из них на более качественные в этой главе. Или можешь поменяться со мной.
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Алмаз 2.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Без бриллиантов? Ничего, утиные яйца помогут
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Алмаз 3.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=Без бриллиантов? Ничего, утиные яйца помогут
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Карбонат кальция
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Не смог найти электросварочный камень? Не бойся, лунное убийство тебе поможет
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Купить магму
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Сера будет продолжать накапливаться в блоках вокруг магмы, и если вы не сможете найти бассейн магмы, приходите обменять его.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Поменять каолин и графит
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Каолин и графит являются важными минералами, но поскольку нет инструкций, найти их будет труднее. Мы можем обменять их здесь, если их не найдут в ближайшее время.
-
-
 ### Quests in multiple quest lines ###
 
 # Quest: tfr.quest5.name
@@ -3737,31 +3737,3 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=В хранилище 5000 пр
 
 
 ### Quests in no quest lines ###
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1A.desc=
-
-# Quest: tfru.q73n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjg.desc=
-
-# Quest: tfr.quest564.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNA.name=New квест
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNA.desc=
-
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPw.desc=
-
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACRA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpw.desc=

@@ -1,7 +1,12 @@
 {
   "questIDHigh:4": 0,
-  "preRequisites:9": {},
-  "questIDLow:4": 411,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 164
+    }
+  },
+  "questIDLow:4": 405,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -11,9 +16,11 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "Botania:flugelEye",
+        "id:8": "Botania:tornadoRod",
         "Count:3": 1,
-        "tag:10": {},
+        "tag:10": {
+          "flying:1": 0
+        },
         "Damage:2": 0,
         "OreDict:8": ""
       },
@@ -22,11 +29,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q",
+      "name:8": "tfru.q201n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q"
+      "desc:8": "tfru.q201d"
     }
   },
   "tasks:9": {
@@ -39,9 +46,11 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "Botania:flugelEye",
+          "id:8": "Botania:tornadoRod",
           "Count:3": 1,
-          "tag:10": {},
+          "tag:10": {
+            "flying:1": 0
+          },
           "Damage:2": 0,
           "OreDict:8": ""
         }

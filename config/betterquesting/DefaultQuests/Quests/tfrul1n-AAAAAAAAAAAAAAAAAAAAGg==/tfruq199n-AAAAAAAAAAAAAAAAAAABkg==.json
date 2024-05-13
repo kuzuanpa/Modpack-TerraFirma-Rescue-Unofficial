@@ -1,6 +1,11 @@
 {
   "questIDHigh:4": 0,
-  "preRequisites:9": {},
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 164
+    }
+  },
   "questIDLow:4": 402,
   "properties:10": {
     "betterquesting:10": {
@@ -21,11 +26,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q",
+      "name:8": "tfru.q199n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q"
+      "desc:8": "tfru.q199d"
     }
   },
   "tasks:9": {
@@ -36,7 +41,14 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "consume:1": 0,
-      "requiredItems:9": {},
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "OpenBlocks:hangglider",
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        }
+      },
       "taskID:8": "bq_standard:retrieval"
     }
   },

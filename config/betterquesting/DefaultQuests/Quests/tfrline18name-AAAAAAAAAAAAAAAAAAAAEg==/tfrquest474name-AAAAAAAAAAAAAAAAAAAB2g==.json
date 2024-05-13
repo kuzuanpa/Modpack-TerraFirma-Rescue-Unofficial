@@ -41,7 +41,7 @@
         "Size:3": 0,
         "Attributes:9": {
           "0:10": {
-            "Base:6": 350.0,
+            "Base:6": 1.0,
             "Name:8": "generic.maxHealth"
           },
           "1:10": {
@@ -70,24 +70,24 @@
           "4:5": 0.085
         },
         "PersistenceRequired:1": 0,
-        "id:8": "slimeTFC",
-        "HealF:5": 350.0,
+        "id:8": "Slime",
+        "HealF:5": 1.0,
         "Motion:9": {
           "0:6": 0.0,
           "1:6": 0.0,
           "2:6": 0.0
         },
         "Leashed:1": 0,
-        "UUIDLeast:4": 3468140554587770812,
-        "Health:2": 350,
+        "UUIDLeast:4": -8259482780229023971,
+        "Health:2": 1,
         "Air:2": 300,
         "OnGround:1": 0,
-        "Dimension:3": 0,
+        "Dimension:3": 11,
         "Rotation:9": {
-          "0:5": 0.16840306,
+          "0:5": 2.3864112,
           "1:5": 0.0
         },
-        "UUIDMost:4": 28603073309183,
+        "UUIDMost:4": -2135881893546472677,
         "Equipment:9": {
           "0:10": {},
           "1:10": {},
@@ -110,7 +110,7 @@
       "damageType:8": "",
       "required:3": 10,
       "taskID:8": "bq_standard:hunt",
-      "target:8": "slimeTFC",
+      "target:8": "Slime",
       "subtypes:1": 1
     }
   },

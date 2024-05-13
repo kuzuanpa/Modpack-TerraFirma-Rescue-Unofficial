@@ -40,7 +40,7 @@
       "targetNBT:10": {
         "Attributes:9": {
           "0:10": {
-            "Base:6": 1000.0,
+            "Base:6": 20.0,
             "Name:8": "generic.maxHealth"
           },
           "1:10": {
@@ -56,7 +56,7 @@
             "Name:8": "generic.followRange"
           },
           "4:10": {
-            "Base:6": 60.0,
+            "Base:6": 6.0,
             "Name:8": "generic.attackDamage"
           }
         },
@@ -73,24 +73,24 @@
           "4:5": 0.085
         },
         "PersistenceRequired:1": 0,
-        "id:8": "blazeTFC",
-        "HealF:5": 1000.0,
+        "id:8": "Blaze",
+        "HealF:5": 20.0,
         "Motion:9": {
           "0:6": 0.0,
           "1:6": 0.0,
           "2:6": 0.0
         },
         "Leashed:1": 0,
-        "UUIDLeast:4": -6079676026695770461,
-        "Health:2": 1000,
+        "UUIDLeast:4": -6332398442042934675,
+        "Health:2": 20,
         "Air:2": 300,
         "OnGround:1": 0,
-        "Dimension:3": 0,
+        "Dimension:3": 11,
         "Rotation:9": {
-          "0:5": 3.6846476,
+          "0:5": 2.8287318,
           "1:5": 0.0
         },
-        "UUIDMost:4": 28310426291571,
+        "UUIDMost:4": 2645181746461690653,
         "Equipment:9": {
           "0:10": {},
           "1:10": {},
@@ -113,7 +113,7 @@
       "damageType:8": "",
       "required:3": 10,
       "taskID:8": "bq_standard:hunt",
-      "target:8": "blazeTFC",
+      "target:8": "Blaze",
       "subtypes:1": 1
     }
   },
