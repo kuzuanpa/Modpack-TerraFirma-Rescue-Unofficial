@@ -2169,17 +2169,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=你来到了世界的尽头
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=天翼族之冠
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=来自盖亚的强大力量可以让你消耗魔力自由飞行, 但只能维持一段时间. %n%n获得天翼族之眼可以让你无限时间飞行. %n除此之外, 也可以潜行+右键它绑定一个坐标, 长按右键以回到绑定的坐标
 
-# Quest: tfru.q
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+# Quest: tfru.q196n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=平原腰带
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=这种腰带在你持续奔跑时会逐渐提高你的速度, 适合平原使用
 
 # Quest: tfru.q198n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=喷气背包
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=进入电力时代后即可制作消耗沼气的喷气背包, 它能提供竖直向上的推力, 但具有一定高度限制. %n%n沼气可由天然气转换而来, 空喷气背包放入gt的灌装机中即可填充
 
-# Quest: tfru.q
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+# Quest: tfru.q196n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=平原腰带
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=这种腰带在你持续奔跑时会逐渐提高你的速度, 适合平原使用
 
 # Quest: tfru.q193n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=曲速旅行
