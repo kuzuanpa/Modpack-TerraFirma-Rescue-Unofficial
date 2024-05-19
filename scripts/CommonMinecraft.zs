@@ -266,6 +266,12 @@ MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
 [n],
 [<moegadd:QuartzMixture>*10]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dust:8268>, <minecraft:sand>*7],
+[n],
+[n],
+[<moegadd:QuartzMixture>*10]);
+
 //OutputStack, TopRowPattern, SecondRowPattern, ThirdRowPattern, BottomRowPattern
 
 recipes.addShapeless(<terrafirmacraft:item.Glass Bottle>,[<moegadd:CeramicBottleMoldMoltenGlass>,HHammer]);
