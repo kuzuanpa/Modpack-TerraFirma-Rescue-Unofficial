@@ -68,6 +68,10 @@ MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<minecraft:glass>);
 mods.forestry.ThermionicFabricator.removeCast(<minecraft:glass>);
 mods.forestry.ThermionicFabricator.removeCast(<minecraft:stained_glass>);
 furnace.remove(<minecraft:glass>);
+furnace.remove(<minecraft:brick>);
+furnace.remove(<minecraft:glass_pane>);
+MTUtilsGT.removeAllRecipes("mc.recipe.furnace",<minecraft:brick>);
+recipes.remove(<minecraft:stone_slab:4>);
 MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<minecraft:glass_bottle>);
 MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<terrafirmacraft:item.Glass Bottle>);
 
@@ -110,6 +114,11 @@ recipes.addShapeless(<minecraft:wool>,[<terrafirmacraft:item.WoolCloth>]);
 recipes.addShapeless(<minecraft:leather>,[<terrafirmacraft:item.TFC Leather>]);
 recipes.addShapeless(<terrafirmacraft:item.TFC Leather>,[<minecraft:leather>]);
 
+//Brick block
+recipes.addShaped(<minecraft:brick_block>*4,
+[[<minecraft:brick>,<terrafirmacraft:item.Mortar>,<minecraft:brick>],
+[<terrafirmacraft:item.Mortar>,<minecraft:brick>,<terrafirmacraft:item.Mortar>],
+[<minecraft:brick>,<terrafirmacraft:item.Mortar>,<minecraft:brick>]]);
 
 // Shears
 recipes.remove(<minecraft:shears>);
@@ -457,9 +466,9 @@ recipes.addShapeless(<minecraft:slime_ball>,[<tfctech:item.Glue>,<tfctech:item.G
 // ender chest
 recipes.remove(<minecraft:ender_chest>);
 recipes.addShaped(<minecraft:ender_chest>,
-[[<IC2:itemDensePlates:7>,<IC2:itemDensePlates:7>,<IC2:itemDensePlates:7>],
-[<IC2:itemDensePlates:7>,<gregtech:gt.meta.gearGtSmall:8319>,<IC2:itemDensePlates:7>],
-[<IC2:itemDensePlates:7>,<IC2:itemDensePlates:7>,<IC2:itemDensePlates:7>]]);
+[[<ore:plateObsidian>,<ore:plateObsidian>,<ore:plateObsidian>],
+[<ore:plateObsidian>,<gregtech:gt.meta.gearGtSmall:8319>,<ore:plateObsidian>],
+[<ore:plateObsidian>,<ore:plateObsidian>,<ore:plateObsidian>]]);
 
 /*----- Redstone Tab Overhual -----*/
 
@@ -589,15 +598,15 @@ mods.forestry.Carpenter.addRecipe(<minecraft:sapling:5> * 1, [[null, <Forestry:m
                                                             [null, <Forestry:mulch>, null]], <liquid:seedoil> * 100, 400);
 
 
-// Lilypad
-mods.forestry.Carpenter.addRecipe(<minecraft:waterlily> * 1, [[null, <Forestry:mulch>, null],
-                                                            [<IC2:itemFuelPlantBall>, <IC2:itemFuelPlantBall>, <IC2:itemFuelPlantBall>],
-                                                            [null, <Forestry:mulch>, null]], <liquid:water> * 100, 400);
-
-// Cactus
-mods.forestry.Carpenter.addRecipe(<minecraft:cactus> * 1, [[<minecraft:sand>, <IC2:itemFuelPlantBall>, <minecraft:sand>],
-                                                            [<Forestry:mulch>, <IC2:itemFuelPlantBall>, <Forestry:mulch>],
-                                                            [<minecraft:sand>, <IC2:itemFuelPlantBall>, <minecraft:sand>]], <liquid:water> * 100, 400);
+//// Lilypad
+//mods.forestry.Carpenter.addRecipe(<minecraft:waterlily> * 1, [[null, <Forestry:mulch>, null],
+//                                                            [<IC2:itemFuelPlantBall>, <IC2:itemFuelPlantBall>, <IC2:itemFuelPlantBall>],
+//                                                            [null, <Forestry:mulch>, null]], <liquid:water> * 100, 400);
+//
+//// Cactus
+//mods.forestry.Carpenter.addRecipe(<minecraft:cactus> * 1, [[<minecraft:sand>, <IC2:itemFuelPlantBall>, <minecraft:sand>],
+//                                                            [<Forestry:mulch>, <IC2:itemFuelPlantBall>, <Forestry:mulch>],
+//                                                            [<minecraft:sand>, <IC2:itemFuelPlantBall>, <minecraft:sand>]], <liquid:water> * 100, 400);
 
 
 // Planks

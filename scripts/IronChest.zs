@@ -90,7 +90,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 400, 0, [10000],
 [<IronChest:BlockIronChest:5>]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 256, 400, 0, [10000],
-[<IronChest:BlockIronChest:5>,<IC2:itemDensePlates:7>*4],
+[<IronChest:BlockIronChest:5>,<gregtech:gt.meta.plate:8214>*4],
 [n],
 [n],
 [<IronChest:BlockIronChest:6>]);
