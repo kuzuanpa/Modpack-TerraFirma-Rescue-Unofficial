@@ -113,6 +113,17 @@ MTUtilsGT.addCustomRecipe("gt.recipe.bath", false, 0, 100, 1000, [10000],
 [<liquid:basepotashliquor> * 5000],
 [n]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.bath", false, 0, 100, 1000, [10000],
+[<gregtech:gt.meta.dust:8200>, tag0*0],
+[<liquid:water> * 5000],
+[<liquid:basepotashliquor> * 5000],
+[n]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.bath", false, 0, 100, 1000, [10000],
+[<gregtech:gt.meta.dust:8200>, tag0*0],
+[<liquid:ic2distilledwater> * 5000],
+[<liquid:basepotashliquor> * 5000],
+[n]);
 
 //mu zhi
 recipes.addShapeless(<tfcprimitivetech:itemWoodenTwig>,[<terrafirmacraft:item.stick>,SHammer]);
