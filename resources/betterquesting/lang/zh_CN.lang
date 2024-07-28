@@ -131,7 +131,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.desc=
 
 # Quest: tfr.quest460.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.name=我该挖什么？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.desc=在获取第一把铜镐之后你就可以挖掘石头中的矿而不用继续采集地表的矿粒了. %n%n找到地上的矿物石子之后你可以用我送给你的勘矿镐右键附近的泥土, 会有文字信息反馈给你这里的矿物量. %n(一般是以你敲击的方块为中心的25x25x25立方体)%n §*§*§c*个人推荐十字定位法(经纬度定位)：%n §r      首先找到一个巨量的位置, 大概是中心(如果没有巨量请在地表矿粒处找到大概中心位置下挖)%n       然后选一个方向, 比如x轴方向, 在这条直线上探矿, 直到探到大量%n       打个比方, 你探到结果是这样的%n           大量 大量 大量 大量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 大量 大量%n       那么就在“巨量”的两端的中点定位, 即加粗的两个中选一个%n       然后站在你找到的这个中点, 在与之前的方向垂直的方向(之前是x轴, 现在就是z轴)探一条线%n       打个比方, 你探到的结果是这样的%n           大量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 大量%n       那么这次“巨量”的两端的中点, 即加粗位置, 就是矿脉的中心了. %n%n前期建议你挖掘铜矿, 煤矿, 锡矿, 铋矿等, 进入Tier1后可以挖掘铁矿等. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.desc=在获取第一把铜镐之后你就可以挖掘石头中的矿而不用继续采集地表的矿粒了. %n%n找到地上的矿物石子之后你可以用我送给你的勘矿镐右键附近的泥土, 会有文字信息反馈给你这里的矿物量. %n(一般是以你敲击的方块为中心的25x25x25立方体)%n 升级勘矿技能等级会获得更详细和明显的信息提示, 升级到学徒等级后还可以通过破坏方块探测深处的矿物. %n%n §*§*§c*个人推荐十字定位法(经纬度定位)：%n §r      首先找到一个巨量的位置, 大概是中心(如果没有巨量请在地表矿粒处找到大概中心位置下挖)%n       然后选一个方向, 比如x轴方向, 在这条直线上探矿, 直到探到大量%n       打个比方, 你探到结果是这样的%n           大量 大量 大量 大量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 大量 大量%n       那么就在“巨量”的两端的中点定位, 即加粗的两个中选一个%n       然后站在你找到的这个中点, 在与之前的方向垂直的方向(之前是x轴, 现在就是z轴)探一条线%n       打个比方, 你探到的结果是这样的%n           大量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 大量%n       那么这次“巨量”的两端的中点, 即加粗位置, 就是矿脉的中心了. %n%n前期建议你挖掘铜矿, 煤矿, 锡矿, 铋矿等, 进入Tier1后可以挖掘铁矿等.
 
 # Quest: tfr.quest461.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.name=支撑柱
@@ -285,7 +285,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=进入了灰铁时代的你
 
 # Quest: tfr.quest11.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=§b§l金属熔炼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=想暂时告别在砧上打板, 加工部分零件吗？这台格雷科技的坩埚是你最好的帮手. %n%n§l注意：这台坩锅不能加工你挖到的原矿！你必须将原矿处理为粉碎的矿石/洗净的矿石/矿石粉, 或者变成金属单质, 之后才能熔炼他们. 现在对你来说, 这台坩锅最大的用途在于制作合金. 有了这台坩锅, 制作黑钢、蓝钢、红钢等复杂合金变得更加简单. %n%n§r用法：首先, 把燃烧室放坩锅正下方, 把模具放在干锅一个y平面上, 贴着坩锅摆放. 将要熔炼的物品丢进干锅, 然后右键燃烧室放入任何燃料, 如煤炭, 木头等. 接下来, 用起火器(GT)右键燃烧室, 有几率点起火. 接着, 你可以等待干锅中金属熔化, 或者合金变色. 用手/钳子右键模具, 即可导出金属. 等待金属凝固后, 再次右键就可以取出金属了. 如果不用钳子, 你会受到烫伤. %n%n坩锅的介绍里有一个熔毁温度, 一旦持续加温超过该温度, 坩锅就会熔毁(周围的方块不会被破坏, 但是你的坩锅会消失), 我建议你做完这个任务后, 在使用之前, 先看看旁边的温度任务. %n%n模具可以用凿子做成各种形状, 如板, 锭, 杆, 齿轮. 具体可以看教程. 导出金属就是你做成的形状. 比如板就是全部凿空. 这将大大节省你的时间. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=想暂时告别在砧上打板, 加工部分零件吗？这台格雷科技的坩埚是你最好的帮手. %n%n§l注意：这台坩锅不能加工你挖到的原矿！你必须将原矿处理为粉碎的矿石/洗净的矿石/矿石粉, 或者变成金属单质, 之后才能熔炼他们. 现在对你来说, 这台坩锅最大的用途在于制作合金. 有了这台坩锅, 制作黑钢、蓝钢、红钢等复杂合金变得更加简单. %n%n§r用法：首先, 把燃烧室放坩锅正下方, 把模具放在坩埚一个y平面上, 贴着坩锅摆放. 将要熔炼的物品丢进坩埚, 然后右键燃烧室放入任何燃料, 如煤炭, 木头等. 接下来, 用起火器(GT)右键燃烧室, 有几率点起火. 接着, 你可以等待坩埚中金属熔化, 或者合金变色. 用手/钳子右键模具, 即可导出金属. 等待金属凝固后, 再次右键就可以取出金属了. 如果不用钳子, 你会受到烫伤. %n%n坩锅的介绍里有一个熔毁温度, 一旦持续加温超过该温度, 坩锅就会熔毁(周围的方块不会被破坏, 但是你的坩锅会消失), 我建议你做完这个任务后, 在使用之前, 先看看旁边的温度任务. %n%n模具可以用凿子做成各种形状, 如板, 锭, 杆, 齿轮. 具体可以看教程. 导出金属就是你做成的形状. 比如板就是全部凿空. 这将大大节省你的时间.
 
 # Quest: tfr.quest13.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.name=§b§l锻铁砧
@@ -321,7 +321,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=流体燃烧室能在堵上的�
 
 # Quest: tfr.quest101.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=温度
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=不同的熔炼干锅有不同的熔毁温度, 你可以在tootip看到. 这决定了他们能够冶炼的金属的最高熔点. 比如, 用陶瓷坩锅无法冶炼铱, 但是铬干锅可以. 制作更高熔点的干锅十分重要, 他让你冶炼更强大的金属. 一般来说, 干锅制作路线是：陶瓷-铬-铱. 对于现在的你来说, 你能获得的最高等级干锅就铱了. %n%n为了避免坩锅超过温度融毁, 你需要制作一个温度计来实时地查看坩锅的温度情况. %n%n首先准备一个玻璃瓶, 然后你需要三个朱砂粉, 丢进坩埚, 装一瓶需要144L液态汞. 丢两个木板进燃烧室点火(不能丢太多燃料, 汞很容易就蒸发了), 刚好可以让朱砂转化成汞, 而汞在常温下是液态的, 所以不用担心会凝固. 用玻璃瓶直接对着坩埚内的液体右键就可以获得汞瓶啦. 获得温度计之后我们就可以随时监控坩埚的温度再也不怕炸锅啦. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=不同的熔炼坩埚有不同的熔毁温度, 你可以在tootip看到. 这决定了他们能够冶炼的金属的最高熔点. 比如, 用陶瓷坩锅无法冶炼铱, 但是铬坩埚可以. 制作更高熔点的坩埚十分重要, 他让你冶炼更强大的金属. 一般来说, 坩埚制作路线是：陶瓷-铬-铱 或者 陶瓷-铬-铌钛-钼. %n%n为了避免坩锅超过温度融毁, 你需要制作一个温度计来实时地查看坩锅的温度情况. %n%n首先准备一个玻璃瓶, 然后你需要三个朱砂粉, 丢进坩埚, 装一瓶需要144L液态汞. 丢两个木板进燃烧室点火(不能丢太多燃料, 汞很容易就蒸发了), 刚好可以让朱砂转化成汞, 而汞在常温下是液态的, 所以不用担心会凝固. 用玻璃瓶直接对着坩埚内的液体右键就可以获得汞瓶啦. 获得温度计之后我们就可以随时监控坩埚的温度再也不怕炸锅啦.
 
 # Quest: tfr.quest106.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.name=燃烧吧!~~
@@ -718,7 +718,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfw.desc=为了获得原版的铁锭, �
 
 # Quest: tfru.q75n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLw.name=水
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLw.desc=你可能在地底找到了水泉, 恭喜你, 从现在起很长一段时间不需要担心水源问题了%n%n如果你的水很多想找地方浪费, 尝试离心它
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLw.desc=你可能在地底找到了水泉, 恭喜你, 从现在起很长一段时间不需要担心水源问题了%n%n热温泉水可以产热, 但不能直接用于大部分配方, 将它通过一次统一机即可%n%n如果你的水很多想找地方浪费, 尝试离心它
 
 # Quest: tfru.q76n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMA.name=天然气
@@ -736,6 +736,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=部分机器在处理一些东�
 ## Quest Line: tfr.line5.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - 红石时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=一种古老的能量, 蕴含在藏在大地深处的红石矿中. 它将做为您进入电力时代的跳板.
+
+# Quest: tfru.q205n
+betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.name=更多管道
+betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.desc=这些来自ThermalDynamics的管道可以传输能量, 同时有过滤, 红石控制等功能, 比gt管道更智能, 详见"管道附件"任务. 使用来自林业的扳手可以断开管道连接
 
 # Quest: tfr.quest25.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=发电机控制板
@@ -777,9 +781,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=实际上这玩意并不高级,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=木工机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=一台很实用的机器, 最关键在于能制作原版树苗
 
-# Quest: tfr.quest709.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.name=RF传输
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.desc=这是你飞出群峦星之前唯一的RF传输方式.红石通量装载机将RF传输到矿车上, 红石通量卸载机把RF从矿车上卸下.线缆连接卸载机即可.%n
+# Quest: tfru.q204n
+betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=管道附件
+betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=这些附件可以连接到管道跟容器的连接处%n%n伺服器用于抽取相连容器物体到网络, 检索器用于抽取网络连接的所有其他容器向相连容器输出, 过滤器不提供推力仅做过滤（伺服器与检索器均有过滤功能）
 
 
 ## Quest Line: tfr.line3.name
@@ -793,10 +797,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=§2§1§1你的第一台用电�
 # Quest: tfr.quest38.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=基础电子电路(焊接完成)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=和制作镀锌钢的方式类似, 在不锈钢浸洗盆内导入熔融焊料, 再浸洗电路板就能得到电子电路. 要注意的是, 焊料一共有三种：铅, 锡, 钎焊合金(锡和锑9:1制成). 若分别使用铅或者锡作为焊料, 得到的电子电路会比电路板的等级低2级和1级, 只有用钎焊合金才能保证得到的电子电路等级不下降. 焊接时请使用熔融钎焊合金焊接以避免不必要的损失. %n%n%n基础电子电路用于制作一部分LV用电器, 也用于制作蒸馏塔. 蒸馏塔能够产出塑料, 以便快速生产电路基板. 
-
-# Quest: tfr.quest40.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=不想洗矿了就学化学吧
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=请查看nei了解具体配方,当前阶段铬处理会剩下一种较难处理的含铬产物, 当你进入HV后可以将铬铁矿彻底处理为铬. 注意铬铁矿处理中的副产物并不是完全自循环的,你需要额外补充少量硫酸和许多氧气.
 
 # Quest: tfr.quest42.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=高温搅拌机(LV)
@@ -1010,13 +1010,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.desc=很不错的一台机器, 在�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKQ.name=更多目标
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKQ.desc=某些情况下, 可能需要过滤不止一个目标, 这种过滤器块可以帮助你实现它.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.desc=
+# Quest: tfru.q206n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.name=自动开关
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.desc=这种开关可以贴在机器上, 可以自动启停机器和机器直接连接的能源, 但从能源到机器有经过能量转换器的不可以自动启停, 参考下面的"红石开关"任务%n%n例如: 使用内燃机/蒸汽涡轮驱动的RU机器贴上开关可以自动启停, 但使用内燃机经过旋转动能引擎驱动KU机器贴上开关则不能自动启停
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.desc=
+# Quest: tfru.q207n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.name=红石开关
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.desc=这种开关可以启停机器/能源, 一般与活动传感器配合, 在机器可以工作时才启动能源, 可以大幅节省燃料.
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.name=
@@ -1033,6 +1033,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=利用从地狱挖掘到的辉�
 # Quest: tfru.q190n
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=大范围区块加载
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=使用了大量珍贵的魔力材料制作的珍贵物品,使用这个可以一次性加载至多361个区块(19*19),适合加载自己的主要工厂..
+
+# Quest: tfr.quest40.name
+betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=不想洗矿了就学化学吧
+betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=请查看nei了解具体配方,当前阶段铬处理会剩下一种较难处理的含铬产物, 当你进入HV后可以将铬铁矿彻底处理为铬. 注意铬铁矿处理中的副产物并不是完全自循环的,你需要额外补充少量硫酸和许多氧气.
 
 
 ## Quest Line: tfr.line11.name
@@ -1886,9 +1890,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=经过处理的火石成为了�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=§d[AE]质量-信息转换技术
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=一种神奇的蓝色水晶-赛特斯-将允许你通过建造一种名为ME的网络, 开启一个潜能无限的自动化工厂
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
+# Quest: tfru.q211n
+betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.name=库存维持
+betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.desc=这个机器会自动发布合成任务, 维持网络中某种物品的储量.
+
+# Quest: tfru.q210n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=走向智能
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=ae并不只是个大仓库, 前方将真正走入ae最重要的功能之一: 自动化, 但是你需要一些栖息于外星的奇异金属：智金...使用它制作出智能核心, 才可以正确规划物品和流体的规律流动 %n%n提示: ae的自动化内容较为复杂, 建议提前找资料或视频学习一下, 任务书并不能面面俱到.
 
 # Quest: tfr.quest343.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=蚀刻模板
@@ -1944,7 +1952,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=简单来讲, %n%n§a分子装�
 
 # Quest: tfr.quest533.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=安全！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=给你的ae网络上一个锁！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=可以控制不同玩家能否访问你的ae网络, 绑定无线终端也需要使用它.
 
 # Quest: tfr.quest544.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=升级升级升级！
@@ -1956,11 +1964,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=远距离拿取物品
 
 # Quest: tfr.quest546.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=p2p技术
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=点对点传输?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=使用内存卡shift右键创建配置, 右键粘贴配置, 配置相同的p2p通道将会连接, 可以传输32个me频道%n%n具有许多其他类型(具体请NEI搜索p2p), 可以使用有关的物品右键以调谐p2p通道.
 
 # Quest: tfr.quest547.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=真 空间传输技术
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n将八个量子环摆成环状, 中间放一个量子链接仓即可成型%n两个该结构即可进行跨空间运输%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n将八个量子环摆成环状, 中间放一个量子链接仓即可成型%n两个该结构即可进行将量子环两侧的网络直接连在一起(也就是量子环等于一节可以跨维度的超长的导线).%n
 
 # Quest: tfr.quest548.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=大型空间传送技术
@@ -1972,23 +1980,35 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=如果真把这些装满的话%
 
 # Quest: tfr.quest550.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=液体储存元件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=使ae网络能储存液体%n%n%n注：气体也同理, 气体存储元件即可储存气体%n§1§4§b§c§e§k§n§r§l§n§m§m§m§m§l§r§l§r§m并不是我懒不想写x
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=使ae网络能储存流体, 气体和液体都可以存于其中.
 
 # Quest: tfru.q138n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=流体终端
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=可以通过该终端向ME网络中输入流体, 理论上来说任意储罐均可交互
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
+# Quest: tfru.q212n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=me接口
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=ae绝对的核心配件之一, 可以允许ae网络与其他机器交互. %n第一行带下箭头的格子可以设置物品在该接口中的储存量, 第二行的空格子是me接口的物品栏, 其他me接口中的内容物会立刻返回ae网络, 下面几行是放置样板的格子, 默认只有一行, 可以插入样板容量卡解锁其他行.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
+# Quest: tfru.q213n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=二合一me接口
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=二合一me接口可以与机器进行物品和流体交互, 点击切换按钮可以设置流体储存量, 其他逻辑相同
 
 # Quest: tfru.q139n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=海量存储
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=存储一整片海!
+
+# Quest: tfru.q214n
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=无限水元件
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=彻底解决你的水资源焦虑, 该元件可以无限取出水. %n%n你问无限中子物质元件? 门都没有!
+
+# Quest: tfru.q209n
+betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=无限访问
+betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.desc=安装量子卡之后可以允许无线终端与量子环连接, 可以在任何维度任何位置访问你的ae网络.
+
+# Quest: tfru.q208n
+betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.name=万能终端
+betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.desc=这台无限终端可以完美管理你的整个ae网络, 彻底抛弃那些桎梏你脚步的有线终端吧.
 
 
 ## Quest Line: tfr.line12.name
@@ -2109,7 +2129,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守卫村庄
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我们的村庄被盯上了！帮我们制造几个头盔吧, 我会报答你的！
 
 # Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=北京第三交通委
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=群峦星第三交通委
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=最近我们需要铺设一些铁路, 你能制造一些结实的轨道吗？
 
 # Quest: tfr.quest556.name
@@ -2165,21 +2185,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=你来到了世界的尽头
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=正在制作..
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=你来到了世界的尽头
 
-# Quest: tfru.q197n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=天翼族之冠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=来自盖亚的强大力量可以让你消耗魔力自由飞行, 但只能维持一段时间. %n%n获得天翼族之眼可以让你无限时间飞行. %n除此之外, 也可以潜行+右键它绑定一个坐标, 长按右键以回到绑定的坐标
-
-# Quest: tfru.q196n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=平原腰带
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=这种腰带在你持续奔跑时会逐渐提高你的速度, 适合平原使用
+# Quest: tfru.q
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 
 # Quest: tfru.q198n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=喷气背包
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=进入电力时代后即可制作消耗沼气的喷气背包, 它能提供竖直向上的推力, 但具有一定高度限制. %n%n沼气可由天然气转换而来, 空喷气背包放入gt的灌装机中即可填充
 
-# Quest: tfru.q196n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=平原腰带
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=这种腰带在你持续奔跑时会逐渐提高你的速度, 适合平原使用
+# Quest: tfru.q
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
 
 # Quest: tfru.q193n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=曲速旅行
@@ -2634,10 +2650,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.desc=依靠吃树叶产生魔力, �
 # Quest: tfr.quest720.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.name=高速魔力通道
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.desc=使用火花可以让魔力在魔力池之间(需要安装火花升级)或魔力池与耗魔方块(比如泰拉凝聚板)之间高速传递魔力, 比发射器有千百倍的提升
-
-# Quest: tfr.quest738.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=天翼族之冠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=集合泰拉, 末影, 盖亚三种力量聚合而成, 可以让使用者拥有少量天翼族的能力, 即可以自由飞行, 不过需要消耗魔力与飞行能量
 
 # Quest: tfr.quest713.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.name=太阳花
@@ -3735,5 +3747,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=这特么就是个奇迹, 你�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=储物桶(青铜制)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=存储单件5000个物品
 
+# Quest: tfru.q197n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=天翼族之冠
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=天翼族之冠
+
 
 ### Quests in no quest lines ###
+
+# Quest: tfru.q203n
+betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=铬从哪来?
+betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=你很快就会需要很多铬…不管是MV和HV的不锈钢塔, 还是EV的机械外壳. %n%n直接挖掘铬铁矿后洗矿可以获得少量铬, 但处理铬铁矿需要MV电压. %n 你也可以离心洗矿获得的废水获取一些铬, 这也是较为可观的来源之一
+
+# Quest: New Quest
+betterquesting.quest.eh8Y9kVoTgOx9VCIwdwa7w.name=
+betterquesting.quest.eh8Y9kVoTgOx9VCIwdwa7w.desc=
