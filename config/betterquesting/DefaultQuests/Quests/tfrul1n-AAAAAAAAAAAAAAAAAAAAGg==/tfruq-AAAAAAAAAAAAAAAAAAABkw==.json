@@ -11,8 +11,12 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "IC2:itemBoat",
+        "id:8": "betterquesting:placeholder",
         "Count:3": 1,
+        "tag:10": {
+          "orig_meta:3": 3,
+          "orig_id:8": "IC2:itemBoat"
+        },
         "Damage:2": 3,
         "OreDict:8": ""
       },
@@ -38,8 +42,12 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "IC2:itemBoat",
+          "id:8": "betterquesting:placeholder",
           "Count:3": 1,
+          "tag:10": {
+            "orig_meta:3": 1,
+            "orig_id:8": "IC2:itemBoat"
+          },
           "Damage:2": 1,
           "OreDict:8": ""
         }

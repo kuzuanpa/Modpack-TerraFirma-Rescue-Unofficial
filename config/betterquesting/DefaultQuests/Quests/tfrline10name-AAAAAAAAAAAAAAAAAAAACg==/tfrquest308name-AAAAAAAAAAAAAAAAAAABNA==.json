@@ -92,8 +92,12 @@
       "index:3": 0,
       "choices:9": {
         "0:10": {
-          "id:8": "IC2:itemWeedingTrowel",
+          "id:8": "betterquesting:placeholder",
           "Count:3": 1,
+          "tag:10": {
+            "orig_meta:3": 0,
+            "orig_id:8": "IC2:itemWeedingTrowel"
+          },
           "Damage:2": 0,
           "OreDict:8": ""
         },

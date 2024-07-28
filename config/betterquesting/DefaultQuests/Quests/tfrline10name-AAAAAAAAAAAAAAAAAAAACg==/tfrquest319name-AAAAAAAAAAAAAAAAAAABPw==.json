@@ -16,15 +16,19 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "IC2:itemCropSeed",
+        "id:8": "betterquesting:placeholder",
         "Count:3": 1,
         "tag:10": {
-          "owner:8": "IC2",
-          "scan:1": 4,
-          "name:8": "reed",
-          "growth:1": 1,
-          "resistance:1": 1,
-          "gain:1": 1
+          "orig_meta:3": 0,
+          "orig_tag:10": {
+            "owner:8": "IC2",
+            "scan:1": 4,
+            "name:8": "reed",
+            "growth:1": 1,
+            "resistance:1": 1,
+            "gain:1": 1
+          },
+          "orig_id:8": "IC2:itemCropSeed"
         },
         "Damage:2": 0,
         "OreDict:8": ""
@@ -51,11 +55,15 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "IC2:itemCropSeed",
+          "id:8": "betterquesting:placeholder",
           "Count:3": 5,
           "tag:10": {
-            "owner:8": "IC2",
-            "name:8": "reed"
+            "orig_meta:3": 0,
+            "orig_tag:10": {
+              "owner:8": "IC2",
+              "name:8": "reed"
+            },
+            "orig_id:8": "IC2:itemCropSeed"
           },
           "Damage:2": 0,
           "OreDict:8": ""
