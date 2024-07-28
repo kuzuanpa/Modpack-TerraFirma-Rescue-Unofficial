@@ -737,6 +737,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - Redstone Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=An ancient energy, contained in the red ore buried deep in the earth. It will be your springboard into the electric age. %n%n is based on GregTech, Railcraft, Forestry, and AdvRocktery.
 
+# Quest: tfru.q205n
+betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.name=
+betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.desc=
+
 # Quest: tfr.quest25.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Generator control panel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=Small logic circuit, but smart enough to control the generator to produce a steady current.
@@ -777,9 +781,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=It's actually not very advanced
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=Woodworking machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=A very practical machine, the most key is to be able to make the original book seedling
 
-# Quest: tfr.quest709.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6Q.desc=
+# Quest: tfru.q204n
+betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
+betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -793,10 +797,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=§2§1§ Your first electric de
 # Quest: tfr.quest38.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=Basic electronic circuit (welding completed)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=Similar to making galvanized steel, an electronic circuit can be obtained by introducing molten solder into a stainless steel dip basin and then dipping a circuit board. It is important to note that there are three types of solder: lead, tin, and brazing alloys (tin and antimony 9:1). If lead or tin is used as solder, the resulting electronic circuit will be 2 and 1 levels lower than the circuit board level, and only brazing alloy can ensure that the electronic circuit level does not drop. Please use molten brazing alloy for welding to avoid unnecessary loss. %n%n%n basic electronic circuits are used to make some LV appliances and also for making distillation columns. The distillation column can produce plastic for rapid production of subgrade panels.
-
-# Quest: tfr.quest40.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.name=I don't want to wash ores!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKA.desc=You need to make the chromite powder into sodium chromate, then into sodium dichromate, then into chromium oxide for the next step.%n It is a good choice to make a production line with aluminum.
 
 # Quest: tfr.quest42.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=High temperature mixer (LV)
@@ -1010,11 +1010,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.desc=A nice machine, more efficient 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q206n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q207n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.desc=
 
@@ -1033,6 +1033,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
 # Quest: tfru.q190n
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=
+
+# Quest: tfr.quest40.name
+betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=I don't want to wash ores!
+betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=You need to make the chromite powder into sodium chromate, then into sodium dichromate, then into chromium oxide for the next step.%n It is a good choice to make a production line with aluminum.
 
 
 ## Quest Line: tfr.line11.name
@@ -1886,7 +1890,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] Mass-Data Conversion
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=A magical blue crystal - Certus - will allow you to unlock a potentially infinite automated factory by building a network called ME - based on Applied Energistics 2
 
-# Quest: New Quest
+# Quest: tfru.q211n
+betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.name=
+betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.desc=
+
+# Quest: tfru.q210n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
 
@@ -1978,17 +1986,29 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Make ae network can store liqui
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q212n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q213n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
 
 # Quest: tfru.q139n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
+
+# Quest: tfru.q214n
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
+
+# Quest: tfru.q209n
+betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=
+betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.desc=
+
+# Quest: tfru.q208n
+betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.name=
+betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.desc=
 
 
 ## Quest Line: tfr.line12.name
@@ -2165,11 +2185,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
-# Quest: tfru.q197n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmQ.desc=
-
-# Quest: tfru.q196n
+# Quest: tfru.q
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 
@@ -2177,7 +2193,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 
-# Quest: tfru.q196n
+# Quest: tfru.q
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
 
@@ -2634,10 +2650,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.desc=
 # Quest: tfr.quest720.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.desc=
-
-# Quest: tfr.quest738.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
 
 # Quest: tfr.quest713.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIQ.name=
@@ -3735,5 +3747,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=This wonderous item can hold 18
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=Storage barrel (of bronze)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Store 5000 items per piece
 
+# Quest: tfru.q197n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
+
 
 ### Quests in no quest lines ###
+
+# Quest: tfru.q203n
+betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
+betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
+
+# Quest: New Quest
+betterquesting.quest.eh8Y9kVoTgOx9VCIwdwa7w.name=
+betterquesting.quest.eh8Y9kVoTgOx9VCIwdwa7w.desc=
