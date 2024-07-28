@@ -165,8 +165,8 @@ recipes.addShaped(<appliedenergistics2:tile.BlockDrive>,
 recipes.remove(<appliedenergistics2:tile.BlockInterface>);
 recipes.addShaped(<appliedenergistics2:tile.BlockInterface>,
 [[null,<ktfruaddon:ktfru.item.compact:100>,null],
-[<appliedenergistics2:item.ItemMultiMaterial:43>,<gregtech:gt.meta.machine:8636>,<appliedenergistics2:item.ItemMultiMaterial:44>],
-[null,<gregtech:gt.multiitem.technological:12041>,null]]);
+[<appliedenergistics2:item.ItemMultiPart:16>,<gregtech:gt.multitileentity:18002>,<appliedenergistics2:item.ItemMultiPart:16>],
+[<appliedenergistics2:item.ItemMultiMaterial:43>,null,<appliedenergistics2:item.ItemMultiMaterial:44>]]);
 
 // Energy Acceptor
 recipes.remove(<appliedenergistics2:tile.BlockEnergyAcceptor>);
@@ -462,7 +462,7 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 200, 0, [10000],
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<appliedenergistics2:item.ItemMultiMaterial:25>);
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:25>);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 200, 0, [10000],
-[calc,redcab*4,ticasing*4,<IC2:itemCasing:3>*2],
+[calc,redcab*4,ticasing*4,<gregtech:gt.meta.casingSmall:8636>*2],
 [n],
 [n],
 [<appliedenergistics2:item.ItemMultiMaterial:25>]);
@@ -577,9 +577,9 @@ recipes.addShaped(<appliedenergistics2:item.ItemMultiPart:300>,
 // ME Fluid Storage casing F
 recipes.remove(<ae2fc:fluid_interface>);
 recipes.addShaped(<ae2fc:fluid_interface>,
-[[<ore:ingotIron>,pump,<ore:ingotIron>],
+[[<ore:ingotIron>,<ore:blockGlass>,<ore:ingotIron>],
 [<ore:blockGlass>,<appliedenergistics2:tile.BlockInterface>,<ore:blockGlass>],
-[<ore:ingotIron>,pump,<ore:ingotIron>]]);
+[<ore:ingotIron>,<ore:blockGlass>,<ore:ingotIron>]]);
 
 // Output Bus F
 recipes.remove(<ae2fc:part_fluid_export>);
@@ -594,3 +594,8 @@ recipes.addShaped(<ae2fc:part_fluid_import>,
 [[<appliedenergistics2:item.ItemMultiMaterial:44>],
 [pump,<ktfruaddon:ktfru.item.compact:100>],
 [<gregtech:gt.meta.plate:220>]]);
+
+//Fluid Buffer
+recipes.remove(<ae2fc:fluid_buffer>);
+recipes.addShapeless(<ae2fc:fluid_buffer>,
+[<ae2fc:large_ingredient_buffer>,f1k,<ktfruaddon:ktfru.item.compact:100>]);
