@@ -38,26 +38,26 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "Botania:flower",
-          "Count:3": 1,
+          "id:8": "Botania:petal",
+          "Count:3": 4,
           "Damage:2": 1,
           "OreDict:8": ""
         },
         "1:10": {
-          "id:8": "Botania:flower",
-          "Count:3": 1,
+          "id:8": "Botania:petal",
+          "Count:3": 4,
           "Damage:2": 0,
           "OreDict:8": ""
         },
         "2:10": {
-          "id:8": "Botania:flower",
-          "Count:3": 1,
+          "id:8": "Botania:petal",
+          "Count:3": 4,
           "Damage:2": 9,
           "OreDict:8": ""
         },
         "3:10": {
-          "id:8": "Botania:flower",
-          "Count:3": 1,
+          "id:8": "Botania:petal",
+          "Count:3": 4,
           "Damage:2": 3,
           "OreDict:8": ""
         }

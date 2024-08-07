@@ -1030,6 +1030,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
 
+# Quest: tfru.q217n
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.name=
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.desc=
+
 # Quest: tfru.q190n
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=
@@ -1228,11 +1232,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q222n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
 
@@ -1725,25 +1729,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=Metal armor is not made in the 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=heroes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest383.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfw.name=Freedom within the stratosphere
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfw.desc=With two powerful jet engines, the electric jetpack USES only electricity to make it easy for you to fly, but not so high up in the thin air.
-
 # Quest: tfr.quest384.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=gliding
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=If you take off from a high altitude with your right hand glider, you can glide for a long time using Bernoulli's principle. It's a good way to travel a long way.
-
-# Quest: tfr.quest385.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.name=Reaction force!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.desc=A biogas jetpack is a good tool to get you flying by squirting down compressed biogas, but fill it up every now and then. By the way, a biogas jetpack is what makes an electric jetpack, so make one.
-
-# Quest: tfr.quest386.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.name=Nanoscale process
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.desc=An armor made of carbon fiber, which consumes electricity to withstand a certain amount of damage, is bad for not flying. For making quantum armor.
-
-# Quest: tfr.quest387.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.name=§ D § L. Pure as white
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=A high-tech suit of armor, equipped with a jetpack, consumes electricity to withstand high intensity hits.
 
 # Quest: tfr.quest388.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=Bipedal dragon armor
@@ -2480,10 +2468,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=[BOT] Magic awakening
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=From the forces of nature
 
 # Quest: tfru.q189n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=
-
-# Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=
 
@@ -3751,8 +3735,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Store 5000 items per piece
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
 
+# Quest: tfru.q218n
+betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
+betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
+
 
 ### Quests in no quest lines ###
+
+# Quest: New Quest
+betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.name=
+betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.desc=
 
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=

@@ -63,7 +63,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=NEI 搜索 3x3背包工作台�
 
 # Quest: tfr.quest132.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=NEI使用
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=打开物品栏按 O (默认)可以控制NEI开关.        %n左下角有选项-按键绑定-物品栏-查看物品合成或用途的按键. %n你可以改成你喜欢的按键.   %n       %n§lNEI可以翻页, 下面的翻页是看同一种处理方式的不同配方(也可以用鼠标滚轮翻), 上面的翻页查看不同的处理方式(比如用辊压机或砧)%n%n按U可以查看物品能做些什么, 比如查看青铜合成, 对铜或锡粉按U翻到合金熔炼页, 左下角有熔炼合金所需要的开尔文(§c温度§0§0§1§2§f§0), §还有合金的比例.        %n§6祝您游玩愉快. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=打开物品栏按 O (默认)可以控制NEI开关.        %n左下角有选项-按键绑定-物品栏-查看物品合成或用途的按键. %n你可以改成你喜欢的按键.   %n       %n§lNEI可以翻页, 下面的翻页是看同一种处理方式的不同配方(也可以用鼠标滚轮翻), 上面的翻页查看不同的处理方式(比如用辊压机或砧)%n%n按U可以查看物品能做些什么, 比如查看青铜合成, 对铜或锡粉按U翻到合金熔炼页, 左下角有熔炼合金所需要的温度(单位开尔文), §还有合金的比例.        %n§6祝您游玩愉快.
 
 # Quest: tfr.quest137.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.name=多人游戏
@@ -645,12 +645,12 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.name=纯净矿
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.desc=使用洗矿机可以洗净粉碎矿, 部分矿物会产生许多有用的副产矿物.
 
 # Quest: tfr.quest280.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.name=能量
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.desc=能量单位：Gu(格雷通用能量表示单位, 仅用于计量没有意义无法产生多用于nei表示处理配方所消耗的理论能量)%n%nHu热能(燃烧室产生)、%nKu动能(引擎产生)、%nRu旋转能(涡轮机或者电动机产生)、%nSu蒸汽能(锅炉产生)、%nEu电能(发电机产生, 这不是废话吗？)、%nLu激光能(CO2激光器产生)、%nQu量子能(复制东西用的, 由量子充能器产生)、%nCu冷能(由半导体制冷器产生)%nMU：磁场能(电磁铁产生)%nTU：时间能(浸洗器, 凝结器等不消耗能量的机器所消耗的名义能量)%nRF：红石通量(一种低效能量)%n%n能量之间的转换(无损情况, 在格雷中除了ZPM放电器以外其他不可能无损)：%n1Gu=1Hu=2Su=1Ru=1Ku=1Cu=1Lu=1Qu=1Eu=1Mu=2RF%nSu为两倍不要问我为什么
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.name=各种能量
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGA.desc=GU(格雷通用能量表示单位, 仅用于计量, 多用于nei表示处理配方所消耗的理论能量)%n§cHU热能§r(燃烧室产生)、%n§2KU动能§r(引擎产生)、%n§aRU旋转能§r(涡轮机或者电动机产生)、%n§7SU蒸汽能§r(锅炉产生)、%n§9EU电能§r(发电机产生)、%n§eLU激光能§r(CO2激光器产生)、%n§5QU量子能§r(复制东西用的, 由量子充能器产生)、%n§bCU冷能§r(由半导体制冷器产生)%n§8MU磁能§r(电磁铁产生)%n§1TU时间能§r(浸洗器, 凝结器等不消耗能量的机器所消耗的名义能量)%n§4RF红石通量§r(红石能量的流动, 常用于低端机器)%n%n能量之间的转换(无损情况, 在格雷中除了ZPM放电器以外其他不可能无损)：%n1GU=1§cHU§r=1§2KU§r=1§aRU§r=2§7SU§r=1§9EU§r=1§eLU§r=1§5QU§r=1§bCU§r=1§8MU§r=1§1TU§r=4§4RF
 
 # Quest: tfr.quest287.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=机器爆炸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=并不是所有机器都会爆炸, 具体情况请参考相应机器条目. %n%n所有爆炸30s检测一次. %n%n火焰爆炸：%n输入/输出的能源中, 包含EU或CU. %n机器六面相邻方块有火且对应面不防火. %n满足上述条件, 每次检测有百分之十几率发生爆炸. %n若输入输出能源中存在EU, 则产生威力4点的爆炸. %n若不存在EU, 即只存在CU, 则自身熔毁, 不会波及其他方块. %n%n%n遇水爆炸：%n输入/输出的能源中, 包含EU或HU. %n机器六面相邻方块有水且对应面不防水(某些覆盖板可以防水)%n产生威力4点的爆炸. %n%n%n下雨爆炸：%n输入/输出的能源中, 包含EU或HU. %n%n机器六面(上下左右前后)相邻方块有降雨, 群系可以降雨(存疑, 待测试). %n%n对应面不防雨(某些覆盖板可以坑). %n%n满足上述条件下, 有百分之一几率发生爆炸. %n%n产生威力4点的爆炸. %n%n%n%n雷击爆炸：%n%n输入/输出的能源中, 包含EU. %n%n机器五面(上左右前后, 没有底面)相邻方块有雷暴, 群系可以打雷. %n%n对应面不防雷(某些覆盖板可以防雷). %n%n满足上述条件下, 有1‰几率发生爆炸. %n%n产生威力4点的爆炸. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=机器损坏与爆炸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=1.过压: 机器接受过高的能量时, 若机器输入输出的能量中包含§9EU§r或§5QU§r, 则会立刻§c爆炸§r, 包含§cHU§r会立刻§6熔毁§r, 否则会立刻§e损坏§r并留下一地废料. %n%n2.泡水: 输入输出的能量中包含§cHU§r或§9EU§r的机器泡水/雨淋时可能§c爆炸§r. %n%n3.雷击: 输入输出含§9EU§r的机器被雷击时可能§c爆炸§r. %n%n4.起火: 输入输出含§9EU§r的机器起火时可能§c爆炸§r, 含§bCU§r的机器会§6熔毁 %n%nPS: 机器六面§c任意一面§r与水,雨,火等接触, 即视为机器泡水,起火等. %n%n§r对于你即将接触的机器: %n蒸汽引擎过热便会停机, 不会§e损坏§r. 而蒸汽涡轮机过压时waila会提示, 及时断开输入可以避免§e损坏§r%n其他普通机器仍按以上的规则处理.
 
 # Quest: tfr.quest375.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdw.name=虽然有限但是还是很多
@@ -730,7 +730,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADMw.desc=你可能在地底找到了油�
 
 # Quest: tfr.quest710.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.name=机器自动超频
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=部分机器在处理一些东西时会自动超频, 这可能导致你无法正确制造物品.%n%n具体说明如下: %n首先你应了解‘能量等级’%n规定16-64GU/t为1级, 65-256GU/t为2级, 257-1024GU/t为3级, 1025-4096GU/t为4级, 以此类推.%n%n机器和配方均有能量等级, 当机器的能量等级高于配方等级时, 机器将会自动超频%n该配方的所需功率提升至4倍, 所需时间降低一半 (即配方所需总能量提升至2倍), 机器等级高几级, 该操作便会执行几次%n%n如果你无法给予足够的超频后功率, 机器将会罢工.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=部分机器在处理一些东西时会自动超频, 这可能导致你无法正确制造物品.%n%n具体说明如下: %n首先你应了解‘能量等级’%n规定16-64GU/t为1级, 65-256GU/t为2级, 257-1024GU/t为3级, 1025-4096GU/t为4级, 以此类推.%n%n机器和配方均有能量等级, 当机器的能量等级高于配方等级时, 机器将会自动超频%n该配方的所需功率提升至4倍, 所需时间降低一半 (即配方所需总能量提升至2倍), 机器等级高几级, 该操作便会执行几次%n%n§e如果超频后功率不足, 实际工作速度还不如不超频的低级机器%n§r比如20GU/t的配方, 二级机器需要80GU/t才会工作, 此时速度与40GU/t的一级机器相同 §6如果你无法给予足够的超频后功率, 机器将会罢工.
 
 
 ## Quest Line: tfr.line5.name
@@ -792,7 +792,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=一种高效的二级能源
 
 # Quest: tfr.quest34.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§l电解器(LV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=§2§1§1你的第一台用电器, 一切的开始
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=§9你的第一台用电器, 一切的开始
 
 # Quest: tfr.quest38.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=基础电子电路(焊接完成)
@@ -1030,6 +1030,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=铌钛合金拥有更高的耐�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=钼坩埚
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=利用从地狱挖掘到的辉钼矿可以制作钼坩埚, 更高的溶化温度意味着更多能制作的合金和更高的容错度. %n%n下一次升级在上天之后.
 
+# Quest: tfru.q217n
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.name=万用表
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.desc=集成了多种能量检测单元，可以为你规划大型电网提供帮助
+
 # Quest: tfru.q190n
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=大范围区块加载
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=使用了大量珍贵的魔力材料制作的珍贵物品,使用这个可以一次性加载至多361个区块(19*19),适合加载自己的主要工厂..
@@ -1228,13 +1232,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=更大的热交换器, 具有�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=热能转换
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=拥有了足够的热量之后, 你便可以使用锅炉和蒸汽涡轮将其转化为其他能量. 请前往"多方块产能"任务页查看.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=你来到了世界的尽头
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=无损探伤
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=钴-60可以用于探伤, 这将尽可能检测出金属中存在的微小缺陷, 可以用于制作高转速高压力等极端工况的部件.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=你来到了世界的尽头
+# Quest: tfru.q221n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=钴-60增殖
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=将钴增殖棒放入核反应堆，其中的钴吸收中子后便会变为钴-60, 吸收足够的中子后增殖棒将转变为钴-60棒.
 
 
 ## Quest Line: tfr.line7.name
@@ -1725,25 +1729,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=金属装甲的制作和皮革�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=盖世英雄
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=金属装甲的制作和皮革不大一样：每种材质的装甲都需要对应材质或以上的金属砧锻造而成. 而且, 装甲锻造分为未完成和完成两个阶段, 所以对于你来说还是挺有挑战的. 不过, 他们能给你提供不错的保护. 
 
-# Quest: tfr.quest383.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfw.name=平流层以内的自由
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfw.desc=利用两个强力的喷气引擎, 电力喷气背包只消耗电力就可以让你方便的飞行, 但是不能飞到空气太稀薄的高空. 
-
 # Quest: tfr.quest384.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=滑翔翼
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=如果你手持滑翔翼右键从高处起飞, 你就能借助伯努利原理滑翔很长一段时间. 是个长途旅行的好方法. 
-
-# Quest: tfr.quest385.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.name=反作用力！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.desc=沼气喷气背包通过向下喷射压缩沼气来获得反作用力让你飞行, 是一个好工具, 但是要时不时地罐装沼气. 顺便说一句, 沼气喷气背包是制作电力喷气背包的原料, 所以做一个吧. 
-
-# Quest: tfr.quest386.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.name=纳米级工艺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.desc=一套碳纤维打造的装甲, 消耗电力以承受一定程度的打击, 坏处是不能飞. 用于制作量子装甲. 
-
-# Quest: tfr.quest387.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.name=§d§l洁白无瑕
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=一套高科技装甲, 自带喷气背包功能, 消耗电力以承受高强度的打击. 
 
 # Quest: tfr.quest388.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=双足飞龙装甲
@@ -1896,7 +1884,7 @@ betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.desc=这个机器会自动发布合�
 
 # Quest: tfru.q210n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=走向智能
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=ae并不只是个大仓库, 前方将真正走入ae最重要的功能之一: 自动化, 但是你需要一些栖息于外星的奇异金属：智金...使用它制作出智能核心, 才可以正确规划物品和流体的规律流动 %n%n提示: ae的自动化内容较为复杂, 建议提前找资料或视频学习一下, 任务书并不能面面俱到.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=ae并不只是个大仓库, 前方将真正走入ae最重要的功能之一: 自动化, 但是你需要一些栖息于外星的奇异金属：智金, 使用它制作出智能核心, 才可以正确规划物品和流体的规律流动 %n%n提示: ae的自动化内容较为复杂, 建议提前找资料或视频学习一下, 任务书并不能面面俱到.
 
 # Quest: tfr.quest343.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=蚀刻模板
@@ -1908,7 +1896,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=你需要光刻机与压力成�
 
 # Quest: tfr.quest522.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=核心终端
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=相当于主脑%n%n%n每个ME控制器有着32个频道, 意味着它可以供给总共32个端口/机器%n注意：普通线缆限制最高输出八个频道, 也就是你需要接四个面的线缆才能利用完全%n%n将数个ME控制器连在一起, 他们将会变为一个整体, §a线程总数共享%n但连接有着形态上的限制, 例如只能搭§4§0§1§2§3§5§6§7§8§9§a线性, 长方形§r或者§a长方体§r%n同时每个方向上最多连7个, 也就是最大为7*7*7的立方体%n%n注：其自带“能源接收器”的能量转换功能%n致密线缆可以拥有32个频道%n§9它也可以给相邻方块提供频道, 不需要线缆那种
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=相当于主脑%n%n%n每个ME控制器有着32个频道, 意味着它可以供给总共32个端口/机器%n注意：普通线缆限制最高输出八个频道, 也就是你需要接四个面的线缆才能利用完全%n%n将数个ME控制器连在一起, 他们将会变为一个整体, §a线程总数共享%n但连接有着形态上的限制, 例如只能搭§a线性, 长方形§r或者§a长方体§r%n同时每个方向上最多连7个, 也就是最大为7*7*7的立方体%n%n注：其自带“能源接收器”的能量转换功能%n致密线缆可以拥有32个频道%n§9它也可以给相邻方块提供频道, 不需要线缆那种
 
 # Quest: tfr.quest523.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=存储中心
@@ -2480,12 +2468,8 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=§a[BOT]魔法觉醒
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=来自自然的力量
 
 # Quest: tfru.q189n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=晴天娃娃
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=用魔力带走乌云.扔一个向日葵给它即可使天气放晴
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=晴天娃娃
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=用魔力带走乌云.扔一个向日葵给它即可使天气放晴
 
 # Quest: tfr.quest599.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVw.name=探究植物力量的起源
@@ -3751,8 +3735,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=存储单件5000个物品
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=天翼族之冠
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=天翼族之冠
 
+# Quest: tfru.q218n
+betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=附魔!
+betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=附魔可以进一步增强你的装备, 你能获取的所有附魔全部兼容群峦血量.
+
 
 ### Quests in no quest lines ###
+
+# Quest: New Quest
+betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.name=
+betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.desc=
 
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=铬从哪来?

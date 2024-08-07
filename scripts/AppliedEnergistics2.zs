@@ -157,9 +157,9 @@ recipes.addShaped(<appliedenergistics2:tile.BlockController>,
 // Drive
 recipes.remove(<appliedenergistics2:tile.BlockDrive>);
 recipes.addShaped(<appliedenergistics2:tile.BlockDrive>,
-[[null,<ore:ktfruBasicComputer>,null],
-[<appliedenergistics2:item.ItemMultiPart:16>,<gregtech:gt.meta.machine:220>,<appliedenergistics2:item.ItemMultiPart:16>],
-[null,<appliedenergistics2:item.ItemMultiMaterial:24>,null]]);
+[[<ore:ktfruBasicComputer>,<appliedenergistics2:item.ItemMultiPart:16>,<appliedenergistics2:item.ItemMultiMaterial:24>],
+[<appliedenergistics2:item.ItemMultiPart:16>,<ore:platePolycarbonate>,<ore:platePolycarbonate>],
+[<appliedenergistics2:item.ItemMultiMaterial:24>,<ore:platePolycarbonate>,<ore:platePolycarbonate>]]);
 
 // Interface
 recipes.remove(<appliedenergistics2:tile.BlockInterface>);
@@ -247,6 +247,18 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 256, 100, 0, [10000
 [n],
 [LogC]);
 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 250, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:0>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*32,<gregtech:gt.meta.foil:8660>*8],
+[n],
+[n],
+[<ktfruaddon:ktfru.item.compact:101>]);
+
+MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 250, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*32,<gregtech:gt.meta.foil:8660>*8],
+[n],
+[n],
+[<ktfruaddon:ktfru.item.compact:102>]);
+
 // ME Storage Units
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:35>);
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:36>);
@@ -258,42 +270,53 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:59>);
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:60>);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a1k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 270, 200, 0, [10000],
-[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20008>*2,<ktfruaddon:ktfru.item.it:10300>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 180, 200, 0, [10000],
+[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*2,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:molten.redalloy>*144],
 [n],
 [a1k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a4k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 350, 400, 0, [10000],
-[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<ktfruaddon:ktfru.item.it:20008>*8,<ktfruaddon:ktfru.item.it:10308>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 260, 400, 0, [10000],
+[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*8,<appliedenergistics2:item.ItemMultiMaterial:22>*4,<gregtech:gt.meta.wireFine:8660>*32,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:molten.redalloy>*144],
 [n],
 [a4k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a16k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 630, 600, 0, [10000],
-[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<ktfruaddon:ktfru.item.it:20012>*32,<ktfruaddon:ktfru.item.it:10301>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 380, 600, 0, [10000],
+[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*32,<appliedenergistics2:item.ItemMultiMaterial:22>*16,<gregtech:gt.meta.wireFine:8660>*64,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:molten.redalloy>*144],
-[n],
-[a16k]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 320, 48, 0, [10000],
-[<gregapi:gt.integrated_circuit:3>*0,a4k*3,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20012>*16,<ktfruaddon:ktfru.item.it:10301>],
-[<liquid:molten.redalloy>*72],
 [n],
 [a16k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a64k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 870, 800, 0, [10000],
-[<gregapi:gt.integrated_circuit:4>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8708>*64,<gregtech:gt.meta.wireFine:8708>*64,<ktfruaddon:ktfru.item.it:20012>*64,<ktfruaddon:ktfru.item.it:10309>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 520, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:0>*0,<ktfruaddon:ktfru.item.compact:101>,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8708>*4,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:molten.redalloy>*144],
 [n],
 [a64k]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 540, 82, 0, [10000],
-[<gregapi:gt.integrated_circuit:4>*0,a16k*3,<gregtech:gt.meta.wireFine:8708>*32,<ktfruaddon:ktfru.item.it:20012>*32,<ktfruaddon:ktfru.item.it:10309>],
-[<liquid:molten.redalloy>*72],
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a256k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 600, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:1>*0,<ktfruaddon:ktfru.item.compact:101>*3,<appliedenergistics2:item.ItemMultiMaterial:24>*2,<gregtech:gt.meta.wireFine:8708>*8,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:molten.redalloy>*288],
 [n],
-[a64k]);
+[a256k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a1024k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 800, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:2>*0,<ktfruaddon:ktfru.item.compact:101>*9,<appliedenergistics2:item.ItemMultiMaterial:24>*4,<gregtech:gt.meta.wireFine:8708>*24,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:molten.redalloy>*576],
+[n],
+[a1024k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",a4096k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1020, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:3>*0,<ktfruaddon:ktfru.item.compact:101>*27,<appliedenergistics2:item.ItemMultiMaterial:24>*8,<gregtech:gt.meta.wireFine:8708>*64,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:molten.redalloy>*576],
+[n],
+[a4096k]);
 
 //fluid Storage Unit
 val f1k   = <ae2fc:fluid_part:0>;
@@ -316,42 +339,53 @@ recipes.remove(<ae2fc:fluid_part:6>);
 recipes.remove(<ae2fc:fluid_part:7>);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 320, 200, 0, [10000],
-[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*3,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<ktfruaddon:ktfru.item.it:20008>*2],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 180, 200, 0, [10000],
+[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*2,<appliedenergistics2:item.ItemMultiMaterial:22>,<gregtech:gt.meta.wireFine:8660>*8,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:ic2coolant>*144],
 [n],
 [f1k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f4k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 440, 400, 0, [10000],
-[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*12,<appliedenergistics2:item.ItemMultiMaterial:23>,<gregtech:gt.meta.wireFine:8660>*32,<ktfruaddon:ktfru.item.it:20008>*8],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 260, 400, 0, [10000],
+[<gregapi:gt.integrated_circuit:2>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*8,<appliedenergistics2:item.ItemMultiMaterial:22>*4,<gregtech:gt.meta.wireFine:8660>*32,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:ic2coolant>*144],
 [n],
 [f4k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f16k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 670, 600, 0, [10000],
-[<gregapi:gt.integrated_circuit:13>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*48,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8660>*64,<ktfruaddon:ktfru.item.it:20012>*32],
-[<liquid:ic2coolant>*144],
-[n],
-[f16k]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 380, 48, 0, [10000],
-[<gregapi:gt.integrated_circuit:3>*0,f4k*3,<gregtech:gt.meta.wireFine:8660>*4,<ktfruaddon:ktfru.item.it:20012>*16],
-[<liquid:ic2coolant>*144],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 380, 600, 0, [10000],
+[<gregapi:gt.integrated_circuit:3>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*32,<appliedenergistics2:item.ItemMultiMaterial:22>*16,<gregtech:gt.meta.wireFine:8660>*64,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:ic2coolant>*288],
 [n],
 [f16k]);
 
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f64k);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 980, 800, 0, [10000],
-[<gregapi:gt.integrated_circuit:14>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*64,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8708>*64,<gregtech:gt.meta.wireFine:8708>*64,<ktfruaddon:ktfru.item.it:20012>*64],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 520, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:0>*0,<ktfruaddon:ktfru.item.compact:102>,<appliedenergistics2:item.ItemMultiMaterial:24>,<gregtech:gt.meta.wireFine:8708>*4,<gregtech:gt.meta.plate:8199>*2],
 [<liquid:ic2coolant>*144],
 [n],
 [f64k]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 520, 82, 0, [10000],
-[<gregapi:gt.integrated_circuit:4>*0,f16k*3,<gregtech:gt.meta.wireFine:8708>*32,<ktfruaddon:ktfru.item.it:20012>*32],
-[<liquid:ic2coolant>*144],
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f256k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 600, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:1>*0,<ktfruaddon:ktfru.item.compact:102>*3,<appliedenergistics2:item.ItemMultiMaterial:24>*2,<gregtech:gt.meta.wireFine:8708>*8,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:ic2coolant>*288],
 [n],
-[f64k]);
+[f256k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f1024k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 820, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:2>*0,<ktfruaddon:ktfru.item.compact:102>*9,<appliedenergistics2:item.ItemMultiMaterial:24>*4,<gregtech:gt.meta.wireFine:8708>*24,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:ic2coolant>*576],
+[n],
+[f1024k]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",f4096k);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1000, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:3>*0,<ktfruaddon:ktfru.item.compact:102>*27,<appliedenergistics2:item.ItemMultiMaterial:24>*8,<gregtech:gt.meta.wireFine:8708>*64,<gregtech:gt.meta.plate:8199>*2],
+[<liquid:ic2coolant>*576],
+[n],
+[f4096k]);
 
 // Remove Quartz glass
 recipes.remove(<appliedenergistics2:tile.BlockQuartzGlass>);

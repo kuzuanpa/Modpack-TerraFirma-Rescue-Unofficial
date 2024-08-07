@@ -236,10 +236,15 @@ recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
 // Moon Turf processing
 MTUtilsGT.removeAllRecipes("gt.recipe.centrifuge",<gregtech:gt.meta.dust:8514>);
 MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 1024, 0, [9000],
-[<advancedRocketry:moonTurf>],
+[<advancedRocketry:moonTurf>*4],
 [null],
-[<liquid:enderair>*200],
+[<liquid:enderair>*250],
 [<gregtech:gt.meta.dust:8514>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 1024, 0, [9000],
+[<advancedRocketry:moonTurf_dart>],
+[null],
+[<liquid:enderair>*250],
+[<gregtech:gt.meta.dust:8514>*4]);
 
 // Hot Turf processing
 MTUtilsGT.removeAllRecipes("gt.recipe.centrifuge",<gregtech:gt.meta.dustTiny:9176>);

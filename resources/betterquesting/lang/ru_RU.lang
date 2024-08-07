@@ -1030,6 +1030,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
 
+# Quest: tfru.q217n
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.name=
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.desc=
+
 # Quest: tfru.q190n
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=
@@ -1228,11 +1232,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q222n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
 
@@ -1725,25 +1729,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=Металлическая бр
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=Гестапо.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=Металлическая броня отличается от кожи: каждая броня из материала должна быть выкована из соответствующего материала или выше наковальни. Кроме того, бронированная ковка разделена на две стадии, которые не закончены и не завершены, так что для тебя это все еще довольно сложно. Но они могут обеспечить тебе хорошую защиту.
 
-# Quest: tfr.quest383.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfw.name=Свобода в пределах стратосферы
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfw.desc=С помощью двух мощных реактивных двигателей, реактивный ранец потребляет только энергию для удобного полета, но не для полета на слишком разреженных высотах.
-
 # Quest: tfr.quest384.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=Скольжение.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=Если вы взлетаете с высоты с правой клавишой дельтапланергического крыла, вы сможете скользить по принципу бернулли долгое время. Отличный способ для долгой поездки.
-
-# Quest: tfr.quest385.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.name=Ответный удар!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgQ.desc=Реактивные ранцы получают ответный удар, впрыскивая вниз сжатый метан, чтобы заставить вас лететь, это хороший инструмент, но время от времени консервированный метан. Кстати, метан-реактивный ранец-это ингредиент для производства реактивных ранцев, так что сделай Один.
-
-# Quest: tfr.quest386.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.name=нанотехнология
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgg.desc=Броня, сделанная из углеродного волокна, потребляет энергию, чтобы выдержать удар, а минус в Том, что она не может летать. Используется для создания квантовой брони.
-
-# Quest: tfr.quest387.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.name="Ди" безупречно белый
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgw.desc=Высокотехнологичная броня, оснащенная реактивными ранцами, потребляет энергию для выдерживания мощных ударов.
 
 # Quest: tfr.quest388.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=Броня двойного летающего дракона
@@ -2480,10 +2468,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=Магическое про
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=От силы природы
 
 # Quest: tfru.q189n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjQ.desc=
-
-# Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=
 
@@ -3751,8 +3735,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=В хранилище 5000 пр
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
 
+# Quest: tfru.q218n
+betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
+betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
+
 
 ### Quests in no quest lines ###
+
+# Quest: New Quest
+betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.name=
+betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.desc=
 
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
