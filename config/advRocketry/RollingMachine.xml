@@ -1270,14 +1270,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotGreenFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8439</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotDoubleEnderium</oreDict>
 		</input>
 		<output>
@@ -1846,14 +1838,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotMagentaFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8444</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotQuintupleAntiCobalt</oreDict>
 		</input>
 		<output>
@@ -2138,14 +2122,6 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;4520</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotRedFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8436</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -7078,14 +7054,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotBlackFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8440</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotFrancium</oreDict>
 		</input>
 		<output>
@@ -7894,14 +7862,6 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>ingotPinkFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8437</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotTripleLead</oreDict>
 		</input>
 		<output>
@@ -8162,14 +8122,6 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;660</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotYellowFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8442</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -9786,14 +9738,6 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;4943</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotWhiteFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8441</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -12018,14 +11962,6 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;4780</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotOrangeFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8443</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -14554,14 +14490,6 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;4480</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
-			<oreDict>ingotBlueFluorite</oreDict>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plate;1;8438</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">

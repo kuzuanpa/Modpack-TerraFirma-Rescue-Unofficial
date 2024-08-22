@@ -49,12 +49,6 @@ MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16, 32 ,0,[10000],
 [n],
 [<gregtech:gt.multiitem.technological:30002>]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16, 64 ,0,[10000],
-[<gregtech:gt.multiitem.technological:30002>,<gregtech:gt.multiitem.technological:30101>*4],
-[n],
-[n],
-[<gregtech:gt.multiitem.technological:30201>]);
-
 /**FR recipes for t1-t2 circuit part*/
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
@@ -68,12 +62,12 @@ mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:
 
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30102>, [
 [n, <gregtech:gt.meta.wireFine:8660>, n],
-[n,   <advancedRocketry:circuitIC:3>,  n],
+[n,   <advancedRocketry:circuitIC:2>,  n],
 [n, <gregtech:gt.meta.wireFine:8602>, n]], 100, <gregtech:gt.multiitem.technological:30101>);
 
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30102>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
-[n,  <advancedRocketry:circuitIC:3>, n],
+[n,  <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:8602>, n]], 100, <gregtech:gt.multiitem.technological:30101>);
 
 //tui huo tong
@@ -113,13 +107,13 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 40, 20 ,0,[10000],
 [<gregtech:gt.multiitem.technological:30101>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 140, 20 ,0,[10000],
-[<advancedRocketry:circuitIC:3>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8602>],
+[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8602>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30102>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 200, 20 ,0,[10000],
-[<advancedRocketry:circuitIC:3>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8602>],
+[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8602>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30102>]);

@@ -86,6 +86,7 @@ recipes.addShaped(<ThermalDynamics:ThermalDynamics_16:2>*2,
 [<ore:plateCurvedStainlessSteel>,<Railcraft:glass>,<ore:plateCurvedStainlessSteel>],
 [null,null,null]]);
 
+recipes.remove(<ThermalDynamics:ThermalDynamics_16:3>);
 recipes.addShaped(<ThermalDynamics:ThermalDynamics_16:3>*2,
 [[null,null,null],
 [<ore:plateCurvedStainlessSteel>,<ore:ingotAnyIron>,<ore:plateCurvedStainlessSteel>],

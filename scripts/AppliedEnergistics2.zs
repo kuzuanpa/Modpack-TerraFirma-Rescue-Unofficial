@@ -387,6 +387,18 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1000, 800, 0, [10000]
 [n],
 [f4096k]);
 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 520, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:10>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<gregtech:gt.meta.foil:8733>*7,<appliedenergistics2:item.ItemMultiMaterial:20>*16,<gregtech:gt.meta.wireFine:8708>*4],
+[<liquid:molten.redalloy>*144],
+[n],
+[<ktfruaddon:ktfru.item.compact:101>]);
+
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 520, 800, 0, [10000],
+[<gregapi:gt.integrated_circuit:10>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*16,<gregtech:gt.meta.foil:8733>*7,<appliedenergistics2:item.ItemMultiMaterial:20>*16,<gregtech:gt.meta.wireFine:8708>*4],
+[<liquid:ic2coolant>*144],
+[n],
+[<ktfruaddon:ktfru.item.compact:102>]);
+
 // Remove Quartz glass
 recipes.remove(<appliedenergistics2:tile.BlockQuartzGlass>);
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:140>);
