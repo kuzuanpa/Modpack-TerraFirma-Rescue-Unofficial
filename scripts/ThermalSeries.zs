@@ -147,3 +147,14 @@ recipes.addShapeless(<ThermalDynamics:ThermalDynamics_32:1>,[<ThermalDynamics:Th
 recipes.addShapeless(<ThermalDynamics:ThermalDynamics_32:1>.withTag({DenseType: 2 as byte}),[<ThermalDynamics:ThermalDynamics_32:1>, <ore:dustSilver>]);
 recipes.addShapeless(<ThermalDynamics:ThermalDynamics_32:1>.withTag({DenseType: 1 as byte}),[<ThermalDynamics:ThermalDynamics_32:1>, <ore:dustLead>]);
 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.heatmixer", false, 40, 60 ,0,[10000],
+[<gregtech:gt.meta.dust:780>*0],
+[<liquid:molten.glowstone>*100],
+[<liquid:glowstone>*100],
+[null]);
+
+MTUtilsGT.addCustomRecipe("ktfru.recipe.heatmixer", false, 40, 60 ,0,[10000],
+[<gregtech:gt.meta.dust:8234>*0],
+[<liquid:molten.glowstone>*100],
+[<liquid:glowstone>*100],
+[null]);

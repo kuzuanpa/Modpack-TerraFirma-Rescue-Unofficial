@@ -64,10 +64,10 @@ recipes.remove(<minecraft:paper>);
 // Remove Glasses
 recipes.remove(<terrafirmacraft:item.Glass Bottle>);
 MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<minecraft:glass>);
-MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<minecraft:glass>);
+
 mods.forestry.ThermionicFabricator.removeCast(<minecraft:glass>);
-mods.forestry.ThermionicFabricator.removeCast(<minecraft:stained_glass>);
-furnace.remove(<minecraft:glass>);
+mods.forestry.ThermionicFabricator.removeCast(<minecraft:stained_glass:*>);
+
 furnace.remove(<minecraft:brick>);
 furnace.remove(<minecraft:glass_pane>);
 MTUtilsGT.removeAllRecipes("mc.recipe.furnace",<minecraft:brick>);
@@ -87,7 +87,7 @@ recipes.addShapeless(<terrafirmacraft:item.Glass Bottle>,[<minecraft:glass_bottl
 recipes.addShapeless(<minecraft:coal:1>,[<terrafirmacraft:item.coal:1>]);
 recipes.addShapeless(<minecraft:coal>,[<terrafirmacraft:item.coal>]);
 
-recipes.addShapeless(<minecraft:sand>,[<ore:sand>]);
+recipes.addShaped(<minecraft:sand>,[[<ore:sand>,<ore:sand>],[<ore:sand>,<ore:sand>]]);
 
 recipes.addShapeless(<minecraft:string>,[<terrafirmacraft:item.WoolYarn>]);
 

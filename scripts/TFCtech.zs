@@ -64,7 +64,6 @@ MTUtilsGT.removeAllRecipes("gt.recipe.bath",<minecraft:paper>);
 MTUtilsGT.removeAllRecipes("gt.recipe.loom",<minecraft:paper>);
 MTUtilsGT.removeAllRecipes("gt.recipe.fermenter",<tfctech:item.Glue>);
 recipes.remove(<tfcprimitivetech:itemWoodenTwig>);
-recipes.remove(<tfctech:InductionSmelter>);
 
 //delete ends
 
@@ -92,6 +91,8 @@ recipes.remove(<mo:isolinear_circuit>);
 recipes.addShapeless(<tfctech:item.Circuit>*2,[<gregtech:gt.meta.plateDouble:8216>,<ore:dustSmallAnySiliconDioxide>,<tfctech:item.Rubber Mix>]);
 
 recipes.addShapeless(<tfctech:item.Circuit>,[<gregtech:gt.multiitem.technological:30000>]);
+
+recipes.addShapeless(<gregtech:gt.multiitem.technological:30000>,[<tfctech:item.Circuit>]);
 
 recipes.addShaped(<tfctech:item.Vulcanizing Agents>,
 [[<ore:dustGraphite>,<ore:dustKaolinite>,null],

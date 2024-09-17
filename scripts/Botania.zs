@@ -25,5 +25,9 @@ recipes.addShapeless(<Botania:manaResource:6>, [<terrafirmacraft:TallGrass:2>, <
 mods.botania.ManaInfusion.removeRecipe(<minecraft:leather>);
 mods.botania.ManaInfusion.addAlchemy(<minecraft:rotten_flesh>, <terrafirmacraft:item.Hide>, 20);
 
+recipes.addShaped(<gregtech:gt.meta.rockGt:8277>*4, [
+[<Botania:livingwood>, <Botania:livingrock>],
+[<Botania:livingrock>, <Botania:livingwood>]
+]);
 
 mods.botania.ManaInfusion.addAlchemy(<terrafirmacraft:item.Wheat Whole>.withTag({foodWeight:9.0 as float}), <minecraft:hay_block>, 8000);

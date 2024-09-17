@@ -59,47 +59,100 @@ recipes.remove(<IronChest:BlockIronChest:*>);
 // Add chests
 recipes.addShaped(<IronChest:BlockIronChest:3>,
 [[<ore:plateCopper>,<ore:plateCopper>,<ore:plateCopper>],
-[<ore:screwCopper>,<ore:chestWood>,<ore:screwCopper>],
+[<ore:screwBronze>,<ore:chestWood>,<ore:screwBronze>],
 [<ore:plateCopper>,<ore:plateCopper>,<ore:plateCopper>]]);
 
 recipes.addShaped(<IronChest:BlockIronChest>,
 [[<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>],
-[<ore:screwAnyIronOrSteel>,<ore:chestWood>,<ore:screwAnyIronOrSteel>],
+[<ore:screwSteel>,<ore:chestWood>,<ore:screwSteel>],
 [<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>]]);
 
 recipes.addShaped(<IronChest:BlockIronChest:1>,
 [[<ore:plateDoubleGold>,<ore:plateDoubleGold>,<ore:plateDoubleGold>],
-[<ore:screwChromium>,<ore:chestWood>,<ore:screwChromium>],
+[<ore:screwStainlessSteel>,<ore:chestWood>,<ore:screwStainlessSteel>],
 [<ore:plateDoubleGold>,<ore:plateDoubleGold>,<ore:plateDoubleGold>]]);
 
 recipes.addShaped(<IronChest:BlockIronChest:4>,
 [[<ore:plateDoubleSilver>,<ore:plateDoubleSilver>,<ore:plateDoubleSilver>],
-[<ore:screwAluminum>,<ore:chestWood>,<ore:screwAluminum>],
+[<ore:screwSteel>,<ore:chestWood>,<ore:screwSteel>],
 [<ore:plateDoubleSilver>,<ore:plateDoubleSilver>,<ore:plateDoubleSilver>]]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 400, 0, [10000],
-[<gregtech:gt.multitileentity:18006>,<gregtech:gt.meta.plateGem:8300>*8,<gregapi:gt.integrated_circuit:8>*0],
+[<gregtech:gt.multitileentity:18006>,<gregtech:gt.meta.plateGem:8300>*8,<gregapi:gt.integrated_circuit:16>*0],
 [n],
 [n],
 [<IronChest:BlockIronChest:2>]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 400, 0, [10000],
-[<gregtech:gt.multitileentity:18006>,<gregtech:gt.meta.plateGem:8300>*8,<gregapi:gt.integrated_circuit:16>*0],
+[<gregtech:gt.multitileentity:18006>,<gregtech:gt.meta.plateGem:8300>*6,<gregapi:gt.integrated_circuit:16>*0],
 [<liquid:glass>*1000],
 [n],
 [<IronChest:BlockIronChest:5>]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 256, 400, 0, [10000],
-[<IronChest:BlockIronChest:5>,<gregtech:gt.meta.plate:8214>*4],
+[<gregapi:gt.integrated_circuit:16>*0, <IronChest:BlockIronChest:5>,<gregtech:gt.meta.plate:8214>*6],
 [n],
 [n],
 [<IronChest:BlockIronChest:6>]);
 
-// Remove Upgrades
+//To Copper
 recipes.remove(<IronChest:woodCopperUpgrade>);
-recipes.remove(<IronChest:ironGoldUpgrade>);
-recipes.remove(<IronChest:diamondCrystalUpgrade>);
+recipes.addShaped(<IronChest:woodCopperUpgrade>,
+[[<ore:plateCopper>,<ore:plateCopper>,<ore:plateCopper>],
+[<ore:screwBronze>,<ore:plankWood>,<ore:screwBronze>],
+[<ore:plateCopper>,<ore:plateCopper>,<ore:plateCopper>]]);
+
+//To Iron
 recipes.remove(<IronChest:woodIronUpgrade>);
+recipes.addShaped(<IronChest:woodIronUpgrade>,
+[[<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>],
+[<ore:screwSteel>,<ore:plankWood>,<ore:screwSteel>],
+[<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>]]);
+
+recipes.remove(<IronChest:copperIronUpgrade>);
+recipes.addShaped(<IronChest:copperIronUpgrade>,
+[[<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>],
+[<ore:screwSteel>,<ore:plankWood>,<ore:screwSteel>],
+[<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>,<ore:plateAnyIronOrSteel>]]);
+
+//To Gold
+recipes.remove(<IronChest:ironGoldUpgrade>);
+recipes.addShaped(<IronChest:ironGoldUpgrade>,
+[[<ore:plateDoubleGold>,<ore:plateDoubleGold>,<ore:plateDoubleGold>],
+[<ore:screwStainlessSteel>,<ore:plankWood>,<ore:screwStainlessSteel>],
+[<ore:plateDoubleGold>,<ore:plateDoubleGold>,<ore:plateDoubleGold>]]);
+
 recipes.remove(<IronChest:silverGoldUpgrade>);
-recipes.remove(<IronChest:diamondObsidianUpgrade>);
+recipes.addShaped(<IronChest:silverGoldUpgrade>,
+[[<ore:plateDoubleGold>,<ore:plateDoubleGold>,<ore:plateDoubleGold>],
+[<ore:screwStainlessSteel>,<ore:plankWood>,<ore:screwStainlessSteel>],
+[<ore:plateDoubleGold>,<ore:plateDoubleGold>,<ore:plateDoubleGold>]]);
+
+//To Silver
+recipes.remove(<IronChest:copperSilverUpgrade>);
+recipes.addShaped(<IronChest:copperSilverUpgrade>,
+[[<ore:plateDoubleSilver>,<ore:plateDoubleSilver>,<ore:plateDoubleSilver>],
+[<ore:screwSilver>,<ore:plankWood>,<ore:screwSilver>],
+[<ore:plateDoubleSilver>,<ore:plateDoubleSilver>,<ore:plateDoubleSilver>]]);
+
+//To Diamond crystal & obsidian
 recipes.remove(<IronChest:goldDiamondUpgrade>);
+MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 400, 0, [10000],
+[<gregtech:gt.multitileentity:18006>,<gregtech:gt.meta.plateGem:8300>*8,<gregapi:gt.integrated_circuit:16>*0, <minecraft:planks>],
+[n],
+[n],
+[<IronChest:goldDiamondUpgrade>]);
+
+recipes.remove(<IronChest:diamondCrystalUpgrade>);
+MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 400, 0, [10000],
+[<gregapi:gt.integrated_circuit:16>*0, <minecraft:chest>],
+[<liquid:glass>*1000],
+[n],
+[<IronChest:diamondCrystalUpgrade>]);
+
+recipes.remove(<IronChest:diamondObsidianUpgrade>);
+MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 256, 400, 0, [10000],
+[<gregapi:gt.integrated_circuit:16>*0, <gregtech:gt.meta.plate:8214>*4, <minecraft:chest>],
+[n],
+[n],
+[<IronChest:diamondObsidianUpgrade>]);

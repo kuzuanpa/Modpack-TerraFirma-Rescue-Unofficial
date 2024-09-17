@@ -73,17 +73,17 @@ recipes.addShaped(<BinnieCore:storage:2>,
 [<ore:plateDoubleBronze>,<advancedRocketry:circuitIC>,<ore:plateDoubleBronze>]]);
 
 recipes.addShaped(<BinnieCore:storage:3>,
-[[<ore:plateDoubleIron>,<advancedRocketry:circuitIC>,<ore:plateDoubleIron>],
+[[<ore:plateDoubleAnyIron>,<advancedRocketry:circuitIC>,<ore:plateDoubleAnyIron>],
 [n,<BinnieCore:storage:1>,n],
-[<ore:plateDoubleIron>,<advancedRocketry:circuitIC>,<ore:plateDoubleIron>]]);
+[<ore:plateDoubleAnyIron>,<advancedRocketry:circuitIC>,<ore:plateDoubleAnyIron>]]);
 
 recipes.addShaped(<BinnieCore:storage:4>,
 [[<ore:plateDoubleGold>,<advancedRocketry:circuitIC:2>,<ore:plateDoubleGold>],
-[<ore:emerald>,<BinnieCore:storage:3>,<ore:emerald>],
+[<ore:gemEmerald>,<BinnieCore:storage:3>,<ore:gemEmerald>],
 [<ore:plateDoubleGold>,<advancedRocketry:circuitIC:2>,<ore:plateDoubleGold>]]);
 
 recipes.addShaped(<BinnieCore:storage:5>,
-[[<ore:diamond>,<gregtech:gt.multiitem.technological:30301>,<ore:diamond>],
-[<ore:emerald>,<BinnieCore:storage:4>,<ore:emerald>],
-[<ore:diamond>,<gregtech:gt.multiitem.technological:30301>,<ore:diamond>]]);
+[[<ore:plateGemAnyDiamond>,<gregtech:gt.multiitem.technological:30301>,<ore:plateGemAnyDiamond>],
+[<ore:gemEmerald>,<BinnieCore:storage:4>,<ore:gemEmerald>],
+[<ore:plateGemAnyDiamond>,<gregtech:gt.multiitem.technological:30301>,<ore:plateGemAnyDiamond>]]);
 

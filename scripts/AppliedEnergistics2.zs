@@ -247,18 +247,6 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 256, 100, 0, [10000
 [n],
 [LogC]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 250, 800, 0, [10000],
-[<gregapi:gt.integrated_circuit:0>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*32,<gregtech:gt.meta.foil:8660>*8],
-[n],
-[n],
-[<ktfruaddon:ktfru.item.compact:101>]);
-
-MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 250, 800, 0, [10000],
-[<gregapi:gt.integrated_circuit:1>*0,<appliedenergistics2:item.ItemMultiMaterial:16>*32,<gregtech:gt.meta.foil:8660>*8],
-[n],
-[n],
-[<ktfruaddon:ktfru.item.compact:102>]);
-
 // ME Storage Units
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:35>);
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:36>);

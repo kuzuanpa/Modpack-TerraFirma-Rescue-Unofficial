@@ -241,7 +241,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 1024, 0, [9000],
 [<liquid:enderair>*250],
 [<gregtech:gt.meta.dust:8514>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 128, 1024, 0, [9000],
-[<advancedRocketry:moonTurf_dart>],
+[<advancedRocketry:moonTurf_dark>],
 [null],
 [<liquid:enderair>*250],
 [<gregtech:gt.meta.dust:8514>*4]);

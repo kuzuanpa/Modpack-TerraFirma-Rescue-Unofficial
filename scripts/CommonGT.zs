@@ -243,6 +243,12 @@ MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 2048, 1200,0,[10000],
 [<liquid:molten.lithium6>*10],
 [null]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 64, 40, 0,[10000],
+[null],
+[<liquid:air>*200],
+[<liquid:nitrogen>*143,<liquid:oxygen>*50],
+[null]);
+
 // Remove Ad replication
 MTUtilsGT.removeAllRecipes("gt.recipe.replicator",<gregtech:gt.meta.ingot:2220>);
 
@@ -455,12 +461,6 @@ recipes.addShaped(<gregtech:gt.multiitem.technological:11000>,
 [[<mo:isolinear_circuit>,<gregtech:gt.multitileentity:28366>,<minecraft:glass>],
 [<terrafirmacraft:item.Silver Sheet>,<gregtech:gt.multitileentity:28366>,Screwdriver],
 [<gregtech:gt.meta.screw:8636>,<terrafirmacraft:item.Silver Sheet>,Cutter]]);
-
-recipes.remove(<gregtech:gt.multitileentity:18101>);
-recipes.addShaped(<gregtech:gt.multitileentity:18101>,[
-[<gregtech:gt.meta.plate:8661>,<terrafirmacraft:item.Copper Sheet>,<gregtech:gt.meta.plate:8661>],
-[<IC2:itemRecipePart:5>,Wrench,<IC2:itemRecipePart:5>],
-[<gregtech:gt.meta.plate:8661>,<terrafirmacraft:item.Copper Sheet>,<gregtech:gt.meta.plate:8661>]]);
 
 // small red Si plate
 recipes.remove(<gregtech:gt.meta.plateGemTiny:8733>);

@@ -52,22 +52,22 @@ MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16, 32 ,0,[10000],
 /**FR recipes for t1-t2 circuit part*/
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
-[n,   <advancedRocketry:circuitIC>,   n],
+[n,   <advancedRocketry:circuitIC:2>,  n],
 [n, <gregtech:gt.meta.wireFine:290>,  n]], 100, n);
 
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
 [n, <gregtech:gt.meta.wireFine:8660>, n],
-[n,   <advancedRocketry:circuitIC>,  n],
+[n,   <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:290>, n]], 100, n);
 
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30102>, [
 [n, <gregtech:gt.meta.wireFine:8660>, n],
-[n,   <advancedRocketry:circuitIC:2>,  n],
+[n, <ktfruaddon:ktfru.item.compact:3>,  n],
 [n, <gregtech:gt.meta.wireFine:8602>, n]], 100, <gregtech:gt.multiitem.technological:30101>);
 
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30102>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
-[n,  <advancedRocketry:circuitIC:2>, n],
+[n, <ktfruaddon:ktfru.item.compact:3>, n],
 [n, <gregtech:gt.meta.wireFine:8602>, n]], 100, <gregtech:gt.multiitem.technological:30101>);
 
 //tui huo tong
@@ -82,38 +82,38 @@ mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:
 [n, <gregtech:gt.meta.wireFine:8640>, n]], 100, n);
 
 /**Assembler recipes for t1-t2 circuit part*/
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 40, 20 ,0,[10000],
-[<advancedRocketry:circuitIC>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:290>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
+[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:290>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30101>]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 40, 20 ,0,[10000],
-[<advancedRocketry:circuitIC>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:290>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
+[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:290>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30101>]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 40, 20 ,0,[10000],
-[<advancedRocketry:circuitIC>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8640>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
+[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8640>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30101>]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 40, 20 ,0,[10000],
-[<advancedRocketry:circuitIC>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8640>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
+[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8640>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30101>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 140, 20 ,0,[10000],
-[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8602>],
+[<ktfruaddon:ktfru.item.compact:3>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8602>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30102>]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 200, 20 ,0,[10000],
-[<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8602>],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 140, 20 ,0,[10000],
+[<ktfruaddon:ktfru.item.compact:3>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8602>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30102>]);
@@ -124,8 +124,3 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 200, 20 ,0,[10000],
 //val insulator = <minecraft:brick:1>.withTag({display: {Name: "Ceramic Insulator", Lore: ["You need it to craft simple electronics."]}});
 
 //mods.Terrafirmacraft.Knapping.addClayWorkingRecipe(insulator, "#####", "# # #", "# # #", "# # #", "#####");
-
-recipes.addShaped(<moegadd:Simpletransistor>*4,
-[[n,<minecraft:glass>,n],
-[n,<gregtech:gt.meta.plateTiny:140>,Cutter],
-[<gregtech:gt.meta.wireFine:290>,<gregtech:gt.meta.wireFine:290>,<gregtech:gt.meta.wireFine:290>]]);

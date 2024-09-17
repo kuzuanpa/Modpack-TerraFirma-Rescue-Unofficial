@@ -219,4 +219,6 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 32, 100 ,0,[10000],
 [n],
 [<Forestry:craftingMaterial:3>]);
 
+
+recipes.addShapeless(<Forestry:sturdyMachine>,[<gregtech:gt.meta.machine:8610>]);
 //TODO: Bees
