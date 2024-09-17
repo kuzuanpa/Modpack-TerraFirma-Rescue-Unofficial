@@ -11,7 +11,6 @@
   {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "_comment": "值，这里为 3000 生命值",
                 "value": 4300,
                 "operator": 0
         }]

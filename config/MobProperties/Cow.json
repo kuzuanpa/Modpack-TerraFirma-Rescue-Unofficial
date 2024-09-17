@@ -2,5 +2,10 @@
   "_name": "Cow",
   "drops": [],
   "pre_stats": [],
-  "stats": []
+  "stats": [{
+    "function": "modifier",
+    "attribute": "generic.maxHealth",
+    "value": 390,
+    "operator": 0
+  }]
 }

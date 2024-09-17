@@ -6,7 +6,7 @@
   {
                 "function": "modifier",
                 "attribute": "generic.attackDamage",
-                "value": 500,
+                "value": 400,
                 "operator": 0
         },
   {

@@ -6,13 +6,13 @@
   {
                 "function": "modifier",
                 "attribute": "generic.attackDamage",
-                "value": 500,
+                "value": 100,
                 "operator": 0
         },
   {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "value": 2980,
+                "value": 1980,
                 "operator": 0
         }]
 }

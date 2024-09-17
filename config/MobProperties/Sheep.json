@@ -6,7 +6,7 @@
   {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "value": 600,
+                "value": 392,
                 "operator": 0
         }]
 }
