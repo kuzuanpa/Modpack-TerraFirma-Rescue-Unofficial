@@ -60,7 +60,7 @@
             "Name:8": "generic.attackDamage"
           },
           "5:10": {
-            "Base:6": 0.007367730042796117,
+            "Base:6": 0.09003375417845864,
             "Name:8": "zombie.spawnReinforcements"
           }
         },
@@ -86,16 +86,16 @@
           "2:6": 0.0
         },
         "Leashed:1": 0,
-        "UUIDLeast:4": -3787303963995404708,
+        "UUIDLeast:4": -9156501355790125359,
         "Health:2": 450,
         "Air:2": 300,
         "OnGround:1": 0,
-        "Dimension:3": 0,
+        "Dimension:3": 11,
         "Rotation:9": {
-          "0:5": 0.039870575,
+          "0:5": 2.9519148,
           "1:5": 0.0
         },
-        "UUIDMost:4": 26994247098509,
+        "UUIDMost:4": -6836670883652484396,
         "Equipment:9": {
           "0:10": {},
           "1:10": {},

@@ -1,0 +1,19 @@
+{
+  "questLineIDLow:4": -5782757888089364545,
+  "questLineIDHigh:4": 1260173217245446390,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "name:8": "",
+      "icon:10": {
+        "id:8": "minecraft:book",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "No Description"
+    }
+  }
+}

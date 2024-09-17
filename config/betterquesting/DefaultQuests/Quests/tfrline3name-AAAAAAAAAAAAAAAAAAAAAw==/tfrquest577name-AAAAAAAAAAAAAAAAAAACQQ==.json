@@ -70,6 +70,12 @@
           "OreDict:8": ""
         }
       }
+    },
+    "1:10": {
+      "amount:3": 100,
+      "rewardID:8": "bq_standard:xp",
+      "isLevels:1": 0,
+      "index:3": 1
     }
   }
 }

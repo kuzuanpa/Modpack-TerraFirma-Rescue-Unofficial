@@ -1,0 +1,20 @@
+{
+  "questLineIDLow:4": 21,
+  "questLineIDHigh:4": 0,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "icon:10": {
+        "id:8": "Botania:cosmetic",
+        "Count:3": 1,
+        "tag:10": {},
+        "Damage:2": 21,
+        "OreDict:8": ""
+      },
+      "name:8": "tfr.line21.name",
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "tfr.line21.desc"
+    }
+  }
+}

@@ -138,6 +138,12 @@
           "OreDict:8": ""
         },
         "1:10": {
+          "id:8": "tfcprimitivetech:itemSharpStone",
+          "Count:3": 64,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        },
+        "2:10": {
           "id:8": "moegadd:point1",
           "Count:3": 1,
           "Damage:2": 0,

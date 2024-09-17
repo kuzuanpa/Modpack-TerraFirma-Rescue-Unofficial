@@ -73,7 +73,7 @@
           "4:5": 0.085
         },
         "PersistenceRequired:1": 0,
-        "id:8": "creeperTFC",
+        "id:8": "Creeper",
         "HealF:5": 500.0,
         "Fuse:2": 30,
         "Motion:9": {
@@ -116,7 +116,7 @@
       "damageType:8": "",
       "required:3": 900,
       "taskID:8": "bq_standard:hunt",
-      "target:8": "creeperTFC",
+      "target:8": "Creeper",
       "subtypes:1": 1
     }
   },
@@ -132,17 +132,21 @@
           "OreDict:8": ""
         },
         "1:10": {
-          "id:8": "terrafirmacraft:item.Bronze Helmet",
+          "id:8": "terrafirmacraft:item.Steel Helmet",
           "Count:3": 1,
           "tag:10": {
             "ench:9": {
               "0:10": {
-                "lvl:2": 1,
+                "lvl:2": 3,
                 "id:2": 0
+              },
+              "1:10": {
+                "lvl:2": 1,
+                "id:2": 34
               }
             }
           },
-          "Damage:2": 1000,
+          "Damage:2": 100,
           "OreDict:8": ""
         },
         "2:10": {

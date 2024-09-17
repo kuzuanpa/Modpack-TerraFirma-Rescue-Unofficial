@@ -54,52 +54,46 @@
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 1525,
-          "OreDict:8": ""
-        },
-        "1:10": {
-          "id:8": "gregtech:gt.multitileentity",
-          "Count:3": 1,
           "Damage:2": 10112,
           "OreDict:8": ""
         },
-        "2:10": {
+        "1:10": {
           "id:8": "gregtech:gt.meta.machine.double",
           "Count:3": 1,
           "Damage:2": 130,
           "OreDict:8": ""
         },
-        "3:10": {
+        "2:10": {
           "id:8": "gregtech:gt.meta.stick",
           "Count:3": 4,
           "Damage:2": 130,
           "OreDict:8": ""
         },
-        "4:10": {
+        "3:10": {
           "id:8": "gregtech:gt.meta.foil",
           "Count:3": 2,
           "Damage:2": 290,
           "OreDict:8": ""
         },
-        "5:10": {
+        "4:10": {
           "id:8": "gregtech:gt.meta.stick",
           "Count:3": 1,
           "Damage:2": 8646,
           "OreDict:8": ""
         },
-        "6:10": {
+        "5:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 16,
           "Damage:2": 28350,
           "OreDict:8": ""
         },
-        "7:10": {
+        "6:10": {
           "id:8": "gregtech:gt.meta.plateCurved",
           "Count:3": 2,
           "Damage:2": 130,
           "OreDict:8": ""
         },
-        "8:10": {
+        "7:10": {
           "id:8": "gregtech:gt.multiitem.technological",
           "Count:3": 2,
           "Damage:2": 30301,

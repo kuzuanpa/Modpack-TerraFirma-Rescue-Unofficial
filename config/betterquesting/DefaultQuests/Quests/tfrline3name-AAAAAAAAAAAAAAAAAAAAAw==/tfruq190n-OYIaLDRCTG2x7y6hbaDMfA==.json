@@ -59,5 +59,12 @@
       "taskID:8": "bq_standard:retrieval"
     }
   },
-  "rewards:9": {}
+  "rewards:9": {
+    "0:10": {
+      "amount:3": 1020,
+      "rewardID:8": "bq_standard:xp",
+      "isLevels:1": 0,
+      "index:3": 0
+    }
+  }
 }

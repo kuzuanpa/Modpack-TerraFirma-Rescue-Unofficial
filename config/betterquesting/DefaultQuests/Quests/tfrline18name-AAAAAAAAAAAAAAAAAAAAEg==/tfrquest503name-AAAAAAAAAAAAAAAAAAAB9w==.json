@@ -144,17 +144,21 @@
       "index:3": 0,
       "rewards:9": {
         "0:10": {
-          "id:8": "terrafirmacraft:item.Bronze Greaves",
+          "id:8": "terrafirmacraft:item.Steel Greaves",
           "Count:3": 1,
           "tag:10": {
             "ench:9": {
               "0:10": {
-                "lvl:2": 1,
+                "lvl:2": 3,
                 "id:2": 0
+              },
+              "1:10": {
+                "lvl:2": 1,
+                "id:2": 34
               }
             }
           },
-          "Damage:2": 2000,
+          "Damage:2": 200,
           "OreDict:8": ""
         },
         "1:10": {

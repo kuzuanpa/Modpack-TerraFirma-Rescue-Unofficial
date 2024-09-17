@@ -3,7 +3,11 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 27
+      "questIDLow:4": 816
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 819
     }
   },
   "questIDLow:4": 396,
@@ -24,7 +28,7 @@
       "snd_update:8": "random.levelup",
       "repeatTime:3": -1,
       "globalShare:1": 0,
-      "questLogic:8": "AND",
+      "questLogic:8": "OR",
       "repeat_relative:1": 1,
       "name:8": "tfru.q74n",
       "lockedProgress:1": 0,

@@ -1,0 +1,19 @@
+{
+  "questLineIDLow:4": 7,
+  "questLineIDHigh:4": 0,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "icon:10": {
+        "id:8": "ktfruaddon:ktfru.item.particle",
+        "Count:3": 1,
+        "Damage:2": 1008,
+        "OreDict:8": ""
+      },
+      "name:8": "tfr.line7.name",
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "tfr.line7.desc"
+    }
+  }
+}

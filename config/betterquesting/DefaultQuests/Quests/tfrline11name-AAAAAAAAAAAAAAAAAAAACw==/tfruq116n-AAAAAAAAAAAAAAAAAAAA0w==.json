@@ -51,21 +51,32 @@
           "Count:3": 1,
           "Damage:2": 30005,
           "OreDict:8": ""
-        },
-        "1:10": {
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 9,
           "Damage:2": 18101,
           "OreDict:8": ""
         },
-        "2:10": {
+        "1:10": {
           "id:8": "gregtech:gt.multitileentity",
-          "Count:3": 1,
+          "Count:3": 54,
           "Damage:2": 18102,
           "OreDict:8": ""
         }
       },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   },
   "rewards:9": {}

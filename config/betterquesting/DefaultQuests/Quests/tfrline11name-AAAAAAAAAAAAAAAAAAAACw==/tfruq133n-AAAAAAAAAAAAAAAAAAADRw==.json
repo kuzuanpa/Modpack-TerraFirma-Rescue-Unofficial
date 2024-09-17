@@ -10,10 +10,18 @@
       "questIDLow:4": 242
     },
     "2:10": {
+      "questIDHigh:4": 7247506335206623786,
+      "questIDLow:4": -7437169303587374543
+    },
+    "3:10": {
+      "questIDHigh:4": -6898165478910702981,
+      "questIDLow:4": -7531591745879929889
+    },
+    "4:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 238
     },
-    "3:10": {
+    "5:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 239
     }

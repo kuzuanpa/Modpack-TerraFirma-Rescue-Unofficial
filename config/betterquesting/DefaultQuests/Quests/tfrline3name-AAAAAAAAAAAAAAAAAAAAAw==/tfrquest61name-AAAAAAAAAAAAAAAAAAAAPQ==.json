@@ -12,10 +12,6 @@
     "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 54
-    },
-    "3:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 57
     }
   },
   "questIDLow:4": 61,
@@ -77,6 +73,12 @@
           "OreDict:8": ""
         }
       }
+    },
+    "1:10": {
+      "amount:3": 840,
+      "rewardID:8": "bq_standard:xp",
+      "isLevels:1": 0,
+      "index:3": 1
     }
   }
 }

@@ -16,12 +16,8 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "betterquesting:placeholder",
+        "id:8": "terrafirmacraft:item.Blue Steel Sword",
         "Count:3": 1,
-        "tag:10": {
-          "orig_meta:3": 0,
-          "orig_id:8": "customnpcs:npcFrostSword"
-        },
         "Damage:2": 0,
         "OreDict:8": ""
       },

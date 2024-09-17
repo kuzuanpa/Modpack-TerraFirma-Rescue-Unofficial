@@ -73,7 +73,7 @@
           "4:5": 0.085
         },
         "PersistenceRequired:1": 0,
-        "id:8": "creeperTFC",
+        "id:8": "Creeper",
         "HealF:5": 500.0,
         "Fuse:2": 30,
         "Motion:9": {
@@ -116,7 +116,7 @@
       "damageType:8": "",
       "required:3": 10,
       "taskID:8": "bq_standard:hunt",
-      "target:8": "creeperTFC",
+      "target:8": "Creeper",
       "subtypes:1": 1
     }
   },

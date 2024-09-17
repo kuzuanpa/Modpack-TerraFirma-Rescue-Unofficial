@@ -5,9 +5,13 @@
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.name=Tier - Arrival
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.desc=You landed your shuttle on a Terrafirma's plain called Novosibirsk. Be alive before you do anything else!
 
-# Quest: tfru.q187n
-betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
-betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
+# Quest: tfr.quest223.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.name=Starting Fires
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=Once it is evening, it is time for this task. The main way to collect sticks is to break the leaves. A leaf has about a third chance of dropping a stick. Using a sickle can break a 3x3x3 block of leaves centered around the broken block, making it more efficient, but the drop rate will be reduced to one-tenth. Hitting a piece of wood with a hammer will drop 1-3 sticks. %n%nTo create a bonfire, throw three sticks at a square (default 'q'), then use a fire-starter or flint to continuously right light the top of the square. %n%nFire starters can be used to light several types of fire in TFC, including bonfires, charcoal pits and kilns. When igniting fires, the starter may need to be used multiple times to successfully ignite the flame, and depending on random chance, more than one fire starter may be required. In addition, a fire starter can activate a forge or blast furnace.
+
+# Quest: tfr.quest224.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=Panning for gold (copper)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=Find a beach near the water, right-click the sand with a panning pan, and then keep right-clicking on the flowing water, and you have a good chance of getting some good stuff, including copper. %n%nNote that the sand will disappear if you use it too much.
 
 # Quest: tfr.quest0.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=The Stone Age
@@ -77,14 +81,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.desc=Use a saw to make wood planks. 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=Geological prospecting - information currently available
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=§o Unlike the original world you are familiar with, the underground world of The Sierra Star becomes more complex and real. Rock formations consist of a large number of rocks of the same kind. The crust here is very thick, 130 to 150 meters thick. §r %n%nRock is produced in three different vertical strata. Sedimentary rocks can only be found at the top. Metamorphic rocks occur in the upper and middle layers. All three layers have igneous intrusive rocks and igneous extrusive rocks. Each layer is independent of the others, so a change in the stone on the surface does not necessarily mean a change in the other two layers of stone.%n%n §3Igneous intrusive rocks: Diorite, gabbro, granite%n%n §4Igneous extrusive rock: Andesite, basalt, dacite, rhyolite%n%n§6Sedimentary rocks: Chalk, chert, clay, conglomerate, dolomite, limestone, rock salt, shale. %n%n §e§7§dMetamorphic rocks: Gneiss, marble, phyllite, quartzite, schist, slate %n%n §r§oYou can make flux of any rock with calcium carbonate as the main ingredient: §aDolomite, limestone, chalk, and marble. %n%n§rYou can make salt with any rock with sodium chloride as the main ingredient: Rock salt %n%n§rStones found on the surface have the same texture as the top layer below them. If there are mineral veins nearby, loose rocks are likely to produce a nugget of the mineral rather than rock. These mineral nuggets represent the existence of a mineral vein on the same y-axis as the nugget. %n%nGraphite is produced in metamorphic and sedimentary rocks; kaolinite is produced in metamorphic and sedimentary rocks; diamonds are produced in basalt, phyllite, and diorite; and tin and uranium are produced in all igneous and intrusive rocks. %n%nThe location of other minerals will need to be explored by you. Minerals such as rutile, tungstate and zircon are not found in the barren Sierra Star and you will need to make a rocket to their moons to obtain them.
 
-# Quest: tfr.quest223.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.name=Starting Fires
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=Once it is evening, it is time for this task. The main way to collect sticks is to break the leaves. A leaf has about a third chance of dropping a stick. Using a sickle can break a 3x3x3 block of leaves centered around the broken block, making it more efficient, but the drop rate will be reduced to one-tenth. Hitting a piece of wood with a hammer will drop 1-3 sticks. %n%nTo create a bonfire, throw three sticks at a square (default 'q'), then use a fire-starter or flint to continuously right light the top of the square. %n%nFire starters can be used to light several types of fire in TFC, including bonfires, charcoal pits and kilns. When igniting fires, the starter may need to be used multiple times to successfully ignite the flame, and depending on random chance, more than one fire starter may be required. In addition, a fire starter can activate a forge or blast furnace.
-
-# Quest: tfr.quest224.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=Panning for gold (copper)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=Find a beach near the water, right-click the sand with a panning pan, and then keep right-clicking on the flowing water, and you have a good chance of getting some good stuff, including copper. %n%nNote that the sand will disappear if you use it too much.
-
 # Quest: tfr.quest271.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.name=Straw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.desc=Straw is obtained by cutting grass with a knife or sickle around the world. Each block of grass drops a stalk of straw. Straw is also produced as a by-product when refining grain. %n%nStraw can also be recovered from its thatch form. %n%nThatch blocks are some of the first roof tiles in the game. Unlike dirt and stone, thatch is not affected by gravity, so it can be used to make roofs. However thatch cannot be used effectively as walls, since players (and monsters) can move right through it.
@@ -100,10 +96,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFA.desc=Notice the difference between V
 # Quest: tfr.quest281.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.name=Check the material content
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=Press F3 + H to turn on the display of the IDs for items, as well as show values for durability and other details.  %n%nThis will be very useful for when you begin working with GregTech.
-
-# Quest: tfr.quest288.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIA.name=About reference content
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIA.desc=Thanks to McMod.cn for the GregTech tutorial.
 
 # Quest: tfr.quest293.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.name=About unlocking chapters
@@ -125,10 +117,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABcQ.desc=Some of the stones on the groun
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.name=§b§lEverything You Know is Wrong
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.desc=TFC is frequently called a survival-overhaul mod. This essentially means that it completely changes the original world! %n%nEverything you remember about MC survival mode does not apply here. Remember, the quest book is always your best helper. When you have any questions, please see if there is an answer in the quest book. %n%nTo get started, pick up some stones and sticks from the ground. Any variety of stone can be used to complete this task. Well, seems like there are some bread in the shuttle.
 
-# Quest: tfr.quest417.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.name=BGM
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABoQ.desc=Here is a list of tracks used for background music:%n%n1. The Lady Vengeance Captain: from "Divinity: Original Sin II"%n2. Rivellon: boss music from "Divinyt: Original Sin II"%n3. Far Horizons: from Elder Scrolls V: Skyrim%n4. The Slopes of The Blessure: from Witchery 3 Wild Hunt - The Blood and the Wine%n5. Unnamed background music from Pokemon Go%n6. Mountain Lake (source unknown)%n%nWoodland Fantasy - Matthew Pablo - https://matthewpablo.com%n%n The quest reward is an NPC that plays music.  Right click to place him, and right click again to play.  Once placed, he can't be removed.  Remember to keep him at home!
-
 # Quest: tfr.quest460.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.name=What should I dig for?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.desc=After getting your first pick, you can mine ore from the rock instead of collecting the ore nuggets from the earth's surface. %n%nAfter finding nuggets on the ground, you can use the prospecting pick (propick) I gave you, right click on the dirt nearby, and feedback text will tell you how much minerals there are. %n%nThe propick works on a 25x25x25 cube centered on the square you hit. %n%nPersonal recommendation on how to use it:%n%nFirst locate a location that shows "A very large sample". (if there is no very large sample at the surface, you may need to dig down)%n%nNext choose a direction, such as the x axis, and continue prospecting in this line, until you get a reading other than "very large sample"%n%nFor example, let's say that you get a "very large sample" at x=190 and x=210, but everything west of 190 and east of 210 is "large sample" or smaller.  In this example, the center of the vein would be where x = 200.%n%nAfter you have discovered the center of the vein with regard to x, do the same again with regards to z.  Do this by prospecting north and south in a line where your x-center was.%n%nAfter you have the center of the vein, dig down until you find the ore.%n%nPlease note that the propick frequently gives false negatives.  When you see that the pick finds nothing, it just means that block will never give information.  You'll have to work with the information you do get, and ignore the negatives.  Likewise, sometimes the pick will find a different vein than what you searching for.  In fact, having too many other types of veins in the same area can make prospecting very difficult.%n%nThis process works well on flat land without other veins around.  In most cases, you will have hills that interfere.  Remember that you can use your pick on any solid block.  You may need flatten some terrain in some cases.%n%nIt is recommended that you use mine copper, coal, tin, zinc, and bismuth in Tier 1.  You will need a large amount of iron starting in tier 3, so it won't hurt to pick it up also if you find it.
@@ -137,17 +125,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.desc=After getting your first pick, 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.name=Columns
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.desc=You may have noticed that the stone in this world will often collapse, and you have to do something to prevent that. %n%nWith a saw you can make supports (NEI search supports). Any log can make supports, and their combined effect is to prevent the cave from collapsing. %n%nIn the cave you need to lay them out in the following shape (side view): %nSupport: V%nStones: S%n%nS S S%nV V V%nV   V%nV   V%nS S S %n%n They can hold up 7x7x3 squares above.
 
-# Quest: tfr.quest520.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCA.name=The original food was inedible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCA.desc=The apples you spawned with cannot be eaten. Trade them in for something edible! Remember, only food from GT or TFC can be eaten in this modpack!
-
 # Quest: tfr.quest561.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=Item Conversions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=Most vanilla items can be shapeless crafted to or from the same TFC items. If something doesn't work, try to convert it.
-
-# Quest: tfr.quest598.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.name=Difficulty mode
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVg.desc=There are two levels of difficulty in this pack: normal mode and expert mode. Normal mode is on by default. This mode reduces some material consumption, allows some devices like GT Anvil to be used, and etc. but the overall gameplay remains the same. We suggest you use expert mode. %n%n Use /FTB_mode set Normal to switch to normal mode. %n%n Use /FTB_mode Set Expert to switch to expert mode. %n%n If you are playing on the server, only an administrator can switch the difficulty mode.
 
 # Quest: tfr.quest619.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=Task team
@@ -165,10 +145,26 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=Our team has created a TFR-spec
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=Can't find clay?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=The natives of the Terrafirma want you to build them a thatched house, and in return give you some clay.
 
+# Quest: tfru.q187n
+betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
+betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
+
 
 ## Quest Line: tfr.line13.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.name=Tier 0 - Bronze Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.desc=The sudden wind runs under the mistletoe; the confused wander beneath the trees. Just before climbing, the fruit falls. %n
+
+# Quest: tfr.quest217.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=Fermentation/soaking/cooling in one
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=The barrel is an important tool: it doesn't consume energy and just needs to be sealed and wait for the recipe to complete.  A simple barrel of water can be a very useful tool in cooling ingots of metal quickly.
+
+# Quest: tfr.quest218.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.name=Leather
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.desc=Hides are shed by pigs, cattle, deer, and sheep whose wool has been sheared. They come in three sizes: small, medium, and large. Each animal loses only one hide, but bigger animals drop larger hides. It takes a barrel containing limewater to change the hide into a soaked hide. Once the barrel contains the amount of limewater you need, place the hide in the barrel and seal it. You will not be able to open the barrel until the whole process is complete. Once finished, the soaked hide appears in the barrel. %n%nScraping hides requires a leather rack. First of all, the logs need to be placed on ground. Then, by shift-right-clicking, you can place the soaked hide on the log (on the top of the log, not the sides or undersides!) Scrape each part clean with a knife. Finally, the hide can be removed from the logs. %n%nIt takes a barrel of water to change the scraped hide into a prepared. Once you have filled the barrel with the desired amount, put the skins into the barrel and seal them. You will not be able to open the barrel until the whole process is complete. Once finished, prepared hide will appear in the barrel. %n%nPrepared hide is used to make leather. It will take a barrel of tannin. Fill the barrel with the required amount, place the prepared hide into the barrel and seal it. You will not be able to open the barrel until the whole process is complete. Once finished, the barrel will contain leather. %n%nA larger hide requires more tannin, but produces more leather. %n%nNote that not all logs can be used to create tannin.
+
+# Quest: tfr.quest219.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=Oxygen fuels flame
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=Use the black hole face of the bellows to direct air at the top of the forge, crucible, or blast furnace for faster heating, which works wonders in steelmaking.
 
 # Quest: tfr.quest19.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Mixing bowl
@@ -201,18 +197,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=The climate of the Terrafirma i
 # Quest: tfr.quest168.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.name=A crucible, not great, but at least better than the ceramic vessel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.desc=If you find graphite and kaolin, and you grind them into powder, you can make fire clay, and then you can knap the fire clay and make a crucible. You place the crucible on top of the forge, then light the forge, and heat the crucible. %nA crucible can efficiently melt ores other than iron ore and can also be used to make alloys. Pay attention to the alloy ratio so that it does not become an unknown ingot.
-
-# Quest: tfr.quest217.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=Fermentation/soaking/cooling in one
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=The barrel is an important tool: it doesn't consume energy and just needs to be sealed and wait for the recipe to complete.  A simple barrel of water can be a very useful tool in cooling ingots of metal quickly.
-
-# Quest: tfr.quest218.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.name=Leather
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.desc=Hides are shed by pigs, cattle, deer, and sheep whose wool has been sheared. They come in three sizes: small, medium, and large. Each animal loses only one hide, but bigger animals drop larger hides. It takes a barrel containing limewater to change the hide into a soaked hide. Once the barrel contains the amount of limewater you need, place the hide in the barrel and seal it. You will not be able to open the barrel until the whole process is complete. Once finished, the soaked hide appears in the barrel. %n%nScraping hides requires a leather rack. First of all, the logs need to be placed on ground. Then, by shift-right-clicking, you can place the soaked hide on the log (on the top of the log, not the sides or undersides!) Scrape each part clean with a knife. Finally, the hide can be removed from the logs. %n%nIt takes a barrel of water to change the scraped hide into a prepared. Once you have filled the barrel with the desired amount, put the skins into the barrel and seal them. You will not be able to open the barrel until the whole process is complete. Once finished, prepared hide will appear in the barrel. %n%nPrepared hide is used to make leather. It will take a barrel of tannin. Fill the barrel with the required amount, place the prepared hide into the barrel and seal it. You will not be able to open the barrel until the whole process is complete. Once finished, the barrel will contain leather. %n%nA larger hide requires more tannin, but produces more leather. %n%nNote that not all logs can be used to create tannin.
-
-# Quest: tfr.quest219.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=Oxygen fuels flame
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=Use the black hole face of the bellows to direct air at the top of the forge, crucible, or blast furnace for faster heating, which works wonders in steelmaking.
 
 # Quest: tfr.quest261.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=Real Lime
@@ -282,6 +266,30 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=Kaolinite and graphite are impo
 ## Quest Line: tfr.line1.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=Tier 1 - Steel Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=As you enter the iron age, you've increased your capacity a little bit, but not much.
+
+# Quest: tfr.quest210.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.name=Automatic charcoal production
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=When you have a forestry farm (see agricultural Task line) producing a steady stream of logs, you can make lots of coke ovens to make charcoal. The bottom of %n%n coke oven can be connected with GregTech Technology pipeline to automatically output creosote, can also be connected with the hopper to automatically output charcoal, the top can be used with hopper or item pipeline input log. All in all, it is a fully automated device. %n%n three coke ovens and corresponding automation equipment are enough to support a steam-age factory. %n%n§ C Note that this task has 3 pages
+
+# Quest: tfr.quest214.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Heat resistant alloy - Invar
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=A material used in the manufacture of thermal machines
+
+# Quest: tfr.quest221.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=Redstone Flux Production
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=It can generate 16RF/ T of energy, which can be used to power bending machines and stone crushers. %n%n Remember to turn on with redstone signal!!
+
+# Quest: tfr.quest222.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.name=3 ingots into 2 plates
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.desc=RF power is required to work and can be used to make curved plates, small casings, foils, long rods, and plates at a slightly lower loss than manual work, but cannot be used to make metals harder than steel.
+
+# Quest: tfr.quest232.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.name=A millstone
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.desc=You can scrape the leather without having to use a knife. You need to place a stone (not sand) before you can use it.
+
+# Quest: tfru.q140n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=
 
 # Quest: tfr.quest11.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=§b§lMetal Smelting
@@ -354,30 +362,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=Welding double steel, forging i
 # Quest: tfr.quest167.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.name=It's also primitive, but at least it doesn't need bellows
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=%n%n You take any iron ore and turn it into a small one, and then you make it into a molten steel prefabricated iron ore with flux %n%n and you throw it into a blast furnace, you put charcoal or coal in it, and you burn it into wrought iron pellets. %n%n wrought iron pellets can be refired into pellets in the blast furnace. They can be synthesized into ingots through worktables.
-
-# Quest: tfr.quest210.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.name=Automatic charcoal production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=When you have a forestry farm (see agricultural Task line) producing a steady stream of logs, you can make lots of coke ovens to make charcoal. The bottom of %n%n coke oven can be connected with GregTech Technology pipeline to automatically output creosote, can also be connected with the hopper to automatically output charcoal, the top can be used with hopper or item pipeline input log. All in all, it is a fully automated device. %n%n three coke ovens and corresponding automation equipment are enough to support a steam-age factory. %n%n§ C Note that this task has 3 pages
-
-# Quest: tfr.quest214.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Heat resistant alloy - Invar
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=A material used in the manufacture of thermal machines
-
-# Quest: tfr.quest221.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=Redstone Flux Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=It can generate 16RF/ T of energy, which can be used to power bending machines and stone crushers. %n%n Remember to turn on with redstone signal!!
-
-# Quest: tfr.quest222.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.name=3 ingots into 2 plates
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.desc=RF power is required to work and can be used to make curved plates, small casings, foils, long rods, and plates at a slightly lower loss than manual work, but cannot be used to make metals harder than steel.
-
-# Quest: tfr.quest232.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.name=A millstone
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6A.desc=You can scrape the leather without having to use a knife. You need to place a stone (not sand) before you can use it.
-
-# Quest: tfru.q140n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=
 
 # Quest: tfr.quest260.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=Vodka generation
@@ -467,18 +451,26 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.desc=GregTech Anvils can avoid the h
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.name=Time Travel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=Go to the Nether to look for Ancient Debris Ores and Rocks. And then alloy one ingot of Netherite from 4 Ancient Debris and 4 Gold in crucible. Netherite is great tool and boiler material. Because of its gold composition, pipes and drums made of Netherite can withstand acid!
 
+# Quest: tfru.q229n
+betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.name=
+betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.desc=
+
+# Quest: tfru.q228n
+betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.name=
+betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.desc=
+
 
 ## Quest Line: tfr.line2.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - Steam Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=One day, when you were forging, you accidentally left the kettle by the forge stove. Soon the lid of the kettle was plumped up by a white mist. You built a steam engine according to the guide. - based on GregTech
 
-# Quest: jinxi
-betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
-betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
 # Quest: tfru.q188n
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
+
+# Quest: tfr.quest209.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Grinding wheel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=Free your hands! The leather can be scraped automatically without you having to use a knife. It's a substitute for hand - operated grinding.
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§ § §lBoiling water!
@@ -636,10 +628,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjQ.desc=Not a useful machine other than
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyQ.name=AYAYIYAYIYAYIYAYI
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyQ.desc=It can manufacture AR circuit boards, a essential thing to enter the electric age.
 
-# Quest: tfr.quest209.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Grinding wheel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=Free your hands! The leather can be scraped automatically without you having to use a knife. It's a substitute for hand - operated grinding.
-
 # Quest: tfru.q109n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.desc=
@@ -732,6 +720,26 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADMw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 
+# Quest: tfru.q233n
+betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
+betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
+
+# Quest: tfru.q203n
+betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
+betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
+
+# Quest: tfru.q224n
+betterquesting.quest.ceSPniAwRjOGQsX46MVslg.name=
+betterquesting.quest.ceSPniAwRjOGQsX46MVslg.desc=
+
+# Quest: tfru.q237n
+betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.name=
+betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
+
+# Quest: jinxi
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
+betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
 
 ## Quest Line: tfr.line5.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - Redstone Age
@@ -790,6 +798,30 @@ betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.name=Tier 4.1 - Electric Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=Electric age! ~ ~ ~
 
+# Quest: tfru.q240n
+betterquesting.quest.1YS3AQyfTsq2xODMXTVhhA.name=
+betterquesting.quest.1YS3AQyfTsq2xODMXTVhhA.desc=
+
+# Quest: tfru.q231n
+betterquesting.quest.3tBtgGcKSHWxbAOCaG5ifw.name=
+betterquesting.quest.3tBtgGcKSHWxbAOCaG5ifw.desc=
+
+# Quest: tfru.q239n
+betterquesting.quest.4EjbsU9lTbaZbAwfH_T8Ug.name=
+betterquesting.quest.4EjbsU9lTbaZbAwfH_T8Ug.desc=
+
+# Quest: tfru.q230n
+betterquesting.quest.90w0BotNQFSAHI8QhMcUwg.name=
+betterquesting.quest.90w0BotNQFSAHI8QhMcUwg.desc=
+
+# Quest: tfru.q217n
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.name=
+betterquesting.quest.A6l748W9RZivMyKbrXJEUA.desc=
+
+# Quest: tfr.quest240.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Circuit assembly T1. %n%nHelium could be obtained from Pitchblende in centrifuge.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Make low level and above circuit boards
+
 # Quest: tfr.quest34.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=§lElectrolyzer (LV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=§2§1§ Your first electric device, the beginning of everything
@@ -838,14 +870,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=One of the advanced materials o
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.name=Component assembling
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=Congratulations! You can make your first circuit board!  %n The low - grade circuit board consists of a substrate, an etching circuit, and circuit parts. %n You can make them in the thermonic workbench.
 
-# Quest: tfr.quest69.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=The crystallization
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=
-
-# Quest: tfr.quest72.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Base circuit board (waiting for welding)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=
-
 # Quest: tfr.quest74.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Total Internal Reflection (TIR)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=Light can be completely reflected in two media with different refractive indices. One application of this discovery is optical fiber, which can transmit laser energy (LU). It's similar to electric cables
@@ -889,10 +913,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.desc=You can electrolyze the charcoa
 # Quest: tfr.quest114.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=Separating air
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=A 2xMV / 8xLV level semiconductor coolant is required for CU operation. Neon, helium and other noble gases are produced to make circuit elements %n%n. The first layer: 3X3 heat transmitter%n. The second layer: 3X3 antifreeze machine block
-
-# Quest: tfr.quest240.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Circuit assembly T1. %n%nHelium could be obtained from Pitchblende in centrifuge.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Make low level and above circuit boards
 
 # Quest: tfr.quest267.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Low level electronic circuit
@@ -1030,122 +1050,53 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
 
-# Quest: tfru.q217n
-betterquesting.quest.A6l748W9RZivMyKbrXJEUA.name=
-betterquesting.quest.A6l748W9RZivMyKbrXJEUA.desc=
+# Quest: tfru.q223n
+betterquesting.quest.H5JZmUBiTHShvne-FAc2zw.name=
+betterquesting.quest.H5JZmUBiTHShvne-FAc2zw.desc=
+
+# Quest: New Quest
+betterquesting.quest.KPUC9K--RJ6m4XXAY_8oTw.name=
+betterquesting.quest.KPUC9K--RJ6m4XXAY_8oTw.desc=
 
 # Quest: tfru.q190n
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.name=
 betterquesting.quest.OYIaLDRCTG2x7y6hbaDMfA.desc=
 
+# Quest: tfru.q245n
+betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.name=
+betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=
+
 # Quest: tfr.quest40.name
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=I don't want to wash ores!
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=You need to make the chromite powder into sodium chromate, then into sodium dichromate, then into chromium oxide for the next step.%n It is a good choice to make a production line with aluminum.
 
+# Quest: tfru.q236n
+betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=
+betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=
 
-## Quest Line: tfr.line11.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=Tier 4.2 - Petrochem Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Along with electricity, which emerged during the Second Industrial Revolution, was an important part of the process of making cheap storage tanks and circuit boards (you can burn them if you like)
+# Quest: New Quest
+betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.name=
+betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.desc=
 
-# Quest: tfru.q115n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=
+# Quest: tfru.q244n
+betterquesting.quest.iiBWGawQQS-Lxd_EkIUekg.name=
+betterquesting.quest.iiBWGawQQS-Lxd_EkIUekg.desc=
 
-# Quest: tfru.q114n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=
+# Quest: tfru.q238n
+betterquesting.quest.kRpriW5tSKGgh5JyTs8A4A.name=
+betterquesting.quest.kRpriW5tSKGgh5JyTs8A4A.desc=
 
-# Quest: tfru.q113n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=
+# Quest: tfru.q232n
+betterquesting.quest.muCPdktcSkiRlRUN7Hj3qw.name=
+betterquesting.quest.muCPdktcSkiRlRUN7Hj3qw.desc=
 
-# Quest: tfru.q116n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=
+# Quest: tfru.q241n
+betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.name=
+betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=
 
-# Quest: tfru.q117n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.desc=
-
-# Quest: tfru.q120n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.desc=
-
-# Quest: tfru.q118n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.desc=
-
-# Quest: tfru.q119n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.desc=
-
-# Quest: tfru.q121n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.desc=
-
-# Quest: tfru.q122n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=
-
-# Quest: tfru.q123n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.desc=
-
-# Quest: tfru.q124n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.desc=
-
-# Quest: tfru.q125n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=
-
-# Quest: tfru.q126n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.desc=
-
-# Quest: tfru.q127n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=
-
-# Quest: tfru.q128n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACoQ.desc=
-
-# Quest: tfru.q129n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.desc=
-
-# Quest: tfru.q130n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.desc=
-
-# Quest: tfru.q131n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.desc=
-
-# Quest: tfru.q133n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.desc=
-
-# Quest: tfru.q132n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.desc=
-
-# Quest: tfru.q134n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.desc=
-
-# Quest: tfru.q135n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.desc=
-
-# Quest: tfru.q136n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.desc=
-
-# Quest: tfru.q137n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.desc=
+# Quest: tfru.q246n
+betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=
+betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=
 
 
 ## Quest Line: tfru.l0n
@@ -1241,9 +1192,18 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
 
 
+## Quest Line: 
+betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
+betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
+
+
 ## Quest Line: tfr.line7.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=Tier 6 - Revolution in Physics
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=Along with the development of space exploration and production, breakthroughs have been made in basic science
+
+# Quest: tfr.quest215.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium Plus
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.desc=Awakend Draconium, somehow the electrons are excited???
 
 # Quest: tfr.quest119.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.name=Artificial Myth
@@ -1272,10 +1232,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.desc=With the massfab you can separa
 # Quest: tfr.quest154.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.name=Controlled Mini Sun
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.desc=A Tokamak style nuclear fusion reactor. Fuse the nuclei together. This is very expensive to make but gives you limitless possibilities in energy production and metal fusing.
-
-# Quest: tfr.quest215.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium Plus
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.desc=Awakend Draconium, somehow the electrons are excited???
 
 # Quest: tfr.quest368.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.name=Arrived in HD
@@ -1351,202 +1307,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
 
 
-## Quest Line: tfr.line4.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.name=Tier 5.1 - Semiconductor Industry
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9 of the circuit board industry.
-
-# Quest: tfru.q168n
-betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=
-betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.desc=
-
-# Quest: tfru.q169n
-betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
-betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
-
-# Quest: tfru.q166n
-betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.name=
-betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.desc=
-
-# Quest: tfru.q167n
-betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
-betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
-
-# Quest: tfru.q160n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=
-
-# Quest: tfru.q151n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=
-
-# Quest: tfru.q151n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
-
-# Quest: tfru.q153n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
-
-# Quest: tfru.q2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
-
-# Quest: tfr.quest236.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.name=lithography
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.desc=An ingenious machine perfectly USES light to etch complex patterns into crystals.
-
-# Quest: tfr.quest237.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.name=Optical mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=Reasonable filter light, so that the graphics on the photoresist corrosion forming. The %n substrate can be machined into a variety of masks: the working and intermediate masks are the basis for making all the circuits.%n controls and grille masks are used to make integrated circuits and random-access circuits respectively.
-
-# Quest: tfru.q161n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=
-
-# Quest: tfru.q145n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
-
-# Quest: tfru.q144n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.desc=
-
-# Quest: tfru.q146n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.desc=
-
-# Quest: tfru.q147n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.desc=
-
-# Quest: tfru.q148n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.desc=
-
-# Quest: tfru.q149n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=
-
-# Quest: tfru.q152n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=
-
-# Quest: tfru.q155n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
-
-# Quest: tfru.q157n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
-
-# Quest: tfru.q146n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.desc=
-
-# Quest: tfru.q147n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.desc=
-
-# Quest: tfru.q146n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc=
-
-# Quest: tfru.q147n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc=
-
-# Quest: tfru.q148n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=
-
-# Quest: tfru.q149n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=
-
-# Quest: tfru.q148n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.desc=
-
-# Quest: tfru.q149n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.desc=
-
-# Quest: tfru.q150n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.desc=
-
-# Quest: tfru.q150n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.desc=
-
-# Quest: tfru.q151n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc=
-
-# Quest: tfru.q150n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=
-
-# Quest: tfru.q154n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.desc=
-
-# Quest: tfru.q156n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=
-
-# Quest: tfru.q158n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=
-
-# Quest: tfru.q159n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
-
-# Quest: New Questasdasd
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
-
-# Quest: tfru.q170n
-betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.name=
-betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
-
-# Quest: tfru.q171n
-betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
-betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
-
-
 ## Quest Line: tfr.line14.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
+
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
 
 # Quest: tfr.quest6.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
@@ -1611,10 +1378,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, b
 # Quest: tfr.quest200.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
-
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
 
 # Quest: tfr.quest268.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
@@ -1745,18 +1508,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=A set of super armor, with ultr
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=
 
-# Quest: tfr.quest382.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=heroes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest708.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=
-
-# Quest: tfr.quest707.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=
-
 # Quest: tfru.q9n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.desc=
@@ -1768,6 +1519,18 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=
+
+# Quest: tfr.quest382.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=heroes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
+
+# Quest: tfr.quest708.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=
+
+# Quest: tfr.quest707.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=
 
 # Quest: tfru.q93n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.name=
@@ -1874,6 +1637,300 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
 
+## Quest Line: tfr.line11.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=Tier 4.2 - Petrochem Age
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Along with electricity, which emerged during the Second Industrial Revolution, was an important part of the process of making cheap storage tanks and circuit boards (you can burn them if you like)
+
+# Quest: tfru.q121n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.desc=
+
+# Quest: tfru.q122n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=
+
+# Quest: tfru.q116n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=
+
+# Quest: tfru.q117n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.desc=
+
+# Quest: tfru.q120n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.desc=
+
+# Quest: tfru.q118n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.desc=
+
+# Quest: tfru.q119n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.desc=
+
+# Quest: tfru.q115n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=
+
+# Quest: tfru.q114n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=
+
+# Quest: tfru.q113n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=
+
+# Quest: tfru.q123n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.desc=
+
+# Quest: tfru.q124n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.desc=
+
+# Quest: tfru.q125n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=
+
+# Quest: tfru.q126n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.desc=
+
+# Quest: tfru.q127n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=
+
+# Quest: tfru.q129n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.desc=
+
+# Quest: tfru.q130n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.desc=
+
+# Quest: tfru.q131n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.desc=
+
+# Quest: tfru.q133n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.desc=
+
+# Quest: tfru.q132n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.desc=
+
+# Quest: tfru.q134n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.desc=
+
+# Quest: tfru.q136n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.desc=
+
+# Quest: tfru.q137n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.desc=
+
+# Quest: tfru.q225n
+betterquesting.quest.LmgC58v6TkOE3CJpxuUxiA.name=
+betterquesting.quest.LmgC58v6TkOE3CJpxuUxiA.desc=
+
+# Quest: tfru.q243n
+betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.name=
+betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.desc=
+
+# Quest: tfru.q242n
+betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.name=
+betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.desc=
+
+# Quest: tfru.q128n
+betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.name=
+betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.desc=
+
+
+## Quest Line: tfr.line4.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.name=Tier 5.1 - Semiconductor Industry
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9 of the circuit board industry.
+
+# Quest: tfru.q167n
+betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
+betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
+
+# Quest: tfru.q145n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=
+
+# Quest: tfr.quest236.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.name=lithography
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.desc=An ingenious machine perfectly USES light to etch complex patterns into crystals.
+
+# Quest: tfr.quest237.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.name=Optical mask
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=Reasonable filter light, so that the graphics on the photoresist corrosion forming. The %n substrate can be machined into a variety of masks: the working and intermediate masks are the basis for making all the circuits.%n controls and grille masks are used to make integrated circuits and random-access circuits respectively.
+
+# Quest: tfru.q161n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
+
+# Quest: tfru.q160n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=
+
+# Quest: tfru.q151n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=
+
+# Quest: tfru.q151n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
+
+# Quest: tfru.q153n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
+
+# Quest: tfru.q2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
+
+# Quest: tfru.q144n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.desc=
+
+# Quest: tfru.q146n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.desc=
+
+# Quest: tfru.q147n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.desc=
+
+# Quest: tfru.q148n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.desc=
+
+# Quest: tfru.q149n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=
+
+# Quest: tfru.q152n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=
+
+# Quest: tfru.q157n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
+
+# Quest: tfru.q146n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.desc=
+
+# Quest: tfru.q147n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.desc=
+
+# Quest: tfru.q146n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc=
+
+# Quest: tfru.q147n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc=
+
+# Quest: tfru.q148n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=
+
+# Quest: tfru.q149n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=
+
+# Quest: tfru.q148n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.desc=
+
+# Quest: tfru.q149n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.desc=
+
+# Quest: tfru.q150n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.desc=
+
+# Quest: tfru.q150n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.desc=
+
+# Quest: tfru.q151n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc=
+
+# Quest: tfru.q150n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=
+
+# Quest: tfru.q154n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.desc=
+
+# Quest: tfru.q156n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=
+
+# Quest: tfru.q158n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=
+
+# Quest: New Questasdasd
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
+
+# Quest: tfru.q170n
+betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.name=
+betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
+
+# Quest: tfru.q171n
+betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
+betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
+
+# Quest: tfru.q169n
+betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
+betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
+
+# Quest: tfru.q166n
+betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.name=
+betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.desc=
+
+
 ## Quest Line: tfr.line15.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] Mass-Data Conversion
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=A magical blue crystal - Certus - will allow you to unlock a potentially infinite automated factory by building a network called ME - based on Applied Energistics 2
@@ -1897,10 +1954,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=You need a photolithographer an
 # Quest: tfr.quest522.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
-
-# Quest: tfr.quest523.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
 
 # Quest: tfr.quest524.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=The more the more
@@ -2060,10 +2113,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
 
-# Quest: tfr.quest424.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.name=gold
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqA.desc=
-
 # Quest: tfr.quest425.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
@@ -2140,6 +2189,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
 
+# Quest: tfr.quest424.name
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+
 
 ## Quest Line: tfru.l1n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
@@ -2173,7 +2226,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q195n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 
@@ -2181,7 +2234,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q196n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
 
@@ -2213,7 +2266,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q227n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
 
@@ -2230,13 +2283,21 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEg.desc=Prove your worth.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=Hostile creatures
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=The creatures of this world are very different from the vanilla, and I will be your mentor and lead you through a series of challenges.
 
-# Quest: tfr.quest462.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.name=Zombie hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.desc=Kill some zombies and I'll give you a good sword
+# Quest: tfr.quest504.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=T4, Polar Bear Hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=Kill some polar bears
 
-# Quest: tfr.quest463.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=The skeleton hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=A mallet deals additional damage to skeletons. Kill some skeletons and I'll give you a good hammer.
+# Quest: tfr.quest505.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.name=Zombie Hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.desc=Kill some zombies and I'll give you a good village sword
+
+# Quest: tfr.quest506.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.name=Skeleton Hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.desc=Kill some skeletons and I'll give you a good hammer
+
+# Quest: tfr.quest507.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.name=Spider Hunter T5
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.desc=Kill some spiders, and I'll give you a good slingshot
 
 # Quest: tfr.quest464.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB0A.name=The spider hunter
@@ -2398,22 +2459,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9g.desc=Kill some of the last endermen
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.name=Bear hunters T4
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB9w.desc=Kill some bears
 
-# Quest: tfr.quest504.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.name=T4, Polar Bear Hunter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-A.desc=Kill some polar bears
-
-# Quest: tfr.quest505.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.name=Zombie Hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-Q.desc=Kill some zombies and I'll give you a good village sword
-
-# Quest: tfr.quest506.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.name=Skeleton Hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-g.desc=Kill some skeletons and I'll give you a good hammer
-
-# Quest: tfr.quest507.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.name=Spider Hunter T5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAB-w.desc=Kill some spiders, and I'll give you a good slingshot
-
 # Quest: tfr.quest508.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.name=Reptilian hunter T5
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_A.desc=Kill some crawlers
@@ -2429,6 +2474,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_g.desc=Kill some bears
 # Quest: tfr.quest511.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.name=Polar bear hunter T5
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAB_w.desc=Kill some polar bears
+
+# Quest: tfr.quest462.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.name=Zombie hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzg.desc=Kill some zombies and I'll give you a good sword
+
+# Quest: tfr.quest463.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.name=The skeleton hunter
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzw.desc=A mallet deals additional damage to skeletons. Kill some skeletons and I'll give you a good hammer.
 
 # Quest: tfr.quest512.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACAA.name=Bear Grylls
@@ -2456,7 +2509,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBQ.desc=
 
 # Quest: tfr.quest518.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.name=Achievement: Meat grinder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=No Description
 
 # Quest: tfr.quest519.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=The Lord of chaos
@@ -2667,27 +2720,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
-
-## Quest Line: tfr.line24.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.name=[OB] Open Blocks
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGA.desc=Basic introduction of open square module, in production
-
-# Quest: tfr.quest640.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgA.name=Unify the world with open blocks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgA.desc=This is a very practical module, provides a lot of practical functions, and the cost is not expensive. How to use any item or cube can be seen in this book!
-
-# Quest: 行李箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqA.desc=一个箱子宠物，会自动帮你吃掉附近的掉落物%n右键打开它的物品栏，shift+右键可以把它收回背包%n§8此任务是Unofficial版本特有的
+# Quest: tfru.q198n
+betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
+betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
 
 
 ## Quest Line: tfr.line10.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Agriculture, animal husbandry and fisheries
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=Help %n about your survival on this planet as a carbon-based creature based on the Legend of Sierra, Industrial Age 2, and GregTech technology.
-
-# Quest: tfr.quest105.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Strange saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=After making a carpenter machine, you can convert the TFC oak sapling into the vanilla oak seedling. The bark can be obtained by right-clicking a log with the GregTech axe, or by machine.
 
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Agriculture
@@ -2725,6 +2765,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Dairy products are obtained in 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Animal cages
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=With this device, you can put animals into mysterious Spaces without suffocating them.
 
+# Quest: tfr.quest105.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Strange saplings
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=After making a carpenter machine, you can convert the TFC oak sapling into the vanilla oak seedling. The bark can be obtained by right-clicking a log with the GregTech axe, or by machine.
+
 # Quest: tfr.quest273.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=farmland
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Farmland, also known as soil, contains the three basic nutrients of a plant, and if there's enough water cube nearby, your plant can get important water. By using the water and nutrient pattern of the metal hoe, you can see the nutrient level of the crop and the availability of water. Growing crops in the soil reduces soil nutrients and must be fallow, fertilized, or planted periodically with crops that require different nutrient types in order to replenish nutrients. Note: Some crops, such as soybeans and green beans, require additional nutrients as they grow. %n%n Unlike the original, farmland cannot be turned back into soil. The destruction of cropland also does not produce any soil to prevent the reuse of nutrients.
@@ -2761,10 +2805,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Now you will never lack for foo
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Hard farmer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=The following task will be difficult for you at the beginning: You will need to collect more than 20 kinds of food and harvest them. However, the final reward is very rich oh.%n
 
-# Quest: tfr.quest311.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.name=Crop frame
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNw.desc=The crop rack increases the growth rate of the original crop. Not only that, but placing two overlapping racks between two crops has the potential to cross-breed two crops to produce a new crop. New crops will inherit the attributes of their ancestors and may change. %n%n even, it will become a new crop. Note: If no crops are planted on the rack, it will soon be covered with weeds, which are contagious and can easily destroy your field! %n%n To solve this problem, you can only make one weeder now.%n
-
 # Quest: tfr.quest312.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=reed
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Reed is not edible, but its fiber is good for paper, and there is no harm in growing it more often.
@@ -2785,38 +2825,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Wool is obtained by shearing. A
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Jute, not marijuana
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=It can be made into linen or rope and is a practical industrial material.
 
-# Quest: tfr.quest318.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.name=What, rubber sugar cane?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPg.desc=One of the easiest crops to hybridize is probably resinous sugar cane. Growing this crop on a large scale will get you out of the trouble of collecting latex from bakerwood.%n
-
-# Quest: tfr.quest319.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.name=ZhongZiDai
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPw.desc=Once the crop on the shelf is ripe, you have two options:%n1.Right click to get the crop, the seeds remain in the field%n2.Left click to get the crop and seed bag%n2.Please plant some sugar cane and get their seed, And I'll give you some reward
-
-# Quest: tfr.quest326.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.name=Okay, tomatoes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRg.desc=Tomatoes may seem like a harmless vegetable (or fruit?) But it's loaded with vitamins. It can only be obtained by hybridization.%n
-
-# Quest: tfr.quest327.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.name=The first step in becoming a botanist
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRw.desc=You get more and more hybridization %n%n and you look at the crop seeds with empty eyes and you can't see anything, and then you have to use the power of technology. %n%n This portable crop scanner can be used to learn the names and properties of crops after the battery case is charged. You just need to hold it and right click on the crop shelf. %n%n Also, the scanned crop dropped seeds with the crop name! %n%n hold the crop analyzer and press C to open the hybridization test interface %n
-
-# Quest: tfr.quest328.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Crop monitor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=All it takes is a little electricity, water, fertilizer, and herbicide to help you grow your crops faster and get rid of weeds.
-
-# Quest: tfr.quest329.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.name=Silent spring
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSQ.desc=To permanently solve the overgrown problem, you have to use chemical weapons. %n%n herbicides should only be used in crop control.
-
-# Quest: tfr.quest330.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.name=Nitrogen, phosphorus, potassium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSg.desc=There are many ways to make fertilizer. They can speed up the growth of crops on crop shelves. Fertilizer can only be used in a crop control machine.
-
-# Quest: tfr.quest331.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.name=Automatic harvester
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSw.desc=The machines aren't cheap, but once you have a large field of finished crops that have been cross-bred, with crop regulators, they can provide a steady stream of output for your plant.
-
 # Quest: tfr.quest332.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=fisheries
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=You need to make a fishing rod to fish. A fishing rod needs to be made of line. Any fish of any size can be submitted!
@@ -2825,94 +2833,18 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=You need to make a fishing rod 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=line
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Important resources, can be made from jute fiber or wool yarn
 
-# Quest: tfr.quest339.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.name=Emerald bush
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUw.desc=Producing emeralds
-
-# Quest: tfr.quest340.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.name=Crude oil berries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVA.desc=The production of crude oil
-
-# Quest: tfr.quest341.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.name=Silver grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVQ.desc=Silver leaf production
-
-# Quest: tfr.quest342.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.name=Tin Ye Teng
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVg.desc=Produce tin twigs
-
-# Quest: tfr.quest344.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.name=Lead the leaves
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWA.desc=
-
-# Quest: tfr.quest345.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.name=Diamond grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWQ.desc=Production of diamond powder
-
-# Quest: tfr.quest346.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.name=Gold leaf grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWg.desc=The production of gold
-
 # Quest: tfr.quest347.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Miners necessary
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=If you have a lot of wool yarn or jute fiber, this rope is much cheaper than a ladder. It allows you to climb up and down a mine without having to dig a stepped tunnel that might collapse.
-
-# Quest: tfr.quest350.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.name=Copper and cotton
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABXg.desc=Production of copper wire
-
-# Quest: tfr.quest352.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.name=Peaceful mobs
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYA.desc=Don't want to go out and fight monsters? Or don't want to breed cattle for leather? Or don't want to build a mob tower? Crossbreeding helps you!
-
-# Quest: tfr.quest353.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.name=The corpse of the grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYQ.desc=Production of rotten meat
-
-# Quest: tfr.quest354.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.name=The spider grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYg.desc=Production of spider products
-
-# Quest: tfr.quest355.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.name=Flame reed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABYw.desc=Production of flame powder
-
-# Quest: tfr.quest356.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.name=Is hybridization worth it?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZA.desc=Hybridization is a long term task. In general, if you start hybridizing early in the game, you'll be able to get through the resource crunch much more easily later in the game.%n It's still your choice. I've set up a lot of missions to reward you for crossbreeding.
-
-# Quest: tfr.quest357.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.name=Flowers of the wilders
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZQ.desc=Produce litter products
-
-# Quest: tfr.quest358.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.name=Mucus grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZg.desc=Producing mucus ball
-
-# Quest: tfr.quest359.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.name=The explosion of grass
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABZw.desc=The production of powder
-
-# Quest: tfr.quest360.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.name=Strengthen shadow lily
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaA.desc=Produce shadow pearl
-
-# Quest: tfr.quest361.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.name=Leather flower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaQ.desc=The production of leather
-
-# Quest: tfr.quest362.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.name=The flower of tears
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABag.desc=Produce the tears of evil spirits
-
-# Quest: tfr.quest363.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.name=Mineral farm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABaw.desc=Don't want to go out and dig? Don't want to find oil? Crossbreeding helps you!
 
 
 ## Quest Line: tfr.line0.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=Beekeeper
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=On bee breeding and hybridization - based on GregTech Technology, Forestry, Gendustry.
+
+# Quest: 测序
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=
 
 # Quest: tfru.q47n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=
@@ -2974,25 +2906,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAug.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=
 
-# Quest: 测序
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9w.desc=
-
 # Quest: tfru.q64n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdQ.desc=
 
-# Quest: tfr.quest552.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=Bumble!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=To open this chapter, you need a bee trap
+# Quest: 创造变异条件
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc=
 
-# Quest: tfru.q62n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.desc=
+# Quest: 加速变异
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=
 
-# Quest: tfru.q60n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=
+
+# Quest: tfru.q69n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.desc=
 
 # Quest: tfru.q59n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8A.name=
@@ -3014,21 +2946,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9g.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC9w.desc=
 
-# Quest: 创造变异条件
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-A.desc=
+# Quest: tfr.quest552.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.name=Bumble!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKA.desc=To open this chapter, you need a bee trap
 
-# Quest: 加速变异
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-Q.desc=
+# Quest: tfru.q62n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKQ.desc=
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-g.desc=
-
-# Quest: tfru.q69n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC-w.desc=
+# Quest: tfru.q60n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACTg.desc=
 
 # Quest: 培养
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC_A.name=
@@ -3075,6 +3003,18 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=Tier 5.2 - Aerospace Era
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Manned spaceflight, asteroid mining, gas planet development - based on advanced rockets
 
+# Quest: tfr.quest336.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Liquid rocket!!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=It takes a lot of push to send you up into the sky
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
+
+# Quest: tfru.q143n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
+
 # Quest: tfr.quest189.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Dream of the stars and sea
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=The beginning of space travel %n%n%n How to use it: Place it in an open area %n and then place the launch pad and the structure tower next to it. The bottom of the structure tower should be the same as the Y axis of the launch pad.%n %n The width of the launch tower, the height of the structure tower, as big as you can DIY the rocket.%n
@@ -3111,18 +3051,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=Assemble a mining rocket %n%n Y
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Process the data
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Multiblock. %n It is used to enhance the asteroid chip data to make the benefits greater
 
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Liquid rocket!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=It takes a lot of push to send you up into the sky
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
-
-# Quest: tfru.q143n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
-
 # Quest: tfr.quest334.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Everything is ready
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
@@ -3134,10 +3062,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
 # Quest: tfr.quest336.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Liquid rocket!!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=It takes a lot of push to send you up into the sky
-
-# Quest: tfr.quest337.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
@@ -3317,144 +3241,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACww.desc=
 
 
-## Quest Line: tfr.line9.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACQ.name=Multiblock Energy
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACQ.desc=Increase energy consumption while increasing production capacity
-
-# Quest: tfr.quest67.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.name=Large steam boiler 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.desc=%n Steam turbines are not recommended unless you have achieved the capability to produce nuclear fission.%n%n
-
-# Quest: tfr.quest110.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbg.name=Gas 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbg.desc=More advanced gas turbines %n%n§ C If you do not want to give up the natural gas springs at home, titanium can also consider this machine.
-
-# Quest: tfr.quest143.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=Large steam boiler 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.
-
-# Quest: tfr.quest144.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.name=Gas-fired power generation early benefits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.desc=%n%n§ C Before you consider building a gas turbine, check if there is a gas spring in your home. If not, you need a lot of setup to produce enough fuel.
-
-# Quest: tfr.quest146.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.name=Large steam boiler 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkg.desc=%n%n3 Large tungsten steel boilers allow a turbine to be fully loaded to a staggering close to 30k eu/t power generation. %n%n It is highly recommended for use with nuclear fission.
-
-# Quest: tfr.quest147.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkw.name=Advanced gas-Fired power generation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkw.desc=More advanced gas turbine. %n%n§ C If you do not want to give up the natural gas springs at home, and you've got a lot of Titanium, you can consider this machine.
-
-# Quest: tfr.quest169.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqQ.name=Steam turbine 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqQ.desc=Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.
-
-# Quest: tfr.quest171.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.name=The steam turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqw.desc=%n Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.%n%n
-
-# Quest: tfr.quest172.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.name=Steam turbine 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArA.desc=Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.
-
-# Quest: tfr.quest174.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.name=Primary large steam boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAArg.desc=%n Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.%n%n
-
-# Quest: tfr.quest176.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsA.name=Large steam boiler 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsA.desc=Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.
-
-# Quest: tfr.quest177.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsQ.name=Gas 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAsQ.desc=More advanced gas turbines %n%n§ C If you do not want to give up the natural gas springs at home, titanium can also consider this machine.
-
-# Quest: tfr.quest181.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.name=Steam turbine 5
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAtQ.desc=Steam turbines are not personally recommended unless you have achieved the capability to produce nuclear fission.
-
-# Quest: tfr.quest188.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.name=About Productivity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvA.desc=The following machines are not required to be made in the technology line, but by choosing some of them properly and combining them with corresponding requirements, they are the most worthwhile things to make in GregTech. The amount of electricity you generate determines your level of development.
-
-
-## Quest Line: tfr.line25.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.name=Tier 5.3 - Parallel Processing
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGQ.desc=In addition to being romantic, the multi-block machines can process more recipes with the same amount of energy
-
-# Quest: tfr.quest142.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=YOU LIKE BIG STUFF DONT YOU
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.desc=
-
-# Quest: tfr.quest145.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkQ.name=Faster grinding
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkQ.desc=
-
-# Quest: tfr.quest282.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.name=Super roaster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGg.desc=This thing can process sulfide minerals at high speed
-
-# Quest: tfr.quest650.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.name=Large centrifuge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACig.desc=
-
-# Quest: tfr.quest651.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.name=Large ore washing plant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACiw.desc=
-
-# Quest: tfr.quest652.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjA.name=Large extruder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjA.desc=
-
-# Quest: tfr.quest653.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.name=Large electrolyzer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjQ.desc=
-
-# Quest: tfr.quest654.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjg.name=Large condenser
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjg.desc=
-
-# Quest: tfr.quest655.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.name=High temperature mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACjw.desc=
-
-# Quest: tfr.quest656.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.name=Large dip washer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkA.desc=
-
-# Quest: tfr.quest657.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.name=Large autoclave
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkQ.desc=
-
-# Quest: tfr.quest658.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkg.name=Large mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkg.desc=
-
-# Quest: tfr.quest659.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkw.name=Large fermentation machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACkw.desc=
-
-# Quest: tfr.quest663.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClw.name=Large mold
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClw.desc=
-
-# Quest: tfr.quest664.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmA.name=Industrial coke oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmA.desc=
-
-# Quest: tfr.quest665.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.name=Large Extrider
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmQ.desc=An Extruder that uses electricity
-
-# Quest: tfr.quest666.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.name=Large electric furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACmg.desc=
-
-# Quest: tfr.quest676.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.name=Aquatic Farm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpA.desc=This Multiblock Machine consume fish fry and nutrition fluid to produce large amount of fish, which could be used to produce fish oil, poison potion, and mercury.
-
-
 ## Quest Line: tfr.line8.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACA.name=Human Has Limits
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACA.desc=Tritanium and dilithium allow you to get a powerful weapon and a huge amount of redstone flux energy - based on MatterOverdrive
@@ -3531,50 +3317,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEA.desc=Deep within Dracona lies a 
 # Quest: tfru.q8n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbw.desc=
-
-# Quest: tfru.q27n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.desc=
-
-# Quest: tfru.q45n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.desc=
-
-# Quest: tfru.q1n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.desc=
-
-# Quest: tfru.q2n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.desc=
-
-# Quest: tfru.q3n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.desc=
-
-# Quest: tfru.q30n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.desc=
-
-# Quest: tfru.q28n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.desc=
-
-# Quest: tfru.q25n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=
-
-# Quest: tfru.q29n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.desc=
-
-# Quest: tfru.q5n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.desc=
-
-# Quest: tfru.q41n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=
 
 # Quest: tfru.q42n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC0A.name=
@@ -3688,10 +3430,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=
 
-# Quest: tfru.q12n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8Q.desc=
-
 # Quest: tfru.q13n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.desc=
@@ -3700,8 +3438,56 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8w.desc=
 
+# Quest: tfru.q27n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxQ.desc=
+
+# Quest: tfru.q45n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxg.desc=
+
+# Quest: tfru.q1n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxw.desc=
+
+# Quest: tfru.q2n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyA.desc=
+
+# Quest: tfru.q3n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyQ.desc=
+
+# Quest: tfru.q30n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyg.desc=
+
+# Quest: tfru.q28n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACyw.desc=
+
+# Quest: tfru.q25n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzA.desc=
+
+# Quest: tfru.q29n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzQ.desc=
+
+# Quest: tfru.q5n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzg.desc=
+
+# Quest: tfru.q41n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=
+
 
 ### Quests in multiple quest lines ###
+
+# Quest: tfr.quest216.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHHHHHHH
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=It's finally time to make a workbench. %n%nThrough a lot of hard work, you've finally made something that you could have made in a minute in the vanilla! Congratulations! %n%n§lYou may wonder how do you get the stone? Dig out the six blocks directly adjacent to a rock with your pickaxe, and the remaining floating stone will suddenly drop without being turned to cobble.
 
 # Quest: tfr.quest5.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§ § §lThe lost art
@@ -3715,13 +3501,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=Two kinds of AR chips are used 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.name=§b§lGenerator (LV)- EU, not RF
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=The beginning of the electric age
 
-# Quest: tfr.quest216.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHHHHHHH
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=It's finally time to make a workbench. %n%nThrough a lot of hard work, you've finally made something that you could have made in a minute in the vanilla! Congratulations! %n%n§lYou may wonder how do you get the stone? Dig out the six blocks directly adjacent to a rock with your pickaxe, and the remaining floating stone will suddenly drop without being turned to cobble.
-
 # Quest: tfr.quest299.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=Automated farm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=First, make the 36 cubes into a cuboid of 3 (width) x3 (length) x4 (height). Cover the cuboid with the furthest 7 tiles (original) %n%n feed water from the farm lock. %n%n import fertilizer, soil, and saplings or crop seeds from the farm box or directly open GUI. %n%n inputs RF energy from the farm gearbox. %n%n the goods and sand that come out of the farm boxes are funnelled or otherwise. It stops working if it gets blocked. %n%n Take care that the top of the farm is not obscured.
+
+# Quest: tfr.quest337.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
 
 # Quest: tfr.quest442.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=Carpenter's miracle
@@ -3731,25 +3517,53 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=This wonderous item can hold 18
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=Storage barrel (of bronze)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Store 5000 items per piece
 
+# Quest: tfr.quest523.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
+
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
+
+# Quest: tfru.q135n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVg.desc=
+
+# Quest: tfru.q155n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
+
+# Quest: tfru.q159n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
 
+# Quest: tfru.q168n
+betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=
+betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.desc=
+
 
 ### Quests in no quest lines ###
 
 # Quest: New Quest
-betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.name=
-betterquesting.quest.KmNAFUcuQf2z9ML91ay8bQ.desc=
-
-# Quest: tfru.q203n
-betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
-betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
+betterquesting.quest.IQwteQLZQJe0Tyr0kBszyw.name=
+betterquesting.quest.IQwteQLZQJe0Tyr0kBszyw.desc=
 
 # Quest: New Quest
-betterquesting.quest.eh8Y9kVoTgOx9VCIwdwa7w.name=
-betterquesting.quest.eh8Y9kVoTgOx9VCIwdwa7w.desc=
+betterquesting.quest.KptlVScLRWq35pEIFVEi_A.name=
+betterquesting.quest.KptlVScLRWq35pEIFVEi_A.desc=
+
+# Quest: New Quest
+betterquesting.quest.YYLl-gDGTd64MgCqNL7a9g.name=
+betterquesting.quest.YYLl-gDGTd64MgCqNL7a9g.desc=
+
+# Quest: New Quest
+betterquesting.quest.dG7X9KdkQBWIbpPK4einyA.name=
+betterquesting.quest.dG7X9KdkQBWIbpPK4einyA.desc=
+
+# Quest: New Quest
+betterquesting.quest.yl6R5LxDR_-d3Fp4ufcO0g.name=
+betterquesting.quest.yl6R5LxDR_-d3Fp4ufcO0g.desc=

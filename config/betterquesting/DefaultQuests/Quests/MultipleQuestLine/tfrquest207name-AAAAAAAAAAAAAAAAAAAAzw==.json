@@ -69,8 +69,8 @@
         },
         "1:10": {
           "id:8": "enhancedlootbags:lootbag",
-          "Count:3": 2,
-          "Damage:2": 2,
+          "Count:3": 1,
+          "Damage:2": 5,
           "OreDict:8": ""
         }
       }
@@ -92,6 +92,12 @@
           "OreDict:8": ""
         }
       }
+    },
+    "2:10": {
+      "amount:3": 840,
+      "rewardID:8": "bq_standard:xp",
+      "isLevels:1": 0,
+      "index:3": 2
     }
   }
 }

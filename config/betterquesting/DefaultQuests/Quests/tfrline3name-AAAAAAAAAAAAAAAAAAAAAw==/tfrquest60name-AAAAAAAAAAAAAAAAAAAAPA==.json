@@ -3,7 +3,7 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 45
+      "questIDLow:4": 42
     }
   },
   "questIDLow:4": 60,
@@ -45,7 +45,7 @@
       "requiredItems:9": {
         "0:10": {
           "id:8": "gregtech:gt.meta.dust",
-          "Count:3": 1,
+          "Count:3": 16,
           "Damage:2": 220,
           "OreDict:8": ""
         }
@@ -53,5 +53,24 @@
       "taskID:8": "bq_standard:retrieval"
     }
   },
-  "rewards:9": {}
+  "rewards:9": {
+    "0:10": {
+      "rewardID:8": "bq_standard:item",
+      "index:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "id:8": "enhancedlootbags:lootbag",
+          "Count:3": 1,
+          "Damage:2": 5,
+          "OreDict:8": ""
+        }
+      }
+    },
+    "1:10": {
+      "amount:3": 840,
+      "rewardID:8": "bq_standard:xp",
+      "isLevels:1": 0,
+      "index:3": 1
+    }
+  }
 }

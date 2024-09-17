@@ -123,21 +123,30 @@
       "index:3": 0,
       "rewards:9": {
         "0:10": {
-          "id:8": "tfcprimitivetech:itemSlingshot",
+          "id:8": "terrafirmacraft:item.bow",
           "Count:3": 1,
           "tag:10": {
             "ench:9": {
               "0:10": {
+                "lvl:2": 2,
+                "id:2": 48
+              },
+              "1:10": {
                 "lvl:2": 1,
-                "id:2": 18
+                "id:2": 50
               }
-            },
-            "RepairCost:3": 2
+            }
           },
-          "Damage:2": 0,
+          "Damage:2": 2,
           "OreDict:8": ""
         },
         "1:10": {
+          "id:8": "terrafirmacraft:item.arrow",
+          "Count:3": 64,
+          "Damage:2": 0,
+          "OreDict:8": ""
+        },
+        "2:10": {
           "id:8": "moegadd:point1",
           "Count:3": 1,
           "Damage:2": 0,

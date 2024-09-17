@@ -53,15 +53,14 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "OpenBlocks:tank",
+          "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
           "tag:10": {
-            "tank:10": {
-              "FluidName:8": "oilgas",
-              "Amount:3": 16000
+            "gt.tank:10": {
+              "FluidName:8": "oilgas"
             }
           },
-          "Damage:2": 0,
+          "Damage:2": 32064,
           "OreDict:8": ""
         }
       },

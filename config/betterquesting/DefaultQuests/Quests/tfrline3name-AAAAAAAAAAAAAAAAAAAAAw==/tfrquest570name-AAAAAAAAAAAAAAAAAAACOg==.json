@@ -13,7 +13,7 @@
       "taskLogic:8": "AND",
       "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
-      "isMain:1": 0,
+      "isMain:1": 1,
       "simultaneous:1": 0,
       "icon:10": {
         "id:8": "gregtech:gt.multiitem.technological",
@@ -70,6 +70,12 @@
           "OreDict:8": ""
         }
       }
+    },
+    "1:10": {
+      "amount:3": 100,
+      "rewardID:8": "bq_standard:xp",
+      "isLevels:1": 0,
+      "index:3": 1
     }
   }
 }
