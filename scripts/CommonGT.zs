@@ -505,21 +505,21 @@ recipes.remove(<gregtech:gt.multitileentity:17198>);
 
 // PUV1 emitter
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 4096, 400 ,0,[10000],
-[<gregtech:gt.multitileentity:29207>*8, <gregtech:gt.multitileentity:29207>*2, <gregtech:gt.meta.plateDouble:8684>*2,<moegadd:StarPlatinum>,<gregtech:gt.multiitem.technological:30306>*2],
+[<gregtech:gt.multitileentity:29207>*8, <gregtech:gt.multitileentity:29207>*2, <gregtech:gt.meta.plateDouble:8684>*2,<ktfruaddon:ktfru.item.compact:16>,<gregtech:gt.multiitem.technological:30306>*2],
 [null],
 [null],
 [<gregtech:gt.multiitem.technological:12109>]);
 
 // UV emitter
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 3072, 400 ,0,[10000],
-[<gregtech:gt.multitileentity:29207>*8,<gregtech:gt.meta.plateDouble:8790>*2,<moegadd:StarPlatinum>,<gregtech:gt.multiitem.technological:30305>*2],
+[<gregtech:gt.multitileentity:29207>*8,<gregtech:gt.meta.plateDouble:8790>*2,<ktfruaddon:ktfru.item.compact:16>,<gregtech:gt.multiitem.technological:30305>*2],
 [null],
 [null],
 [<gregtech:gt.multiitem.technological:12108>]);
 
 // ZPM emitter
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 2048, 400 ,0,[10000],
-[<gregtech:gt.multitileentity:29207>*6,<gregtech:gt.meta.plateDouble:760>*2,<moegadd:StarPlatinum>,<gregtech:gt.multiitem.technological:30304>*2],
+[<gregtech:gt.multitileentity:29207>*6,<gregtech:gt.meta.plateDouble:760>*2,<ktfruaddon:ktfru.item.compact:16>,<gregtech:gt.multiitem.technological:30304>*2],
 [null],
 [null],
 [<gregtech:gt.multiitem.technological:12107>]);
@@ -529,7 +529,7 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.ionizer", false, 8192, 2000 ,0,[5000],
 [<minecraft:nether_star>],
 [<liquid:molten.platinum>*1440],
 [null],
-[<moegadd:StarPlatinum>]);
+[<ktfruaddon:ktfru.item.compact:16>]);
 
 /*
 recipes.remove(<gregtech:gt.multitileentity:17225>);
@@ -656,7 +656,7 @@ recipes.addShaped(<gregtech:gt.multitileentity:32721>,[
 var USBy = [<gregtech:gt.multiitem.technological:32021>,<gregtech:gt.multiitem.technological:32022>,<gregtech:gt.multiitem.technological:32023>,<gregtech:gt.multiitem.technological:32024>] as IItemStack[];
 var input7 = [<gregtech:gt.meta.plate:130>,<gregtech:gt.meta.plate:8636>,<gregtech:gt.meta.plate:240>,<gregtech:gt.meta.plate:220>] as IItemStack[];
 var input8 = [<gregtech:gt.multiitem.technological:30303>,<gregtech:gt.multiitem.technological:30304>,<gregtech:gt.multiitem.technological:30305>,<gregtech:gt.multiitem.technological:30306>] as IItemStack[];
-var input9 = [<moegadd:MemoryCell128M>,<moegadd:MemoryCell256M>,<moegadd:MemoryCell512M>,<moegadd:MemoryCell1G>] as IItemStack[];
+var input9 = [<ktfruaddon:ktfru.item.it:30301>,<ktfruaddon:ktfru.item.it:30302>,<ktfruaddon:ktfru.item.it:30303>,<ktfruaddon:ktfru.item.it:30304>] as IItemStack[];
 var USBx = [<gregtech:gt.multiitem.technological:32011>,<gregtech:gt.multiitem.technological:32012>,<gregtech:gt.multiitem.technological:32013>,<gregtech:gt.multiitem.technological:32014>,<gregtech:gt.multiitem.technological:32015>]as IItemStack[];
 for b ,USBy0 in USBy{
 var USBx0 = USBx[b];

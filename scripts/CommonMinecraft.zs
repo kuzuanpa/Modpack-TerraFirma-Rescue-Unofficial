@@ -221,70 +221,51 @@ recipes.addShapeless(<minecraft:pumpkin>,[<terrafirmacraft:Pumpkin>]);
 // More scientific glass making
 // FR Method
 mods.forestry.ThermionicFabricator.addCast(<minecraft:glass>*8, [
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,n,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>]], 100, <gregtech:gt.multiitem.technological:10214>);
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,n,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>]], 100, <gregtech:gt.multiitem.technological:10214>);
 
 mods.forestry.ThermionicFabricator.addCast(<terrafirmacraft:item.Glass Bottle>*8, [
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,n,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>]], 100, <gregtech:gt.multiitem.technological:10224>);
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,n,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>]], 100, <gregtech:gt.multiitem.technological:10224>);
 
 mods.forestry.ThermionicFabricator.addCast(<minecraft:glass>*8, [
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,n,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>]], 100, <gregtech:gt.multiitem.technological:10014>);
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,n,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>]], 100, <gregtech:gt.multiitem.technological:10014>);
 
 mods.forestry.ThermionicFabricator.addCast(<terrafirmacraft:item.Glass Bottle>*8, [
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,n,<moegadd:QuartzMixture>],
-  [<moegadd:QuartzMixture>,<moegadd:QuartzMixture>,<moegadd:QuartzMixture>]], 100, <gregtech:gt.multiitem.technological:10024>);
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,n,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.dust:8001>]], 100, <gregtech:gt.multiitem.technological:10024>);
 
 
 // Primitive method
-MTUtilsGT.removeAllRecipes("gt.recipe.mixer",<moegadd:BlackSaltpetre>);
-MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder:4>,<terrafirmacraft:item.Powder>,<gregtech:gt.meta.dust:8334>],
-[n],
-[n],
-[<moegadd:BlackSaltpetre>*3]);
+//MTUtilsGT.removeAllRecipes("gt.recipe.mixer",<moegadd:BlackSaltpetre>);
+//MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+//[<terrafirmacraft:item.Powder:4>,<terrafirmacraft:item.Powder>,<gregtech:gt.meta.dust:8334>],
+//[n],
+//[n],
+//[<moegadd:BlackSaltpetre>*3]);
 
-
-MTUtilsGT.removeAllRecipes("gt.recipe.mixer",<moegadd:QuartzMixture>);
-MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<moegadd:RoughQuickLime>*2, <moegadd:RoughCausticSoda>, <minecraft:sand>*7],
-[n],
-[n],
-[<moegadd:QuartzMixture>*10]);
-
-MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<moegadd:RoughQuickLime>*2, <gregtech:gt.meta.dust:8268>, <minecraft:sand>*7],
-[n],
-[n],
-[<moegadd:QuartzMixture>*10]);
-
-MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<moegadd:RoughQuickLime>*2, <gregtech:gt.meta.dust:9139>, <minecraft:sand>*7],
-[n],
-[n],
-[<moegadd:QuartzMixture>*10]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
 [<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:50>, <minecraft:sand>*7],
 [n],
 [n],
-[<moegadd:QuartzMixture>*10]);
+[<gregtech:gt.meta.dust:8001>*10]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
 [<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dust:8268>, <minecraft:sand>*7],
 [n],
 [n],
-[<moegadd:QuartzMixture>*10]);
+[<gregtech:gt.meta.dust:8001>*10]);
 
 //OutputStack, TopRowPattern, SecondRowPattern, ThirdRowPattern, BottomRowPattern
 
-recipes.addShapeless(<terrafirmacraft:item.Glass Bottle>,[<moegadd:CeramicBottleMoldMoltenGlass>,HHammer]);
-recipes.addShapeless(<minecraft:glass>*3,[<moegadd:CeramicBlockMoldMoltenGlass>,HHammer]);
+//recipes.addShapeless(<terrafirmacraft:item.Glass Bottle>,[<moegadd:CeramicBottleMoldMoltenGlass>,HHammer]);
+//recipes.addShapeless(<minecraft:glass>*3,[<moegadd:CeramicBlockMoldMoltenGlass>,HHammer]);
 
 // Industrial prudction of glass
 for dust in <ore:dustAnyCalcite>.items {

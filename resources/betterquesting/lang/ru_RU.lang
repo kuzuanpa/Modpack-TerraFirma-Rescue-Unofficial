@@ -1098,6 +1098,10 @@ betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=
 
+# Quest: New Quest
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
+
 
 ## Quest Line: tfru.l0n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=
@@ -1182,10 +1186,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
 # Quest: tfru.q186n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
-
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
@@ -1813,10 +1813,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
@@ -2720,9 +2716,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
+# Quest: tfru.q247n
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
+
+# Quest: tfru.q248n
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -3505,6 +3509,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=Начало эры элект�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=Автоматизированная ферма
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=Во-первых, эти 36 блоков образуют кубик 3 (ширина) x3 (длина) x4 (высота). %n% % % каменного кирпича (оригинальная) n% %n%, окружающего этот кубометр, покрыт самыми дальними семью гранями каменного кирпича (оригинальная). %n% (%) извлекают из ферм контейнеры или непосредственно открывают GUI для ввода удобрений, почвы, семян или зерновых (оригинальных) культур. %n%n вводит энергию RF из фермерской коробки передач. %n% % вывозят из фермы контейнеры с товарами и песком через воронку или иным образом. Если он заблокирован, он перестанет работать. Обратите внимание на гарантии, что верхняя часть фермы не будет защищена.
 
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
+
 # Quest: tfr.quest337.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Прибыл на дак эгг б
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=Первая планета, к которой вы должны отправиться, это Duck Egg B
@@ -3536,6 +3544,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
 # Quest: tfru.q159n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=

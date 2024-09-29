@@ -1098,6 +1098,10 @@ betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=
 
+# Quest: New Quest
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
+
 
 ## Quest Line: tfru.l0n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=
@@ -1182,10 +1186,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
 # Quest: tfru.q186n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
-
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
@@ -1813,10 +1813,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
@@ -2720,9 +2716,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
+# Quest: tfru.q247n
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
+
+# Quest: tfru.q248n
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -3505,6 +3509,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=電力時代的開始
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=自動化農場
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=首先, 將這36個方塊組成一個3（寬）x3（長）x4（高）的長方體。%n%n在這個長方體周圍鋪滿最遠7格的石磚（原版）%n%n從農場水閘輸入水。%n%n從農場出貨箱或者直接打開GUI輸入肥料, 泥土, 和樹苗或者作物種子（原版）。%n%n從農場齒輪箱輸入RF能量。%n%n從農場出貨箱用漏斗或者其他方式輸出產出的物品和沙子。如果被堵塞會停止工作。%n%n注意保證農場頂部不要被遮擋。
 
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
+
 # Quest: tfr.quest337.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=抵達Duck Egg B
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=你第一個應該前往的行星是Duck Egg B%n在那裡你能獲得許多群巒星上罕見的礦物, 比如賽特斯石英和鎢。
@@ -3536,6 +3544,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
 # Quest: tfru.q159n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=

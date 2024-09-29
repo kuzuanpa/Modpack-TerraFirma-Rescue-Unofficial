@@ -22,6 +22,8 @@
  echo "已复制mods"
  cp release/TFR\ BlueLine\ UI.zip release/zhCN/resourcepacks
  echo "已复制TFR蓝线UI材质包"
+ cp release/options-default-zhcn.txt release/zhCN/options.txt
+ echo "已复制中文默认配置文件"
  cd release/zhCN/
  mkdir ../overrides
  mv * ../overrides
@@ -29,6 +31,10 @@
  echo "已构建导入包目录结构"
  cat ../manifest.json |sed s/TFRU_VER/${version}/g > manifest.json
  cat ../mcbbs.packmeta |sed s/TFRU_VER/${version}/g > mcbbs.packmeta
+ sed s/TFRU_VER/${version}/g -i overrides/config/MoegAddon/moegadd.cfg
+ sed s/TFRU_VER/${version}/g -i overrides/config/CustomMainMenu/en/mainmenu.json
+ sed s/TFRU_VER/${version}/g -i overrides/config/CustomMainMenu/cn/mainmenu.json
+ sed s/TFRU_VER/${version}/g -i overrides/config/CustomMainMenu/mainmenu.json
  echo "已替换整合包元数据"
  zip -q -3 -r modpack.zip *
  echo "导入包压缩完毕"

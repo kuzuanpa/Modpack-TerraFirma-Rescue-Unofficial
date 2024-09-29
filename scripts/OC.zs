@@ -63,9 +63,6 @@ recipes.addShapeless(<OpenComputers:item:32>,[<gregtech:gt.multiitem.technologic
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multiitem.technological:30301>);
 
 // Transistor
-recipes.remove(<OpenComputers:item:23>);
-recipes.addShapeless(<OpenComputers:item:23>,[<moegadd:PatchTransistor>]);
-recipes.addShapeless(<OpenComputers:item:23>,[<moegadd:Simpletransistor>]);
 
 recipes.remove(<OpenComputers:adapter>);
 recipes.addShaped(<OpenComputers:adapter>,[

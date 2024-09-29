@@ -1,0 +1,21 @@
+{
+ "id":"按键绑定",
+ "bindItemID":"item.oc.NumPad",
+ "icon":"OpenComputers:item:22",
+ "Objects":[
+  {
+  "type":"image",
+  "path":"ideas/resources/keybindzh.png",
+  "posX":20,
+  "posY":20,
+  "width":1500,
+  "height":957,
+  "animes":[{
+      "type":"gui.scale",
+      "startTime":-1,
+      "endTime": 0,
+      "scaleRate":0.25
+     }]
+  }]
+}
+ 

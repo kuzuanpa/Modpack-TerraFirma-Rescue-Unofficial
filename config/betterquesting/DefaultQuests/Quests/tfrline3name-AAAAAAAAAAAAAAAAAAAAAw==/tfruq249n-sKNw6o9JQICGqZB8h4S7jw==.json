@@ -1,24 +1,23 @@
 {
-  "questIDHigh:4": 0,
+  "questIDHigh:4": -5718602949101797248,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 912
+      "questIDLow:4": 322
     }
   },
-  "questIDLow:4": 907,
+  "questIDLow:4": -8743298337039139953,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "ktfruaddon:ktfru.item.compact",
+        "id:8": "gregtech:gt.multitileentity",
         "Count:3": 1,
-        "Damage:2": 1,
+        "Damage:2": 17999,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -26,11 +25,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q222n",
+      "name:8": "tfru.q249n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q222d"
+      "desc:8": "tfru.q249d"
     }
   },
   "tasks:9": {
@@ -43,13 +42,36 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "ktfruaddon:ktfru.item.compact",
+          "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 1,
+          "Damage:2": 17999,
           "OreDict:8": ""
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "gregtech:gt.multitileentity",
+          "Count:3": 35,
+          "Damage:2": 18026,
+          "OreDict:8": ""
+        },
+        "1:10": {
+          "id:8": "gregtech:gt.multitileentity",
+          "Count:3": 9,
+          "Damage:2": 18103,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   },
   "rewards:9": {}

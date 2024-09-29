@@ -79,4 +79,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 [n],
 [n],
 [<minecraft:cobblestone>]);
+
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:5>,[<ktfruaddon:ktfru.item.compact:4>,<ktfruaddon:ktfru.item.compact:4>,<ktfruaddon:ktfru.item.compact:4>,<ktfruaddon:ktfru.item.compact:4>,<ktfruaddon:ktfru.item.compact:4>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:6>,[<ktfruaddon:ktfru.item.compact:5>,<ktfruaddon:ktfru.item.compact:5>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:4>*5,[<ktfruaddon:ktfru.item.compact:5>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:5>*2,[<ktfruaddon:ktfru.item.compact:6>]);
 }

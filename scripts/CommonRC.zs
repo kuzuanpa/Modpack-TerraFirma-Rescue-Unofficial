@@ -158,16 +158,16 @@ furnace.setFuel(<terrafirmacraft:item.coal:1>, 1600);
 mods.railcraft.BlastFurnace.addFuel(<terrafirmacraft:item.coal>);
 mods.railcraft.BlastFurnace.addFuel(<terrafirmacraft:item.coal:1>);
 
-recipes.addShapeless(<moegadd:BlastPreparedIronOre>,[<terrafirmacraft:item.Small Ore:11>,<terrafirmacraft:item.Powder>]);
-recipes.addShapeless(<moegadd:BlastPreparedIronOre>,[<terrafirmacraft:item.Small Ore:10>,<terrafirmacraft:item.Powder>]);
-recipes.addShapeless(<moegadd:BlastPreparedIronOre>,[<terrafirmacraft:item.Small Ore:3>,<terrafirmacraft:item.Powder>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:11>,<terrafirmacraft:item.Powder>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:10>,<terrafirmacraft:item.Powder>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:3>,<terrafirmacraft:item.Powder>]);
 
 var win = <terrafirmacraft:item.MetalNugget:9>.withTag({display: {Name: "Wrought Iron Nugget", Lore: ["Can be blasted again."]}});
 var winormal = <terrafirmacraft:item.MetalNugget:9>;
 
 recipes.addShapeless(win,[winormal]);
 
-mods.railcraft.BlastFurnace.addRecipe(<moegadd:BlastPreparedIronOre>, false, false, 711, win*2);
+mods.railcraft.BlastFurnace.addRecipe(<ktfruaddon:ktfru.item.compact:7>, false, false, 711, win*2);
 mods.railcraft.BlastFurnace.addRecipe(win, false, true, 711, <terrafirmacraft:item.MetalNugget:17>);
 
 //water reservoir

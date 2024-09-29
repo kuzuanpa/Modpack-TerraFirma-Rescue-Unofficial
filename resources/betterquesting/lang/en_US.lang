@@ -1098,6 +1098,10 @@ betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=
 
+# Quest: New Quest
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
+
 
 ## Quest Line: tfru.l0n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=
@@ -1182,10 +1186,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
 # Quest: tfru.q186n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
-
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
@@ -1813,10 +1813,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
@@ -2720,9 +2716,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
+# Quest: tfru.q247n
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
+
+# Quest: tfru.q248n
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -3505,6 +3509,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=The beginning of the electric a
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=Automated farm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=First, make the 36 cubes into a cuboid of 3 (width) x3 (length) x4 (height). Cover the cuboid with the furthest 7 tiles (original) %n%n feed water from the farm lock. %n%n import fertilizer, soil, and saplings or crop seeds from the farm box or directly open GUI. %n%n inputs RF energy from the farm gearbox. %n%n the goods and sand that come out of the farm boxes are funnelled or otherwise. It stops working if it gets blocked. %n%n Take care that the top of the farm is not obscured.
 
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
+
 # Quest: tfr.quest337.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
@@ -3536,6 +3544,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
 # Quest: tfru.q159n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=

@@ -81,15 +81,15 @@ recipes.addShaped(<OpenBlocks:autoenchantmenttable>,[[<gregtech:gt.meta.wireFine
 // Tank
 recipes.remove(<OpenBlocks:tank>);
 mods.forestry.ThermionicFabricator.addCast(<OpenBlocks:tank>*2, [
-  [<gregtech:gt.meta.stickLong:8636>,<moegadd:QuartzMixture>,<gregtech:gt.meta.stickLong:8636>],
-  [<moegadd:QuartzMixture>,n,<moegadd:QuartzMixture>],
-  [<gregtech:gt.meta.stickLong:8636>,<moegadd:QuartzMixture>,<gregtech:gt.meta.stickLong:8636>]], 100, <gregtech:gt.multiitem.technological:10014>);
+  [<gregtech:gt.meta.stickLong:8636>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.stickLong:8636>],
+  [<gregtech:gt.meta.dust:8001>,n,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.stickLong:8636>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.stickLong:8636>]], 100, <gregtech:gt.multiitem.technological:10014>);
 
 recipes.remove(<OpenBlocks:tank>);
 mods.forestry.ThermionicFabricator.addCast(<OpenBlocks:tank>*2, [
-  [<gregtech:gt.meta.stickLong:8636>,<moegadd:QuartzMixture>,<gregtech:gt.meta.stickLong:8636>],
-  [<moegadd:QuartzMixture>,n,<moegadd:QuartzMixture>],
-  [<gregtech:gt.meta.stickLong:8636>,<moegadd:QuartzMixture>,<gregtech:gt.meta.stickLong:8636>]], 100, <gregtech:gt.multiitem.technological:10214>);
+  [<gregtech:gt.meta.stickLong:8636>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.stickLong:8636>],
+  [<gregtech:gt.meta.dust:8001>,n,<gregtech:gt.meta.dust:8001>],
+  [<gregtech:gt.meta.stickLong:8636>,<gregtech:gt.meta.dust:8001>,<gregtech:gt.meta.stickLong:8636>]], 100, <gregtech:gt.multiitem.technological:10214>);
 
 MTUtilsGT.removeAllRecipes("gt.recipe.welder",<OpenBlocks:tank>);
 MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 16, 128, 0, [10000],

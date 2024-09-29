@@ -5,7 +5,7 @@
   "stats": [  {
                 "function": "modifier",
                 "attribute": "generic.attackDamage",
-                "value": 500,
+                "value": 100,
                 "operator": 0
         },
   {

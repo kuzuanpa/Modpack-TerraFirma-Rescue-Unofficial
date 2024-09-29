@@ -196,7 +196,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=群峦星的气候十分有趣.
 
 # Quest: tfr.quest168.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.name=坩埚, 不太好用, 但是至少比花瓶好
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.desc=如果你找到石墨和高岭土, 把它们膜成粉就能做出陶土, 陶土再捏吧捏吧就变成坩埚了. %n把坩埚放在锻炉上面, 点燃锻炉, 就能加热坩埚. %n坩埚可以高效地熔炼铁矿以外的矿石, 还可以用来制作合金. %n%n§c注意合金配比, 别变成未知锭了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.desc=如果你找到石墨和高岭土, 把它们磨成粉就能做出陶土, 陶土再捏吧捏吧就变成坩埚了. %n把坩埚放在锻炉上面, 点燃锻炉, 就能加热坩埚. %n坩埚可以高效地熔炼铁矿以外的矿石, 还可以用来制作合金. %n%n§c注意合金配比, 别变成未知锭了.
 
 # Quest: tfr.quest261.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=真正的石灰~
@@ -1098,6 +1098,10 @@ betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=你终于获得了一台高性�
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=保持绝对纯洁
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=不管怎样, 你应该获得了足够数量的稀有气体, 使用它们保护你的单晶硅尽可能的纯净, 这可以进一步提高晶体管的密度，提升算力. %n前往计算机线构建下一种计算机, 你需要从头开始, 制作极度纯净的单晶硅.
 
+# Quest: New Quest
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
+betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
+
 
 ## Quest Line: tfru.l0n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=Tier 5 - 核子时代
@@ -1182,10 +1186,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=更大的热交换器, 具有�
 # Quest: tfru.q186n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=热能转换
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=拥有了足够的热量之后, 你便可以使用锅炉和蒸汽涡轮将其转化为其他能量. 请前往"多方块产能"任务页查看.
-
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=无损探伤
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=钴-60可以用于探伤, 这将尽可能检测出金属中存在的微小缺陷, 可以用于制作高转速高压力等极端工况的部件.
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=钴-60增殖
@@ -1813,10 +1813,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
@@ -2720,9 +2716,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=魔力远比你想象的有用�
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=魔力脉冲枪
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器, 可以安装透镜(包括复合透镜)以达成许多有趣的应用, 可以安装透镜夹, 潜行即可切换透镜 %n%n§o比如安装挖掘透镜可以当作低配版采矿镭射枪使用.
 
+# Quest: tfru.q247n
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=自然核心
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=你可以从精灵们那里获取一些传送的核心原理, 他们将这些原理封装入这一颗核心. 使用它可以在获得火箭之前到达一些风景优美的宜居星球.
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=封印之布
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=使用这个可以去除任意物品上的附魔，一块布可以使用36次.
+
+# Quest: tfru.q248n
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=暮森灵核
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=使用它可以到达暮色森林，这不是必须的, 你可以单纯前去放松, 挖矿并获取一些更好的魔法材料，boss的战利品还可以用在魔法能源吸收器上. %n注意暮色门需要使用原版泥土构建.%n%n§c警告!检测到紊乱机器人信号!请小心行事!
 
 
 ## Quest Line: tfr.line10.name
@@ -3505,6 +3509,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=电力时代的开始
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=自动化农场
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=这个结构虽然看起来略贵，但绝对物有所值. 它可以帮你完全自动化种植和收获树木，作物，仙人掌等, 可用于获取大量木炭/投喂彼方兰等. %n%n首先, 将这36个方块组成一个3(宽)x4(高)x3(长)的长方体. %n%n在这个长方体周围铺满最远7格的石砖(原版), 农场将在它们之上铺设泥土和管理作物%n%n从农场水闸输入水. %n%n从农场出货箱或者直接打开GUI输入肥料, 泥土, 和树苗或者作物种子(原版). %n%n从农场齿轮箱输入RF能量. %n%n从农场出货箱用漏斗或者其他方式输出产出的物品和沙子. 如果被堵塞会停止工作.  %n%n放入焊接有不同的电子管的电路板可以种植多种作物, 还可以把原版树苗转换为林业树苗用于杂交.%n%n注意保证农场顶部不要被遮挡. %n%n此外, 农场还可以进一步扩建, 高度只能为4, 长和宽可以在3/4/5之间变化, 但必须是完整的长方体, 按长宽中最长的一边计算, 周围延伸出去的石砖长度分别为7/9/11.
 
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
+
 # Quest: tfr.quest337.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=抵达Duck Egg B
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=你第一个应该前往的行星是Duck Egg B%n在那里你能获得许多群峦星上罕见的矿物, 比如赛特斯石英和钨. 
@@ -3536,6 +3544,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=将CPU与内存和散热, 供�
 # Quest: tfru.q159n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=世界改变的前夕
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=在第一代计算机强大算力和你的头脑风暴之下, 下一代计算机终于设计出了雏形. 这代计算机计划有数十倍的提升, 理论上用它可以实时计算火箭的飞行…重返太空的曙光就在眼前!
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=无损探伤
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=钴-60可以用于探伤, 这将尽可能检测出金属中存在的微小缺陷, 可以用于制作高转速高压力等极端工况的部件.
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=附魔!

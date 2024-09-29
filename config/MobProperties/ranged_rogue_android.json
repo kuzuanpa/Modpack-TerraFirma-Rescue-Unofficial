@@ -2,18 +2,11 @@
   "_name": "ranged_rogue_android",
   "drops": [],
   "pre_stats": [
-    {
-                "function": "modifier",
-                "attribute": "generic.attackDamage",
-                "value": 500,
-                "operator": 0
-        },
   {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "_comment": "值，这里为 3000 生命值",
-                "value": 3000,
-                "operator": 0
+                "value": 30,
+                "operator": 1
         }
         ],
   "stats": []

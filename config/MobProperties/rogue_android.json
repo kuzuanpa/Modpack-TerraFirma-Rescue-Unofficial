@@ -11,8 +11,8 @@
   {
                 "function": "modifier",
                 "attribute": "generic.maxHealth",
-                "value": 6000,
-                "operator": 0
+                "value": 50,
+                "operator": 1
         }
         ],
   "stats": []
