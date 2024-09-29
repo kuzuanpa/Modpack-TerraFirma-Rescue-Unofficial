@@ -1098,6 +1098,10 @@ betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=
 
+# Quest: tfru.q249n
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.name=
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.desc=
+
 # Quest: New Quest
 betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
 betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
@@ -1183,7 +1187,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
 
-# Quest: tfru.q186n
+# Quest: tfru.q253n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
 
@@ -1195,6 +1199,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
 ## Quest Line: 
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
+
+# Quest: tfru.q251n
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=
+
+# Quest: tfru.q252n
+betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=
+betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=
 
 
 ## Quest Line: tfr.line7.name

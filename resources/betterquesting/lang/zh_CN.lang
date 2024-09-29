@@ -1072,7 +1072,7 @@ betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=请查看nei了解具体配方,
 
 # Quest: tfru.q236n
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=发电,变压,输电,耗电
-betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=GT6的电路规则众说纷纭, 这里是根据gt代码确定的规则，可以确保正确，当你建设电网遇到困难时, 记得使用万用表(下面的任务有)详细检测§b电流§a电压§r, 根据该任务确定修改方法. %n%n大部分发电机会输出nEU/§bA§r的1§bA电流§r, 通过变压器可以降低§a电压§r到原来的1/4, 并将§b电流§r提高4倍%n%n导线具有线损, 流经的电会降低§b(线损)EU§r的§a电压§r, §b电流§r保持不变. 因此, 导线本身线损越低, 流经的§b电流§r越小, 消耗越小. %n%ngt6的电流寻路大概是社区中疑点最大的部分, 这边根据代码确定了以下原则以供参考: 首先, gt6导线§6不具有§r整体性, 应将一根导线视为一格格导线方块在进行电力交换. 当一格导线输入电时, 首先会将§a电压§r减去自己的线损, 然后按(下>上>北>南>东>西)的顺序查找已连接的"目标", 当该目标可输出电力时会"立刻"尝试向该目标输出电力(然后才会查找下一个目标), 目标会根据§a电压§r和自己的情况报告实际消耗的电流. 之后若电流未用尽则继续查找, 直到查找完毕或电流用尽.%n%n对于多个电源, 每个电源提供的电流均会进行一次上面的操作, 万用表可以显示多输入源流经同一格导线时各自的情况%n%n机器§6仅§r在§a电压§r大于输入下限时接受电流, 即使§a电压§r*§b电流§r后提供的实际功率足够%n%n供能充足时, 机器会接受刚好使缓存大于输入上限的(整数)§b电流§r, 从缓存中消耗(输入上限)的能量, 剩余的能量会保存在缓存中, 使得下一刻接受的§b电流§r可能更少. (大部分机器频繁闪烁的情况均是此条规则作祟)%n%n供能不足时, 机器会使用掉全部§b电流§r, 计算出提供功率=§a电压§r*§b电流§r, 若提供功率小于需求功率(即配方功率或超频后的配方功率, 超频规则见蒸汽时代任务线"机器自动超频"), 机器会罢工, 否则会加速(提供功率/需求功率)倍, 但右下角进度条的总时间不会变化, 而是进度增加的更快.%n%n举例: 为普通MV机器供能120EU/§bA * 1A/t§r时, 若配方需求功率为80EU/t, 机器会以1.5倍速工作, 进度每秒增加1.5秒, 若配方需求32EU/t, 机器会有损超频(功率*4, 速度*2), 需求功率变为128EU/t, 机器罢工, 若输入功率加至128EU, 机器会以2倍速工作. 标有"消耗额外能量时可以超频"的机器是无损超频, 此时输入128EU的无损超频机器会以4倍速工作. %n%n为普通MV机器供能120EU/§bA * 16A/t§r时, 初始缓存为0, 因而机器需求功率为256EU(输入上限), 机器会接受3§bA电流§r(360EU)并消耗256EU, 缓存变为104EU, 下一刻时机器需求功率是256-104EU(152EU), 将只接受2§bA电流§r(240EU)存入缓存(345EU), 消耗256EU后缓存变为89EU, 继续下一刻, 以此类推.
+betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=GT6的电路规则众说纷纭, 这里是根据gt代码确定的规则，可以确保正确，当你建设电网遇到困难时, 记得使用万用表(下面的任务有)详细检测§b电流§a电压§r, 根据该任务确定修改方法. %n%n大部分发电机会输出§anEU/A§r的1§bA电流§r, 通过变压器可以降低§a电压§r到原来的1/4, 并将§b电流§r提高4倍%n%n导线具有线损, 流经的电会降低§b(线损)EU§r的§a电压§r, §b电流§r保持不变. 因此, 导线本身线损越低, 流经的§b电流§r越小, 消耗越小. %n%ngt6的电流寻路大概是社区中疑点最大的部分, 这边根据代码确定了以下原则以供参考: 首先, gt6导线§6不具有§r整体性, 应将一根导线视为一格格导线方块在进行电力交换. 当一格导线输入电时, 首先会将§a电压§r减去自己的§c线损§r, 然后按§d(下>上>北>南>东>西)§r的顺序查找已连接的"目标", 当该目标可输出电力时会"立刻"尝试向该目标输出电力(然后才会查找下一个目标), 目标会根据§a电压§r和自己的情况报告实际消耗的§b电流§r. 之后若§b电流§r未用尽则继续查找, 直到查找完毕或§b电流§r用尽.%n%n对于多个电源, 每个电源提供的§b电流§r均会进行一次上面的操作, 万用表可以显示多输入源流经同一格导线时各自的情况%n%n机器§6仅§r在§a电压§r大于输入下限时接受电流%n%n供能充足时, 机器会接受刚好使缓存大于输入上限的(整数)§b电流§r, 从缓存中消耗(输入上限)的能量, 剩余的能量会保存在缓存中, 使得下一刻接受的§b电流§r可能更少. §7(大部分机器频繁闪烁的情况均是此条规则作祟)§r%n%n供能不足时, 机器会使用掉全部§b电流§r, 计算出提供功率=§a电压§r*§b电流§r, 若提供功率小于需求功率§7(即配方功率或超频后的配方功率, 超频规则见蒸汽时代任务线"机器自动超频")§r, 机器会罢工, 否则会加速(提供功率/需求功率)倍, 但右下角进度条的总时间不会变化, 而是进度增加的更快.%n%n举例: 为普通MV机器(2级机器)供能§a120EU/A§r * §a1A/t§r时, 若配方需求功率为§e80EU/t§r(2级配方), 机器会以1.5倍速工作, 进度每秒增加1.5秒, 若配方需求§e32EU/t§r(1级配方), 机器会有损超频(功率*4, 速度*2), 需求功率变为§e128EU/t§r, 机器罢工, 若输入功率加至128EU, 机器会以2倍速工作. 标有"消耗额外能量时可以超频"的机器是无损超频, 此时输入128EU的无损超频机器会以4倍速工作. %n%n为普通MV机器供能§a120EU/A §r* §b16A/t§r时, 初始缓存为0, 因而机器需求功率为§e256EU§r(输入上限), 机器会接受§b3A电流§r(§e360EU§r)并消耗§e256EU§r, 缓存变为§e104EU§r, 下一刻时机器需求功率是§e256-104EU(152EU)§r, 将只接受2§bA电流§r(§e240EU§r)存入缓存(§e345EU§r), 消耗§e256EU§r后缓存变为§e89EU§r, 以此类推.
 
 # Quest: New Quest
 betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.name=
@@ -1097,6 +1097,10 @@ betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=你终于获得了一台高性�
 # Quest: tfru.q246n
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=保持绝对纯洁
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=不管怎样, 你应该获得了足够数量的稀有气体, 使用它们保护你的单晶硅尽可能的纯净, 这可以进一步提高晶体管的密度，提升算力. %n前往计算机线构建下一种计算机, 你需要从头开始, 制作极度纯净的单晶硅.
+
+# Quest: tfru.q249n
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.name=基岩钻
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.desc=你应该找到过很多基岩矿脉了(还没有?参考探索的时光一章右下角的任务寻找), 基岩上方的石头矿可以轻松开采，但基岩矿本身需要基岩钻. %n这台机器就是为你准备的, 他可以消耗润滑油开采基岩矿，产出无限的矿物.
 
 # Quest: New Quest
 betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
@@ -1183,9 +1187,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.desc=使用它们将热冷却液变�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.name=大型热交换器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=更大的热交换器, 具有更高的输出密度. %n注意热吸收层是顶层.
 
-# Quest: tfru.q186n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=热能转换
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=拥有了足够的热量之后, 你便可以使用锅炉和蒸汽涡轮将其转化为其他能量. 请前往"多方块产能"任务页查看.
+# Quest: tfru.q253n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=大型锅炉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=小型锅炉不太可能承受核裂变释放的巨大热量, 此时你便需要多方块锅炉. 这些锅炉很大, 具有很高的输出功率和足够的空间安装包括锅炉压力传感器，温度传感器，甚至自动泄压单元在内的各种自动化保护设施，可以最大程度防止爆炸. %n%n提示: 锅炉压力传感器的大部分模式显示不了大型锅炉如此高的压力, 建议调成百分比模式配合减法模式的原版比较器和龙之研究的电位器制作自动关火. 带泄压单元的主方块可以查nei看到，泄压单元不能防止高温熔化锅炉时残余蒸汽造成的爆炸，最好保证水供应或贴上温度传感器覆盖板.
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=钴-60增殖
@@ -1195,6 +1199,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=将钴增殖棒放入核反应�
 ## Quest Line: 
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
+
+# Quest: tfru.q251n
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=蒸汽涡轮
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=拥有探伤仪后你可以构建安全稳定的涡轮机，经过探伤的涡轮不会再突然损坏，但放入涡轮机后开始运转即会受损，只能回收重新制作. %n尽管标记了受损, 它仍会运转相当长的时间，当涡轮即将损坏时会发出异常的声响和振动，附着于主方块上的振动检测器可以检测这种振动并输出红石信号. %n%n涡轮运转中并不会明显损坏, 因此回收是没有损耗的%n%n涡轮机可以使用螺丝刀开启超频模式，此模式下涡轮耐久将会以8倍速损耗, 但会输出(功率系数整数部分)A的RU, 小数部分作为电压提升分散到电流中. 涡轮耐久是使用n RU*h表示的，代表涡轮在1RU功率下可以工作n小时. 你可以灵活使用NEI的正则表达式搜索模式快速找到你需要的高功率或/且高耐久的涡轮.
+
+# Quest: tfru.q252n
+betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=燃气涡轮
+betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=尽管不推荐, 石化燃料可能仍然是你的最爱，涡轮的具体规则请参考蒸汽涡轮任务，燃气涡轮需要额外的压气和燃烧部分因而更重一些, 建议制作完整个涡轮再进行探伤. %n%n不推荐的原因? 多方块燃气涡轮功率很高, 你家的产线很可能无法供给如此巨量的燃气用于发电, 这不是一个可持续的选择. 锅炉爆炸问题请参考上一章的多方块锅炉任务.
 
 
 ## Quest Line: tfr.line7.name
@@ -2718,7 +2730,7 @@ betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器, �
 
 # Quest: tfru.q247n
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=自然核心
-betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=你可以从精灵们那里获取一些传送的核心原理, 他们将这些原理封装入这一颗核心. 使用它可以在获得火箭之前到达一些风景优美的宜居星球.
+betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=你可以从精灵们那里获取一些传送门的核心原理, 他们将这些原理封装入这一颗核心. 使用它可以在获得火箭之前到达一些风景优美的宜居星球.
 
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=封印之布
@@ -2726,7 +2738,7 @@ betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=使用这个可以去除任意�
 
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=暮森灵核
-betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=使用它可以到达暮色森林，这不是必须的, 你可以单纯前去放松, 挖矿并获取一些更好的魔法材料，boss的战利品还可以用在魔法能源吸收器上. %n注意暮色门需要使用原版泥土构建.%n%n§c警告!检测到紊乱机器人信号!请小心行事!
+betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=使用它可以到达暮色森林，这不是必须的, 你可以单纯前去放松, 挖矿并获取一些更好的魔法材料制作工具或涡轮机，boss的战利品还可以用在魔法能源吸收器上. %n注意暮色门需要使用原版泥土构建.%n%n§c警告!检测到紊乱机器人信号!请小心行事!
 
 
 ## Quest Line: tfr.line10.name
