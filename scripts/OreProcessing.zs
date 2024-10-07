@@ -164,6 +164,10 @@ MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000],
 [<terrafirmacraft:item.Small Ore>],
 [<gregtech:gt.meta.crushed:9111>,<gregtech:gt.meta.dust:8500>]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000],
+[<terrafirmacraft:item.Small Ore:2>],
+[<gregtech:gt.meta.crushed:9212>]);
+
 
 //LiCl sluiced
 MTUtilsGT.removeAllRecipes("gt.recipe.sluice",<gregtech:gt.meta.crushedPurified:8203>);

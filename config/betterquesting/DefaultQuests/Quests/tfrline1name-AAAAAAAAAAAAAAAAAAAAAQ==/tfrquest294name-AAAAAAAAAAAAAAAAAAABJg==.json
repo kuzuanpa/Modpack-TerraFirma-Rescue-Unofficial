@@ -38,7 +38,7 @@
       "partialMatch:1": 1,
       "autoConsume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "consume:1": 0,
       "requiredItems:9": {
@@ -71,8 +71,19 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": ""
-        },
-        "5:10": {
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 1,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
           "id:8": "gregtech:gt.meta.ingot",
           "Count:3": 1,
           "Damage:2": 8217,
@@ -94,13 +105,9 @@
           "OreDict:8": ""
         },
         "1:10": {
-          "id:8": "betterquesting:placeholder",
-          "Count:3": 10,
-          "tag:10": {
-            "orig_meta:3": 0,
-            "orig_id:8": "IC2:itemHarz"
-          },
-          "Damage:2": 0,
+          "id:8": "gregtech:gt.multiitem.food",
+          "Count:3": 16,
+          "Damage:2": 12050,
           "OreDict:8": ""
         }
       }

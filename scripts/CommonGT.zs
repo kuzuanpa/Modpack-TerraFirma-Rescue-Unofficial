@@ -243,7 +243,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 2048, 1200,0,[10000],
 [<liquid:molten.lithium6>*10],
 [null]);
 
-MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 64, 40, 0,[10000],
+MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 64, 600, 0,[10000],
 [null],
 [<liquid:air>*200],
 [<liquid:nitrogen>*143,<liquid:oxygen>*50],
@@ -284,16 +284,6 @@ recipes.remove(<gregtech:gt.multitileentity:32034>);
 
 // Clay crucible
 recipes.remove(<gregtech:gt.multiitem.randomtools:989>);
-recipes.addShaped(<gregtech:gt.multiitem.randomtools:989>,
-[[<ore:itemClay>,<ore:craftingToolRollingPin>,<ore:itemClay>],
-[<ore:itemClay>,<ore:plateRedSteel>,<ore:itemClay>],
-[<ore:itemClay>,<ore:itemClay>,<ore:itemClay>]]);
-
-recipes.addShaped(<gregtech:gt.multiitem.randomtools:989>,
-[[<ore:itemClay>,<ore:craftingToolRollingPin>,<ore:itemClay>],
-[<ore:itemClay>,<ore:plateBlueSteel>,<ore:itemClay>],
-[<ore:itemClay>,<ore:itemClay>,<ore:itemClay>]]);
-
 
 // gt furnaces
 recipes.remove(<gregtech:gt.multitileentity:20001>);
@@ -566,7 +556,7 @@ recipes.addShaped(<gregtech:gt.multitileentity:9300>,
 
 recipes.remove(<gregtech:gt.multitileentity:9200>);
 recipes.addShaped(<gregtech:gt.multitileentity:9200>,
-[[<gregtech:gt.multiitem.technological:12024>,<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12024>],
+[[<gregtech:gt.multiitem.technological:12024>,<ore:ktfruNoviceComputer>,<gregtech:gt.multiitem.technological:12024>],
 [<Railcraft:glass>,<gregtech:gt.meta.machine.dense:820>,<Railcraft:glass>],
 [<gregtech:gt.multiitem.technological:12024>,Wrench,<gregtech:gt.multiitem.technological:12024>]]);
 

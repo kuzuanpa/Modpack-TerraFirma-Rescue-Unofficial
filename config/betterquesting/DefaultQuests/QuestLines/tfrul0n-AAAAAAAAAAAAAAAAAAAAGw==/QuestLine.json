@@ -5,13 +5,9 @@
     "betterquesting:10": {
       "visibility:8": "NORMAL",
       "icon:10": {
-        "id:8": "betterquesting:placeholder",
+        "id:8": "gregtech:gt.multiitem.randomtools",
         "Count:3": 1,
-        "tag:10": {
-          "orig_meta:3": 0,
-          "orig_id:8": "IC2:blockReactorChamber"
-        },
-        "Damage:2": 0,
+        "Damage:2": 10002,
         "OreDict:8": ""
       },
       "name:8": "tfru.l0n",

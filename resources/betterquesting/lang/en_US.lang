@@ -814,6 +814,10 @@ betterquesting.quest.4EjbsU9lTbaZbAwfH_T8Ug.desc=
 betterquesting.quest.90w0BotNQFSAHI8QhMcUwg.name=
 betterquesting.quest.90w0BotNQFSAHI8QhMcUwg.desc=
 
+# Quest: tfru.q254n
+betterquesting.quest.9hHfX_wWQLiEO6oAUGe-PA.name=
+betterquesting.quest.9hHfX_wWQLiEO6oAUGe-PA.desc=
+
 # Quest: tfru.q217n
 betterquesting.quest.A6l748W9RZivMyKbrXJEUA.name=
 betterquesting.quest.A6l748W9RZivMyKbrXJEUA.desc=
@@ -1319,157 +1323,146 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
 
 
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
 
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of a stonecutter? Don't be afraid! Argon nitrogen will help you
 
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=The Advanced crafting table is a non-essential but useful device. It has an internal fluid buffer, which allows player to pipe fluid and draw it out through the top slot in its GUI.It will automatically extract items from the storage space next to it. It also has a drawer, which can also hold a lot of things, and special slots for tools. Strongly recommended!
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
 
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Metal packaging
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=This is such a miracle, you can put 54 items with it now, touched?
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
 
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Store (a lot of) liquid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=The by-product of the coke oven is difficult to dispose of if it accumulates too much. To save money for fluid combustors, you can make the first multi-block tank: a large wooden tank. %n it can store 432000L of fluid, but don't try to use it to store corrosive liquids or gases. You can also choose to use it as a distilled water cache. %n It is placed in a similar way to a coke oven.
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
 
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Base fluid transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=In this chapter I will introduce you to some of the objects and fluid transport and storage systems in GregTech's Technology. This is not a main chapter, you can choose to do it.
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
 
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Rubber pipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Rubber pipeline has a good property, and not leak, and not expensive, is a very high cost performance fluid pipeline. It can only be made with a mould press
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
 
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Corrosion resistant pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Stainless steel pipe is not only airtight, heat resistant, but also can resist all kinds of chemical corrosion, before the production of sulfuric acid production line recommended production.
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
 
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Electric pump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=An electric pump is a cover that can be right - click attached to a GregTech machine or pipe to extract/discharge fluid from the container facing/in the container. Right click on the screwdriver to set extraction/discharge. Fluid can be extracted from OB tanks.
 
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Modern Item pipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Cost-effective item pipes, after obtaining PVC it can be massively produced.
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
 
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Modern pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Corrosion resistance, no air leakage. Cost-effective pipeline when PTFE (polytetrafluroethylene) can be produced on a large scale.
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
 
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Conveyor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=A conveyor is a covering plate that can be right-click on a GregTech machine or pipe to extract/expel items from the container facing/in the container. Right click on the screwdriver to set extraction/discharge.
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
 
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Better logistics pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Better logistics pipeline
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
 
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=The best logistics pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=The best logistics pipeline
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
 
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Open the door, Amazon Express
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Point-to-point instantaneous item pipelines, which require both sides to be connected for remote transmission, use item pipelines as Receiver and Sender, similar to P2P.
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
 
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=King Crimson! Delete the Time ~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Instantaneously transfers fluid, but requires Repeaters on both sides. There are four types of pipe with upper temperature limit available.
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
 
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Nice tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, but it can't output automatically. It needs to be pumped by a GregTech electric pump or affixed to the automatic input surface of the GregTech machine.
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
 
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
 
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=All GregTechtech tanks can be set to auto output with right - click wrench. Corrosion-resistant tanks, 4 times larger than OB tanks, very good. Stainless steel tanks are also available in multi-block versions, similar to the way wood is constructed.
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
 
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=High temperature fluid transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Start making your steam equipment? You probably need some heat resistant fluid piping, bronze would be good. %n%n Pay attention to the description at the bottom of your pipe, different pipes have different heat temperature, air tightness, and corrosion resistance.
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
 
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Low-level item transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Brass pipes are one of the most readily available item pipes that can interact with funnels, coke ovens, and most machines (but not buckets!). You'll probably need lots and lots of stuff later on.
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. Delicious and affordable.
 
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Anticorrosive wood pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem to be better than wood pipes in terms of flow
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
 
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
 
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=It's a miracle that you can put 27 items in there. Touched?
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
 
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Iron chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=More storage space
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=I need a lot of steel recently. Can you fulfill my order?
 
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=The silver chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=More storage space
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§ C § A §bBuy a durable electric drill
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Exclusive formula from Shuaibi.%n USES tungsten steel body, only one in the world.%n%nMV level, but using LV battery can be charged.
 
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Copper chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=More storage space
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC big chicken
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
 
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Diamond chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=More storage space
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
 
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Gold chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=More storage space
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
 
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Crystal chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=More storage space
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Beijing Third Transportation Commission
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=We need to lay some railways recently. Can you make some strong tracks?
 
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Vanity case
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Painter's commission
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lately. Could you help me make some lime dye? Three primary colors will do
 
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Metal chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blocks
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
 
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=Kaolinate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3 hours
 
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Storage barrel (of iron)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=Store 10,000 items per piece
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
 
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Shadow trash can (Support fluid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=It can interact with the logistics pipeline and the fluid pipeline, which means it can destroy everything including items and fluids. %n%n production automation of practical equipment, strongly recommended production
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Memory input unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalent to the drawer module, but cannot interact with the logistics pipeline, AE network. %n%n items can only be placed by hand into contiguous mass storage and storage bins. %n%n suitable shape: a wall, namely XoY plane or ZoY plane. %n%n Maximum range (wall size) : 50 on both sides of the horizontal direction, namely 121 grids, the input is put in the middle. Vertical direction 7 bars, including the input. The maximum shape is 121 x 7 x 1 (length x height x width). %n%n7 lattice calculation method and origin: from the floor up to seven lattice, people (Steve) hands vertical direction maximum interactive distance (human! For the seven. %n%n floor: If there is a square in front of the input, the square nearest to the input will be regarded as the floor (human!). , and need to extend the floor to the left and right of each 50 grids (if with the largest area to cover the whole wall). %n%n All storage and storage buckets should be facing the same way and not covered, that is, there is no block in front of them (human! . %n%n, when right-clicking empty-handed, places all items in the package (3 x 9, not including the shortcut bar) with a maximum stack number of one into the wall. %n%n storage inputs cannot be pipelined for automation
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+# Quest: tfr.quest424.name
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfr.line17.name
@@ -1647,559 +1640,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
 # Quest: tfru.q141n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
-
-
-## Quest Line: tfr.line11.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=Tier 4.2 - Petrochem Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Along with electricity, which emerged during the Second Industrial Revolution, was an important part of the process of making cheap storage tanks and circuit boards (you can burn them if you like)
-
-# Quest: tfru.q121n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.desc=
-
-# Quest: tfru.q122n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=
-
-# Quest: tfru.q116n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=
-
-# Quest: tfru.q117n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.desc=
-
-# Quest: tfru.q120n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.desc=
-
-# Quest: tfru.q118n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.desc=
-
-# Quest: tfru.q119n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.desc=
-
-# Quest: tfru.q115n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=
-
-# Quest: tfru.q114n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=
-
-# Quest: tfru.q113n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=
-
-# Quest: tfru.q123n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.desc=
-
-# Quest: tfru.q124n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.desc=
-
-# Quest: tfru.q125n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=
-
-# Quest: tfru.q126n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.desc=
-
-# Quest: tfru.q127n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=
-
-# Quest: tfru.q129n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.desc=
-
-# Quest: tfru.q130n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.desc=
-
-# Quest: tfru.q131n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.desc=
-
-# Quest: tfru.q133n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.desc=
-
-# Quest: tfru.q132n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.desc=
-
-# Quest: tfru.q134n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.desc=
-
-# Quest: tfru.q136n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.desc=
-
-# Quest: tfru.q137n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.desc=
-
-# Quest: tfru.q225n
-betterquesting.quest.LmgC58v6TkOE3CJpxuUxiA.name=
-betterquesting.quest.LmgC58v6TkOE3CJpxuUxiA.desc=
-
-# Quest: tfru.q243n
-betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.name=
-betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.desc=
-
-# Quest: tfru.q242n
-betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.name=
-betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.desc=
-
-# Quest: tfru.q128n
-betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.name=
-betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.desc=
-
-
-## Quest Line: tfr.line4.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.name=Tier 5.1 - Semiconductor Industry
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9 of the circuit board industry.
-
-# Quest: tfru.q167n
-betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
-betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
-
-# Quest: tfru.q145n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=
-
-# Quest: tfr.quest236.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.name=lithography
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.desc=An ingenious machine perfectly USES light to etch complex patterns into crystals.
-
-# Quest: tfr.quest237.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.name=Optical mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=Reasonable filter light, so that the graphics on the photoresist corrosion forming. The %n substrate can be machined into a variety of masks: the working and intermediate masks are the basis for making all the circuits.%n controls and grille masks are used to make integrated circuits and random-access circuits respectively.
-
-# Quest: tfru.q161n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
-
-# Quest: tfru.q160n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=
-
-# Quest: tfru.q151n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=
-
-# Quest: tfru.q151n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
-
-# Quest: tfru.q153n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
-
-# Quest: tfru.q2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
-
-# Quest: tfru.q144n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.desc=
-
-# Quest: tfru.q146n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.desc=
-
-# Quest: tfru.q147n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.desc=
-
-# Quest: tfru.q148n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.desc=
-
-# Quest: tfru.q149n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=
-
-# Quest: tfru.q152n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=
-
-# Quest: tfru.q157n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
-
-# Quest: tfru.q146n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.desc=
-
-# Quest: tfru.q147n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.desc=
-
-# Quest: tfru.q146n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc=
-
-# Quest: tfru.q147n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc=
-
-# Quest: tfru.q148n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=
-
-# Quest: tfru.q149n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=
-
-# Quest: tfru.q148n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.desc=
-
-# Quest: tfru.q149n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.desc=
-
-# Quest: tfru.q150n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.desc=
-
-# Quest: tfru.q150n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.desc=
-
-# Quest: tfru.q151n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc=
-
-# Quest: tfru.q150n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=
-
-# Quest: tfru.q154n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.desc=
-
-# Quest: tfru.q156n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=
-
-# Quest: tfru.q158n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=
-
-# Quest: New Questasdasd
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
-
-# Quest: tfru.q170n
-betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.name=
-betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
-
-# Quest: tfru.q171n
-betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
-betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
-
-# Quest: tfru.q169n
-betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
-betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
-
-# Quest: tfru.q166n
-betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.name=
-betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.desc=
-
-
-## Quest Line: tfr.line15.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] Mass-Data Conversion
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=A magical blue crystal - Certus - will allow you to unlock a potentially infinite automated factory by building a network called ME - based on Applied Energistics 2
-
-# Quest: tfru.q211n
-betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.name=
-betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.desc=
-
-# Quest: tfru.q210n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
-
-# Quest: tfr.quest343.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=Etching template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Meteorites no longer form: you can only make them by etching iron blocks.
-
-# Quest: tfr.quest521.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Lithography template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=You need a photolithographer and a pressure molding machine to make the raw material into a corresponding board and then press it into shape.
-
-# Quest: tfr.quest522.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
-
-# Quest: tfr.quest524.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=The more the more
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.desc=Is not enough! %n I need more storage!
-
-# Quest: tfr.quest525.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.name=The manager!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.desc=The base mineral of AE
-
-# Quest: tfr.quest526.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.name=Charge racers!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.desc=It has only one purpose: to make Flux crystals
-
-# Quest: tfr.quest527.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.name=Flux crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Throw one charging Flux crystal and one red stone and one incoming quartz into the water and you will get two Flux crystals %n%n which can also be made with a blender. %n%n multiple preparation points are always harmless.
-
-# Quest: tfr.quest528.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=cable
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Connect %n has the transmission function of energy, goods and fluid at the same time
-
-# Quest: tfr.quest529.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=The communication of matter and information
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=A panel that communicates matter and information, %n, that can turn a virtual reality into a real reality, %n, %n is a bit of a waste of electricity
-
-# Quest: tfr.quest530.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Ae start
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Ae automatic control terminal
-
-# Quest: tfr.quest531.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=More convenient!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=The ability to take and synthesize at the same time
-
-# Quest: tfr.quest532.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.name=Ae automation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=Simple,%n%n § §ra molecular assembly room, motherboard, CPU needs ae network to start automatically workbench, after I receive my ae's instruction, through me port input items and for automatic synthesis, again through the me port will be pumped in ae synthetic items, form the automatic synthesis%n%n § § ame port r, ae network and machine goods input and output ports, through the "memory" of a synthesis load model formula%n%n § § a items input/output bus r, is a fixed input or output items of port, after when connected to the machine or box, As long as the ae/network/box machine with items, will be automatically output input%n%n § a parallel processing units + synthetic § r, equivalent to the CPU, synthetic unit for CPU memory, parallel processing unit as the number of threads, it is important to note that they need to put on, but too much after put together will only count as a%n%n § § 9 a, in general, the model of terminal production synthetic model - inside me - terminal port selected production how many - processing unit receives instructions - synthesis unit provides memory - me port items - molecular assembly room make%n%n%n%n%n
-
-# Quest: tfr.quest533.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=Safety!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=Give your AE network a lock!
-
-# Quest: tfr.quest544.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=Upgrade upgrade upgrade upgrade!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=Expand the use of
-
-# Quest: tfr.quest545.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=Space transmission technology!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Retrieve items from a distance
-
-# Quest: tfr.quest546.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=P2p technology
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=Point to point transmission?
-
-# Quest: tfr.quest547.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=True space transmission technology
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n put the eight quantum rings in a ring and put a quantum link bin in the middle to form%n. The two structures can be transported %n across space
-
-# Quest: tfr.quest548.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=Large space transfer technology
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=%n transfers all the squares in a certain space together, not useful and more troublesome %n%n specific method McMod has detailed tutorial
-
-# Quest: tfr.quest549.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=King of wealth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=If you actually fill this up, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n
-
-# Quest: tfr.quest550.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=Liquid storage element
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Make ae network can store liquid%n%n%n note: gas and by the same token, the memory element can store gas%n § § § § 4 b 1 c § § § § § k n e r l n § § § § § m m m m § § § § §rl r l m is not my lazy don't want to write x
-
-# Quest: tfru.q138n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
-
-# Quest: tfru.q212n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
-
-# Quest: tfru.q213n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
-
-# Quest: tfru.q139n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
-
-# Quest: tfru.q214n
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
-
-# Quest: tfru.q209n
-betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=
-betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.desc=
-
-# Quest: tfru.q208n
-betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.name=
-betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.desc=
-
-
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of a stonecutter? Don't be afraid! Argon nitrogen will help you
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. Delicious and affordable.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=I need a lot of steel recently. Can you fulfill my order?
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§ C § A §bBuy a durable electric drill
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Exclusive formula from Shuaibi.%n USES tungsten steel body, only one in the world.%n%nMV level, but using LV battery can be charged.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC big chicken
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Beijing Third Transportation Commission
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=We need to lay some railways recently. Can you make some strong tracks?
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Painter's commission
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lately. Could you help me make some lime dye? Three primary colors will do
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=Kaolinate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest424.name
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfru.l1n
@@ -2522,6 +1962,159 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBg.desc=No Description
 # Quest: tfr.quest519.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=The Lord of chaos
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(Not in the world generation and production at present)
+
+
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
+
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
+
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=The Advanced crafting table is a non-essential but useful device. It has an internal fluid buffer, which allows player to pipe fluid and draw it out through the top slot in its GUI.It will automatically extract items from the storage space next to it. It also has a drawer, which can also hold a lot of things, and special slots for tools. Strongly recommended!
+
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Metal packaging
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=This is such a miracle, you can put 54 items with it now, touched?
+
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Store (a lot of) liquid
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=The by-product of the coke oven is difficult to dispose of if it accumulates too much. To save money for fluid combustors, you can make the first multi-block tank: a large wooden tank. %n it can store 432000L of fluid, but don't try to use it to store corrosive liquids or gases. You can also choose to use it as a distilled water cache. %n It is placed in a similar way to a coke oven.
+
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Base fluid transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=In this chapter I will introduce you to some of the objects and fluid transport and storage systems in GregTech's Technology. This is not a main chapter, you can choose to do it.
+
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Rubber pipes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Rubber pipeline has a good property, and not leak, and not expensive, is a very high cost performance fluid pipeline. It can only be made with a mould press
+
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Corrosion resistant pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Stainless steel pipe is not only airtight, heat resistant, but also can resist all kinds of chemical corrosion, before the production of sulfuric acid production line recommended production.
+
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Electric pump
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=An electric pump is a cover that can be right - click attached to a GregTech machine or pipe to extract/discharge fluid from the container facing/in the container. Right click on the screwdriver to set extraction/discharge. Fluid can be extracted from OB tanks.
+
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Modern Item pipes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Cost-effective item pipes, after obtaining PVC it can be massively produced.
+
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Modern pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Corrosion resistance, no air leakage. Cost-effective pipeline when PTFE (polytetrafluroethylene) can be produced on a large scale.
+
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Conveyor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=A conveyor is a covering plate that can be right-click on a GregTech machine or pipe to extract/expel items from the container facing/in the container. Right click on the screwdriver to set extraction/discharge.
+
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Better logistics pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Better logistics pipeline
+
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=The best logistics pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=The best logistics pipeline
+
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Open the door, Amazon Express
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Point-to-point instantaneous item pipelines, which require both sides to be connected for remote transmission, use item pipelines as Receiver and Sender, similar to P2P.
+
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=King Crimson! Delete the Time ~
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Instantaneously transfers fluid, but requires Repeaters on both sides. There are four types of pipe with upper temperature limit available.
+
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Nice tanks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, but it can't output automatically. It needs to be pumped by a GregTech electric pump or affixed to the automatic input surface of the GregTech machine.
+
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
+
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=All GregTechtech tanks can be set to auto output with right - click wrench. Corrosion-resistant tanks, 4 times larger than OB tanks, very good. Stainless steel tanks are also available in multi-block versions, similar to the way wood is constructed.
+
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=High temperature fluid transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Start making your steam equipment? You probably need some heat resistant fluid piping, bronze would be good. %n%n Pay attention to the description at the bottom of your pipe, different pipes have different heat temperature, air tightness, and corrosion resistance.
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Low-level item transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Brass pipes are one of the most readily available item pipes that can interact with funnels, coke ovens, and most machines (but not buckets!). You'll probably need lots and lots of stuff later on.
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Anticorrosive wood pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem to be better than wood pipes in terms of flow
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=It's a miracle that you can put 27 items in there. Touched?
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Iron chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=More storage space
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=The silver chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=More storage space
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Copper chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=More storage space
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Diamond chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=More storage space
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Gold chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=More storage space
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Crystal chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=More storage space
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Vanity case
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Metal chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blocks
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Storage barrel (of iron)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=Store 10,000 items per piece
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Shadow trash can (Support fluid)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=It can interact with the logistics pipeline and the fluid pipeline, which means it can destroy everything including items and fluids. %n%n production automation of practical equipment, strongly recommended production
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Memory input unit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalent to the drawer module, but cannot interact with the logistics pipeline, AE network. %n%n items can only be placed by hand into contiguous mass storage and storage bins. %n%n suitable shape: a wall, namely XoY plane or ZoY plane. %n%n Maximum range (wall size) : 50 on both sides of the horizontal direction, namely 121 grids, the input is put in the middle. Vertical direction 7 bars, including the input. The maximum shape is 121 x 7 x 1 (length x height x width). %n%n7 lattice calculation method and origin: from the floor up to seven lattice, people (Steve) hands vertical direction maximum interactive distance (human! For the seven. %n%n floor: If there is a square in front of the input, the square nearest to the input will be regarded as the floor (human!). , and need to extend the floor to the left and right of each 50 grids (if with the largest area to cover the whole wall). %n%n All storage and storage buckets should be facing the same way and not covered, that is, there is no block in front of them (human! . %n%n, when right-clicking empty-handed, places all items in the package (3 x 9, not including the shortcut bar) with a maximum stack number of one into the wall. %n%n storage inputs cannot be pipelined for automation
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
 
 ## Quest Line: tfr.line21.name
@@ -3015,6 +2608,296 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
 
 
+## Quest Line: tfr.line11.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=Tier 4.2 - Petrochem Age
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Along with electricity, which emerged during the Second Industrial Revolution, was an important part of the process of making cheap storage tanks and circuit boards (you can burn them if you like)
+
+# Quest: tfru.q121n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-g.desc=
+
+# Quest: tfru.q122n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-w.desc=
+
+# Quest: tfru.q116n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=
+
+# Quest: tfru.q117n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7g.desc=
+
+# Quest: tfru.q120n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7w.desc=
+
+# Quest: tfru.q118n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8Q.desc=
+
+# Quest: tfru.q119n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8g.desc=
+
+# Quest: tfru.q115n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=
+
+# Quest: tfru.q114n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=
+
+# Quest: tfru.q113n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=
+
+# Quest: tfru.q123n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCA.desc=
+
+# Quest: tfru.q124n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCQ.desc=
+
+# Quest: tfru.q125n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLg.desc=
+
+# Quest: tfru.q126n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnQ.desc=
+
+# Quest: tfru.q127n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACnw.desc=
+
+# Quest: tfru.q129n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACog.desc=
+
+# Quest: tfru.q130n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPw.desc=
+
+# Quest: tfru.q131n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQA.desc=
+
+# Quest: tfru.q133n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRw.desc=
+
+# Quest: tfru.q132n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTw.desc=
+
+# Quest: tfru.q134n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVQ.desc=
+
+# Quest: tfru.q136n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVw.desc=
+
+# Quest: tfru.q137n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWA.desc=
+
+# Quest: tfru.q225n
+betterquesting.quest.LmgC58v6TkOE3CJpxuUxiA.name=
+betterquesting.quest.LmgC58v6TkOE3CJpxuUxiA.desc=
+
+# Quest: tfru.q243n
+betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.name=
+betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.desc=
+
+# Quest: tfru.q242n
+betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.name=
+betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.desc=
+
+# Quest: tfru.q128n
+betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.name=
+betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.desc=
+
+
+## Quest Line: tfr.line4.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.name=Tier 5.1 - Semiconductor Industry
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9 of the circuit board industry.
+
+# Quest: tfru.q167n
+betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
+betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
+
+# Quest: tfru.q145n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=
+
+# Quest: tfr.quest236.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.name=lithography
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7A.desc=An ingenious machine perfectly USES light to etch complex patterns into crystals.
+
+# Quest: tfr.quest237.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.name=Optical mask
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=Reasonable filter light, so that the graphics on the photoresist corrosion forming. The %n substrate can be machined into a variety of masks: the working and intermediate masks are the basis for making all the circuits.%n controls and grille masks are used to make integrated circuits and random-access circuits respectively.
+
+# Quest: tfru.q161n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
+
+# Quest: tfru.q160n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=
+
+# Quest: tfru.q151n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=
+
+# Quest: tfru.q151n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
+
+# Quest: tfru.q153n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
+
+# Quest: tfru.q2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
+
+# Quest: tfru.q144n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.desc=
+
+# Quest: tfru.q146n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWg.desc=
+
+# Quest: tfru.q147n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADWw.desc=
+
+# Quest: tfru.q148n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXA.desc=
+
+# Quest: tfru.q149n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=
+
+# Quest: tfru.q152n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=
+
+# Quest: tfru.q157n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
+
+# Quest: tfru.q146n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.desc=
+
+# Quest: tfru.q147n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYg.desc=
+
+# Quest: tfru.q146n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYw.desc=
+
+# Quest: tfru.q147n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZA.desc=
+
+# Quest: tfru.q148n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZQ.desc=
+
+# Quest: tfru.q149n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZg.desc=
+
+# Quest: tfru.q148n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADZw.desc=
+
+# Quest: tfru.q149n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaA.desc=
+
+# Quest: tfru.q150n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaQ.desc=
+
+# Quest: tfru.q150n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADag.desc=
+
+# Quest: tfru.q151n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADaw.desc=
+
+# Quest: tfru.q150n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbA.desc=
+
+# Quest: tfru.q154n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADbQ.desc=
+
+# Quest: tfru.q156n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=
+
+# Quest: tfru.q158n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=
+
+# Quest: New Questasdasd
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
+
+# Quest: tfru.q170n
+betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.name=
+betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
+
+# Quest: tfru.q171n
+betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
+betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
+
+# Quest: tfru.q169n
+betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
+betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
+
+# Quest: tfru.q166n
+betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.name=
+betterquesting.quest.yMESgoqoRpyYpoeZIJlbSA.desc=
+
+
 ## Quest Line: tfr.line6.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.name=Tier 5.2 - Aerospace Era
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Manned spaceflight, asteroid mining, gas planet development - based on advanced rockets
@@ -3142,6 +3025,127 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 # Quest: tfru.q142n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
+
+
+## Quest Line: tfr.line15.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.name=[AE] Mass-Data Conversion
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADw.desc=A magical blue crystal - Certus - will allow you to unlock a potentially infinite automated factory by building a network called ME - based on Applied Energistics 2
+
+# Quest: tfru.q211n
+betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.name=
+betterquesting.quest.-Op9uo3_TMKPCrWOMe_LBQ.desc=
+
+# Quest: tfru.q210n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9A.desc=
+
+# Quest: tfr.quest343.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.name=Etching template
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Meteorites no longer form: you can only make them by etching iron blocks.
+
+# Quest: tfr.quest521.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Lithography template
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=You need a photolithographer and a pressure molding machine to make the raw material into a corresponding board and then press it into shape.
+
+# Quest: tfr.quest522.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
+
+# Quest: tfr.quest524.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=The more the more
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.desc=Is not enough! %n I need more storage!
+
+# Quest: tfr.quest525.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.name=The manager!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDQ.desc=The base mineral of AE
+
+# Quest: tfr.quest526.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.name=Charge racers!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDg.desc=It has only one purpose: to make Flux crystals
+
+# Quest: tfr.quest527.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.name=Flux crystal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Throw one charging Flux crystal and one red stone and one incoming quartz into the water and you will get two Flux crystals %n%n which can also be made with a blender. %n%n multiple preparation points are always harmless.
+
+# Quest: tfr.quest528.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=cable
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Connect %n has the transmission function of energy, goods and fluid at the same time
+
+# Quest: tfr.quest529.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=The communication of matter and information
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=A panel that communicates matter and information, %n, that can turn a virtual reality into a real reality, %n, %n is a bit of a waste of electricity
+
+# Quest: tfr.quest530.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Ae start
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.desc=Ae automatic control terminal
+
+# Quest: tfr.quest531.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.name=More convenient!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEw.desc=The ability to take and synthesize at the same time
+
+# Quest: tfr.quest532.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.name=Ae automation
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFA.desc=Simple,%n%n § §ra molecular assembly room, motherboard, CPU needs ae network to start automatically workbench, after I receive my ae's instruction, through me port input items and for automatic synthesis, again through the me port will be pumped in ae synthetic items, form the automatic synthesis%n%n § § ame port r, ae network and machine goods input and output ports, through the "memory" of a synthesis load model formula%n%n § § a items input/output bus r, is a fixed input or output items of port, after when connected to the machine or box, As long as the ae/network/box machine with items, will be automatically output input%n%n § a parallel processing units + synthetic § r, equivalent to the CPU, synthetic unit for CPU memory, parallel processing unit as the number of threads, it is important to note that they need to put on, but too much after put together will only count as a%n%n § § 9 a, in general, the model of terminal production synthetic model - inside me - terminal port selected production how many - processing unit receives instructions - synthesis unit provides memory - me port items - molecular assembly room make%n%n%n%n%n
+
+# Quest: tfr.quest533.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.name=Safety!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACFQ.desc=Give your AE network a lock!
+
+# Quest: tfr.quest544.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.name=Upgrade upgrade upgrade upgrade!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIA.desc=Expand the use of
+
+# Quest: tfr.quest545.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.name=Space transmission technology!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIQ.desc=Retrieve items from a distance
+
+# Quest: tfr.quest546.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.name=P2p technology
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIg.desc=Point to point transmission?
+
+# Quest: tfr.quest547.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.name=True space transmission technology
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACIw.desc=%n put the eight quantum rings in a ring and put a quantum link bin in the middle to form%n. The two structures can be transported %n across space
+
+# Quest: tfr.quest548.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.name=Large space transfer technology
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJA.desc=%n transfers all the squares in a certain space together, not useful and more troublesome %n%n specific method McMod has detailed tutorial
+
+# Quest: tfr.quest549.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.name=King of wealth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJQ.desc=If you actually fill this up, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n will get stuck, %n%n
+
+# Quest: tfr.quest550.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.name=Liquid storage element
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJg.desc=Make ae network can store liquid%n%n%n note: gas and by the same token, the memory element can store gas%n § § § § 4 b 1 c § § § § § k n e r l n § § § § § m m m m § § § § §rl r l m is not my lazy don't want to write x
+
+# Quest: tfru.q138n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLg.desc=
+
+# Quest: tfru.q212n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMQ.desc=
+
+# Quest: tfru.q213n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
+
+# Quest: tfru.q139n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
+
+# Quest: tfru.q214n
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
+
+# Quest: tfru.q209n
+betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=
+betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.desc=
+
+# Quest: tfru.q208n
+betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.name=
+betterquesting.quest.KmJrvBS_S1S3zkJC8rlWWg.desc=
 
 
 ## Quest Line: tfr.line23.name

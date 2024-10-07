@@ -44,7 +44,7 @@ MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multiitem.techn
 
 /**T1 GT Circuit    */
 MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16, 32 ,0,[10000],
-[<tfctech:item.Circuit>,<gregtech:gt.multiitem.technological:30001>],
+[<tfctech:item.Circuit>,<gregtech:gt.multiitem.technological:30001>*2],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30002>]);
@@ -106,13 +106,13 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
 [n],
 [<gregtech:gt.multiitem.technological:30101>]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 140, 20 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 22, 40 ,0,[10000],
 [<ktfruaddon:ktfru.item.compact:3>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8602>],
 [n],
 [n],
 [<gregtech:gt.multiitem.technological:30102>]);
 
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 140, 20 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 22, 40 ,0,[10000],
 [<ktfruaddon:ktfru.item.compact:3>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8602>],
 [n],
 [n],

@@ -345,17 +345,17 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 1000 ,0,[10000],
 // Guidance computer
 recipes.remove(<advancedRocketry:tile.guidanceComputer>);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
-[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:3>*2,<gregtech:gt.multiitem.technological:30306>],
+[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:3>*2],
 [<liquid:molten.tin>*144],
 [null],
 [<advancedRocketry:tile.guidanceComputer>]);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
-[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:4>,<gregtech:gt.multiitem.technological:30306>],
+[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:4>],
 [<liquid:molten.tin>*144],
 [null],
 [<advancedRocketry:tile.guidanceComputer>]);
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
-[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:5>,<gregtech:gt.multiitem.technological:30306>],
+[<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:5>],
 [<liquid:molten.tin>*144],
 [null],
 [<advancedRocketry:tile.guidanceComputer>]);

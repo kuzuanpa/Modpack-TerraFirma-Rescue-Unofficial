@@ -45,35 +45,46 @@
         "0:10": {
           "id:8": "ktfruaddon:ktfru.multitileentity",
           "Count:3": 1,
-          "Damage:2": 31200,
+          "Damage:2": 30003,
           "OreDict:8": ""
         },
         "1:10": {
           "id:8": "ktfruaddon:ktfru.multitileentity",
           "Count:3": 1,
-          "Damage:2": 31120,
+          "Damage:2": 31010,
           "OreDict:8": ""
         },
         "2:10": {
           "id:8": "ktfruaddon:ktfru.multitileentity",
           "Count:3": 1,
-          "Damage:2": 31110,
+          "Damage:2": 31500,
           "OreDict:8": ""
         },
         "3:10": {
           "id:8": "ktfruaddon:ktfru.multitileentity",
           "Count:3": 1,
-          "Damage:2": 30003,
-          "OreDict:8": ""
-        },
-        "4:10": {
-          "id:8": "ktfruaddon:ktfru.multitileentity",
-          "Count:3": 8,
-          "Damage:2": 31002,
+          "Damage:2": 31020,
           "OreDict:8": ""
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "ktfruaddon:ktfru.multitileentity",
+          "Count:3": 8,
+          "Damage:2": 31000,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   },
   "rewards:9": {

@@ -3,7 +3,12 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 824
+      "questIDLow:4": 824,
+      "type:1": 1
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 267
     }
   },
   "questIDLow:4": 823,
