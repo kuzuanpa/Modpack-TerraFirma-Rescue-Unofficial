@@ -1,0 +1,12 @@
+{
+  "_name": "TwilightForest.Bighorn Sheep",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 765,
+      "operator": 0
+    }]
+}

@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Minotaur",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 486,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 1270,
+      "operator": 0
+    }]
+}

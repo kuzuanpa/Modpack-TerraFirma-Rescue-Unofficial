@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Mosquito Swarm",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [{
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 27,
+    "operator": 0
+  },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 28,
+      "operator": 0
+    }]
+}

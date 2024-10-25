@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Mist Wolf",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 146,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 1170,
+      "operator": 0
+    }]
+}

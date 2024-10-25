@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.King Spider",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 294,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 570,
+      "operator": 0
+    }]
+}

@@ -1,0 +1,19 @@
+{
+  "_name": "TwilightForest.Giant Miner",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 86,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 1120,
+      "operator": 0
+    }
+  ]
+}

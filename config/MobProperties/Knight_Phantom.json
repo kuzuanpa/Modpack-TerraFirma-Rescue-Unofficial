@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Knight Phantom",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [{
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 25,
+    "operator": 1
+  },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 1165,
+      "operator": 0
+    }]
+}

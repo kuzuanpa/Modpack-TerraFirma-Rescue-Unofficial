@@ -1,0 +1,12 @@
+{
+  "_name": "TwilightForest.Yeti",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 1280,
+      "operator": 0
+    }]
+}

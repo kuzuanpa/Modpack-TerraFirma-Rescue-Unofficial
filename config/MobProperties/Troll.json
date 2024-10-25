@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Troll",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [{
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 120,
+    "operator": 0
+  },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 470,
+      "operator": 0
+    }]
+}

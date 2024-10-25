@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Tower Ghast",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 194,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 770,
+      "operator": 0
+    }]
+}

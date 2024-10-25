@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Death Tome",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 124,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 470,
+      "operator": 0
+    }]
+}

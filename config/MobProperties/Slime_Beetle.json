@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Slime Beetle",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 92,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 775,
+      "operator": 0
+    }]
+}

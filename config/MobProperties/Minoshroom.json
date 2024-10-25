@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Minoshroom",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [{
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 50,
+    "operator": 1
+  },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 9840,
+      "operator": 0
+    }]
+}

@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Mini Ghast",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 144,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 290,
+      "operator": 0
+    }]
+}

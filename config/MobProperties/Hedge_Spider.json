@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Hedge Spider",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [{
+    "function": "modifier",
+    "attribute": "generic.attackDamage",
+    "value": 100,
+    "operator": 0
+  },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 184,
+      "operator": 0
+    }]
+}

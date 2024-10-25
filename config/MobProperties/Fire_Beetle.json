@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Fire Beetle",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+    {
+      "function": "modifier",
+      "attribute": "generic.attackDamage",
+      "value": 126,
+      "operator": 0
+    },
+    {
+      "function": "modifier",
+      "attribute": "generic.maxHealth",
+      "value": 1125,
+      "operator": 0
+    }]
+}
