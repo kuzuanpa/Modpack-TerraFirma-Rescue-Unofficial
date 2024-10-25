@@ -1,0 +1,19 @@
+{
+  "questLineIDLow:4": -6870445830311927597,
+  "questLineIDHigh:4": 3611831570287841051,
+  "properties:10": {
+    "betterquesting:10": {
+      "visibility:8": "NORMAL",
+      "name:8": "tfru.l2n",
+      "icon:10": {
+        "id:8": "gregtech:gt.multiitem.randomtools",
+        "Count:3": 1,
+        "Damage:2": 10003,
+        "OreDict:8": ""
+      },
+      "bg_image:8": "",
+      "bg_size:3": 256,
+      "desc:8": "tfru.l2d"
+    }
+  }
+}

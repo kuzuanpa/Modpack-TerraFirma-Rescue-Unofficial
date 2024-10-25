@@ -56,12 +56,6 @@
         "1:10": {
           "id:8": "gregtech:gt.multiitem.technological",
           "Count:3": 1,
-          "Damage:2": 1006,
-          "OreDict:8": ""
-        },
-        "2:10": {
-          "id:8": "gregtech:gt.multiitem.technological",
-          "Count:3": 1,
           "Damage:2": 1015,
           "OreDict:8": ""
         }

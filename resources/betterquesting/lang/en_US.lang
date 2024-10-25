@@ -275,10 +275,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=When you have a forestry farm (
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Heat resistant alloy - Invar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=A material used in the manufacture of thermal machines
 
-# Quest: tfr.quest221.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=Redstone Flux Production
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=It can generate 16RF/ T of energy, which can be used to power bending machines and stone crushers. %n%n Remember to turn on with redstone signal!!
-
 # Quest: tfr.quest222.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.name=3 ingots into 2 plates
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3g.desc=RF power is required to work and can be used to make curved plates, small casings, foils, long rods, and plates at a slightly lower loss than manual work, but cannot be used to make metals harder than steel.
@@ -330,10 +326,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=Fluid combustors can turn off t
 # Quest: tfr.quest101.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Temperature matters
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=Different crucibles have different melting temperatures, as you can see at Tooltip. This determines the maximum melting point of the metal they can smelt. Ceramic crucible, for example, could not be used to make iridium, but chrome crucible could. It's important to make a crucible with a high melting point, which allows you to make stronger metals. In general, ideal crucible tier progression is ceramic - chrome - iridium. For now, the highest level you can get is iridium. To keep the crucible from melting down, you need to make a thermometer to see the cauldron's temperature in real time. %n%n First prepare a glass bottle, then you need three cinnabar powder, drop it into the crucible, fill it with 144L liquid mercury from the crucible. Drop two planks into the combustion chamber and ignite (you can't drop too much fuel, as mercury evaporates easily), just enough to turn cinnabar into mercury, which is liquid at room temperature, so you don't have to worry about solidifying. You can obtain the mercury bottle by right-clicking the glass bottle directly at the liquid inside the crucible. Now that we've got the thermometer we can monitor the temperature of the cauldron all the time. No more melt downs!
-
-# Quest: tfr.quest106.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.name=Burning!!!! ~ ~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.desc=The combustion chamber. The most direct way you can get heat, or HU, is also the source of heat for a steam boiler, but not just. Many of GregTech Tech's machines use heat. Until you make an electric heater, you'll need them. The heat output from the top (HU)%n%n combustion chamber is divided into solid, liquid and gas. The advantages and disadvantages of the three combustors are analyzed here. §4§lsolid combustor, using solid fuel, all fuel that can be used in a furnace (except magma) can be stuffed into a solid combustor and used as fuel. When you want to stop heating, you need to plug the front of the combustion chamber and wait for the current burning fuel to burn out. When using a solid combustion chamber for mineral smelting, be sure to wait for the fire to shut off before pouring. Because the less the contents of the crucible, the faster it heats up, if the crucible is left empty or near empty without being extinguished, the temperature will rise so rapidly that it will explode (in effect, melt). Suitable for equipment that requires long-term heating and high fault tolerance, but because of the need to manually add fuel and the need to periodically clean the ash after combustion, solid combustion Chambers are not recommended after the distillation column has been built. §2§lliquid combustor, the safest and most stable combustor, using combustible liquids: the best you can get right now is creosote (wines, creosote, and petroleum distillates are good for combustion, other oils have too low calorimetric values). Since the flammable liquid burns 1L/1ticks, when you want to stop heating, you just plug the front and stop heating immediately. When a mineral is smelted in a liquid combustion chamber, the heating can be stopped at a higher standard temperature to prevent solidification during the pouring process. %n%n§9§lgas combustor, long - acting combustor. The calorific value of propane butane is slightly higher than the calorific value of gasoline and other petroleum distilling oil, and each combustion USES 5~7L to burn 30~42ticks, so the shutdown will be delayed by about one second. Suitable for distillation column, steam boiler and other long-term heating sources. Note: depending on the oil found, a liquid or gas combustor may be used. The heavier the oil, the less the gas, and the more the oil and solid products, and vice versa.
 
 # Quest: tfr.quest107.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=The Might of Red and Blue
@@ -472,17 +464,9 @@ betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Grinding wheel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=Free your hands! The leather can be scraped automatically without you having to use a knife. It's a substitute for hand - operated grinding.
 
-# Quest: tfr.quest12.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§ § §lBoiling water!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=Your first steam production device in this journey. It's time to boost productivity! Although you can enter the age of steam after the completion the steel anvil, I would suggest that you complete the red steel anvil or blue steel anvil task line, so that you can obtain the GT crucible, a strong tool that can boost your production, otherwise you would be extremely short of materials in the age of steam. Note: you will notice that the task is now divided into two  branches, bronze and steel. You can choose the side you want, you can progress as long as you complete the crown shape task.%n
-
 # Quest: tfr.quest16.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.name=Where does the water come from?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=A steam boiler will explode when it's dry, so you gotta add water to it... There are two ways to add water, manual and automatic. You need an vanilla minecraft bucket to add water by hand. It's pretty easy to make, but it is very tedious. It's better to use a device to automatically add water to the boiler. %n%n First of all you can use a water tank, one might not be enough, do a few more. %n%n Undistilled water will cause boiler calcification, it is recommended to use a dryer to make distilled water for the boiler.
-
-# Quest: tfr.quest17.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§ § §lA steam engine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The steam engine is an important machine, face its output at the crucible and it will pump air into the crucible.
 
 # Quest: tfr.quest18.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Mass production of steel!
@@ -492,10 +476,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=Steel is an important raw mater
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=GaMeR fUEl(better water for boiler)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=Boiler can be delicate, ordinary water will cause the its calcification. Calcification will lead to decreased efficiency. Calcification can be removed with a chisel, but must be removed when there is no pressure in the boiler or it will explode. %n Quite a B****, isn't it? %n so you need distilled water. Distilled water doesn't calcify the boiler. Distilled water can be obtained by treating fresh water, sea water, sewage and other water-containing liquids and solids with a dryer, and even tungsten trioxide. But the easiest source is fresh water. The water from the TFC can be pumped directly into the dryer instead of the vanilla water.
 
-# Quest: tfru.q106n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=
-
 # Quest: tfr.quest24.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=§ §bl sulfuric acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=Sulfuric acid is very important, as it's the ingredient of hydrochloric acid, hydrofluoric acid. It can also be used for ore processing and so on. You need to make at least two bronze mixer in order to make it. The first one requires a vent for air, input the sulfur dioxide that you get in the calciner, and 1 platinum powder or vanadium pentoxide (not consumed) to make sulfur trioxide %n%n Use the second mixer for sulfur trioxide and water to make sulfuric acid. The more the better! §4%n%n§r In order to submit the task you need to make a water tank, which can be attached to the output side of the machine to get the liquid. The tank can also be used for  the machine's automatic input so there is no need to worry about wasting the materials. Here you have to submit 16000MB of liquid.
@@ -503,10 +483,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=Sulfuric acid is very important
 # Quest: tfr.quest26.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Calculations!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=As you may have noticed, GregTech's machine has a range of power inputs and outputs. In order to run a machine, you need to calculate what kind of power source produces the energy to run the machine. (If a machine is given more energy than its desired power, the extra energy will not be wasted and the machine will automatically oveclock itself)%n%n Note the chromium combustor produces 112HU, using it to power the chrome boiler will blow it up.
-
-# Quest: tfr.quest27.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=§ §bl turbines
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=Consumes SU(steam) to produces RU%n it outputs distilled water from the side. If no fluid storage or pipe is available, distilled water will be destroyed automatically. %n If the output is up, the entities on it will rotate %n%n not that only the crown shape task is the main task, in other words you can skip the other machines.
 
 # Quest: tfr.quest28.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=crusher
@@ -527,10 +503,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=§9 Sift salt, coal, and gemsto
 # Quest: tfr.quest32.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.name=§ §bl stainless steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=To make stainless steel you need chromium, manganese, nickel, and iron. Chromium and manganese can be obtained by washing chromite, and nickel can be obtained from garnierite ore. %n%n large amounts of chromium can be obtained by aluminum-thermal reactions when you enter the electric age. %n%n is useful. so make a ton of them for your machines later.
-
-# Quest: tfr.quest33.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Serious RF power generation
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=Isn't it scientific that RU can produce RF in this turbine? Use it like the ordinary generator. Even with  16RU/t, its output is equivalent to nearly three hobbyist steam engines
 
 # Quest: tfr.quest35.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=roaster
@@ -668,10 +640,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=
 
-# Quest: tfru.q74n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=
-
 # Quest: tfr.quest400.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.name=Circular saw +
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.desc=Many functions, including cutting gemstones, monocrystalline silicon, can also be used to increase wood production.
@@ -687,10 +655,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABnA.desc=A crusher is used to crush ore
 # Quest: tfr.quest413.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.name=Sticky bottom plate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnQ.desc=Suggest go to hell to dig hell quartz %n double cardboard can be made in a dip basin
-
-# Quest: tfru.q112n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.desc=
 
 # Quest: tfr.quest559.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLw.name=Ready to manufacture circuit
@@ -727,10 +691,6 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
-
-# Quest: tfru.q224n
-betterquesting.quest.ceSPniAwRjOGQsX46MVslg.name=
-betterquesting.quest.ceSPniAwRjOGQsX46MVslg.desc=
 
 # Quest: tfru.q237n
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.name=
@@ -842,10 +802,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=We're dealing with chemical rea
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=Welder T1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=Weld metals that you can't make on anvil, such as chromium and tungsten. And, also it can craft anvil recipe. You've finally got rid of the anvil.
 
-# Quest: tfr.quest44.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=And God said there is light
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=When an electric current passes through a carbon dioxide laser tube, it releases concentrated light energy, which can be used to produce LU, an important form of energy. Many machines require an LU to run.
-
 # Quest: tfr.quest45.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Generator (HV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=An HV class generator
@@ -873,10 +829,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=One of the advanced materials o
 # Quest: tfr.quest64.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.name=Component assembling
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=Congratulations! You can make your first circuit board!  %n The low - grade circuit board consists of a substrate, an etching circuit, and circuit parts. %n You can make them in the thermonic workbench.
-
-# Quest: tfr.quest74.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Total Internal Reflection (TIR)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=Light can be completely reflected in two media with different refractive indices. One application of this discovery is optical fiber, which can transmit laser energy (LU). It's similar to electric cables
 
 # Quest: tfr.quest79.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.name=Laser Engraver T1
@@ -922,14 +874,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=A 2xMV / 8xLV level semiconduct
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Low level electronic circuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.desc=Low level electronic circuit
 
-# Quest: tfr.quest565.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=Draw breath!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.desc=Electromagnet produces MU magnetic field energy, used to magnetize metal and other functions, must be done as a machine
-
-# Quest: tfr.quest567.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.name=Electric Donkey
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.desc=The same function as the steam engine, but using EU as the energy source
-
 # Quest: tfr.quest568.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACOA.name=Micro motor (LV)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACOA.desc=
@@ -941,18 +885,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACOQ.desc=
 # Quest: tfr.quest570.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACOg.name=Jump!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACOg.desc=
-
-# Quest: tfr.quest571.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.name=Playing video
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.desc=It functions like a steam turbine, but USES THE EU as an energy source
-
-# Quest: tfr.quest572.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPA.name=It's white album season again
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPA.desc=Both CU and HU are produced by electrical and semiconductor cooling, with output on the front and back. It can be used to quickly cool molten metal in molds.
-
-# Quest: tfr.quest573.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.name=Electric heaters ~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=Same function as combustion chamber, but USES EU as energy source
 
 # Quest: tfr.quest574.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACPg.name=Electric piston (LV)
@@ -1017,10 +949,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.desc=Generate arc treatment for some
 # Quest: tfr.quest592.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.name=Automatic ignition!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.desc=Very practical equipment, aligned with the combustion chamber, combustion reaction chamber and other machines, can be automatic ignition, automation must!
-
-# Quest: tfr.quest593.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=Storage power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=Four batteries can be placed in the battery box, which can output 4A current, but not higher than the voltage of the battery box. The batteries that go into the battery box can be charged or discharged. Tools and equipment that require power can also be charged here, such as electric wrenches, drills, jetpacks, etc. But before charging, pay attention to the voltage level.
 
 # Quest: tfr.quest594.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=Bigger, save more
@@ -1131,29 +1059,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=
 
-# Quest: tfru.q173n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfA.desc=
-
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADgA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADgA.desc=
 
 # Quest: tfru.q180n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADgQ.name=
@@ -1183,18 +1099,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=
 
-# Quest: tfru.q174n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.desc=
-
-# Quest: tfru.q175n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
-
-# Quest: tfru.q253n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
-
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
@@ -1203,14 +1107,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
 ## Quest Line: 
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
-
-# Quest: tfru.q251n
-betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=
-betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=
-
-# Quest: tfru.q252n
-betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=
-betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=
 
 
 ## Quest Line: tfr.line7.name
@@ -2608,6 +2504,167 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
 
 
+## Quest Line: tfru.l2n
+betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.name=
+betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.desc=
+
+# Quest: tfru.q269n
+betterquesting.quest.-FU0ekZAT-2WaIfK2OP-mQ.name=
+betterquesting.quest.-FU0ekZAT-2WaIfK2OP-mQ.desc=
+
+# Quest: tfru.q265n
+betterquesting.quest.1AGXIF2oTRS5gLxbvNuVdQ.name=
+betterquesting.quest.1AGXIF2oTRS5gLxbvNuVdQ.desc=
+
+# Quest: tfru.q272n
+betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.name=
+betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=
+
+# Quest: tfru.q281n
+betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=
+betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=
+
+# Quest: LU2QU
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
+
+# Quest: tfru.q264n
+betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=
+betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=
+
+# Quest: RF2HU
+betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.name=
+betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.desc=
+
+# Quest: tfru.q263n
+betterquesting.quest.896HigGUTLa8Op2wBJiHqA.name=
+betterquesting.quest.896HigGUTLa8Op2wBJiHqA.desc=
+
+# Quest: tfr.quest74.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=Total Internal Reflection (TIR)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=Light can be completely reflected in two media with different refractive indices. One application of this discovery is optical fiber, which can transmit laser energy (LU). It's similar to electric cables
+
+# Quest: tfru.q174n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiA.desc=
+
+# Quest: tfru.q175n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiQ.desc=
+
+# Quest: tfru.q253n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADig.desc=
+
+# Quest: tfru.q279n
+betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.name=
+betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.desc=
+
+# Quest: tfru.q274n
+betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.name=
+betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=
+
+# Quest: Wire
+betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=
+betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
+
+# Quest: tfru.q278n
+betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.name=
+betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=
+
+# Quest: RF2CU
+betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
+betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
+
+# Quest: RF2KU
+betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
+betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.desc=
+
+# Quest: tfru.q273n
+betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.name=
+betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=
+
+# Quest: tfru.q275n
+betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=
+betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=
+
+# Quest: tfru.q266n
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
+
+# Quest: LiquidBattery
+betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
+betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
+
+# Quest: LU2EU
+betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
+betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
+
+# Quest: tfru.q262n
+betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.name=
+betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.desc=
+
+# Quest: tfru.q224n
+betterquesting.quest.ceSPniAwRjOGQsX46MVslg.name=
+betterquesting.quest.ceSPniAwRjOGQsX46MVslg.desc=
+
+# Quest: tfru.q271n
+betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.name=
+betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.desc=
+
+# Quest: tfru.q270n
+betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.name=
+betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=
+
+# Quest: LongDistance
+betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=
+betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=
+
+# Quest: RF2MU
+betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.name=
+betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.desc=
+
+# Quest: SolarPanel
+betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.name=
+betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.desc=
+
+# Quest: tfru.q277n
+betterquesting.quest.kBYhF56jScax1oBWZKoU0Q.name=
+betterquesting.quest.kBYhF56jScax1oBWZKoU0Q.desc=
+
+# Quest: tfru.q261n
+betterquesting.quest.kyN5k7CfSmCxCJBpl1-DYw.name=
+betterquesting.quest.kyN5k7CfSmCxCJBpl1-DYw.desc=
+
+# Quest: tfru.q275n
+betterquesting.quest.mqeLOqJrQxy7jn_wySs-yQ.name=
+betterquesting.quest.mqeLOqJrQxy7jn_wySs-yQ.desc=
+
+# Quest: tfru.q258n
+betterquesting.quest.nBpmxOG8TpegKakeI-Q9jg.name=
+betterquesting.quest.nBpmxOG8TpegKakeI-Q9jg.desc=
+
+# Quest: tfru.q276n
+betterquesting.quest.qbxxuaAUQBy10Duu1cK3Kg.name=
+betterquesting.quest.qbxxuaAUQBy10Duu1cK3Kg.desc=
+
+# Quest: tfru.q260n
+betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.name=
+betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=
+
+# Quest: LUBattery
+betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=
+betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=
+
+# Quest: tfru.q257n
+betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.name=
+betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=
+
+# Quest: tfru.q259n
+betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.name=
+betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=
+
+
 ## Quest Line: tfr.line11.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.name=Tier 4.2 - Petrochem Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACw.desc=Along with electricity, which emerged during the Second Industrial Revolution, was an important part of the process of making cheap storage tanks and circuit boards (you can burn them if you like)
@@ -2715,6 +2772,10 @@ betterquesting.quest.ZJRQnOliSiqYyd3sFTw6MQ.desc=
 # Quest: tfru.q242n
 betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.name=
 betterquesting.quest.oETLC4OqSnuXemk2EZAL3w.desc=
+
+# Quest: tfru.q255n
+betterquesting.quest.ssK5dLFwRciLsxiJFG8R3g.name=
+betterquesting.quest.ssK5dLFwRciLsxiJFG8R3g.desc=
 
 # Quest: tfru.q128n
 betterquesting.quest.z1xdFZ1ESWKXOYN09R9dEw.name=
@@ -3285,10 +3346,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.desc=For more detailed usage of mate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.name=More advanced isotonic circuits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.desc=You need double lithium lenses to etch them.
 
-# Quest: tfr.quest126.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.name=Annihilation reactor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.desc=You can make fusion reactors that produce a lot of RF. The more massive the black hole, the faster it can produce, adding mass to objects. The ring holographic projection can be seen when %n%n is lowered. Specific placement method to view the portable data meter. In addition, you need at least two gravity stabilizers on either side of the gravity anomaly (which can be attached to the inner side of the reactor ring) to control it, otherwise it will have disastrous consequences.
-
 # Quest: tfr.quest534.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACFg.name=Portable data meter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACFg.desc=An introduction to the supercharged material module, making it the beginning of the supercharged material age
@@ -3446,10 +3503,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7Q.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7g.desc=
 
-# Quest: tfru.q11n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=
-
 # Quest: tfru.q13n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC8g.desc=
@@ -3505,13 +3558,53 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=
 
 ### Quests in multiple quest lines ###
 
+# Quest: tfru.q251n
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=
+
 # Quest: tfr.quest216.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHHHHHHH
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=It's finally time to make a workbench. %n%nThrough a lot of hard work, you've finally made something that you could have made in a minute in the vanilla! Congratulations! %n%n§lYou may wonder how do you get the stone? Dig out the six blocks directly adjacent to a rock with your pickaxe, and the remaining floating stone will suddenly drop without being turned to cobble.
 
+# Quest: tfr.quest221.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=Redstone Flux Production
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=It can generate 16RF/ T of energy, which can be used to power bending machines and stone crushers. %n%n Remember to turn on with redstone signal!!
+
 # Quest: tfr.quest5.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§ § §lThe lost art
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=With the stone anvil, you can begin to forge metal. %n%n The metal anvil can be automatically carried on the back of the player.%n%n Lower grade anvils can work very little metal, so weld the copper ingots with the stone anvil and make the copper anvil. %n%n There are many different anvil, divided into different grades. Each grade is capable of more complex metalworking than previous grades. The anvil can weld high grade ingots together to form double ingots. All other forging must be done on an anvil of equal or higher quality. For example, stone anvil can only weld copper ingots. Copper anvil can weld copper ingot and copper alloy ingot. %n%n You can recycle the metal anvil in the crucible.%n%n In the next task you only need to make any bronze anvil to unlock the next task
+
+# Quest: tfr.quest12.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§ § §lBoiling water!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=Your first steam production device in this journey. It's time to boost productivity! Although you can enter the age of steam after the completion the steel anvil, I would suggest that you complete the red steel anvil or blue steel anvil task line, so that you can obtain the GT crucible, a strong tool that can boost your production, otherwise you would be extremely short of materials in the age of steam. Note: you will notice that the task is now divided into two  branches, bronze and steel. You can choose the side you want, you can progress as long as you complete the crown shape task.%n
+
+# Quest: tfr.quest17.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§ § §lA steam engine
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The steam engine is an important machine, face its output at the crucible and it will pump air into the crucible.
+
+# Quest: tfru.q106n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=
+
+# Quest: tfr.quest27.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=§ §bl turbines
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=Consumes SU(steam) to produces RU%n it outputs distilled water from the side. If no fluid storage or pipe is available, distilled water will be destroyed automatically. %n If the output is up, the entities on it will rotate %n%n not that only the crown shape task is the main task, in other words you can skip the other machines.
+
+# Quest: tfr.quest33.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Serious RF power generation
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=Isn't it scientific that RU can produce RF in this turbine? Use it like the ordinary generator. Even with  16RU/t, its output is equivalent to nearly three hobbyist steam engines
+
+# Quest: tfr.quest44.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=And God said there is light
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=When an electric current passes through a carbon dioxide laser tube, it releases concentrated light energy, which can be used to produce LU, an important form of energy. Many machines require an LU to run.
+
+# Quest: tfr.quest106.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.name=Burning!!!! ~ ~
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.desc=The combustion chamber. The most direct way you can get heat, or HU, is also the source of heat for a steam boiler, but not just. Many of GregTech Tech's machines use heat. Until you make an electric heater, you'll need them. The heat output from the top (HU)%n%n combustion chamber is divided into solid, liquid and gas. The advantages and disadvantages of the three combustors are analyzed here. §4§lsolid combustor, using solid fuel, all fuel that can be used in a furnace (except magma) can be stuffed into a solid combustor and used as fuel. When you want to stop heating, you need to plug the front of the combustion chamber and wait for the current burning fuel to burn out. When using a solid combustion chamber for mineral smelting, be sure to wait for the fire to shut off before pouring. Because the less the contents of the crucible, the faster it heats up, if the crucible is left empty or near empty without being extinguished, the temperature will rise so rapidly that it will explode (in effect, melt). Suitable for equipment that requires long-term heating and high fault tolerance, but because of the need to manually add fuel and the need to periodically clean the ash after combustion, solid combustion Chambers are not recommended after the distillation column has been built. §2§lliquid combustor, the safest and most stable combustor, using combustible liquids: the best you can get right now is creosote (wines, creosote, and petroleum distillates are good for combustion, other oils have too low calorimetric values). Since the flammable liquid burns 1L/1ticks, when you want to stop heating, you just plug the front and stop heating immediately. When a mineral is smelted in a liquid combustion chamber, the heating can be stopped at a higher standard temperature to prevent solidification during the pouring process. %n%n§9§lgas combustor, long - acting combustor. The calorific value of propane butane is slightly higher than the calorific value of gasoline and other petroleum distilling oil, and each combustion USES 5~7L to burn 30~42ticks, so the shutdown will be delayed by about one second. Suitable for distillation column, steam boiler and other long-term heating sources. Note: depending on the oil found, a liquid or gas combustor may be used. The heavier the oil, the less the gas, and the more the oil and solid products, and vice versa.
+
+# Quest: tfr.quest126.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.name=Annihilation reactor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.desc=You can make fusion reactors that produce a lot of RF. The more massive the black hole, the faster it can produce, adding mass to objects. The ring holographic projection can be seen when %n%n is lowered. Specific placement method to view the portable data meter. In addition, you need at least two gravity stabilizers on either side of the gravity anomaly (which can be attached to the inner side of the reactor ring) to control it, otherwise it will have disastrous consequences.
 
 # Quest: tfr.quest202.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Electric garbage
@@ -3533,6 +3626,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
 
+# Quest: tfru.q74n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=
+
+# Quest: tfru.q112n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.desc=
+
 # Quest: tfr.quest442.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=Carpenter's miracle
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=This wonderous item can hold 18 items at once!  Are you impressed?
@@ -3541,9 +3642,37 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=This wonderous item can hold 18
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=Storage barrel (of bronze)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Store 5000 items per piece
 
+# Quest: tfru.q11n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=
+
 # Quest: tfr.quest523.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
+
+# Quest: tfr.quest565.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=Draw breath!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.desc=Electromagnet produces MU magnetic field energy, used to magnetize metal and other functions, must be done as a machine
+
+# Quest: tfr.quest567.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.name=Electric Donkey
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.desc=The same function as the steam engine, but using EU as the energy source
+
+# Quest: tfr.quest571.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.name=Playing video
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.desc=It functions like a steam turbine, but USES THE EU as an energy source
+
+# Quest: tfr.quest572.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACPA.name=It's white album season again
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACPA.desc=Both CU and HU are produced by electrical and semiconductor cooling, with output on the front and back. It can be used to quickly cool molten metal in molds.
+
+# Quest: tfr.quest573.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.name=Electric heaters ~
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=Same function as combustion chamber, but USES EU as energy source
+
+# Quest: tfr.quest593.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=Storage power
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=Four batteries can be placed in the battery box, which can output 4A current, but not higher than the voltage of the battery box. The batteries that go into the battery box can be charged or discharged. Tools and equipment that require power can also be charged here, such as electric wrenches, drills, jetpacks, etc. But before charging, pay attention to the voltage level.
 
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
@@ -3561,9 +3690,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 
+# Quest: tfru.q173n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
+
 # Quest: tfru.q222n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
+
+# Quest: tfru.q252n
+betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=
+betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=
+
+# Quest: tfru.q256n
+betterquesting.quest.NdfPD5zOTQef23TNim7dOw.name=
+betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
+
+# Quest: tfru.q186n
+betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
+betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
@@ -3573,25 +3718,13 @@ betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.desc=
 
+# Quest: tfru.q268n
+betterquesting.quest.w8O4sBY8T86oax1NKi4gyQ.name=
+betterquesting.quest.w8O4sBY8T86oax1NKi4gyQ.desc=
+
+# Quest: tfru.q267n
+betterquesting.quest.z_AIsNUvS5ifglAyrJYDXA.name=
+betterquesting.quest.z_AIsNUvS5ifglAyrJYDXA.desc=
+
 
 ### Quests in no quest lines ###
-
-# Quest: New Quest
-betterquesting.quest.IQwteQLZQJe0Tyr0kBszyw.name=
-betterquesting.quest.IQwteQLZQJe0Tyr0kBszyw.desc=
-
-# Quest: New Quest
-betterquesting.quest.KptlVScLRWq35pEIFVEi_A.name=
-betterquesting.quest.KptlVScLRWq35pEIFVEi_A.desc=
-
-# Quest: New Quest
-betterquesting.quest.YYLl-gDGTd64MgCqNL7a9g.name=
-betterquesting.quest.YYLl-gDGTd64MgCqNL7a9g.desc=
-
-# Quest: New Quest
-betterquesting.quest.dG7X9KdkQBWIbpPK4einyA.name=
-betterquesting.quest.dG7X9KdkQBWIbpPK4einyA.desc=
-
-# Quest: New Quest
-betterquesting.quest.yl6R5LxDR_-d3Fp4ufcO0g.name=
-betterquesting.quest.yl6R5LxDR_-d3Fp4ufcO0g.desc=

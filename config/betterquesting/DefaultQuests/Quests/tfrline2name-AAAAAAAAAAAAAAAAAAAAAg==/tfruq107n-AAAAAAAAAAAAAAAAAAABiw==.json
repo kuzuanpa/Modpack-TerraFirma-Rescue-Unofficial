@@ -2,20 +2,12 @@
   "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 17
+      "questIDHigh:4": -4340422549428219954,
+      "questIDLow:4": -6310918235572264759
     },
     "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 23
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 27
-    },
-    "3:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 396
+      "questIDHigh:4": -3463258557863998568,
+      "questIDLow:4": -6952906696132525220
     }
   },
   "questIDLow:4": 395,
@@ -36,7 +28,7 @@
       "snd_update:8": "random.levelup",
       "repeatTime:3": -1,
       "globalShare:1": 0,
-      "questLogic:8": "OR",
+      "questLogic:8": "AND",
       "repeat_relative:1": 1,
       "name:8": "tfru.q107n",
       "lockedProgress:1": 0,

@@ -124,7 +124,7 @@
         </line>
         <line>
             <icon>
-                <str>IC2NuclearControl:ItemToolThermometer</str>
+                <str>minecraft:compass</str>
             </icon>
             <str>$f 平均温度: $b{tfcaveragetemperature}$r°C </str>
             <str>$f 当前温度: $b{tfctemperature}$r°C </str>

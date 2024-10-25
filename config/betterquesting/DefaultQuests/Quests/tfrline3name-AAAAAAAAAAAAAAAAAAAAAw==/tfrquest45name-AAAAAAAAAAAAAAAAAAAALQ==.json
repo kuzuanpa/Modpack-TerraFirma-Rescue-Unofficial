@@ -68,7 +68,7 @@
     "1:10": {
       "amount:3": 840,
       "rewardID:8": "bq_standard:xp",
-      "isLevels:1": 1,
+      "isLevels:1": 0,
       "index:3": 1
     }
   }

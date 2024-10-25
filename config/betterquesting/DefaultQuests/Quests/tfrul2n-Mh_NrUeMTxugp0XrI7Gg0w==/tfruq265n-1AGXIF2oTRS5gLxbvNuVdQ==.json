@@ -1,0 +1,58 @@
+{
+  "questIDHigh:4": -3170086497426060012,
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7198328058611478889,
+      "questIDLow:4": -6905802606679671410
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 904
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 905
+    },
+    "3:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 106
+    },
+    "4:10": {
+      "questIDHigh:4": -874112250861564746,
+      "questIDLow:4": -4883417466612971608,
+      "type:1": 2
+    },
+    "5:10": {
+      "questIDHigh:4": -3986478980397185537,
+      "questIDLow:4": -4764461029788907617
+    }
+  },
+  "questIDLow:4": -5079853277477366411,
+  "properties:10": {
+    "betterquesting:10": {
+      "snd_complete:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL",
+      "isMain:1": 0,
+      "simultaneous:1": 0,
+      "icon:10": {
+        "id:8": "minecraft:lava",
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": ""
+      },
+      "snd_update:8": "random.levelup",
+      "repeatTime:3": -1,
+      "globalShare:1": 0,
+      "questLogic:8": "OR",
+      "repeat_relative:1": 1,
+      "name:8": "tfru.q265n",
+      "lockedProgress:1": 0,
+      "autoClaim:1": 0,
+      "isSilent:1": 0,
+      "desc:8": "tfru.q265d"
+    }
+  },
+  "tasks:9": {},
+  "rewards:9": {}
+}
