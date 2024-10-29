@@ -1004,7 +1004,7 @@ betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=请查看nei了解具体配方,
 
 # Quest: tfru.q236n
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=发电,变压,输电,耗电
-betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=GT6的电路规则众说纷纭, 这里是根据gt代码确定的规则, 可以确保正确, 当你建设电网遇到困难时, 记得使用万用表(MV电路板后的任务有)详细检测§b电流§a电压§r, 根据该任务确定修改方法. %n%n大部分发电机会输出§anEU/A§r的1§bA电流§r, 通过变压器可以降低§a电压§r到原来的1/4, 并将§b电流§r提高到4A, 一个变压器仅能降压1A高电压到原来的1/4, 但可以升压最多16A电流至尽量接近输出上限(仅接受整数电流). %n%n导线具有线损, 流经的电会降低§b(线损)EU§r的§a电压§r, §b电流§r保持不变. 因此, 导线本身线损越低, 流经的§b电流§r越小, 消耗越小. %n%ngt6的电流寻路大概是社区中疑点最大的部分, 这边根据代码确定了以下原则以供参考: 首先, gt6导线§6不具有§r整体性, 应将一根导线视为一格格导线方块在进行电力交换. 当一格导线输入电时, 首先会将§a电压§r减去自己的§c线损§r, 然后按§d(下>上>北>南>东>西)§r的顺序查找已连接的"目标", 当该目标可输出电力时会"立刻"尝试向该目标输出电力(然后才会查找下一个目标), 目标会根据§a电压§r和自己的情况报告实际消耗的§b电流§r. 之后若§b电流§r未用尽则继续查找, 直到查找完毕或§b电流§r用尽.%n%n对于多个电源, 每个电源提供的§b电流§r均会进行一次上面的操作, 万用表可以显示多输入源流经同一格导线时各自的情况%n%n机器§6仅§r在§a电压§r大于输入下限时接受电流%n%n供能充足时, 机器会接受刚好使缓存大于输入上限的(整数)§b电流§r, 从缓存中消耗(输入上限)的能量, 剩余的能量会保存在缓存中, 使得下一刻接受的§b电流§r可能更少. §7(大部分机器频繁闪烁的情况均是此条规则作祟)§r%n%n供能不足时, 机器会使用掉全部§b电流§r, 计算出提供功率=§a电压§r*§b电流§r, 若提供功率小于需求功率§7(即配方功率或超频后的配方功率, 超频规则见蒸汽时代任务线"机器自动超频")§r, 机器会罢工, 否则会加速(提供功率/需求功率)倍, 但右下角进度条的总时间不会变化, 而是进度增加的更快.%n%n举例: 为普通MV机器(2级机器)供能§a120EU/A§r * §a1A/t§r时, 若配方需求功率为§e80EU/t§r(2级配方), 机器会以1.5倍速工作, 进度每秒增加1.5秒, 若配方需求§e32EU/t§r(1级配方), 机器会有损超频(功率*4, 速度*2), 需求功率变为§e128EU/t§r, 机器罢工, 若输入功率加至128EU, 机器会以2倍速工作. 标有"消耗额外能量时可以超频"的机器是无损超频, 此时输入128EU的无损超频机器会以4倍速工作. %n%n为普通MV机器供能§a120EU/A §r* §b16A/t§r时, 初始缓存为0, 因而机器需求功率为§e256EU§r(输入上限), 机器会接受§b3A电流§r(§e360EU§r)并消耗§e256EU§r, 缓存变为§e104EU§r, 下一刻时机器需求功率是§e256-104EU(152EU)§r, 将只接受2§bA电流§r(§e240EU§r)存入缓存(§e345EU§r), 消耗§e256EU§r后缓存变为§e89EU§r, 以此类推.
+betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=GT6的电路规则众说纷纭, 这里是根据gt代码确定的规则, 可以确保正确, 当你建设电网遇到困难时, 记得使用万用表(MV电路板后的任务有)详细检测§b电流§a电压§r, 根据该任务确定修改方法. %n%n大部分发电机会输出§anEU/A§r的1§bA电流§r, 通过变压器可以降低§a电压§r到原来的1/4, 并将§b电流§r提高到4A, 一个变压器仅能降压1A高电压到原来的1/4, 但可以升压最多16A电流至尽量接近输出上限(仅接受整数电流).机器§6仅§r在§a电压§r大于输入下限时接受电流%n%n供能充足时, 机器会接受刚好使缓存大于输入上限的(整数)§b电流§r, 从缓存中消耗(输入上限)的能量, 剩余的能量会保存在缓存中, 使得下一刻接受的§b电流§r可能更少. §7(大部分机器频繁闪烁的情况均是此条规则作祟)§r%n%n供能不足时, 机器会使用掉全部§b电流§r, 计算出提供功率=§a电压§r*§b电流§r, 若提供功率小于需求功率§7(即配方功率或超频后的配方功率, 超频规则见蒸汽时代任务线"机器自动超频")§r, 机器会罢工, 否则会加速(提供功率/需求功率)倍, 但右下角进度条的总时间不会变化, 而是进度增加的更快.%n%n举例: 为普通MV机器(2级机器)供能§a120EU/A§r * §a1A/t§r时, 若配方需求功率为§e80EU/t§r(2级配方), 机器会以1.5倍速工作, 进度每秒增加1.5秒, 若配方需求§e32EU/t§r(1级配方), 机器会有损超频(功率*4, 速度*2), 需求功率变为§e128EU/t§r, 机器罢工, 若输入功率加至128EU, 机器会以2倍速工作. 标有"消耗额外能量时可以超频"的机器是无损超频, 此时输入128EU的无损超频机器会以4倍速工作. %n%n为普通MV机器供能§a120EU/A §r* §b16A/t§r时, 初始缓存为0, 因而机器需求功率为§e256EU§r(输入上限), 机器会接受§b3A电流§r(§e360EU§r)并消耗§e256EU§r, 缓存变为§e104EU§r, 下一刻时机器需求功率是§e256-104EU(152EU)§r, 将只接受2§bA电流§r(§e240EU§r)存入缓存(§e345EU§r), 消耗§e256EU§r后缓存变为§e89EU§r, 以此类推.
 
 # Quest: New Quest
 betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.name=
@@ -1042,6 +1042,10 @@ betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
 ## Quest Line: tfru.l0n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=Tier 5 - 核子时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=发掘微小的原子核中巨大的能量.
+
+# Quest: tfru.q200n
+betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.name=正在制作..
+betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.desc=你来到了世界的尽头
 
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=正在制作..
@@ -1103,10 +1107,26 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=沥青铀矿处理后剩下的�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=钴-60增殖
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=将钴增殖棒放入核反应堆, 其中的钴吸收中子后便会变为钴-60, 吸收足够的中子后增殖棒将转变为钴-60棒.
 
+# Quest: tfru.q200n
+betterquesting.quest.Y_-MFufxRaG0G7MaVU8lbg.name=正在制作..
+betterquesting.quest.Y_-MFufxRaG0G7MaVU8lbg.desc=你来到了世界的尽头
 
-## Quest Line: 
-betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
-betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
+# Quest: tfru.q200n
+betterquesting.quest.ZQ7nu2i9S7-Qzw8jGlvk9Q.name=正在制作..
+betterquesting.quest.ZQ7nu2i9S7-Qzw8jGlvk9Q.desc=你来到了世界的尽头
+
+# Quest: tfru.q200n
+betterquesting.quest.bPqCnZU3Ri2hVPVT7cNgdg.name=正在制作..
+betterquesting.quest.bPqCnZU3Ri2hVPVT7cNgdg.desc=你来到了世界的尽头
+
+# Quest: tfru.q200n
+betterquesting.quest.hJzaNKdXToizIObp7zP1-g.name=正在制作..
+betterquesting.quest.hJzaNKdXToizIObp7zP1-g.desc=你来到了世界的尽头
+
+
+## Quest Line: tfru.q200n
+betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=正在制作..
+betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=你来到了世界的尽头
 
 
 ## Quest Line: tfr.line7.name
@@ -1217,148 +1237,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念设计:%nYueS
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%nQQ1群： 836643851
-
-
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=§a非酋福音
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=钻石找不到, 来看看这里？
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=钻石1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=做碎石机挖不出钻石？不要怕!氩氮帮你忙
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=和我交易一些钻石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=如果你找到金伯利岩矿了, 挖掘大部分获得的都是破裂钻石, 你可以在这章兑换一些更好的钻石. 或者也可以和我交易. 
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=钻石2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎机没钻石？没关系, 鸭蛋帮你忙
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=钻石3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨机没钻石？没关系, 鸭蛋帮你忙
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸钙
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊剂石头？不要怕, 月杀帮你忙
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=购买岩浆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺会在岩浆周遭的方块上不断生成, 如果你找不到岩浆池的话, 就来兑换一个吧. 
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兑换高岭石和石墨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高岭石和石墨是重要的矿物, 但是因为没有指示物所以比较难找到. 如果暂时找不到的话, 可以在这里兑换一些. 
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=§a万用商店
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=购买你想要的
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=房屋修缮
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修缮, 你能给我提供一些材料吗, 我会很感激的. 
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=成全他人
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=啊, 美丽的金属, 我想买一些金银线送给我的未婚妻
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=青铜锭
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=锻铁
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=锡
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=银
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=铜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=钨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=钛
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=铝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=购买蟹黄堡
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=来自蟹老板的独家配方.%n好吃又实惠.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=镍
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=铬
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=锰
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=钢材交易
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=我最近需要很多钢材, 你能完成我的订单么?
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§c§a§b购买耐用电钻
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=来自Shuaibi的独家配方.%n采用钨钢机身, 天下仅此一家.%n%nMV等级, 却使用LV电池就能充电.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC大鸡肉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC大鸡肉!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=超级蟹黄堡
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=来自蟹老板的独家配方.%n巨无霸！
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守卫村庄
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我们的村庄被盯上了！帮我们制造几个头盔吧, 我会报答你的！
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=群峦星第三交通委
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=最近我们需要铺设一些铁路, 你能制造一些结实的轨道吗？
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=画家的委托
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=最近我的颜料不太够了, 能帮我制作一些石灰染料吗, 三原色就可以
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=钻石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=此兑换每3小时刷新一次
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=高岭石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=此兑换每3小时刷新一次
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=石墨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=此兑换每3小时刷新一次
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兑换每3小时刷新一次
-
-# Quest: tfr.quest424.name
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=钢
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfr.line17.name
@@ -1481,10 +1359,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=用途与林业的捕蜂网相�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=水银温度计
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=主要用于合成温度传感器与测量坩埚温度. %n右键坩埚读取温度. 
 
-# Quest: tfru.q97n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=usb
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=主要用于存储分子扫描仪产生的材料信息. 在复制机中放入usb可复制usb内存储的材料. 
-
 # Quest: tfru.q103n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=擀面杖
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=主要用于合成.
@@ -1535,88 +1409,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=主要用于合成、调整机�
 
 # Quest: tfru.q141n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=精炼火石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=经过处理的火石成为了非常好的点火工具, 并且不会到处点火.%n处理远古残骸可获得火石矿, 精炼火石会吸收周围的岩浆的能量为自己充能.
-
-
-## Quest Line: tfru.l1n
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=§a探索的时光
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=关于如何快速探索世界, 以及探索世界可能找到的物品的说明
-
-# Quest: tfru.q194n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=飞向蓝天
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=单兵飞行! 穿戴鞘翅可以允许你滑翔. %n在空中按跳跃键以展开鞘翅, 右键烟花火箭可以提供推力. %n%n一些人可能对此感到熟悉...
-
-# Quest: tfru.q199n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=滑翔翼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=很好用的旅行工具, 可以以固定速度和下降率飞行, 按shift可以加速, 雨天或雷暴天下降率会提高很多
-
-# Quest: tfru.q
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=你来到了世界的尽头
-
-# Quest: tfru.q201n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=天空法杖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=消耗魔力将你抛向天空, 很适合配合滑翔翼或鞘翅使用.
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=你来到了世界的尽头
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=你来到了世界的尽头
-
-# Quest: tfru.q195n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=加速腰带
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=植物魔法提供了两种可以加速的腰带, 有助于你跑的更快
-
-# Quest: tfru.q198n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=封印之布
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=使用这个可以去除任意物品上的附魔, 一块布可以使用36次.
-
-# Quest: tfru.q196n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=平原腰带
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=这种腰带在你持续奔跑时会逐渐提高你的速度, 适合平原使用
-
-# Quest: tfru.q193n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=折跃旅行
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=有时候你需要找一个新的地形, 何不试试用地狱门? 群峦星与地狱的坐标比例是8:1, 可以帮助你快速前往指定地点...%n%n别忘了带打火石
-
-# Quest: tfru.q192n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=传送石碑
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=使用传送石碑可以记录家, 资源点和更多有价值的地点%n%n右键以激活传送石碑, 潜行+右键以选择目的地并传送%n%n传送石可以允许你快速回到某个石碑, 但有300s的冷却时间
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=你来到了世界的尽头
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=你来到了世界的尽头
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=你来到了世界的尽头
-
-# Quest: tfru.q202n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=锈蚀青铜机械方块
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=有时你会在遗迹箱子中找到它, 这是古人的智慧...实际只是一大块青铜, 使用锉右击六面除锈, 之后焊接铜板即可使用
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=你来到了世界的尽头
-
-# Quest: tfru.q227n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=GT矿脉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=你可能会发现一些不属于tfc的花, 这通常标明附近存在GT基岩矿脉, 挖到y=0的位置便可发现这些矿物. 基岩矿本体需要使用基岩钻开采, 但基岩矿上方附带的矿脉仍有可观的规模.
-
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=你来到了世界的尽头
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=经过处理的火石成为了非常好的点火工具, 并且不会到处点火.%n处理远古残骸可获得火石矿, 按Q将精炼火石扔到岩浆上, 精炼火石便会吸收周围的岩浆的能量为自己充能, 岩浆将转换为黑曜石.
 
 
 ## Quest Line: tfr.line18.name
@@ -1860,157 +1653,85 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=混沌领主
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(目前不在世界生成, 制作中)
 
 
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=§a存储与物流学
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=关于管道, 存储, 和传输系统.
+## Quest Line: tfru.l1n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=§a探索的时光
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=关于如何快速探索世界, 以及探索世界可能找到的物品的说明
 
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=钢制蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根据方块介绍摆放, 需要一个阀门输入, 一个阀门输出. 
+# Quest: tfru.q194n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=飞向蓝天
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=单兵飞行! 穿戴鞘翅可以允许你滑翔. %n在空中按跳跃键以展开鞘翅, 右键烟花火箭可以提供推力. %n%n一些人可能对此感到熟悉...
 
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高级工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高级工作台是一个非必须但很有用的设备. 他可以用管道输入液体资源, 在GUI上部的槽里可以用桶接液体. 也可以在旁边放储物桶, 合成的时候可以自动抽取物品. 侧边是抽屉, 也能存放不少东西, 而且还有专门放工具的槽位. 大力推进！
+# Quest: tfru.q199n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=滑翔翼
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=很好用的旅行工具, 可以以固定速度和下降率飞行, 按shift可以加速, 雨天或雷暴天下降率会提高很多
 
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金属包装
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=这特么就是个奇迹, 你居然能放54个物品, 感动吗？
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=你来到了世界的尽头
 
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=储存大量液体
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=焦炉副产的木榴油如果积攒过多很难处理. 为了节约起来给流体燃烧室使用, 你可以制作第一个多方块储罐：大型木储罐. %n他可以储存432000L流体, 不过不要想用他装腐蚀性液体或者气体. 你也可以选择用它作为一个蒸馏水缓存. %n他的摆放方式和焦炉类似. 
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=你来到了世界的尽头
 
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=基础流体传输
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=这一章中我会介绍给你一些关于格雷科技中物品和流体传输, 存储系统的知识. 这并非一个主线章节, 你可以选择性完成. 
+# Quest: tfru.q201n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=天空法杖
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=消耗魔力将你抛向天空, 很适合配合滑翔翼或鞘翅使用.
 
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=橡胶管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=橡胶管道有着不错的属性, 而且不漏气, 而且不算贵, 是性价比很高的一种流体管道. 只能用压模器制造
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=你来到了世界的尽头
 
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=耐腐蚀管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=不锈钢管道不仅仅不漏气, 耐热, 而且还能抗各种化学腐蚀, 制作硫酸产线前推荐制作. 
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=你来到了世界的尽头
 
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=电动泵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=电动泵是一种覆盖版, 可以右击贴在格雷机器或者管道上, 作用是抽取/排出面对/所在的容器中的流体. 螺丝刀右击设置抽取/排出. 可以抽取OB储罐中的流体. 
+# Quest: tfru.q195n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=加速腰带
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=植物魔法提供了两种可以加速的腰带, 有助于你跑的更快
 
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=现代物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=性价比很高的物流管道, 得到聚氯乙烯后可以大规模生产. 
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=你来到了世界的尽头
 
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=现代管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=耐腐蚀, 不漏气. 性价比很高的管道, 得到聚四氟乙烯后可以大规模生产. 
+# Quest: tfru.q196n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=平原腰带
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=这种腰带在你持续奔跑时会逐渐提高你的速度, 适合平原使用
 
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=输送机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=输送机是一种覆盖版, 可以右击贴在格雷机器或者管道上, 作用是抽取/排出面对/所在的容器中的物品. 螺丝刀右击设置抽取/排出. 
+# Quest: tfru.q193n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=折跃旅行
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=有时候你需要找一个新的地形, 何不试试用地狱门? 群峦星与地狱的坐标比例是8:1, 可以帮助你快速前往指定地点...%n%n别忘了带打火石
 
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=更好的物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=更好的物流管道
+# Quest: tfru.q192n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=传送石碑
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=使用传送石碑可以记录家, 资源点和更多有价值的地点%n%n右键以激活传送石碑, 潜行+右键以选择目的地并传送%n%n传送石可以允许你快速回到某个石碑, 但有300s的冷却时间
 
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=最好的物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=最好的物流管道
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=你来到了世界的尽头
 
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=开门, 顺丰快递
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=点对点瞬达的物品管道, 需要两侧都接上远距传输用物品管道作为中继器, 和p2p类似. 
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=你来到了世界的尽头
 
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=削去时间
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=瞬间传输流体, 但是需要两边有中继器. 有四种温度上限的管道可以选择. 
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=你来到了世界的尽头
 
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=清澈的蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=可以盛放几乎一切流体, 但是无法自动输出, 需要一个格雷电动泵抽取, 或者贴在格雷机器的自动输入面. 
+# Quest: tfru.q202n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=锈蚀青铜机械方块
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=有时你会在遗迹箱子中找到它, 这是古人的智慧...实际只是一大块青铜, 使用锉右击六面除锈, 之后焊接铜板即可使用
 
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=铁制蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=根据方块介绍摆放, 需要一个阀门输入, 一个阀门输出. 
+# Quest: tfru.q282n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=纸莎草
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=这种植物也可以用于制作纸张, 它们的生成规模通常比芦苇大一些, 但生成区域更小.%n%n§8玩过TFC+的可能对此感到熟悉, 这是从TFC+反向移植回来的一个附属, 汉化工作仍在进行中
 
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=不锈钢储罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=所有格雷科技储罐都可以用扳手右键设置自动输出. 耐腐蚀的储罐, 比OB储罐大4倍, 很好用. 不锈钢储罐也有多方块版本, 和木的建造方法类似. 
+# Quest: tfru.q227n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=GT矿脉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=你可能会发现一些不属于tfc的花, 这通常标明附近存在GT基岩矿脉, 挖到y=0的位置便可发现这些矿物. 基岩矿本体需要使用基岩钻开采, 但基岩矿上方附带的矿脉仍有可观的规模.
 
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=高温流体传输
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=开始制作你的蒸汽设备了？你大概需要一些耐高温的流体管道, 青铜就不错. %n%n注意观察你的管道底部的描述, 不同管道有不同的耐热温度, 气密性, 和抗腐蚀性. 
-
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=低级物品传输
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=黄铜管道是前期容易获得的物品管道之一, 他可以和漏斗交互, 焦炉交互, 大部分机器交互(但是不能和木桶交互！)你以后可能要很多很多物品管道. 
-
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
-
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低级物品抽取
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
-
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸处理
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=这特么就是个奇迹, 你居然能放27个物品, 感动吗？
-
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=铁箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=更大的存储空间
-
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=银箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=更大的存储空间
-
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=铜箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=更大的存储空间
-
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=钻石箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=更大的存储空间
-
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=金箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=更大的存储空间
-
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=水晶箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=更大的存储空间
-
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=虚空箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
-
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=金属箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金属锭压缩成块
-
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存储空间
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
-
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=储物桶(铁制)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存储单件10000个物品
-
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流体)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=可以与物流管道和流体管道交互, 也就是意味着他可以销毁包括物品和流体在内的一切. %n%n制作自动化时的实用设备, 强烈建议制作
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=存储输入器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同于抽屉模组的抽屉管理器, 但是不能和物流管道、AE网络交互. %n%n只能用手将物品放入相连的大容量存储器及储物桶. %n%n适用形状：一面墙, 即 XoY平面或ZoY平面. %n%n适用最大范围(墙壁大小)：水平方向两边各50, 即121格, 输入器放中间. 竖直方向7格, 包括输入器. 最大形状为 121 x 7 x 1(长 x 高 x 宽). %n%n7格计算方式及由来：从地板往上数七格, 人(史蒂夫)手竖直方向最大可交互距离(人性化！)为七格. %n%n地板：输入器面前方块向下七格范围内(1 ~ 7)存在方块, 则将离输入器最近的方块视为地板(人性化！), 并且需要将地板左右各延伸50格(若以最大面积铺满整面墙). %n%n所有存储器及储物桶需朝向一致, 且不被遮盖, 即面前没有方块阻碍(人性化！). %n%n空手右击时, 会将包裹内(3 x 9, 不包括快捷栏)所有最大堆叠数量不为一的物品放入“墙壁”中. %n%n存储输入器不能通过管道进行自动化
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=你来到了世界的尽头
 
 
 ## Quest Line: tfr.line21.name
@@ -2228,6 +1949,301 @@ betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=使用这个可以去除任意�
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=暮森灵核
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=使用它可以到达暮色森林, 这不是必须的, 你可以单纯前去放松, 挖矿并获取一些更好的魔法材料制作工具或涡轮机, boss的战利品还可以用在魔法能源吸收器上. %n注意暮色门需要使用原版泥土构建.%n%n§c警告!检测到紊乱机器人信号!请小心行事!
+
+
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=§a存储与物流学
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=关于管道, 存储, 和传输系统.
+
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=钢制蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根据方块介绍摆放, 需要一个阀门输入, 一个阀门输出. 
+
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高级工作台
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高级工作台是一个非必须但很有用的设备. 他可以用管道输入液体资源, 在GUI上部的槽里可以用桶接液体. 也可以在旁边放储物桶, 合成的时候可以自动抽取物品. 侧边是抽屉, 也能存放不少东西, 而且还有专门放工具的槽位. 大力推进！
+
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金属包装
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=这特么就是个奇迹, 你居然能放54个物品, 感动吗？
+
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=储存大量液体
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=焦炉副产的木榴油如果积攒过多很难处理. 为了节约起来给流体燃烧室使用, 你可以制作第一个多方块储罐：大型木储罐. %n他可以储存432000L流体, 不过不要想用他装腐蚀性液体或者气体. 你也可以选择用它作为一个蒸馏水缓存. %n他的摆放方式和焦炉类似. 
+
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=基础流体传输
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=这一章中我会介绍给你一些关于格雷科技中物品和流体传输, 存储系统的知识. 这并非一个主线章节, 你可以选择性完成. 
+
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=橡胶管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=橡胶管道有着不错的属性, 而且不漏气, 而且不算贵, 是性价比很高的一种流体管道. 只能用压模器制造
+
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=耐腐蚀管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=不锈钢管道不仅仅不漏气, 耐热, 而且还能抗各种化学腐蚀, 制作硫酸产线前推荐制作. 
+
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=电动泵
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=电动泵是一种覆盖版, 可以右击贴在格雷机器或者管道上, 作用是抽取/排出面对/所在的容器中的流体. 螺丝刀右击设置抽取/排出. 可以抽取OB储罐中的流体. 
+
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=现代物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=性价比很高的物流管道, 得到聚氯乙烯后可以大规模生产. 
+
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=现代管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=耐腐蚀, 不漏气. 性价比很高的管道, 得到聚四氟乙烯后可以大规模生产. 
+
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=输送机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=输送机是一种覆盖版, 可以右击贴在格雷机器或者管道上, 作用是抽取/排出面对/所在的容器中的物品. 螺丝刀右击设置抽取/排出. 
+
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=更好的物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=更好的物流管道
+
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=最好的物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=最好的物流管道
+
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=开门, 顺丰快递
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=点对点瞬达的物品管道, 需要两侧都接上远距传输用物品管道作为中继器, 和p2p类似. 
+
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=削去时间
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=瞬间传输流体, 但是需要两边有中继器. 有四种温度上限的管道可以选择. 
+
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=清澈的蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=可以盛放几乎一切流体, 但是无法自动输出, 需要一个格雷电动泵抽取, 或者贴在格雷机器的自动输入面. 
+
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=铁制蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=根据方块介绍摆放, 需要一个阀门输入, 一个阀门输出. 
+
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=不锈钢储罐
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=所有格雷科技储罐都可以用扳手右键设置自动输出. 耐腐蚀的储罐, 比OB储罐大4倍, 很好用. 不锈钢储罐也有多方块版本, 和木的建造方法类似. 
+
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=高温流体传输
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=开始制作你的蒸汽设备了？你大概需要一些耐高温的流体管道, 青铜就不错. %n%n注意观察你的管道底部的描述, 不同管道有不同的耐热温度, 气密性, 和抗腐蚀性. 
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=低级物品传输
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=黄铜管道是前期容易获得的物品管道之一, 他可以和漏斗交互, 焦炉交互, 大部分机器交互(但是不能和木桶交互！)你以后可能要很多很多物品管道. 
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低级物品抽取
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸处理
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=这特么就是个奇迹, 你居然能放27个物品, 感动吗？
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=铁箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=更大的存储空间
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=银箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=更大的存储空间
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=铜箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=更大的存储空间
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=钻石箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=更大的存储空间
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=金箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=更大的存储空间
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=水晶箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=更大的存储空间
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=虚空箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=金属箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金属锭压缩成块
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存储空间
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=储物桶(铁制)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存储单件10000个物品
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流体)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=可以与物流管道和流体管道交互, 也就是意味着他可以销毁包括物品和流体在内的一切. %n%n制作自动化时的实用设备, 强烈建议制作
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=存储输入器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同于抽屉模组的抽屉管理器, 但是不能和物流管道、AE网络交互. %n%n只能用手将物品放入相连的大容量存储器及储物桶. %n%n适用形状：一面墙, 即 XoY平面或ZoY平面. %n%n适用最大范围(墙壁大小)：水平方向两边各50, 即121格, 输入器放中间. 竖直方向7格, 包括输入器. 最大形状为 121 x 7 x 1(长 x 高 x 宽). %n%n7格计算方式及由来：从地板往上数七格, 人(史蒂夫)手竖直方向最大可交互距离(人性化！)为七格. %n%n地板：输入器面前方块向下七格范围内(1 ~ 7)存在方块, 则将离输入器最近的方块视为地板(人性化！), 并且需要将地板左右各延伸50格(若以最大面积铺满整面墙). %n%n所有存储器及储物桶需朝向一致, 且不被遮盖, 即面前没有方块阻碍(人性化！). %n%n空手右击时, 会将包裹内(3 x 9, 不包括快捷栏)所有最大堆叠数量不为一的物品放入“墙壁”中. %n%n存储输入器不能通过管道进行自动化
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+
+
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=§a非酋福音
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=钻石找不到, 来看看这里？
+
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=钻石1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=做碎石机挖不出钻石？不要怕!氩氮帮你忙
+
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=和我交易一些钻石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=如果你找到金伯利岩矿了, 挖掘大部分获得的都是破裂钻石, 你可以在这章兑换一些更好的钻石. 或者也可以和我交易. 
+
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=钻石2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎机没钻石？没关系, 鸭蛋帮你忙
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=钻石3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨机没钻石？没关系, 鸭蛋帮你忙
+
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸钙
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊剂石头？不要怕, 月杀帮你忙
+
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=购买岩浆
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺会在岩浆周遭的方块上不断生成, 如果你找不到岩浆池的话, 就来兑换一个吧. 
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兑换高岭石和石墨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高岭石和石墨是重要的矿物, 但是因为没有指示物所以比较难找到. 如果暂时找不到的话, 可以在这里兑换一些. 
+
+
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=§a万用商店
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=购买你想要的
+
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=房屋修缮
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修缮, 你能给我提供一些材料吗, 我会很感激的. 
+
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=成全他人
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=啊, 美丽的金属, 我想买一些金银线送给我的未婚妻
+
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=青铜锭
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=锻铁
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=锡
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=银
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=铜
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=钨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=钛
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=铝
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=购买蟹黄堡
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=来自蟹老板的独家配方.%n好吃又实惠.
+
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=镍
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=铬
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=锰
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=钢材交易
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=我最近需要很多钢材, 你能完成我的订单么?
+
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§c§a§b购买耐用电钻
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=来自Shuaibi的独家配方.%n采用钨钢机身, 天下仅此一家.%n%nMV等级, 却使用LV电池就能充电.
+
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC大鸡肉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC大鸡肉!%n200oz
+
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=超级蟹黄堡
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=来自蟹老板的独家配方.%n巨无霸！
+
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守卫村庄
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我们的村庄被盯上了！帮我们制造几个头盔吧, 我会报答你的！
+
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=群峦星第三交通委
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=最近我们需要铺设一些铁路, 你能制造一些结实的轨道吗？
+
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=画家的委托
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=最近我的颜料不太够了, 能帮我制作一些石灰染料吗, 三原色就可以
+
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=钻石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=高岭石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=石墨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest424.name
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=钢
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -2602,7 +2618,7 @@ betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
 
 # Quest: tfru.q262n
 betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.name=RC锅炉
-betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.desc=这也是蒸汽生产的选择之一, 可以选择RC的固体或液体燃烧室, 燃烧室只需要一层, 锅炉则有多种尺寸选择. 详见锅炉的描述(注: 描述中写的是"燃烧室"尺寸, 实际应为锅炉尺寸). 燃烧室和锅炉本体组成多方块结构即可使用. 该锅炉相对安全, 不需要注意过压爆炸. 但仍注意不要在干烧后加水
+betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.desc=这也是蒸汽生产的选择之一, 可以选择RC的固体或液体燃烧室, 燃烧室只需要一层, 锅炉则有多种尺寸选择. 详见锅炉的描述(注: 描述有误, 写的是"燃烧室"尺寸, 实际应为锅炉尺寸). 燃烧室和锅炉本体组成多方块结构即可使用. 该锅炉相对安全, 不需要注意过压爆炸. 但仍注意不要在干烧后加水
 
 # Quest: tfru.q224n
 betterquesting.quest.ceSPniAwRjOGQsX46MVslg.name=飞轮储能
@@ -2624,9 +2640,9 @@ betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=
 betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.name=
 betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.desc=
 
-# Quest: SolarPanel
-betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.name=
-betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.desc=
+# Quest: tfru.q280n
+betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.name=太阳能电池板
+betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.desc=它可以在白天产出少量的EU, 可以用于点火器等低耗能设备, 也可以用于野外的采石场等断电不丢失进度的设备.
 
 # Quest: tfru.q277n
 betterquesting.quest.kBYhF56jScax1oBWZKoU0Q.name=轴和齿轮箱
@@ -3624,7 +3640,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
 # Quest: tfr.quest337.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=抵达Duck Egg B
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=你第一个应该前往的行星是Duck Egg B%n在那里你能获得许多群峦星上罕见的矿物, 比如赛特斯石英和钨. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=你第一个应该前往的行星是Duck Egg B%n%n你应该首选挖掘智金和月面土, 前者是发展ae自动化的必要材料, 后者可以离心获得多种稀有气体, 是获得高纯单晶硅, 进一步提高算力的必由之路. %n此外, 赛特斯石英和钨等群峦星罕见的矿物也值得挖掘. %n%n完成此任务后下一代计算机的任务线将会解锁.
 
 # Quest: tfru.q74n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=简便RU源

@@ -253,24 +253,39 @@
         <Loot Identifier="gregtech:gt.multiitem.technological:12001" ItemName="gregtech:gt.multiitem.technological:12001" Amount="2" NBTTag="" Chance="20" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.multiitem.technological:12002" ItemName="gregtech:gt.multiitem.technological:12002" Amount="2" NBTTag="" Chance="15" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.multiitem.technological:12003" ItemName="gregtech:gt.multiitem.technological:12003" Amount="2" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
-        <Loot Identifier="gregtech:gt.multiitem.technological:12004" ItemName="gregtech:gt.multiitem.technological:12004" Amount="2" NBTTag="" Chance="5" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
-        <Loot Identifier="gregtech:gt.multiitem.technological:12005" ItemName="gregtech:gt.multiitem.technological:12005" Amount="2" NBTTag="" Chance="5" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
 
         <Loot Identifier="gregtech:gt.meta.machine:8651" ItemName="gregtech:gt.meta.machine:8651" Amount="1" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.meta.machine:130" ItemName="gregtech:gt.meta.machine:130" Amount="1" NBTTag="" Chance="7" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.meta.machine:8636" ItemName="gregtech:gt.meta.machine:8636" Amount="1" NBTTag="" Chance="5" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.meta.machine:240" ItemName="gregtech:gt.meta.machine:240" Amount="1" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
-        <Loot Identifier="gregtech:gt.meta.machine:220" ItemName="gregtech:gt.meta.machine:220" Amount="1" NBTTag="" Chance="2" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
 
         <Loot Identifier="gregtech:gt.multitileentity:10111" ItemName="gregtech:gt.multitileentity:10111" Amount="1" NBTTag="" Chance="8" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.multiitem.technological:12101" ItemName="gregtech:gt.multiitem.technological:12101" Amount="1" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.multiitem.technological:12102" ItemName="gregtech:gt.multiitem.technological:12101" Amount="1" NBTTag="" Chance="8" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="gregtech:gt.multiitem.technological:12103" ItemName="gregtech:gt.multiitem.technological:12101" Amount="1" NBTTag="" Chance="6" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
-        <Loot Identifier="gregtech:gt.multiitem.technological:12104" ItemName="gregtech:gt.multiitem.technological:12101" Amount="1" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
-        <Loot Identifier="gregtech:gt.multiitem.technological:12105" ItemName="gregtech:gt.multiitem.technological:12101" Amount="1" NBTTag="" Chance="2" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
 
         <Loot Identifier="minecraft:nether_star" ItemName="minecraft:nether_star" Amount="2" NBTTag="" Chance="1" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
 
+        <Loot Identifier="de8d830d-9cbc-4990-8d4e-fe3af35566c2" ItemName="gregtech:gt.multiitem.technological:30002" Amount="8" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="e2294d0c-f461-43d0-8f97-84cb86f92dca" ItemName="gregtech:gt.multiitem.technological:30102" Amount="4" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="ce51d4b1-2067-44b4-b4e1-15dc5305ec9f" ItemName="gregtech:gt.multiitem.technological:30101" Amount="4" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+
+        <Loot Identifier="1f41c519-1759-4630-8e8a-0321504091ad" ItemName="gregtech:gt.multiitem.technological:12121" Amount="1" NBTTag="" Chance="6" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="ce62626f-0f04-4020-b8e7-3c799dbb1569" ItemName="gregtech:gt.multiitem.technological:12122" Amount="1" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="6827b5eb-9aad-4e19-a769-3dafe0988f21" ItemName="gregtech:gt.multiitem.technological:12123" Amount="1" NBTTag="" Chance="2" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+
+        <Loot Identifier="4e28a269-1549-465b-a88b-8184b4963970" ItemName="gregtech:gt.multiitem.technological:12141" Amount="1" NBTTag="" Chance="6" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="9b9e5308-e8cf-41bd-b0f3-0451d283c11f" ItemName="gregtech:gt.multiitem.technological:12142" Amount="1" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="25937957-7592-433e-9c94-c6a3be737689" ItemName="gregtech:gt.multiitem.technological:12143" Amount="1" NBTTag="" Chance="2" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+
+        <Loot Identifier="d8bdaf15-6ad6-4d02-9d96-043cdc67c1bb" ItemName="ktfruaddon:ktfru.item.it:20002" Amount="64" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="22342322-0a07-4342-944d-6a9ed6523067" ItemName="ktfruaddon:ktfru.item.it:20006" Amount="64" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="0c145c4c-a705-46ef-b50e-106de34169fb" ItemName="ktfruaddon:ktfru.item.it:20008" Amount="64" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="f073203e-f3ae-4376-9993-dc2d4b08c1b7" ItemName="ktfruaddon:ktfru.item.it:20004" Amount="64" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="266aebcc-0dda-4129-9b80-39519ef0785a" ItemName="ktfruaddon:ktfru.item.it:20005" Amount="16" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="0c9c8dac-5427-432c-94cf-301eec14fd76" ItemName="ktfruaddon:ktfru.item.it:20009" Amount="16" NBTTag="" Chance="4" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="b35fc55d-3c52-4738-89ec-f1edd4954014" ItemName="gregtech:gt.meta.ingotQuintuple:8669" Amount="2" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="cbde7b1b-0531-4248-bcb1-d4a59602cb51" ItemName="gregtech:gt.meta.ingotQuintuple:300"  Amount="2" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
     </LootGroup>
 
     <LootGroup GroupMetaID="6" GroupName="Tier 5" Rarity="0" MinItems="1" MaxItems="4" CombineTrashGroup="true">
