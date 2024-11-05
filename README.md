@@ -12,7 +12,7 @@
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a>
 </h1>-->
 
-<h1 align="center">TerrafirmaRescure Unofficial</h1>
+<h1 align="center">TerrafirmaRescue Unofficial</h1>
 
 - This is a Minecraft 1.7.10 Modpack created by kuzuanpa and many contributors, based on [TFR](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack) and have huge modifications, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech6](https://mechaenetia.com/downloads/), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented.
   You start an epic story of rescuing yourself on a miraculous life-sustainable moon - Terrafirma - of a gas giant 68.4 light years from Earth,
@@ -51,7 +51,7 @@
 
 - All contributors will be included in the [Supporter List](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/contributorList-TFRU.txt).
 
-## Copyright Informations
+## Copyright Information
 
 - Some mods in TFRU needs we claim that we used that. They are listed below:
 - Gendustry under MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
