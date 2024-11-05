@@ -21,6 +21,8 @@
 
 - This Modpack is licensed under the [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE). 
 
+- TFRU don't provide server pack individually, please refer to [here](./docs/tfru/server.txt)
+
 ## Download Latest (Official)
 
 - [Modrinth](https://modrinth.com/modpack/tfru)

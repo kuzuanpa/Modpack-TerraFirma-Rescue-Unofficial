@@ -1,8 +1,8 @@
 To start a server, delete these mods:
 开启服务器需要删除以下mod:
-angelica-1.0.0-beta4.jar
+angelica-1.0.0-beta6.jar
+bettercrashes-1.4.0-GTNH.jar
 neiaddons-1.12.15.41-mc1.7.10.jar
-archaicfix-0.7.1.jar
 NEIIntegration-MC1.7.10-1.1.2.jar
 BetterLoadingScreen-1.5.0-TFR.jar
 neodymium-1.7.10-0.1.8.4+nomixin.jar
@@ -17,7 +17,6 @@ SmoothFont-1.7.10-1.15.3.jar
 InGameInfoXML-1.7.10-2.8.2.3-universal.jar
 SoundLimitExtends-1.7.10-1.0.jar
 InputFix-1.7.10-v5.jar
-TerraFirmaCraftNEIplugin-1.7.10-1.5.3.25.jar
 journeymap-1.7.10-5.1.4p2-unlimited.jar
 thinker-1.0.0-mixinless.jar
 laggoggles-mc1.7.10-4.15.0.jar
