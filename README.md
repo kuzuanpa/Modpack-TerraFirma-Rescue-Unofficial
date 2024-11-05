@@ -47,7 +47,15 @@
 
 - Sources of Original Mods and Modified Mods in TFRU can be found in [This page](https://github.com/kuzuanpa/)
 
-- All contributors will be included in the [Supporter List](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/supporterlist.txt).
+- All contributors will be included in the [Supporter List](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/contributorList-TFRU.txt).
+
+## Copyright Informations
+
+- Some mods in TFRU needs we claim that we used that. They are listed below:
+- Gendustry under MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
+- Baubles under CC-by-nc-sa: https://github.com/Azanor/Baubles/blob/1.7.10
+- Waila under CC-by-nc-sa: https://www.curseforge.com/minecraft/mc-mods/waila
+
 
 <br>
 
@@ -69,7 +77,7 @@
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a><br>
 -->
 
-- **这是一个基于[TFR](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack)进行了大量修改的 Minecraft 1.7.10 整合包, 由苦钻怕和多位贡献者制作。这款整合包以科技为主题，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6](https://mechaenetia.com/downloads/), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) ，从一无所有开始，在距离地球68.4光年的一颗气态巨行星的宜居卫星——群峦星上，展开一场史诗的旅程。你需要采集自然资源，扩展基地，发展科技，探索行星系统的广阔天地，并最终建造出跃迁引擎，重返人类温馨的家园——地球。**
+- **这是一个基于 [群峦救援](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack) 进行了大量修改的 Minecraft 1.7.10 整合包, 由苦钻怕和多位贡献者制作。这款整合包以科技为主题，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6](https://mechaenetia.com/downloads/), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) ，从一无所有开始，在距离地球68.4光年的一颗气态巨行星的宜居卫星——群峦星上，展开一场史诗的旅程。你需要采集自然资源，扩展基地，发展科技，探索行星系统的广阔天地，并最终建造出跃迁引擎，重返人类温馨的家园——地球。**
 
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 
@@ -91,3 +99,10 @@
 - 我们通过 GitHub Pull Request 处理您所添加或修改的内容。
 
 - 请阅读 [这个文章](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BA-Pull-Request) 了解 Pull Request 的使用！
+
+## 版权信息
+
+- 一些需要我们声明它们使用在TFRU中的mod:
+- Gendustry, 协议: MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
+- Baubles, 协议: CC-by-nc-sa: https://github.com/Azanor/Baubles/blob/1.7.10
+- Waila, 协议: CC-by-nc-sa: https://www.curseforge.com/minecraft/mc-mods/waila
