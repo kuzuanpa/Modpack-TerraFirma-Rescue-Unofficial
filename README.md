@@ -1,6 +1,6 @@
 <!--<p align="center"><img src="https://i.imgur.com/QOZGF4P.png" alt="Logo" width="150"></p>
 
-<h1 align="center">TerrafirmaRescure Unofficial<br>
+<h1 align="center">TerrafirmaRescue Unofficial<br>
 <a href="https://www.mcbbs.net/thread-977365-1-1.html"><img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Finfo.teammoeg.com%2Ftfrdownloads.json" alt="MCBBS Downloads"></a>
 	<a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/title/terrafirma-rescue.svg?badge_style=flat" alt="Curseforge Title"></a>
     <a href="https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue"><img src="http://cf.way2muchnoise.eu/full_terrafirma-rescue_downloads.svg?badge_style=flat" alt="Curseforge Downloads"></a>
