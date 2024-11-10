@@ -23,13 +23,13 @@ modrinth considered some mod "Unknown" and ask us to list them:
 
 
 Forked by GTNH:
-Railcraft_1.7.10-9.15.14.jar from https://github.com/GTNewHorizons/Railcraft
-BetterQuesting-3.6.20-GTNH.jar from https://github.com/GTNewHorizons/BetterQuesting/
-NotEnoughCharacters nechar-1.7.10-1.5.3-GTNH.jar from https://github.com/GTNewHorizons/NotEnoughCharacters
-appliedenergistics2-rv3-beta-472-GTNH.jar from https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/
-WirelessCraftingTerminal-1.10.1.jar from https://github.com/GTNewHorizons/WirelessCraftingTerminal
-InGameInfoXML-2.8.19.jar from https://github.com/GTNewHorizons/InGame-Info-XML
-ae2fc-1.3.33-gtnh.jar from https://github.com/GTNewHorizons/AE2FluidCraft-Rework
+- Railcraft_1.7.10-9.15.14.jar from https://github.com/GTNewHorizons/Railcraft
+- BetterQuesting-3.6.20-GTNH.jar from https://github.com/GTNewHorizons/BetterQuesting/
+- NotEnoughCharacters nechar-1.7.10-1.5.3-GTNH.jar from https://github.com/GTNewHorizons/NotEnoughCharacters
+- appliedenergistics2-rv3-beta-472-GTNH.jar from https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/
+- WirelessCraftingTerminal-1.10.1.jar from https://github.com/GTNewHorizons/WirelessCraftingTerminal
+- InGameInfoXML-2.8.19.jar from https://github.com/GTNewHorizons/InGame-Info-XML
+- ae2fc-1.3.33-gtnh.jar from https://github.com/GTNewHorizons/AE2FluidCraft-Rework
 
 Fork and Modified mods in TFRU:
 - ktfruaddon is my very own mod. [repo](https://github.com/kuzuanpa/kTFRUAddon)
