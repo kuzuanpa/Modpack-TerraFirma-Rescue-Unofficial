@@ -20,7 +20,7 @@ modrinth considered some mod "Unknown" and ask us to list them:
 - shadowworld-1.3.3.jar from [Web Archive](https://web.archive.org/web/20180110063949/http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1446206-shadow-world-1-3-3-1-3-3b), Original page is deleted. "You can use this mod in any modpack you like, as long as you give credit to me or this page."
 
 Forked by GTNH:
-- Railcraft_1.7.10-9.15.14.jar under Custom License(see repo) from https://github.com/GTNewHorizons/Railcraft
+- Railcraft_1.7.10-9.15.14.jar under Custom License(see repo) from https://github.com/GTNewHorizons/Railcraft, and official version page: http://railcraft.info/, wiki: http://railcraft.info/wiki/start
 - BetterQuesting-3.6.20-GTNH.jar under MIT from https://github.com/GTNewHorizons/BetterQuesting/
 - NotEnoughCharacters nechar-1.7.10-1.5.3-GTNH.jar under GPLv3 from https://github.com/GTNewHorizons/NotEnoughCharacters
 - appliedenergistics2-rv3-beta-472-GTNH.jar under LGPLv3 from https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/
