@@ -43,7 +43,7 @@ Fork and Modified mods in TFRU:
 - LibVulpes under MIT ,[repo](https://github.com/kuzuanpa/libVulpes)
 - MatterOverdrive under GPLv3 ,[repo](https://github.com/kuzuanpa/MatterOverdrive-TFRU)
 - MTUtils under AGPL ,[repo](https://github.com/kuzuanpa/MTUtils)
-- RecurrentComplex under MIN ,[repo](https://github.com/kuzuanpa/RecurrentComplex)
+- RecurrentComplex under MIT ,[repo](https://github.com/kuzuanpa/RecurrentComplex)
 - TFCAesthetics under MIT ,[repo](https://github.com/kuzuanpa/tfc-aesthetics-tfru)
 - TFCAutomatedBellowsAddon ,[repo](https://github.com/kuzuanpa/TFC-AutomatedBellows-Addon), License is "do whatever you want": https://github.com/Sladki/TFC-AutomatedBellows-Addon/issues/8
 - TerraFirmaCraft under GPLv3 ,[repo](https://github.com/kuzuanpa/TFCraft-TFRU)

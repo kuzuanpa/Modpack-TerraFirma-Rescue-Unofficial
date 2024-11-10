@@ -99,5 +99,5 @@
 - 请阅读 [这个文章](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BA-Pull-Request) 了解 Pull Request 的使用！
 
 ## 版权信息
-TFRU中的一些mod需要声明它们被使用在整合包中, 详见: [Copyright Info](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/docs/tfru/copyright.md)
+- TFRU中的一些mod需要声明它们被使用在整合包中, 详见: [Copyright Info](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/docs/tfru/copyright.md)
 
