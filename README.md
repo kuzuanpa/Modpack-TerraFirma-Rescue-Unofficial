@@ -23,7 +23,7 @@
 
 - TFRU don't provide server pack individually, please refer to [here](./docs/tfru/server.txt)
 
-## Download Latest (Official)
+## Download Latest
 
 - [Modrinth](https://modrinth.com/modpack/tfru)
 
@@ -53,11 +53,7 @@
 
 ## Copyright Information
 
-- Some mods in TFRU needs we claim that we used that. They are listed below:
-- Gendustry under MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
-- Baubles under CC-by-nc-sa: https://github.com/Azanor/Baubles/blob/1.7.10
-- Waila under CC-by-nc-sa: https://www.curseforge.com/minecraft/mc-mods/waila
-
+- Some mods in TFRU needs we claim that we used that. They are listed in [Copyright Info](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/docs/tfru/copyright.md)
 
 <br>
 
@@ -103,8 +99,5 @@
 - 请阅读 [这个文章](https://github.com/geeeeeeeeek/git-recipes/wiki/3.3-%E5%88%9B%E5%BB%BA-Pull-Request) 了解 Pull Request 的使用！
 
 ## 版权信息
+TFRU中的一些mod需要声明它们被使用在整合包中, 详见: [Copyright Info](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/copyright.md)
 
-- 一些需要我们声明它们使用在TFRU中的mod:
-- Gendustry, 协议: MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
-- Baubles, 协议: CC-by-nc-sa: https://github.com/Azanor/Baubles/blob/1.7.10
-- Waila, 协议: CC-by-nc-sa: https://www.curseforge.com/minecraft/mc-mods/waila
