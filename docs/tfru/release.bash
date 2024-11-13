@@ -1,11 +1,11 @@
  #/bin/bash
- 
+ #需求文件: ./modsClient 存放所有mod, release/ 存放元数据, ./PrismFolder 到Prism启动器下属instance的软链接, 用于创建modrinth包
  if [ ! -z "$(find modsUpdateTmp -name '*.jar')" ]; then echo "仍有临时mod升级存在于./modUpdateTmp, 请检查后移除它们"; exit;fi
- if [ -f release/zhCN ];then echo "错误的目录结构: release/zhCN! 请删除多余的文件"; exit;fi 
- if [ ! -d release/zhCN ];then mkdir -p release/zhCN;fi
- cp ~/projects/Modpack-TerraFirma-Rescue-Unofficial/* release/zhCN -r
+ if [ -f release/zh ];then echo "错误的目录结构: release/zh! 请删除多余的文件"; exit;fi 
+ if [ ! -d release/zh ];then mkdir -p release/zh;fi
+ cp ~/projects/Modpack-TerraFirma-Rescue-Unofficial/* release/zh -r
  echo "已获取最新modpack文件"
- cd release/zhCN/
+ cd release/zh/
  export version=$( head -n 1 changelog_zh_CN.txt | grep -o [0-9]\\.[0-9]\\.[0-9]\\.[0-9] | sed 's/ //g')
  echo "正在发布: ${version} ?"
  echo "<Enter>"
@@ -18,35 +18,53 @@
  read
  mkdir mods
  cd ../..
- cp modsClient/* release/zhCN/mods -r
+ cp modsClient/* release/zh/mods -r
  echo "已复制mods"
- cp release/TFR\ BlueLine\ UI.zip release/zhCN/resourcepacks
+ cp release/TFR\ BlueLine\ UI.zip release/zh/resourcepacks
  echo "已复制TFR蓝线UI材质包"
- cp release/options-default-zhcn.txt release/zhCN/options.txt
+ cp release/options-default-zhcn.txt release/zh/options.txt
  echo "已复制中文默认配置文件"
- cd release/zhCN/
- mkdir ../overrides
- mv * ../overrides
- mv ../overrides .
+ cd release/zh/
+ mkdir ../tfruMain
+ mv * ../tfruMain
+ mv ../tfruMain .
  echo "已构建导入包目录结构"
- cat ../manifest.json |sed s/TFRU_VER/${version}/g > manifest.json
- cat ../mcbbs.packmeta |sed s/TFRU_VER/${version}/g > mcbbs.packmeta
- sed s/TFRU_VER/${version}/g -i overrides/config/MoegAddon/moegadd.cfg
- sed s/TFRU_VER/${version}/g -i overrides/config/CustomMainMenu/en/mainmenu.json
- sed s/TFRU_VER/${version}/g -i overrides/config/CustomMainMenu/cn/mainmenu.json
- sed s/TFRU_VER/${version}/g -i overrides/config/CustomMainMenu/mainmenu.json
+ sed s/TFRU_VER/${version}/g -i tfruMain/config/MoegAddon/moegadd.cfg
+ sed s/TFRU_VER/${version}/g -i tfruMain/config/CustomMainMenu/en/mainmenu.json
+ sed s/TFRU_VER/${version}/g -i tfruMain/config/CustomMainMenu/cn/mainmenu.json
+ sed s/TFRU_VER/${version}/g -i tfruMain/config/CustomMainMenu/mainmenu.json
  echo "已替换整合包元数据"
+ rm ../../PrismFolder/* -rf
+ cp tfruMain/* ../../PrismFolder/ -r
+ echo "已生成Prism导出文件"
+ 
+ mkdir mcbbs
+ cd mcbbs
+ cp ../tfruMain overrides -r
+ cat ../../manifest.json |sed s/TFRU_VER/${version}/g > manifest.json
+ cat ../../mcbbs.packmeta |sed s/TFRU_VER/${version}/g > mcbbs.packmeta
  zip -q -3 -r modpack.zip *
- echo "导入包压缩完毕"
+ echo "mcbbs格式导入包压缩完毕"
  cd ..
- mv zhCN/modpack.zip .
+ mv mcbbs/modpack.zip .
  zip -q -3 TFRU-${version}-zh_CN-解压后双击启动器.zip modpack.zip hmcl.json hmcl-dev-3.5.5.236.exe
- echo "解压包压缩完毕"
- cd ..
- mv release/modpack.zip TFRU-${version}-zh_CN-直接导入启动器.zip
- mv release/TFRU-${version}-zh_CN-解压后双击启动器.zip .
- echo "已输出文件"
- rm -r release/zhCN
+ echo "mcbbs格式解压包压缩完毕"
+ mv modpack.zip ../../TFRU-${version}-zh_CN-直接导入启动器.zip
+ mv TFRU-${version}-zh_CN-解压后双击启动器.zip ../..
+ echo "已输出mcbbs格式文件"
+ 
+ mkdir multimc
+ cd multimc
+ cp ../tfruMain .minecraft -r
+ cat ../../instance.cfg |sed s/TFRU_VER/${version}/g > instance.cfg
+ cp ../../mmc-pack.json mmc-pack.json
+ touch .packignore
+ zip -q -3 -r modpack.zip instance.cfg mmc-pack.json .minecraft .packignore
+ echo "multimc格式导入包压缩完毕"
+ mv modpack.zip ../../../TFRU-${version}-zh_CN-multimc.zip
+ echo "已输出multimc格式文件"
+ cd ../..
+ rm zh -rf
  echo "已移除临时文件"
 
 
