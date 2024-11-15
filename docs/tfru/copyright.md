@@ -28,7 +28,7 @@ Forked by GTNH:
 - InGameInfoXML-2.8.19.jar under MIT from https://github.com/GTNewHorizons/InGame-Info-XML
 - ae2fc-1.3.33-gtnh.jar under LGPLv3 from https://github.com/GTNewHorizons/AE2FluidCraft-Rework
 - LunatriusCore-1.2.0-GTNH.jar under MIT from https://github.com/GTNewHorizons/LunatriusCore/releases
-
+- BetterCrashes-1.4.0.jar under MIT from https://github.com/GTNewHorizons/BetterCrashes
 
 Fork and Modified mods in TFRU:
 - ktfruaddon is my very own mod. [repo](https://github.com/kuzuanpa/kTFRUAddon)
