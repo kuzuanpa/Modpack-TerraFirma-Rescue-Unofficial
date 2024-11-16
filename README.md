@@ -29,7 +29,7 @@
 
 ## Join Community
 
-- QQ Group (Official): 836643851
+- QQ Group (Chinese Software): 836643851
 
 ## Like Our Modpack?
 - If you love the modified parts of TFRU between TFR, You can support us via: [afdian](https://afdian.com/@kuzuanpa) (Chinese Website)

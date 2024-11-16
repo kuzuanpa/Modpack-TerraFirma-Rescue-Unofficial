@@ -167,8 +167,8 @@ var winormal = <terrafirmacraft:item.MetalNugget:9>;
 
 recipes.addShapeless(win,[winormal]);
 
-mods.railcraft.BlastFurnace.addRecipe(<ktfruaddon:ktfru.item.compact:7>, false, false, 711, win*2);
-mods.railcraft.BlastFurnace.addRecipe(win, false, true, 711, <terrafirmacraft:item.MetalNugget:17>);
+mods.railcraft.BlastFurnace.addRecipe(<ktfruaddon:ktfru.item.compact:7>, false, false, 441, win*2);
+mods.railcraft.BlastFurnace.addRecipe(win, false, true, 571, <terrafirmacraft:item.MetalNugget:17>);
 
 //water reservoir
 recipes.remove(<Railcraft:machine.alpha:14>);
