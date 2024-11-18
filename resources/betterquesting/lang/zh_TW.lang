@@ -692,6 +692,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
 
+# Quest: tfru.q286n
+betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.name=
+betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.desc=
+
 # Quest: tfru.q237n
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.name=
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
@@ -1239,6 +1243,148 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=關於我們
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
 
 
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=非酋福音
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=鑽石找不到, 來看看這裡？
+
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=鑽石1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=做碎石機挖不出鑽石？不要怕!氬氮幫你忙
+
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=和我交易一些鑽石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=如果你找到金伯利岩礦了, 挖掘大部分獲得的都是破裂鑽石, 你可以在這章兌換一些更好的鑽石。或者也可以和我交易。
+
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=鑽石2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎機沒鑽石？沒關係, 鴨蛋幫你忙
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=鑽石3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨機沒鑽石？沒關係, 鴨蛋幫你忙
+
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸鈣
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊劑石頭？不要怕, 月殺幫你忙
+
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=購買岩漿
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺會在岩漿周遭的方塊上不斷生成, 如果你找不到岩漿池的話, 就來兌換一個吧。
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兌換高嶺石和石墨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高嶺石和石墨是重要的礦物, 但是因為沒有指示物所以比較難找到。如果暫時找不到的話, 可以在這裡兌換一些。
+
+
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=萬用商店
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=購買你想要的
+
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=房屋修繕
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修繕, 你能給我提供一些材料嗎, 我會很感激的。
+
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=成全他人
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=啊, 美麗的金屬, 我想買一些金銀線送給我的未婚妻
+
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=青銅錠
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=鍛鐵
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=錫
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=銀
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=銅
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=鎢
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=鈦
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=鋁
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=購買蟹黃堡
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=來自蟹老闆的獨家配方.%n好吃又實惠.
+
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=鎳
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=鉻
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=錳
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=鋼材交易
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=我最近需要很多鋼材, 你能完成我的訂單麼?
+
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§c§a§b購買耐用電鑽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=來自Shuaibi的獨家配方.%n採用鎢鋼機身, 天下僅此一家.%n%nMV等級, 卻使用LV電池就能充電.
+
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC大雞肉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC大雞肉!%n200oz
+
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=超級蟹黃堡
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=來自蟹老闆的獨家配方.%n巨無霸！
+
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守衛村莊
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我們的村莊被盯上了！幫我們製造幾個頭盔吧, 我會報答你的！
+
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=北京第三交通委
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=最近我們需要鋪設一些鐵路, 你能製造一些結實的軌道嗎？
+
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=畫家的委託
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=最近我的顏料不太夠了, 能幫我製作一些石灰染料嗎, 三原色就可以
+
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=鑽石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=高嶺石
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=石墨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest424.name
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=金
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+
+
 ## Quest Line: tfr.line17.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=人類的能力沒有極限
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=雖然你是一介凡夫, 但是學好物理能讓你上天入地。關於武器與裝備
@@ -1359,6 +1505,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
 
+# Quest: tfru.q97n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
+
 # Quest: tfru.q103n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
@@ -1410,6 +1560,87 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
 # Quest: tfru.q141n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
+
+
+## Quest Line: tfru.l1n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
+
+# Quest: tfru.q194n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
+
+# Quest: tfru.q199n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
+
+# Quest: tfru.q288n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
+
+# Quest: tfru.q201n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
+
+# Quest: tfru.q287n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
+
+# Quest: tfru.q195n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+
+# Quest: tfru.q198n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
+
+# Quest: tfru.q196n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+
+# Quest: tfru.q193n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
+
+# Quest: tfru.q192n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
+
+# Quest: tfru.q202n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
+
+# Quest: tfru.q227n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
 
 
 ## Quest Line: tfr.line18.name
@@ -1653,85 +1884,157 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=混沌領主
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(目前不在世界生成, 製作中)
 
 
-## Quest Line: tfru.l1n
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=存儲與物流學
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=關於管道, 存儲, 和傳輸系統。
 
-# Quest: tfru.q194n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=鋼製蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
 
-# Quest: tfru.q199n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高級工作檯
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高級工作檯是一個非必須但很有用的設備。他可以用管道輸入液體資源, 在GUI上部的槽里可以用桶接液體。也可以在旁邊放儲物桶, 合成的時候可以自動抽取物品。側邊是抽屜, 也能存放不少東西, 而且還有專門放工具的槽位。大力推進！
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金屬包裝
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=這特麼就是個奇蹟, 你居然能放54個物品, 感動嗎？
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=儲存大量液體
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=焦爐副產的木榴油如果積攢過多很難處理。為了節約起來給流體燃燒室使用, 你可以製作第一個多方塊儲罐：大型木儲罐。%n他可以儲存432000L流體, 不過不要想用他裝腐蝕性液體或者氣體。你也可以選擇用它作為一個蒸餾水緩存。%n他的擺放方式和焦爐類似。
 
-# Quest: tfru.q201n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=基礎流體傳輸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=這一章中我會介紹給你一些關于格雷科技中物品和流體傳輸, 存儲系統的知識。這並非一個主線章節, 你可以選擇性完成。
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=橡膠管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=橡膠管道有著不錯的屬性, 而且不漏氣, 而且不算貴, 是性價比很高的一種流體管道。只能用壓模器製造
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=耐腐蝕管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=不鏽鋼管道不僅僅不漏氣, 耐熱, 而且還能抗各種化學腐蝕, 製作硫酸產線前推薦製作。
 
-# Quest: tfru.q195n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=電動泵
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=電動泵是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的流體。螺絲刀右擊設置抽取/排出。可以抽取OB儲罐中的流體。
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=現代物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=性價比很高的物流管道, 得到聚氯乙烯後可以大規模生產。
 
-# Quest: tfru.q196n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=現代管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=耐腐蝕, 不漏氣。性價比很高的管道, 得到聚四氟乙烯後可以大規模生產。
 
-# Quest: tfru.q193n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=輸送機
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=輸送機是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的物品。螺絲刀右擊設置抽取/排出。
 
-# Quest: tfru.q192n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=更好的物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=更好的物流管道
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=最好的物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=最好的物流管道
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=開門, 順豐快遞
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=點對點瞬達的物品管道, 需要兩側都接上遠距傳輸用物品管道作為中繼器, 和p2p類似。
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=削去時間
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=瞬間傳輸流體, 但是需要兩邊有中繼器。有四種溫度上限的管道可以選擇。
 
-# Quest: tfru.q202n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=清澈的蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=可以盛放幾乎一切流體, 但是無法自動輸出, 需要一個格雷電動泵抽取, 或者貼在格雷機器的自動輸入面。
 
-# Quest: tfru.q282n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=鐵製蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
 
-# Quest: tfru.q227n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=不鏽鋼儲罐
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=所有格雷科技儲罐都可以用扳手右鍵設置自動輸出。耐腐蝕的儲罐, 比OB儲罐大4倍, 很好用。不鏽鋼儲罐也有多方塊版本, 和木的建造方法類似。
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=高溫流體傳輸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=開始製作你的蒸汽設備了？你大概需要一些耐高溫的流體管道, 青銅就不錯。%n%n注意觀察你的管道底部的描述, 不同管道有不同的耐熱溫度, 氣密性, 和抗腐蝕性。
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=低級物品傳輸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=黃銅管道是前期容易獲得的物品管道之一, 他可以和漏斗交互, 焦爐交互, 大部分機器交互(但是不能和木桶交互！)你以後可能要很多很多物品管道。
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低級物品抽取
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸處理
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=這特麼就是個奇蹟, 你居然能放27個物品, 感動嗎？
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=鐵箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=更大的存儲空間
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=銀箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=更大的存儲空間
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=銅箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=更大的存儲空間
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=鑽石箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=更大的存儲空間
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=金箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=更大的存儲空間
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=水晶箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=更大的存儲空間
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=虛空箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=金屬箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金屬錠壓縮成塊
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存儲空間
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=儲物桶(鐵製)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存儲單件10000個物品
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流體)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=可以與物流管道和流體管道交互, 也就是意味著他可以銷毀包括物品和流體在內的一切。%n%n製作自動化時的實用設備, 強烈建議製作
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=存儲輸入器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同於抽屜模組的抽屜管理器, 但是不能和物流管道、AE網絡交互。%n%n只能用手將物品放入相連的大容量存儲器及儲物桶。%n%n適用形狀：一面牆, 即 XoY平面或ZoY平面。%n%n適用最大範圍（牆壁大小）：水平方向兩邊各50, 即121格, 輸入器放中間。豎直方向7格, 包括輸入器。最大形狀為 121 x 7 x 1（長 x 高 x 寬）。%n%n7格計算方式及由來：從地板往上數七格, 人（史蒂夫）手豎直方向最大可交互距離（人性化！）為七格。%n%n地板：輸入器面前方塊向下七格範圍內（1 ~ 7）存在方塊, 則將離輸入器最近的方塊視為地板（人性化！）, 並且需要將地板左右各延伸50格（若以最大面積鋪滿整面牆）。%n%n所有存儲器及儲物桶需朝向一致, 且不被遮蓋, 即面前沒有方塊阻礙（人性化！）。%n%n空手右擊時, 會將包裹內（3 x 9, 不包括快捷欄）所有最大堆疊數量不為一的物品放入「牆壁」中。%n%n存儲輸入器不能通過管道進行自動化
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
 
 ## Quest Line: tfr.line21.name
@@ -1942,6 +2245,14 @@ betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
 
+# Quest: tfru.q289n
+betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.name=
+betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
+
+# Quest: tfru.q290n
+betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
+betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
@@ -1949,301 +2260,6 @@ betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
-
-
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=存儲與物流學
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=關於管道, 存儲, 和傳輸系統。
-
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=鋼製蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
-
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高級工作檯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高級工作檯是一個非必須但很有用的設備。他可以用管道輸入液體資源, 在GUI上部的槽里可以用桶接液體。也可以在旁邊放儲物桶, 合成的時候可以自動抽取物品。側邊是抽屜, 也能存放不少東西, 而且還有專門放工具的槽位。大力推進！
-
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金屬包裝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=這特麼就是個奇蹟, 你居然能放54個物品, 感動嗎？
-
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=儲存大量液體
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=焦爐副產的木榴油如果積攢過多很難處理。為了節約起來給流體燃燒室使用, 你可以製作第一個多方塊儲罐：大型木儲罐。%n他可以儲存432000L流體, 不過不要想用他裝腐蝕性液體或者氣體。你也可以選擇用它作為一個蒸餾水緩存。%n他的擺放方式和焦爐類似。
-
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=基礎流體傳輸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=這一章中我會介紹給你一些關于格雷科技中物品和流體傳輸, 存儲系統的知識。這並非一個主線章節, 你可以選擇性完成。
-
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=橡膠管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=橡膠管道有著不錯的屬性, 而且不漏氣, 而且不算貴, 是性價比很高的一種流體管道。只能用壓模器製造
-
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=耐腐蝕管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=不鏽鋼管道不僅僅不漏氣, 耐熱, 而且還能抗各種化學腐蝕, 製作硫酸產線前推薦製作。
-
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=電動泵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=電動泵是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的流體。螺絲刀右擊設置抽取/排出。可以抽取OB儲罐中的流體。
-
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=現代物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=性價比很高的物流管道, 得到聚氯乙烯後可以大規模生產。
-
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=現代管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=耐腐蝕, 不漏氣。性價比很高的管道, 得到聚四氟乙烯後可以大規模生產。
-
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=輸送機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=輸送機是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的物品。螺絲刀右擊設置抽取/排出。
-
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=更好的物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=更好的物流管道
-
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=最好的物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=最好的物流管道
-
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=開門, 順豐快遞
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=點對點瞬達的物品管道, 需要兩側都接上遠距傳輸用物品管道作為中繼器, 和p2p類似。
-
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=削去時間
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=瞬間傳輸流體, 但是需要兩邊有中繼器。有四種溫度上限的管道可以選擇。
-
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=清澈的蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=可以盛放幾乎一切流體, 但是無法自動輸出, 需要一個格雷電動泵抽取, 或者貼在格雷機器的自動輸入面。
-
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=鐵製蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
-
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=不鏽鋼儲罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=所有格雷科技儲罐都可以用扳手右鍵設置自動輸出。耐腐蝕的儲罐, 比OB儲罐大4倍, 很好用。不鏽鋼儲罐也有多方塊版本, 和木的建造方法類似。
-
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=高溫流體傳輸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=開始製作你的蒸汽設備了？你大概需要一些耐高溫的流體管道, 青銅就不錯。%n%n注意觀察你的管道底部的描述, 不同管道有不同的耐熱溫度, 氣密性, 和抗腐蝕性。
-
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=低級物品傳輸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=黃銅管道是前期容易獲得的物品管道之一, 他可以和漏斗交互, 焦爐交互, 大部分機器交互(但是不能和木桶交互！)你以後可能要很多很多物品管道。
-
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
-
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低級物品抽取
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
-
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸處理
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=這特麼就是個奇蹟, 你居然能放27個物品, 感動嗎？
-
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=鐵箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=更大的存儲空間
-
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=銀箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=更大的存儲空間
-
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=銅箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=更大的存儲空間
-
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=鑽石箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=更大的存儲空間
-
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=金箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=更大的存儲空間
-
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=水晶箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=更大的存儲空間
-
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=虛空箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
-
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=金屬箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金屬錠壓縮成塊
-
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存儲空間
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
-
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=儲物桶(鐵製)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存儲單件10000個物品
-
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流體)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=可以與物流管道和流體管道交互, 也就是意味著他可以銷毀包括物品和流體在內的一切。%n%n製作自動化時的實用設備, 強烈建議製作
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=存儲輸入器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同於抽屜模組的抽屜管理器, 但是不能和物流管道、AE網絡交互。%n%n只能用手將物品放入相連的大容量存儲器及儲物桶。%n%n適用形狀：一面牆, 即 XoY平面或ZoY平面。%n%n適用最大範圍（牆壁大小）：水平方向兩邊各50, 即121格, 輸入器放中間。豎直方向7格, 包括輸入器。最大形狀為 121 x 7 x 1（長 x 高 x 寬）。%n%n7格計算方式及由來：從地板往上數七格, 人（史蒂夫）手豎直方向最大可交互距離（人性化！）為七格。%n%n地板：輸入器面前方塊向下七格範圍內（1 ~ 7）存在方塊, 則將離輸入器最近的方塊視為地板（人性化！）, 並且需要將地板左右各延伸50格（若以最大面積鋪滿整面牆）。%n%n所有存儲器及儲物桶需朝向一致, 且不被遮蓋, 即面前沒有方塊阻礙（人性化！）。%n%n空手右擊時, 會將包裹內（3 x 9, 不包括快捷欄）所有最大堆疊數量不為一的物品放入「牆壁」中。%n%n存儲輸入器不能通過管道進行自動化
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
-
-
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=非酋福音
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=鑽石找不到, 來看看這裡？
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=鑽石1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=做碎石機挖不出鑽石？不要怕!氬氮幫你忙
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=和我交易一些鑽石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=如果你找到金伯利岩礦了, 挖掘大部分獲得的都是破裂鑽石, 你可以在這章兌換一些更好的鑽石。或者也可以和我交易。
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=鑽石2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎機沒鑽石？沒關係, 鴨蛋幫你忙
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=鑽石3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨機沒鑽石？沒關係, 鴨蛋幫你忙
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸鈣
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊劑石頭？不要怕, 月殺幫你忙
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=購買岩漿
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺會在岩漿周遭的方塊上不斷生成, 如果你找不到岩漿池的話, 就來兌換一個吧。
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兌換高嶺石和石墨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高嶺石和石墨是重要的礦物, 但是因為沒有指示物所以比較難找到。如果暫時找不到的話, 可以在這裡兌換一些。
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=萬用商店
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=購買你想要的
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=房屋修繕
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修繕, 你能給我提供一些材料嗎, 我會很感激的。
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=成全他人
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=啊, 美麗的金屬, 我想買一些金銀線送給我的未婚妻
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=青銅錠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=鍛鐵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=錫
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=銀
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=銅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=鎢
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=鈦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=鋁
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=購買蟹黃堡
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=來自蟹老闆的獨家配方.%n好吃又實惠.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=鎳
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=鉻
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=錳
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=鋼材交易
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=我最近需要很多鋼材, 你能完成我的訂單麼?
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§c§a§b購買耐用電鑽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=來自Shuaibi的獨家配方.%n採用鎢鋼機身, 天下僅此一家.%n%nMV等級, 卻使用LV電池就能充電.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC大雞肉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC大雞肉!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=超級蟹黃堡
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=來自蟹老闆的獨家配方.%n巨無霸！
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守衛村莊
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我們的村莊被盯上了！幫我們製造幾個頭盔吧, 我會報答你的！
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=北京第三交通委
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=最近我們需要鋪設一些鐵路, 你能製造一些結實的軌道嗎？
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=畫家的委託
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=最近我的顏料不太夠了, 能幫我製作一些石灰染料嗎, 三原色就可以
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=鑽石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=此兌換每3小時刷新一次
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=高嶺石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=此兌換每3小時刷新一次
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=石墨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=此兌換每3小時刷新一次
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兌換每3小時刷新一次
-
-# Quest: tfr.quest424.name
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=金
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -2357,6 +2373,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=重要的資源, 可以用黃�
 # Quest: tfr.quest347.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=礦工必備
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=如果你有大量的羊毛紗或者黃麻纖維, 這條繩子比梯子要便宜很多。下礦的時候你可以通過它爬上爬下, 而不需要挖掘可能會坍塌的階梯式礦道。
+
+# Quest: tfru.q285n
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
 
 
 ## Quest Line: tfr.line0.name

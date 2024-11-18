@@ -254,13 +254,50 @@ MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
 [<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:50>, <minecraft:sand>*7],
 [n],
 [n],
-[<gregtech:gt.meta.dust:8001>*10]);
+[<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
 [<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dust:8268>, <minecraft:sand>*7],
 [n],
 [n],
-[<gregtech:gt.meta.dust:8001>*10]);
+[<gregtech:gt.meta.dust:8001>*56]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:9139>, <minecraft:sand>*7],
+[n],
+[n],
+[<gregtech:gt.meta.dust:8001>*56]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:8013>, <minecraft:sand>*7],
+[n],
+[n],
+[<gregtech:gt.meta.dust:8001>*56]);
+
+//Rough glass
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:50>, <gregtech:gt.meta.storage.dust:8111>*7],
+[n],
+[n],
+[<gregtech:gt.meta.dust:8001>*56]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dust:8268>, <gregtech:gt.meta.storage.dust:8111>*7],
+[n],
+[n],
+[<gregtech:gt.meta.dust:8001>*56]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:9139>, <gregtech:gt.meta.storage.dust:8111>*7],
+[n],
+[n],
+[<gregtech:gt.meta.dust:8001>*56]);
+
+MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
+[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:8013>, <gregtech:gt.meta.storage.dust:8111>*7],
+[n],
+[n],
+[<gregtech:gt.meta.dust:8001>*56]);
 
 //OutputStack, TopRowPattern, SecondRowPattern, ThirdRowPattern, BottomRowPattern
 

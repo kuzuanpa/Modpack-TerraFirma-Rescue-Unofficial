@@ -692,6 +692,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
 
+# Quest: tfru.q286n
+betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.name=
+betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.desc=
+
 # Quest: tfru.q237n
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.name=
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
@@ -1239,6 +1243,148 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
 
 
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
+
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of a stonecutter? Don't be afraid! Argon nitrogen will help you
+
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
+
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
+
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
+
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
+
+
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
+
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
+
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
+
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. Delicious and affordable.
+
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=I need a lot of steel recently. Can you fulfill my order?
+
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§ C § A §bBuy a durable electric drill
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Exclusive formula from Shuaibi.%n USES tungsten steel body, only one in the world.%n%nMV level, but using LV battery can be charged.
+
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC big chicken
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
+
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
+
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
+
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Beijing Third Transportation Commission
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=We need to lay some railways recently. Can you make some strong tracks?
+
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Painter's commission
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lately. Could you help me make some lime dye? Three primary colors will do
+
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
+
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=Kaolinate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest424.name
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+
+
 ## Quest Line: tfr.line17.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=Human Limitless
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=Although you are an ordinary human, learning physics well will make you be GUD. About weapons and equipment
@@ -1359,6 +1505,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
 
+# Quest: tfru.q97n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
+
 # Quest: tfru.q103n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
@@ -1410,6 +1560,87 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
 # Quest: tfru.q141n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
+
+
+## Quest Line: tfru.l1n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
+
+# Quest: tfru.q194n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
+
+# Quest: tfru.q199n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
+
+# Quest: tfru.q288n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
+
+# Quest: tfru.q201n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
+
+# Quest: tfru.q287n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
+
+# Quest: tfru.q195n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+
+# Quest: tfru.q198n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
+
+# Quest: tfru.q196n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+
+# Quest: tfru.q193n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
+
+# Quest: tfru.q192n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
+
+# Quest: tfru.q202n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
+
+# Quest: tfru.q227n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
 
 
 ## Quest Line: tfr.line18.name
@@ -1653,85 +1884,157 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=The Lord of chaos
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(Not in the world generation and production at present)
 
 
-## Quest Line: tfru.l1n
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
 
-# Quest: tfru.q194n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
 
-# Quest: tfru.q199n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=The Advanced crafting table is a non-essential but useful device. It has an internal fluid buffer, which allows player to pipe fluid and draw it out through the top slot in its GUI.It will automatically extract items from the storage space next to it. It also has a drawer, which can also hold a lot of things, and special slots for tools. Strongly recommended!
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Metal packaging
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=This is such a miracle, you can put 54 items with it now, touched?
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Store (a lot of) liquid
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=The by-product of the coke oven is difficult to dispose of if it accumulates too much. To save money for fluid combustors, you can make the first multi-block tank: a large wooden tank. %n it can store 432000L of fluid, but don't try to use it to store corrosive liquids or gases. You can also choose to use it as a distilled water cache. %n It is placed in a similar way to a coke oven.
 
-# Quest: tfru.q201n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Base fluid transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=In this chapter I will introduce you to some of the objects and fluid transport and storage systems in GregTech's Technology. This is not a main chapter, you can choose to do it.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Rubber pipes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Rubber pipeline has a good property, and not leak, and not expensive, is a very high cost performance fluid pipeline. It can only be made with a mould press
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Corrosion resistant pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Stainless steel pipe is not only airtight, heat resistant, but also can resist all kinds of chemical corrosion, before the production of sulfuric acid production line recommended production.
 
-# Quest: tfru.q195n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Electric pump
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=An electric pump is a cover that can be right - click attached to a GregTech machine or pipe to extract/discharge fluid from the container facing/in the container. Right click on the screwdriver to set extraction/discharge. Fluid can be extracted from OB tanks.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Modern Item pipes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Cost-effective item pipes, after obtaining PVC it can be massively produced.
 
-# Quest: tfru.q196n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Modern pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Corrosion resistance, no air leakage. Cost-effective pipeline when PTFE (polytetrafluroethylene) can be produced on a large scale.
 
-# Quest: tfru.q193n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Conveyor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=A conveyor is a covering plate that can be right-click on a GregTech machine or pipe to extract/expel items from the container facing/in the container. Right click on the screwdriver to set extraction/discharge.
 
-# Quest: tfru.q192n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Better logistics pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Better logistics pipeline
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=The best logistics pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=The best logistics pipeline
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Open the door, Amazon Express
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Point-to-point instantaneous item pipelines, which require both sides to be connected for remote transmission, use item pipelines as Receiver and Sender, similar to P2P.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=King Crimson! Delete the Time ~
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Instantaneously transfers fluid, but requires Repeaters on both sides. There are four types of pipe with upper temperature limit available.
 
-# Quest: tfru.q202n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Nice tanks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, but it can't output automatically. It needs to be pumped by a GregTech electric pump or affixed to the automatic input surface of the GregTech machine.
 
-# Quest: tfru.q282n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
 
-# Quest: tfru.q227n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=All GregTechtech tanks can be set to auto output with right - click wrench. Corrosion-resistant tanks, 4 times larger than OB tanks, very good. Stainless steel tanks are also available in multi-block versions, similar to the way wood is constructed.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=High temperature fluid transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Start making your steam equipment? You probably need some heat resistant fluid piping, bronze would be good. %n%n Pay attention to the description at the bottom of your pipe, different pipes have different heat temperature, air tightness, and corrosion resistance.
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Low-level item transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Brass pipes are one of the most readily available item pipes that can interact with funnels, coke ovens, and most machines (but not buckets!). You'll probably need lots and lots of stuff later on.
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Anticorrosive wood pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem to be better than wood pipes in terms of flow
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=It's a miracle that you can put 27 items in there. Touched?
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Iron chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=More storage space
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=The silver chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=More storage space
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Copper chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=More storage space
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Diamond chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=More storage space
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Gold chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=More storage space
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Crystal chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=More storage space
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Vanity case
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Metal chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blocks
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Storage barrel (of iron)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=Store 10,000 items per piece
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Shadow trash can (Support fluid)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=It can interact with the logistics pipeline and the fluid pipeline, which means it can destroy everything including items and fluids. %n%n production automation of practical equipment, strongly recommended production
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Memory input unit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalent to the drawer module, but cannot interact with the logistics pipeline, AE network. %n%n items can only be placed by hand into contiguous mass storage and storage bins. %n%n suitable shape: a wall, namely XoY plane or ZoY plane. %n%n Maximum range (wall size) : 50 on both sides of the horizontal direction, namely 121 grids, the input is put in the middle. Vertical direction 7 bars, including the input. The maximum shape is 121 x 7 x 1 (length x height x width). %n%n7 lattice calculation method and origin: from the floor up to seven lattice, people (Steve) hands vertical direction maximum interactive distance (human! For the seven. %n%n floor: If there is a square in front of the input, the square nearest to the input will be regarded as the floor (human!). , and need to extend the floor to the left and right of each 50 grids (if with the largest area to cover the whole wall). %n%n All storage and storage buckets should be facing the same way and not covered, that is, there is no block in front of them (human! . %n%n, when right-clicking empty-handed, places all items in the package (3 x 9, not including the shortcut bar) with a maximum stack number of one into the wall. %n%n storage inputs cannot be pipelined for automation
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
 
 ## Quest Line: tfr.line21.name
@@ -1942,6 +2245,14 @@ betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
 
+# Quest: tfru.q289n
+betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.name=
+betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
+
+# Quest: tfru.q290n
+betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
+betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
@@ -1949,301 +2260,6 @@ betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
-
-
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
-
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
-
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=The Advanced crafting table is a non-essential but useful device. It has an internal fluid buffer, which allows player to pipe fluid and draw it out through the top slot in its GUI.It will automatically extract items from the storage space next to it. It also has a drawer, which can also hold a lot of things, and special slots for tools. Strongly recommended!
-
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Metal packaging
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=This is such a miracle, you can put 54 items with it now, touched?
-
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Store (a lot of) liquid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=The by-product of the coke oven is difficult to dispose of if it accumulates too much. To save money for fluid combustors, you can make the first multi-block tank: a large wooden tank. %n it can store 432000L of fluid, but don't try to use it to store corrosive liquids or gases. You can also choose to use it as a distilled water cache. %n It is placed in a similar way to a coke oven.
-
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Base fluid transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=In this chapter I will introduce you to some of the objects and fluid transport and storage systems in GregTech's Technology. This is not a main chapter, you can choose to do it.
-
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Rubber pipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Rubber pipeline has a good property, and not leak, and not expensive, is a very high cost performance fluid pipeline. It can only be made with a mould press
-
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Corrosion resistant pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Stainless steel pipe is not only airtight, heat resistant, but also can resist all kinds of chemical corrosion, before the production of sulfuric acid production line recommended production.
-
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Electric pump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=An electric pump is a cover that can be right - click attached to a GregTech machine or pipe to extract/discharge fluid from the container facing/in the container. Right click on the screwdriver to set extraction/discharge. Fluid can be extracted from OB tanks.
-
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Modern Item pipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Cost-effective item pipes, after obtaining PVC it can be massively produced.
-
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Modern pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Corrosion resistance, no air leakage. Cost-effective pipeline when PTFE (polytetrafluroethylene) can be produced on a large scale.
-
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Conveyor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=A conveyor is a covering plate that can be right-click on a GregTech machine or pipe to extract/expel items from the container facing/in the container. Right click on the screwdriver to set extraction/discharge.
-
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Better logistics pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Better logistics pipeline
-
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=The best logistics pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=The best logistics pipeline
-
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Open the door, Amazon Express
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Point-to-point instantaneous item pipelines, which require both sides to be connected for remote transmission, use item pipelines as Receiver and Sender, similar to P2P.
-
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=King Crimson! Delete the Time ~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Instantaneously transfers fluid, but requires Repeaters on both sides. There are four types of pipe with upper temperature limit available.
-
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Nice tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, but it can't output automatically. It needs to be pumped by a GregTech electric pump or affixed to the automatic input surface of the GregTech machine.
-
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
-
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=All GregTechtech tanks can be set to auto output with right - click wrench. Corrosion-resistant tanks, 4 times larger than OB tanks, very good. Stainless steel tanks are also available in multi-block versions, similar to the way wood is constructed.
-
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=High temperature fluid transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Start making your steam equipment? You probably need some heat resistant fluid piping, bronze would be good. %n%n Pay attention to the description at the bottom of your pipe, different pipes have different heat temperature, air tightness, and corrosion resistance.
-
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Low-level item transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Brass pipes are one of the most readily available item pipes that can interact with funnels, coke ovens, and most machines (but not buckets!). You'll probably need lots and lots of stuff later on.
-
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Anticorrosive wood pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem to be better than wood pipes in terms of flow
-
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
-
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=It's a miracle that you can put 27 items in there. Touched?
-
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Iron chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=More storage space
-
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=The silver chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=More storage space
-
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Copper chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=More storage space
-
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Diamond chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=More storage space
-
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Gold chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=More storage space
-
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Crystal chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=More storage space
-
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Vanity case
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
-
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Metal chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blocks
-
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
-
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Storage barrel (of iron)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=Store 10,000 items per piece
-
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Shadow trash can (Support fluid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=It can interact with the logistics pipeline and the fluid pipeline, which means it can destroy everything including items and fluids. %n%n production automation of practical equipment, strongly recommended production
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Memory input unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalent to the drawer module, but cannot interact with the logistics pipeline, AE network. %n%n items can only be placed by hand into contiguous mass storage and storage bins. %n%n suitable shape: a wall, namely XoY plane or ZoY plane. %n%n Maximum range (wall size) : 50 on both sides of the horizontal direction, namely 121 grids, the input is put in the middle. Vertical direction 7 bars, including the input. The maximum shape is 121 x 7 x 1 (length x height x width). %n%n7 lattice calculation method and origin: from the floor up to seven lattice, people (Steve) hands vertical direction maximum interactive distance (human! For the seven. %n%n floor: If there is a square in front of the input, the square nearest to the input will be regarded as the floor (human!). , and need to extend the floor to the left and right of each 50 grids (if with the largest area to cover the whole wall). %n%n All storage and storage buckets should be facing the same way and not covered, that is, there is no block in front of them (human! . %n%n, when right-clicking empty-handed, places all items in the package (3 x 9, not including the shortcut bar) with a maximum stack number of one into the wall. %n%n storage inputs cannot be pipelined for automation
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
-
-
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of a stonecutter? Don't be afraid! Argon nitrogen will help you
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. Delicious and affordable.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=I need a lot of steel recently. Can you fulfill my order?
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name=§ C § A §bBuy a durable electric drill
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=Exclusive formula from Shuaibi.%n USES tungsten steel body, only one in the world.%n%nMV level, but using LV battery can be charged.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=KFC big chicken
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Beijing Third Transportation Commission
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=We need to lay some railways recently. Can you make some strong tracks?
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Painter's commission
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lately. Could you help me make some lime dye? Three primary colors will do
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=Kaolinate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
-
-# Quest: tfr.quest424.name
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -2357,6 +2373,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Important resources, can be mad
 # Quest: tfr.quest347.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Miners necessary
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=If you have a lot of wool yarn or jute fiber, this rope is much cheaper than a ladder. It allows you to climb up and down a mine without having to dig a stepped tunnel that might collapse.
+
+# Quest: tfru.q285n
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
 
 
 ## Quest Line: tfr.line0.name

@@ -692,6 +692,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
 
+# Quest: tfru.q286n
+betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.name=
+betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.desc=
+
 # Quest: tfru.q237n
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.name=
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
@@ -1239,6 +1243,148 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=О нас.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=Мы очен добр пожалова игрок присоедин к нам QQ обм групп ил Discord группов чат:%nQQ1 групп: 1046723658%nQQ2 групп: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n ил вы могут такж через официальн сайт/форум/Wiki посет нам:%n официальн сайт: www.teammoeg.com%n форум forum.teammoeg.com%nWiki: Wiki.teammoeg.com (%n%) или присылает нам электронную почту :%n-e-mail: support@teammoeg.com
 
 
+## Quest Line: tfr.line12.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=Евангелие от неэмиратов
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=Бриллианты не могут быть найдены.
+
+# Quest: tfr.quest283.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Алмаз 1.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=Гравий не может найти алмаз? Не бойся! Аргон тебе поможет
+
+# Quest: tfr.quest285.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Поменяйся со мной бриллиантами
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=Если вы найдете рудники кимберли, а раскопки принесут в основном разбитые алмазы, вы сможете обменять некоторые из них на более качественные в этой главе. Или можешь поменяться со мной.
+
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Алмаз 2.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Без бриллиантов? Ничего, утиные яйца помогут
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Алмаз 3.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=Без бриллиантов? Ничего, утиные яйца помогут
+
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Карбонат кальция
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Не смог найти электросварочный камень? Не бойся, лунное убийство тебе поможет
+
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Купить магму
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Сера будет продолжать накапливаться в блоках вокруг магмы, и если вы не сможете найти бассейн магмы, приходите обменять его.
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Поменять каолин и графит
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Каолин и графит являются важными минералами, но поскольку нет инструкций, найти их будет труднее. Мы можем обменять их здесь, если их не найдут в ближайшее время.
+
+
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Универсальный магазин
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Покупайте, что хотите
+
+# Quest: tfr.quest290.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Ремонт дома
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Мой дом нуждается в ремонте в последнее время, и я был бы признателен, если бы вы предоставили мне материалы.
+
+# Quest: tfr.quest292.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Совершенствовать других
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ах, прекрасный металл, я хочу купить несколько золотых и серебряных ниток для моей невесты
+
+# Quest: tfr.quest420.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Слиток бронзы
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+
+# Quest: tfr.quest421.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Кован желез
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+
+# Quest: tfr.quest422.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+
+# Quest: tfr.quest423.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=серебрян
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+
+# Quest: tfr.quest425.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=медн
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+
+# Quest: tfr.quest426.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=вольфр
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+
+# Quest: tfr.quest427.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=титанов
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+
+# Quest: tfr.quest428.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=алюмин
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+
+# Quest: tfr.quest429.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Купи крабсбургер
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Эксклюзивный рецепт от мистера краба.
+
+# Quest: tfr.quest430.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=никел
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+
+# Quest: tfr.quest431.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=хром
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+
+# Quest: tfr.quest432.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=марганц
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+
+# Quest: tfr.quest433.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Продажа стали
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=Мне нужно много стали в последнее время.
+
+# Quest: tfr.quest434.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name="C" а "b" покупает прочные электродрели
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=% % используют вольфрамовый стальной фюзеляж, который является единственным в мире.%n%nMV класса, но может быть заряжен LV-аккумулятором.
+
+# Quest: tfr.quest435.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=Кфу большая курица
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC большая курица!%n200oz
+
+# Quest: tfr.quest436.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Суперкрабовый желтый замок
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Эксклюзивный рецепт от владельца краба.
+
+# Quest: tfr.quest554.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=Охранять деревню.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Наша деревня под прицелом! Помоги нам сделать шлемы, и я отплачу тебе тем же!
+
+# Quest: tfr.quest555.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Третий транспортный комитет пекина
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=Нам нужно проложить несколько железных дорог.
+
+# Quest: tfr.quest556.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Заказ художника
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=У меня не так много краски в последнее время, так что, пожалуйста, помоги мне сделать краситель для лайма
+
+# Quest: tfr.quest557.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=бриллиант
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=No Description
+
+# Quest: tfr.quest645.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest646.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest647.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=оловя
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest424.name
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=ким
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+
+
 ## Quest Line: tfr.line17.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=Нет предела человеческих возможностей
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=Несмотря на то, что ты смертен, хорошее изучение физики может привести тебя к небу. Насчет оружия и снаряжения
@@ -1359,6 +1505,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
 
+# Quest: tfru.q97n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
+
 # Quest: tfru.q103n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
@@ -1410,6 +1560,87 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
 # Quest: tfru.q141n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
+
+
+## Quest Line: tfru.l1n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
+
+# Quest: tfru.q194n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
+
+# Quest: tfru.q199n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
+
+# Quest: tfru.q288n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
+
+# Quest: tfru.q201n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
+
+# Quest: tfru.q287n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
+
+# Quest: tfru.q195n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+
+# Quest: tfru.q198n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
+
+# Quest: tfru.q196n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+
+# Quest: tfru.q193n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
+
+# Quest: tfru.q192n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
+
+# Quest: tfru.q202n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
+
+# Quest: tfru.q227n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
+
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
 
 
 ## Quest Line: tfr.line18.name
@@ -1653,85 +1884,157 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=Повелитель хаоса
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(в настоящее время не производится в мире, не производится)
 
 
-## Quest Line: tfru.l1n
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Хранение и логистика
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=О трубах, хранении и системах передачи.
 
-# Quest: tfru.q194n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Стальная цистерна
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Согласно представлению блоков, требуется ввод клапана, выход клапана.
 
-# Quest: tfru.q199n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Высший рабочий стол
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=Высокоуровневый рабочий стол-это не обязательное, но полезное устройство. Он может использовать трубопровод для ввода жидких ресурсов, и он может впрыскивать жидкость в бак в верхней части GUI. Также можно положить рядом со стволом для хранения и автоматически забрать вещи, когда их синтезируют. С боковой стороны находятся ящики, которые также могут хранить много вещей, и есть места для специальных инструментов. Сильнее!
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Металлическая упаковка
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=Это же чудо.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.desc=
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Хранить много жидкости
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=Гранатовое масло из котельной, если его слишком много, трудно обработать. Чтобы сэкономить на использовании жидкой камеры сгорания, вы можете сделать первый многоблочный контейнер: большой деревянный контейнер. Он может хранить 432000л жидкости, но не думай использовать его для зарядки агрессивной жидкости или газа. Вы также можете использовать его как кэш дистиллированной воды. % его расположение похоже на котельную.
 
-# Quest: tfru.q201n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Передача основной жидкости
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=В этой главе я расскажу вам кое-что об объектах и жидких транспортациях, системах хранения. Это не главная глава, которую можно избирать.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Резиновая труба
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Резиновые трубопроводы имеют хорошие свойства и не вытекают из них, и они не являются дорогими и являются жидкими трубопроводами, которые имеют более высокую цену, чем они есть. Их можно сделать только с помощью пресс-плеера
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Коррозионный трубопровод
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Нержавеющий стальной трубопровод не только не пропускает газ, но и борется с различными химическими коррозиями, которые рекомендуются перед изготовлением серной кислоты.
 
-# Quest: tfru.q195n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Электрический насос
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=Электрический насос — это закрытая версия, которая может быть прижата к машине грея или трубопроводу справа, для того чтобы извлечь/вынуть жидкость из контейнера, в котором находится лицо /. Правый удар отвертки установлен для извлечения/вывода. Можно взять жидкость из резервуаров.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Современная логистическая труба
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Высокие цены на логистические трубы, которые можно производить в больших масштабах после получения полихлорэтилена.
 
-# Quest: tfru.q196n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.desc=
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Современный трубопровод
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Стойкая к коррозии, без утечки газа. Трубы с высокой ценностью, которые можно производить в больших колизмах после получения политетрафторэтилена.
 
-# Quest: tfru.q193n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACZQ.desc=
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Конвейер.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=Конвейер — это закрытая версия, которая может быть прижата к машине грея или трубопроводу, действуя в качестве извлечения/вывода предметов из контейнера, в котором находится лицо /. Правый удар отвертки установлен для извлечения/вывода.
 
-# Quest: tfru.q192n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADCQ.desc=
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Лучший логистический канал
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Лучший логистический канал
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=Лучший логистический канал
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=Лучший логистический канал
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Откройте дверь
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Для того, чтобы соединиться с объектами, необходимо, чтобы обе стороны подключились к телепортациям, используя их в качестве ретранслятора, аналогично p2p.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=Отточить время
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Мгновенная передача жидкости, но с обеих сторон должен быть ретранслятор. Выбор труб с четырьмя верхними температурами.
 
-# Quest: tfru.q202n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Чистый бак с водой
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=Практически любая жидкость может цвести, но она не может экспортироваться автоматически, и ей нужен серый электрический насос для откачки или для автоматического ввода в машину грей.
 
-# Quest: tfru.q282n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Стальная цистерна
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Согласно представлению блоков, требуется ввод клапана, выход клапана.
 
-# Quest: tfru.q227n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Контейнеры из нержавеющей стали
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=Все резервуары грея могут установить автоматический выход с помощью гаечного ключа. Коррозионные резервуары, в четыре раза больше, чем резервуары OB. Также существуют многогранные версии нержавеющей стали, аналогичные методам постройки дерева.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=Высокотемпературная передача жидкости
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Начал делать свое паровое оборудование? Тебе, наверное, нужен какой-нибудь высокотемпературный водопровод. Обратите внимание на описание дна вашего трубопровода, в каждом из них различная теплостойкая температура, герметичность и коррозионная.
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Передача низкоуровневых предметов
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Медные трубы являются одним из наиболее доступных в предварительной стадии трубопроводов, и он может взаимодействовать с воронками, кодовыми печи, большинством машин (но не с бочками!). Вам, вероятно, понадобится много, много вещей в трубопроводе позже.
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Бальзамирующие деревянные трубы
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Бальзамирующие деревянные трубы выглядят немного лучше, чем деревянные, по трафику
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Отбирают мелкие предметы
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=Масляная обработка
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=Это чудо.
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Железный ящик.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=Больше места для хранения
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=Серебряный ящик.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=Больше места для хранения
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Медная коробка.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=Больше места для хранения
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Ящик с бриллиантами.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=Больше места для хранения
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Золотой ящик.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=Больше места для хранения
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Хрустальный ящик.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=Больше места для хранения
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Пустой ящик.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Металлический ящик.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Сжать слиток металла в блоки
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Обсидиановый ящик
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=Больше места для хранения
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Контейнер для хранения (железный)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=10000 предметов в одном экземпляре
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Мусорные баки (поддерживающие жидкость)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=Он может взаимодействовать с логистическими и жидкими трубопроводами, что означает, что он может уничтожить все, включая предметы и жидкости. %n% % % производили практическое оборудование при автоматизации и настоятельно рекомендовали его изготовление
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Входной накопитель
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=Эквивалентно управляющему ящиками, но не может взаимодействовать с логистическими трубами, сетью AE. %n%n может использовать только руки для того, чтобы помещать предметы в объединенную емкость памяти и емкости. * %n%n применимы к форме: стена, известная как xy плоскость или ZoY плоскость. %n - % применимы к максимальному диапазону (размер стены) : 50 горизонтальных направлений с обеих сторон, то есть 121 строка, и ввод помещается посередине. Седьмая строка вертикальной линии, включая входную панель. Максимальная форма — 121 x, 7 x 1 (длина x, ширина x).  equal   equal  0 %n7  equal   equal  метод вычисления и происхождение: от Пола до 7 граней, максимальная дальность взаимодействия руки (Стив) по прямой линии (очеловечивание!) За семь. * %n-n-n Пол: в пределах от 1 до 7 блоков (от 1 до 7), находящихся перед входом, есть квадраты (от 1 до 7). Кроме того, необходимо расширить Пол на 50 граней (если он будет покрыт всей стеной с максимальной площадью). % % всей памяти и ведра хранения должны быть последовательными и не прикрытыми, т.е. без блоков на пути (очеловечивания!). . Когда %n-n-n наносит удар справа с пустыми руками, то все максимальное количество предметов (3 x - 9, не включая скоростную колонку) помещается в «стену». %n - % - n-накопитель не может быть автоматизирован через трубопровод
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
 
 ## Quest Line: tfr.line21.name
@@ -1942,6 +2245,14 @@ betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
 
+# Quest: tfru.q289n
+betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.name=
+betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
+
+# Quest: tfru.q290n
+betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
+betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=
+
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
@@ -1949,301 +2260,6 @@ betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
-
-
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Хранение и логистика
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=О трубах, хранении и системах передачи.
-
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Стальная цистерна
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Согласно представлению блоков, требуется ввод клапана, выход клапана.
-
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Высший рабочий стол
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=Высокоуровневый рабочий стол-это не обязательное, но полезное устройство. Он может использовать трубопровод для ввода жидких ресурсов, и он может впрыскивать жидкость в бак в верхней части GUI. Также можно положить рядом со стволом для хранения и автоматически забрать вещи, когда их синтезируют. С боковой стороны находятся ящики, которые также могут хранить много вещей, и есть места для специальных инструментов. Сильнее!
-
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Металлическая упаковка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=Это же чудо.
-
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Хранить много жидкости
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=Гранатовое масло из котельной, если его слишком много, трудно обработать. Чтобы сэкономить на использовании жидкой камеры сгорания, вы можете сделать первый многоблочный контейнер: большой деревянный контейнер. Он может хранить 432000л жидкости, но не думай использовать его для зарядки агрессивной жидкости или газа. Вы также можете использовать его как кэш дистиллированной воды. % его расположение похоже на котельную.
-
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Передача основной жидкости
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=В этой главе я расскажу вам кое-что об объектах и жидких транспортациях, системах хранения. Это не главная глава, которую можно избирать.
-
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Резиновая труба
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Резиновые трубопроводы имеют хорошие свойства и не вытекают из них, и они не являются дорогими и являются жидкими трубопроводами, которые имеют более высокую цену, чем они есть. Их можно сделать только с помощью пресс-плеера
-
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Коррозионный трубопровод
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Нержавеющий стальной трубопровод не только не пропускает газ, но и борется с различными химическими коррозиями, которые рекомендуются перед изготовлением серной кислоты.
-
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Электрический насос
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=Электрический насос — это закрытая версия, которая может быть прижата к машине грея или трубопроводу справа, для того чтобы извлечь/вынуть жидкость из контейнера, в котором находится лицо /. Правый удар отвертки установлен для извлечения/вывода. Можно взять жидкость из резервуаров.
-
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Современная логистическая труба
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Высокие цены на логистические трубы, которые можно производить в больших масштабах после получения полихлорэтилена.
-
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Современный трубопровод
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Стойкая к коррозии, без утечки газа. Трубы с высокой ценностью, которые можно производить в больших колизмах после получения политетрафторэтилена.
-
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Конвейер.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=Конвейер — это закрытая версия, которая может быть прижата к машине грея или трубопроводу, действуя в качестве извлечения/вывода предметов из контейнера, в котором находится лицо /. Правый удар отвертки установлен для извлечения/вывода.
-
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Лучший логистический канал
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Лучший логистический канал
-
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=Лучший логистический канал
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=Лучший логистический канал
-
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Откройте дверь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Для того, чтобы соединиться с объектами, необходимо, чтобы обе стороны подключились к телепортациям, используя их в качестве ретранслятора, аналогично p2p.
-
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=Отточить время
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Мгновенная передача жидкости, но с обеих сторон должен быть ретранслятор. Выбор труб с четырьмя верхними температурами.
-
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Чистый бак с водой
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=Практически любая жидкость может цвести, но она не может экспортироваться автоматически, и ей нужен серый электрический насос для откачки или для автоматического ввода в машину грей.
-
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Стальная цистерна
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Согласно представлению блоков, требуется ввод клапана, выход клапана.
-
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Контейнеры из нержавеющей стали
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=Все резервуары грея могут установить автоматический выход с помощью гаечного ключа. Коррозионные резервуары, в четыре раза больше, чем резервуары OB. Также существуют многогранные версии нержавеющей стали, аналогичные методам постройки дерева.
-
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=Высокотемпературная передача жидкости
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Начал делать свое паровое оборудование? Тебе, наверное, нужен какой-нибудь высокотемпературный водопровод. Обратите внимание на описание дна вашего трубопровода, в каждом из них различная теплостойкая температура, герметичность и коррозионная.
-
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Передача низкоуровневых предметов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Медные трубы являются одним из наиболее доступных в предварительной стадии трубопроводов, и он может взаимодействовать с воронками, кодовыми печи, большинством машин (но не с бочками!). Вам, вероятно, понадобится много, много вещей в трубопроводе позже.
-
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Бальзамирующие деревянные трубы
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Бальзамирующие деревянные трубы выглядят немного лучше, чем деревянные, по трафику
-
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Отбирают мелкие предметы
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
-
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=Масляная обработка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=Это чудо.
-
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Железный ящик.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=Больше места для хранения
-
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=Серебряный ящик.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=Больше места для хранения
-
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Медная коробка.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=Больше места для хранения
-
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Ящик с бриллиантами.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=Больше места для хранения
-
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Золотой ящик.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=Больше места для хранения
-
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Хрустальный ящик.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=Больше места для хранения
-
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Пустой ящик.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
-
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Металлический ящик.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Сжать слиток металла в блоки
-
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Обсидиановый ящик
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=Больше места для хранения
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
-
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Контейнер для хранения (железный)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=10000 предметов в одном экземпляре
-
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Мусорные баки (поддерживающие жидкость)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=Он может взаимодействовать с логистическими и жидкими трубопроводами, что означает, что он может уничтожить все, включая предметы и жидкости. %n% % % производили практическое оборудование при автоматизации и настоятельно рекомендовали его изготовление
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Входной накопитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=Эквивалентно управляющему ящиками, но не может взаимодействовать с логистическими трубами, сетью AE. %n%n может использовать только руки для того, чтобы помещать предметы в объединенную емкость памяти и емкости. * %n%n применимы к форме: стена, известная как xy плоскость или ZoY плоскость. %n - % применимы к максимальному диапазону (размер стены) : 50 горизонтальных направлений с обеих сторон, то есть 121 строка, и ввод помещается посередине. Седьмая строка вертикальной линии, включая входную панель. Максимальная форма — 121 x, 7 x 1 (длина x, ширина x).  equal   equal  0 %n7  equal   equal  метод вычисления и происхождение: от Пола до 7 граней, максимальная дальность взаимодействия руки (Стив) по прямой линии (очеловечивание!) За семь. * %n-n-n Пол: в пределах от 1 до 7 блоков (от 1 до 7), находящихся перед входом, есть квадраты (от 1 до 7). Кроме того, необходимо расширить Пол на 50 граней (если он будет покрыт всей стеной с максимальной площадью). % % всей памяти и ведра хранения должны быть последовательными и не прикрытыми, т.е. без блоков на пути (очеловечивания!). . Когда %n-n-n наносит удар справа с пустыми руками, то все максимальное количество предметов (3 x - 9, не включая скоростную колонку) помещается в «стену». %n - % - n-накопитель не может быть автоматизирован через трубопровод
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
-
-
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=Евангелие от неэмиратов
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=Бриллианты не могут быть найдены.
-
-# Quest: tfr.quest283.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Алмаз 1.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=Гравий не может найти алмаз? Не бойся! Аргон тебе поможет
-
-# Quest: tfr.quest285.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Поменяйся со мной бриллиантами
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=Если вы найдете рудники кимберли, а раскопки принесут в основном разбитые алмазы, вы сможете обменять некоторые из них на более качественные в этой главе. Или можешь поменяться со мной.
-
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Алмаз 2.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Без бриллиантов? Ничего, утиные яйца помогут
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Алмаз 3.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=Без бриллиантов? Ничего, утиные яйца помогут
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Карбонат кальция
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Не смог найти электросварочный камень? Не бойся, лунное убийство тебе поможет
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Купить магму
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Сера будет продолжать накапливаться в блоках вокруг магмы, и если вы не сможете найти бассейн магмы, приходите обменять его.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Поменять каолин и графит
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Каолин и графит являются важными минералами, но поскольку нет инструкций, найти их будет труднее. Мы можем обменять их здесь, если их не найдут в ближайшее время.
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Универсальный магазин
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Покупайте, что хотите
-
-# Quest: tfr.quest290.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Ремонт дома
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Мой дом нуждается в ремонте в последнее время, и я был бы признателен, если бы вы предоставили мне материалы.
-
-# Quest: tfr.quest292.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Совершенствовать других
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ах, прекрасный металл, я хочу купить несколько золотых и серебряных ниток для моей невесты
-
-# Quest: tfr.quest420.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Слиток бронзы
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
-
-# Quest: tfr.quest421.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Кован желез
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
-
-# Quest: tfr.quest422.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
-
-# Quest: tfr.quest423.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=серебрян
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
-
-# Quest: tfr.quest425.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=медн
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
-
-# Quest: tfr.quest426.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=вольфр
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
-
-# Quest: tfr.quest427.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=титанов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
-
-# Quest: tfr.quest428.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=алюмин
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
-
-# Quest: tfr.quest429.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Купи крабсбургер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Эксклюзивный рецепт от мистера краба.
-
-# Quest: tfr.quest430.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=никел
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
-
-# Quest: tfr.quest431.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=хром
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
-
-# Quest: tfr.quest432.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=марганц
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
-
-# Quest: tfr.quest433.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Продажа стали
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.desc=Мне нужно много стали в последнее время.
-
-# Quest: tfr.quest434.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.name="C" а "b" покупает прочные электродрели
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsg.desc=% % используют вольфрамовый стальной фюзеляж, который является единственным в мире.%n%nMV класса, но может быть заряжен LV-аккумулятором.
-
-# Quest: tfr.quest435.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.name=Кфу большая курица
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC большая курица!%n200oz
-
-# Quest: tfr.quest436.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Суперкрабовый желтый замок
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Эксклюзивный рецепт от владельца краба.
-
-# Quest: tfr.quest554.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=Охранять деревню.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Наша деревня под прицелом! Помоги нам сделать шлемы, и я отплачу тебе тем же!
-
-# Quest: tfr.quest555.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.name=Третий транспортный комитет пекина
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACKw.desc=Нам нужно проложить несколько железных дорог.
-
-# Quest: tfr.quest556.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.name=Заказ художника
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=У меня не так много краски в последнее время, так что, пожалуйста, помоги мне сделать краситель для лайма
-
-# Quest: tfr.quest557.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=бриллиант
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=No Description
-
-# Quest: tfr.quest645.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=Этот обмен обновляется каждые 3 часа
-
-# Quest: tfr.quest646.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=Этот обмен обновляется каждые 3 часа
-
-# Quest: tfr.quest647.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Этот обмен обновляется каждые 3 часа
-
-# Quest: tfr.quest424.name
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=ким
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
 ## Quest Line: tfr.line10.name
@@ -2357,6 +2373,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Важные ресурсы, к
 # Quest: tfr.quest347.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Шахтеры должны.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=Если у вас есть много шерстяной пряжи или желтых волокон, эта веревка намного дешевле лестницы. Вы можете взбираться по ней, когда будете спускаться вниз, без необходимости копать ступенчатые шахты, которые могут рухнуть.
+
+# Quest: tfru.q285n
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
 
 
 ## Quest Line: tfr.line0.name

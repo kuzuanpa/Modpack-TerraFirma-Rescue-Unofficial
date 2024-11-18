@@ -55,11 +55,11 @@
 Some mods need we to claim we used them:
 
 - Gendustry under MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
-- Baubles under CC-by-nc-sa: https://github.com/Azanor/Baubles/blob/1.7.10
 - Waila under CC-by-nc-sa: https://www.curseforge.com/minecraft/mc-mods/waila
 - LunatriusCore-1.2.0-GTNH.jar under MIT from https://github.com/GTNewHorizons/LunatriusCore/releases
 - Railcraft_1.7.10-9.15.14.jar under [Custom License](https://github.com/GTNewHorizons/Railcraft/blob/master/LICENSE.md) from https://github.com/GTNewHorizons/Railcraft, and official version page: http://railcraft.info/, wiki: http://railcraft.info/wiki/start
 - shadowworld-1.3.3.jar from [Web Archive](https://web.archive.org/web/20180110063949/http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1446206-shadow-world-1-3-3-1-3-3b)
+- Baubles-Rebuild from under cc-by-sa: https://github.com/Ventivu/BaublesRebuild, This is a fork of Baubles, original repo:  https://github.com/Azanor/Baubles/blob/1.7.10
 
 Other mods considered "Unknown" by Modrinth included in [Copyright Info](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/docs/tfru/copyright.md)
 
@@ -110,11 +110,11 @@ Other mods considered "Unknown" by Modrinth included in [Copyright Info](https:/
 TFRU中的一些mod需要声明它们被使用在整合包中:
 
 - Gendustry under MMPL-1.0: https://github.com/bdew-minecraft/gendustry/blob/mc1710
-- Baubles under CC-by-nc-sa: https://github.com/Azanor/Baubles/blob/1.7.10
 - Waila under CC-by-nc-sa: https://www.curseforge.com/minecraft/mc-mods/waila
 - LunatriusCore-1.2.0-GTNH.jar under MIT from https://github.com/GTNewHorizons/LunatriusCore/releases
 - Railcraft_1.7.10-9.15.14.jar under [Custom License](https://github.com/GTNewHorizons/Railcraft/blob/master/LICENSE.md) from https://github.com/GTNewHorizons/Railcraft, and official version page: http://railcraft.info/, wiki: http://railcraft.info/wiki/start
 - shadowworld-1.3.3.jar from [Web Archive](https://web.archive.org/web/20180110063949/http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1446206-shadow-world-1-3-3-1-3-3b)
+- Baubles-Rebuild from under cc-by-sa: https://github.com/Ventivu/BaublesRebuild, 这是Baubles的一个fork, 原mod仓库:  https://github.com/Azanor/Baubles/blob/1.7.10
 
 其他被Modrinth认为未知来源的mod详见: [Copyright Info](https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial/blob/master/docs/tfru/copyright.md)
 
