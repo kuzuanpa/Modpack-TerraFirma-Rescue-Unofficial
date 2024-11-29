@@ -460,6 +460,14 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=Однажды ты слу�
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
 
+# Quest: tfru.q296n
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=
+
+# Quest: tfr.quest23.name
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=Давай!
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=Сушилка имеет не только эту версию стали, но и ингалятор, Титан, карбид вольфрама, который делает сушилку. Конечно, более продвинутые сушилки требуют больше HU. Сушилки из ингалятной стали не намного дороже и намного быстрее стали. % * я рекомендую использовать хромированную камеру сгорания с ингаляционной сталью, и хромирование не будет слишком дорогим, если мы найдем хромированную железную руду. Если ты хочешь использовать титановую камеру сгорания, я не буду тебя останавливать.
+
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Шлифовальн круг
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=Освободите руки! Можно соскрести кожу автоматически, не используя перочинный нож. Это замена шлифовального камня вручную.
@@ -479,10 +487,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=Котлы очень хруп�
 # Quest: tfr.quest24.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=Серная кислота "б"
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=Серная кислота настолько важна, что он может производить соляную, фтористоводородную кислоту, обрабатывать минералы и т.д. Чтобы сделать его, нужно сделать как минимум два бронзовых блендера. Первым требовалась вентиляция для ввода воздуха в обжиговую печь, а также платиновый порошок или диоксид диванада (не потребляемый) для производства второго блендер в % / n% серы, вводимого в воду и серную кислоту. Чем больше, тем лучше! "4%n-n-n-r" представляет задачу, и вы должны создать резервуар, который можно прикрепить к проигрывающему выходу машины, чтобы получить жидкость. Резервуар также может быть помещен в автоматическое входное отверстие машины для ввода жидкости, так что не беспокойтесь о расходах. Здесь вы должны подать 16000мб жидкости.
-
-# Quest: tfr.quest26.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Подсчет!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=Вы должны были заметить, что у всех машин грей есть предел мощности для ввода и вывода. Для того, чтобы привести в движение какую-либо машину, необходимо вычислить, какие именно машины производят энергию, чтобы привести машину в движение. %n(если дать машине больше энергии, чем она имеет, то дополнительная энергия не будет расходована, а машина останется без потерь)%n - %n-n отмечает, что камера сгорания хрома равна 112HU.
 
 # Quest: tfr.quest28.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Дробилка.
@@ -636,7 +640,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=
 
-# Quest: tfru.q107n
+# Quest: tfru.q292n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=
 
@@ -688,6 +692,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q297n
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.desc=
+
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
@@ -703,6 +711,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 
 ## Quest Line: tfr.line5.name
@@ -753,9 +765,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=Вообще-то, эта шт�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=Столярный станок
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=Очень практичная машина, ключ к которой лежит в изготовлении оригинальной книги
 
+# Quest: tfru.q293n
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.name=
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.desc=
+
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
+
+# Quest: tfru.q294n
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -1106,6 +1126,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=
 # Quest: tfru.q182n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
@@ -1574,7 +1598,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 
-# Quest: tfru.q288n
+# Quest: tfru.q
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
 
@@ -1590,7 +1614,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q287n
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
@@ -1630,7 +1654,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q295n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
 
@@ -1641,6 +1665,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
+
+# Quest: tfru.q288n
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.name=
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.desc=
 
 
 ## Quest Line: tfr.line18.name
@@ -2624,10 +2652,6 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=
 
-# Quest: tfru.q266n
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
-
 # Quest: LiquidBattery
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
@@ -3253,10 +3277,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=Базовое введен
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.name=Все начинается с транзистора
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.desc=Транзистор открывает новую эру информации!
 
-# Quest: tfr.quest681.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.desc=
-
 # Quest: tfr.quest682.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.desc=
@@ -3730,10 +3750,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
 
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
-
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=
@@ -3745,6 +3761,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
+
+# Quest: tfru.q266n
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=

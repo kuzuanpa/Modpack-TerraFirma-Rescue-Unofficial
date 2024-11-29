@@ -1,12 +1,12 @@
 {
-  "questIDHigh:4": 0,
+  "questIDHigh:4": -8215104836975506664,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 164
     }
   },
-  "questIDLow:4": 408,
+  "questIDLow:4": -5446949850678676062,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
@@ -16,12 +16,9 @@
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.multitileentity",
+        "id:8": "minecraft:obsidian",
         "Count:3": 1,
-        "tag:10": {
-          "gt.energy:4": 2000000000000
-        },
-        "Damage:2": 14999,
+        "Damage:2": 0,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -29,11 +26,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q287n",
+      "name:8": "tfru.q288n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q287d"
+      "desc:8": "tfru.q288d"
     }
   },
   "tasks:9": {
@@ -46,12 +43,9 @@
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.multitileentity",
+          "id:8": "minecraft:saddle",
           "Count:3": 1,
-          "tag:10": {
-            "gt.energy:4": 2000000000000
-          },
-          "Damage:2": 14999,
+          "Damage:2": 0,
           "OreDict:8": ""
         }
       },

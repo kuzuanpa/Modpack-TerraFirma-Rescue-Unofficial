@@ -32,7 +32,12 @@
       "desc:8": "tfru.q241d"
     }
   },
-  "tasks:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  },
   "rewards:9": {
     "0:10": {
       "amount:3": 2040,

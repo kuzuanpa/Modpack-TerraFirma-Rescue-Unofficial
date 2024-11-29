@@ -71,7 +71,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=打开物品栏按 O (默认)�
 
 # Quest: tfr.quest137.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.name=多人游戏
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.desc=如果你希望进行多人游戏, 请尽量使用服务器开服, 局域网联机有许多bug %n%n请参考./docs/tfru/server.txt搭建服务器.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.desc=如果你想进行多人游戏, 请使用服务器开服, 局域网联机有许多bug且已被禁用. %n%n请参考./docs/tfru/server.txt搭建服务器. %n%n如果你想开作弊, 请在世界创建时就启用作弊.
 
 # Quest: tfr.quest157.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.name=你终于能做木板. . . 
@@ -130,8 +130,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=转换
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能无序合成转换为相同的TFC物品, %n一些容易混淆的TFC物品被标记了. %n如果遇到某些物品无法使用的时候, 尝试进行转换. 
 
 # Quest: tfr.quest619.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=任务组队
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=组队系统可以在任务书打开时的选择界面找到.%n由于任务书的限制, 组队系统并不能跨任务组队, 组队系统是同步完成任务.%n%n§f§c*换句话说, 你们组队时一开始的任务起点必须一样.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=多人模式
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联机存在bug, 本整合包禁用了局域网联机. 请按照整合包目录下docs/tfru/server.txt搭建服务端. %n%n组队系统可以在任务书打开时的选择界面找到, 可以让一个队伍的玩家同步完成任务. 与FTB任务不同, 一个组队只能领取一份奖励.
 
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社区
@@ -196,7 +196,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=群峦星的气候十分有趣.
 
 # Quest: tfr.quest168.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.name=坩埚, 不太好用, 但是至少比花瓶好
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.desc=如果你找到石墨和高岭土, 把它们磨成粉就能做出陶土, 陶土再捏吧捏吧就变成坩埚了. %n把坩埚放在锻炉上面, 点燃锻炉, 就能加热坩埚. %n坩埚可以高效地熔炼铁矿以外的矿石, 还可以用来制作合金. %n%n§c注意合金配比, 别变成未知锭了.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.desc=如果你找到石墨和高岭土, 把它们磨成粉就能做出陶土, 陶土再捏吧捏吧就变成坩埚了. %n把坩埚放在锻炉上面, 点燃锻炉, 就能加热坩埚. %n坩埚可以高效地熔炼铁矿以外的矿石, 还可以用来制作合金. %n%n§c注意合金配比, 别变成未知锭了. %n%n注: 与原TFC不同, 如果合金原料本身配比正确, 合金原料+目标合金的混合组合就不会产出未知锭. 但注意别混进完全无关的金属了.
 
 # Quest: tfr.quest261.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=真正的石灰~
@@ -329,11 +329,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=不同的熔炼坩埚有不同�
 
 # Quest: tfr.quest107.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=红蓝力量
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=你已经制作出最后一种砧了, 恭喜你, 已经是一个好铁匠了. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=你已经制作出最后一种砧了, 恭喜你, 已经是一个好铁匠了.
 
 # Quest: tfr.quest134.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.name=你挖的矿物太大了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.desc=这台2x2x3大小的碎石机通过RF能量将贫瘠, 普通, 和富集矿物粉碎成小型矿物, 而且有一定增产. §o§l没有小型矿石, 就无法将其继续处理为未来你必须要用的粉碎矿石, 所以这台机器必须做哦. %n%n§r能量的话. . 为什么不用民科蒸汽引擎呢？%n%n找到金伯利岩(钻石)后, 这是一台非常值得制作的机器！%n%n金伯利岩在玄武岩, 闪长岩, 或者辉长岩生成. 他们有的时候并不在地表岩层, 而在中层岩层. 所以你需要深入一些. %n%n在专家模式下你至少需要两个钻石制作它, 找不到金伯利岩的话可以看看其他任务奖励或者万用商店. %n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.desc=这台2x2x3大小的碎石机通过RF能量将贫瘠, 普通, 和富集矿物粉碎成小型矿物, 而且有一定增产. §o§l没有小型矿石, 就无法将其继续处理为未来你必须要用的粉碎矿石, 所以这台机器必须做哦. %n%n§r能量的话... 为什么不用民科蒸汽引擎呢？%n%n找到金伯利岩(钻石)后, 这是一台非常值得制作的机器！%n%n金伯利岩在玄武岩, 闪长岩, 或者辉长岩生成. 他们有的时候并不在地表岩层, 而在中层岩层. 所以你需要深入一些. %n%n在专家模式下你至少需要两个钻石制作它, 找不到金伯利岩的话可以看看其他任务奖励或者万用商店. %n%n
 
 # Quest: tfr.quest158.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.name=钢
@@ -349,7 +349,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAoQ.desc=这种合金被用用来加固�
 
 # Quest: tfr.quest162.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.name=钢砧
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=焊接双层钢, 锻造钢锭为各种工具和材料. 你可以使用这个砧制作众多格雷科技的零件. 未来你可以通过其他机器自动化制作他们. 不过现在, 动手吧！%n%n开始制作增产设备前的最后一次冲刺！！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=焊接双层钢, 锻造钢锭为各种工具和材料. 你可以使用这个砧制作众多格雷科技的零件. 未来你可以通过其他机器自动化制作他们. 不过现在, 动手吧！%n%n开始制作增产设备前的最后一次冲刺!!! %n%n§5虽然你完成钢砧之后理论上就能进入蒸汽时代, 但你还应完成红钢砧或者蓝钢砧的任务线, 这样你才能获得GT坩锅, 一个§6极强§r的增产工具, 否则你在蒸汽时代会极度缺乏材料. %n%n翻译翻译什么叫§6极强§r? 它可以无损制板(1锭), 齿轮(4锭), 杆(0.5锭), 环(0.25锭)等常见零件和各种工具头, 可以处理你从地狱或者基岩矿挖来的gt矿, 可以以数秒一锭的速率炼钢, 任意混合合金而不会产生未知锭. 没有它你将寸步难行!
 
 # Quest: tfr.quest167.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.name=虽然也很原始, 但是至少不用风箱
@@ -357,7 +357,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=%n用碎石机将任何铁矿�
 
 # Quest: tfr.quest260.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=伏特加发电
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=众所周知, 伏特加里的乙醇比水多(大雾). %n%n前期你可以直接用木桶和土豆酿造伏特加. %n%n§b使用160oz的土豆可以酿造10000mB的伏特加%%n%n你可以用液体漏斗将其装进格雷科技储罐, 以将其输出至燃油引擎等消耗流体燃料的机器.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=众所周知, 伏特加里的乙醇比水多(大雾). %n%n前期你可以直接用木桶和土豆酿造伏特加. %n%n§b使用160oz的土豆可以酿造10000mB的伏特加%n%n你可以用液体漏斗将其装进格雷科技储罐, 以将其输出至燃油引擎等消耗流体燃料的机器.
 
 # Quest: tfr.quest269.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDQ.name=更高效的软金属加工
@@ -425,19 +425,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMg.desc=铁桶能装水, 装岩浆, 能
 
 # Quest: tfr.quest563.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.name=炼药锅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=炼药锅的主要功能并非炼药, 而是洗矿. 用铁桶装水, 把粉碎矿石丢进去, 可以洗三次. 如果用管道连接, 就可以自动装水. 当然, 你获得破碎机之前不大可能得到粉碎矿. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=炼药锅的主要功能并非炼药, 而是洗矿. 用铁桶装水, 把粉碎矿石丢进去, 可以洗三次. 如果用管道连接, 就可以自动装水. %n%n粉碎矿石可以去地狱挖, 或者参考'探险的时光'一章中gt基岩矿的任务.
 
 # Quest: tfr.quest631.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdw.name=快速起火
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdw.desc=使用锻铁粒或者钢粒制作一个打火石, 或者用别的打火工具也可以. %n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACdw.desc=使用锻铁粒或者钢粒制作一个打火石, 或者用别的打火工具也可以.
 
 # Quest: tfr.quest632.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeA.name=下界之旅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeA.desc=在下界你能找到下界石英、赛特斯石英、硫磺矿脉、和一些硫化金属矿脉. 同时, 你也能找到萤石, 一种间接的氦气资源. %n%n总之, 这是个获取资源的好地方. 不过记住：在y=64一下建造地狱门, 别怪我没提醒你！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeA.desc=这里的高黏度岩石不会塌方, 还可以获得各种gt矿石, 包括萤石(永久光源)、金、下界石英、赛特斯石英、硫磺矿脉、硫化金属矿脉、下界合金等. %n%n总之, 这是个获取资源的好地方.
 
 # Quest: tfr.quest675.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.name=普通模式专属
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.desc=格雷科技的砧能免去加热的麻烦. 在普通模式可以制造. 如果你玩专家模式请忽略这个任务. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.name=高级砧
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACow.desc=不同于原始砧, 格雷科技的砧能用来砸碎粗矿, 也能免去加热的麻烦, 方便快捷地处理金属. 查看NEI了解具体配方, 从侧面看较薄的那一端是小端.
 
 # Quest: tfr.quest677.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.name=时光倒流
@@ -460,6 +460,14 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在锻造的时�
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=区块加载
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=拥有机器后你很可能需要保持区块加载,这个节点加载器可以常加载它所在的区块.
 
+# Quest: tfru.q296n
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=小漏斗, 龙头, 喷嘴
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=gt6与gt5不同, 不能通过右键GUI直接与流体交互, 必须使用储罐右键漏斗, 有盖喷嘴, 龙头, 喷嘴等工具进行输入输出. %n%n漏斗输入液体, 有盖喷嘴输入气体, 龙头输出液体, 喷嘴输出气体. %n%n不锈钢版本的可以与腐蚀性液体交互.
+
+# Quest: tfr.quest23.name
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=多样化
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=GT的一大特点就是拥有很多的选择. 对现在的你来说, 可以在下面几种能源产生方式中选择一个: %n%n§7蒸汽: 最经典的方式. §r你需要使用木炭/煤炭/杂酚油等你已有的燃料, 放入燃烧室提供HU给锅炉, 为锅炉添水后即可产生SU. SU提供给引擎或涡轮产生KU或RU驱动机器.%n%n§a内燃机/燃气涡轮: 先进而方便的能源. §r这两种能源比起蒸汽方便的多, 你可以找天然气直接驱动燃气涡轮, 也可以通过酿造伏特加驱动内燃机, 均产出RU. 但对于目前的你来说, 燃气涡轮的造价较为昂贵, 而酿造伏特加又很难持续. 你需要自行权衡. %n%n§6手摇: §r这似乎不太可持续, 但如果你只是为了做内燃机的那一个曲柄, 选择它也无可厚非. %n%n§b注: 两种KU引擎不是必须做的, 你可以使用RU转换为KU.
+
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=砂轮
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=解放你的双手！可以自动刮制皮革, 而不需要你用小刀. 是手动打磨石的替代品. 
@@ -478,11 +486,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=锅炉可娇贵了, 普通的�
 
 # Quest: tfr.quest24.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=§b§l硫酸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=硫酸非常重要, 他可以制作盐酸, 氢氟酸, 处理矿物等. 为了制作他你需要制作至少两台青铜搅拌机. %n%n第一台需要一个通风口输入空气, 输入你在焙烧炉获得的二氧化硫, 以及一个铂粉或者五氧化二钒(不消耗)制作三氧化硫%n%n第二个搅拌机输入三氧化硫和水, 制作硫酸. 越多越好！§4%n%n§r提交任务你需要制作一个蓄水槽, 蓄水槽贴在机器的输出口就可以得到液体. 蓄水槽也可以放在机器的自动输入口输入流体, 所以不用担心浪费. 这里你需要提交16000mb的液体. 
-
-# Quest: tfr.quest26.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=计算！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=你应该已经注意到了, 格雷的机器都有输入和输出的功率范围. %n为了带动某一个机器, 你需要计算用什么样的机器产生能量来带动这个机器. %n(如果给一个机器的能量超过额定功率, 多出来的能量不会浪费, 机器会无损超频)%n%n注意 铬燃烧室是112HU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=硫酸非常重要, 他可以制作盐酸, 氢氟酸, 处理矿物等. 为了制作他你需要制作至少两台青铜搅拌机. %n%n第一台需要一个通风口输入空气, 输入你在焙烧炉获得的二氧化硫, 以及一个铂粉或者五氧化二钒(不消耗)制作三氧化硫%n%n第二个搅拌机输入三氧化硫和水, 制作硫酸. 越多越好！%n%n提交任务你需要制作一个蓄水槽, 蓄水槽贴在机器的输出口就可以得到液体. 蓄水槽也可以放在机器的自动输入口输入流体, 所以不用担心浪费. 这里你需要提交16000mb的液体.
 
 # Quest: tfr.quest28.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=破碎机
@@ -514,7 +518,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=
 
 # Quest: tfr.quest39.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.name=§c§l更好的涡轮机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.desc=比青铜涡轮机更好, 吃更多的蒸汽并产生更多RU%n%n注意蒸汽消耗.比青铜要大4倍.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJw.desc=比青铜涡轮机更好, 吃更多的蒸汽并产生更多RU. 当前羸弱的材料使得你无法获得超过64RU功率的内燃机, 如果想用钢机器就必须利用蒸汽. %n%n注意蒸汽消耗.比青铜要大4倍.
 
 # Quest: tfr.quest46.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALg.name=辊压机
@@ -558,7 +562,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=功能很多, 可以切割各�
 
 # Quest: tfr.quest75.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=压缩机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=用来将块或者9个板压缩成压缩板. 压缩板用途广泛, 包括致密锅炉, 致密壁板, 致密机械外壳等. %n必做机器. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=用来将块或者9个板压缩成压缩板. 压缩板用途广泛, 包括致密锅炉, 致密壁板, 致密机械外壳等.
 
 # Quest: tfr.quest76.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.name=§c§l更好的引擎
@@ -566,7 +570,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.desc=比青铜引擎更好, 吃更�
 
 # Quest: tfr.quest77.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=致密板材
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=致密的板材可以用来制造强化版蒸汽引擎
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=致密的板材可以用来制造高强度的机器, 比如致密多方块储罐, 强化版蒸汽引擎和致密燃烧室.
 
 # Quest: tfr.quest80.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUA.name=多辊式压机
@@ -636,9 +640,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.desc=离心矿基本足够纯净, �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=
 
-# Quest: tfru.q107n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=机械纪元
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=拥有了RU和KU的产生源, 便可以使用各种机器增加矿物产率和工作效率了%n%n下方是一些必做的产线, 右侧是其他可以将资源进一步处理的机器, 使用的方法差不多. %n%n你也可以选择暂时不做, 但你迟早会需要它们的qxq
+# Quest: tfru.q292n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=机器ABC
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=你可能第一次接触GT机器, 请将鼠标指针放在任意机器物品上查看它的tooltip. tooltip是gt中最重要的提示之一. %n%n §b配方§r一行指示了该机器运行的是哪种配方, §a能量输入§r一行表明它需要的功率范围和输入的面, §a物品/流体输入§c输出§r表明了它将会从哪个面输入输出物体. 标有(auto)的面是自动输入输出面, 可以向对应面的容器主动抽取/推入物体. %n%ngt的机器无法通过加入某些模块或安装某个部件升级, 你需要用更高级的材料重新做一个. 部分机器可能没有低级的或者低级的机器用处很少.%n%n右键可以打开机器UI, 浅色格子是放置物品的, 深色格子是放置流体的. 中间的是进度条, 点击进度条可以查看该机器可运行的所有配方. 流体格不能直接输入输出, 需要用漏斗, 龙头, 喷嘴等输入输出, 详见任务, 输入槽中的流体仅能通过该方式取出.%n%n关闭任务ui后按H可以打开思索界面, 查看更直观的教程.
 
 # Quest: tfr.quest400.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.name=圆锯+
@@ -674,7 +678,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADLw.desc=你可能在地底找到了水�
 
 # Quest: tfru.q76n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMA.name=天然气
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADMA.desc=你可能在地底找到了气泉, 恭喜你, 有相当一部分燃料可以不用再依靠木头了, 不过天然气的处理要到一段时间之后才可以进行, 稍安勿躁~
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADMA.desc=你可能在地底找到了气泉, 恭喜你, 你可以直接使用天然气驱动你的机器了.
 
 # Quest: tfru.q77n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADMw.name=油
@@ -682,11 +686,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADMw.desc=你可能在地底找到了油�
 
 # Quest: tfr.quest710.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.name=机器自动超频
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=部分机器在处理一些东西时会自动超频, 这可能导致你无法正确制造物品.%n%n具体说明如下: %n首先你应了解‘能量等级’%n规定16-64GU/t为1级, 64-256GU/t为2级, 256-1024GU/t为3级,  以此类推.%n%n机器和配方均有能量等级, 当机器的能量等级高于配方等级时, 机器将会自动超频, 该配方的所需功率提升至4倍, 所需时间降低一半 (即配方所需总能量提升至2倍), 机器等级高几级, 该操作便会执行几次%n%n配方功率处于两个等级交界处时, 高低两级的机器都可以正常处理, 高级机器也不会启用超频%n§e如果超频后功率不足, 实际工作速度还不如不超频的低级机器%n§r比如20GU/t的配方, 二级机器需要80GU/t才会工作, 此时速度与40GU/t的一级机器相同 §6如果你无法给予足够的超频后功率, 机器将会罢工.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=当你准备进行第一次机器升级的时候, 你就可能遇到超频问题. 部分机器在处理低级配方时会进行有损超频, §c可能导致无法制造物品§r. %n%n首先规定"能量等级", 16-64GU/t为1级, 64-256GU/t为2级, 256-1024GU/t为3级,  以此类推. %n%n机器和配方均有一个这样的能量等级, 当机器的能量等级高于配方等级时, 机器将会自动超频, 该配方的所需功率提升至4倍, 所需时间降低一半 (即配方所需总能量提升至2倍), 机器等级高几级, 该操作便会执行几次%n%n配方功率处于两个等级交界处时, 高低两级的机器都可以正常处理, 高级机器不会超频%n%n§6注意: 如果超频后功率不足, 实际工作速度还不如不超频的低级机器%n§r比如32GU/t的配方, 二级机器需要输入128GU/t才会工作, 此时速度与输入64GU/t的一级机器相同 §6如果你无法给予足够的超频后功率, 机器将会罢工§r. %n%n部分机器会标有"§e此机器可无损超频§r"的提示, 这意味着该机器不执行前文的有损超频规定, 输入功率比配方高几倍, 速度就快几倍.
 
 # Quest: tfru.q233n
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=大型坩埚
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=这个巨大的钢块块可以一次为你熔炼400余单位的物质, 极大方便你进行大量加工. %n%n大型坩埚本身的质量非常大, 导致它升温很慢. 建议配合温度计控温和流化床燃烧室使用.
+
+# Quest: tfru.q297n
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=计压瓶
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.desc=这个瓶子相当于一个精确设定容量的储罐, 把它放地上后在不同位置右键可以设定容量. %n%n可用于处理部分精确流体配方, 注意耐腐蚀性和温度上限.
 
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=铬从哪来?
@@ -703,6 +711,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=使用gt的橡胶树可以更�
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=机械纪元
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=拥有了RU和KU的产生源, 便可以使用各种机器增加矿物产率和工作效率了%n%n下方是一些必做的产线, 右侧是其他可以将资源进一步处理的机器, 使用的方法差不多. %n%n你也可以选择暂时不做, 但你迟早会需要它们的qxq
 
 
 ## Quest Line: tfr.line5.name
@@ -753,9 +765,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=实际上这玩意并不高级,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=木工机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=一台很实用的机器, 最关键在于能制作原版树苗
 
+# Quest: tfru.q293n
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.name=采石场
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.desc=这台机器需要放入适当的工具以大范围开采一定范围内在它下方的每个方块, 过硬无法开采的会略过. 可以用来清除一片区域, 或者配合破碎-筛滤产线找到石头中极少的矿物. 注意不要把家拆了.
+
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=管道附件
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=这些附件可以连接到管道跟容器的连接处%n%n伺服器用于抽取相连容器物体到网络, 检索器用于抽取网络连接的所有其他容器向相连容器输出, 过滤器不提供推力仅做过滤（伺服器与检索器均有过滤功能）
+
+# Quest: tfru.q294n
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=测井探矿
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=这台机器可以消耗很高的能量探测一定范围内在它下方的每个方块, 需要一组管道(tooltip中有写具体类型)用于打洞放置设备. %n%n该机器需要消耗少量魔力标记矿物, 戴上窥魔之镜即可看到矿物标记. 机器遇到疑似矿物的信号会发送粉色的魔力标记. 可以提前用已知矿物的小撮/小堆粉右键该机器以扫描矿物数据, 经过扫描的矿物在被探测到后即会标记为矿物的颜色. %n%n可以使用USB潜行右键将已扫描列表写入USB, 右键读取USB数据.%n%n来自流体泉的信号会标记产出流体的颜色.%n%n使用螺丝刀右键开启, 成功开机会有声音和提示, 使用软锤右键清除魔力标记, 使用放大镜右键刷新扫描结果.
 
 
 ## Quest Line: tfr.line3.name
@@ -1107,6 +1127,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=用于检测反应堆核心的�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=钍
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=沥青铀矿处理后剩下的矿渣离心可获得钍, 可制成燃料棒.
 
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=无损探伤
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=钴-60可以用于探伤, 这将尽可能检测出金属中存在的微小缺陷, 可以用于制作高转速高压力等极端工况的部件.
+
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=钴-60增殖
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=将钴增殖棒放入核反应堆, 其中的钴吸收中子后便会变为钴-60, 吸收足够的中子后增殖棒将转变为钴-60棒.
@@ -1199,7 +1223,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.desc=这是一种简并态物质, �
 
 # Quest: tfr.quest630.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.name=德拉克纳星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.desc=位于邻近星系的德拉克纳星蕴藏着龙元素这一珍贵元素, 看来是要去一趟了. %n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.desc=位于邻近星系的德拉克纳星蕴藏着龙元素这一珍贵元素, 看来是要去一趟了.
 
 # Quest: tfr.quest662.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.name=
@@ -1574,9 +1598,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=单兵飞行! 穿戴鞘翅可�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=滑翔翼
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=很好用的旅行工具, 可以以固定速度和下降率飞行, 按shift可以加速, 雨天或雷暴天下降率会提高很多
 
-# Quest: tfru.q288n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=动物
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=这可能是最早的代步工具, 只需要给猪喂一次麦粒, 安上鞍后即可用萝卜钓竿诱惑猪前进. 马则需要持续地投喂直至驯服后方可骑乘.
+# Quest: tfru.q
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
 
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlA.name=正在制作..
@@ -1590,9 +1614,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=消耗魔力将你抛向天空,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=正在制作..
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=你来到了世界的尽头
 
-# Quest: tfru.q287n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=ZPM模块
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=在部分古老的建筑结构里你可能会找到§e极度稀有§r的零点能模块, 该模块具有巨大的能量.可以通过ZPM放电器将这些能量输出为EU或QU%n%n§8这才是古人的智慧.
+# Quest: tfru.q200n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=正在制作..
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=你来到了世界的尽头
 
 # Quest: tfru.q195n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=加速腰带
@@ -1630,9 +1654,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=你来到了世界的尽头
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=锈蚀青铜机械方块
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=有时你会在遗迹箱子中找到它, 这是古人的智慧...实际只是一大块青铜, 使用锉右击六面除锈, 之后焊接铜板即可使用
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=你来到了世界的尽头
+# Quest: tfru.q295n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=乐矿花
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=这34种花分别喜爱栖息于某种特定矿脉的上方, 通常指示了较深的地层中有那种矿物. %n%n那个黑色的蘑菇指示的是煤炭, 其他的花就需要你自行探索了哦. %n%n注: 植物的生命力十分顽强, 即使没有那种矿也可能会出现在某地. 在钻洞前先用探矿镐的深层探矿等其他手段确认下哦
 
 # Quest: tfru.q227n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=GT矿脉
@@ -1641,6 +1665,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=你可能会发现一些不属�
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=正在制作..
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=你来到了世界的尽头
+
+# Quest: tfru.q288n
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.name=动物
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.desc=这可能是最早的代步工具, 只需要给猪喂一次麦粒, 安上鞍后即可用萝卜钓竿诱惑猪前进. 马则需要持续地投喂直至驯服后方可骑乘.
 
 
 ## Quest Line: tfr.line18.name
@@ -2624,10 +2652,6 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=磁场能, 一般用于驱动�
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=ZPM放电器
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=在部分古老的建筑结构里你可能会找到§e极度稀有§r的零点能模块, 该模块具有巨大的能量, 可以通过零点放电器将这些能量输出为EU或QU. 该模块不可二次充电.%n%n§8这才是古人的智慧.
 
-# Quest: tfru.q266n
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=§8SU
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=蒸汽能, 是一种名义能量, 实际为1L/t的蒸汽流量, 一般用于驱动蒸汽涡轮. %n蒸汽与热流体一样属于发电介质, 进入储罐时会立刻消失. %n%nSU机器过载时会§e损坏§r, 变成废料
-
 # Quest: LiquidBattery
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
@@ -3251,11 +3275,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=用代码改变世界, 使�
 
 # Quest: tfr.quest641.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.name=一切从晶体管开始
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.desc=晶体管开启了一个全新的信息时代！%n好消息;你不需要使用光刻机制作该物品
-
-# Quest: tfr.quest681.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.name=一切的开始x2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.desc=好吧, 你还需要许多电路板来制作你的电脑.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.desc=晶体管开启了一个全新的信息时代！%n好消息: 你不需要使用光刻机制作该物品
 
 # Quest: tfr.quest682.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.name=硬盘
@@ -3299,7 +3319,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACsw.desc=组装你的电脑!按照对应
 
 # Quest: tfr.quest692.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtA.name=命令帮助
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACtA.desc=很遗憾, 你暂时不能在这里安装Windows®系统, 这里会教你一些基本的命令, 更多请到https://oc.cil.li 查看%n这个系统可以使用很多unix-like系统(比如FreeBSD与GNU/linux)下的命令%n 比如ls, cd等等%n也支持使用Tab补全命令和上下键切换命令%n%n如果没有接触过这类系统还是上网照抄别人的程序吧…%n%n首先输入lua进入lua交互模式, opencomputer的几乎全部功能都依靠它实现.%n%n输入component.list()查看目前连接到此电脑的全部组件%n%n使用component.get("字符")来使用部分uuid获取完整uuid%n%n使用component.proxy("uuid")获取对应组件的命令列表%n%ncomponent.proxy("uuid").命令 调用上面那条命令显示的子命令%n%n如果你嫌命令太长, 使用<自定义文字> = <完整命令>来快捷调用 %n%n比如运行 a = component.proxy("component.get("233asd2")") %n以后便可以使用 a.命令 来调用该uuid对应设备的命令 %n%n %n Windows®是微软公司的商标, 与本整合无关
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACtA.desc=很遗憾, 你暂时不能在这里安装常见的图形化操作系统, 这里会教你一些基本的命令, 更多请到https://oc.cil.li 查看.%n%n这个系统可以使用很多类Unix系统(Unix, GNU/Linux, MacOS等)下的命令%n比如ls, cd等等(手感更接近linux)%n也支持使用Tab补全命令和上下键调用命令历史.%n%n关于lua脚本的使用:%n%nlua脚本是oc的核心, 首先输入lua进入lua交互模式.%n%n输入§7component.list()§r查看目前连接到此电脑的全部组件及uuid, 通过名称快速鉴别你要连接的设备.%n%n使用§7component.get("字符")§r来使用部分uuid获取完整uuid%n%n使用§7component.proxy("uuid")§r获取对应组件的实例, 默认会返回一个该实例可用的命令列表%n%n§7component.proxy("uuid").命令 §r调用上面那条命令显示的子命令%n%n如果你嫌命令太长, 使用<自定义文字> = <完整命令>来快捷调用 %n%n比如运行 a = component.proxy("component.get("233asd2")") %n以后便可以使用 a.命令 来调用该uuid对应设备的命令 %n%n如果尝试了一下发现没什么头猪, 你也可以上网照抄别人的程序.
 
 # Quest: tfr.quest693.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtQ.name=网卡
@@ -3307,7 +3327,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACtQ.desc=如果你有多台电脑, 安�
 
 # Quest: tfr.quest694.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.name=搭建mc里的服务器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.desc=这些任务介绍了如何在mc里搭建服务器(不是在mc里搭建mc服务器) %n§8此包是一个虚包, 由698, 699, 700, 701四个包填实
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACtg.desc=这些任务介绍了如何在mc里搭建服务器(不是在mc里搭建mc服务器), 服务器拥有更大的组件连接数量, 更快的速度, 更大的磁盘等, 还可以远程访问. %n§8此包是一个虚包, 由698, 699, 700, 701四个包填实
 
 # Quest: tfr.quest695.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACtw.name=因特网卡
@@ -3612,7 +3632,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=使用石砧, 你可以开始�
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b烧开水！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了！%n%n§5虽然你完成钢砧之后就能进入蒸汽时代, 但我还是建议你完成红钢砧或者蓝钢砧的任务线, 这样你才能获得GT坩锅, 一个极强的增产工具, 否则你在蒸汽时代会极度缺乏材料.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了！
 
 # Quest: tfr.quest17.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§b§l蒸汽引擎
@@ -3620,11 +3640,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=对于现在的你来说蒸汽�
 
 # Quest: tfru.q106n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.name=简便KU源
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=使用这个, 可以用RU方便地产生KU.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=你可能会想, RU和KU都是动能, 为什么不能转换呢? 当然可以! 使用这个, 可以用RU方便地产生KU. %n%n你问KU转换回RU? KU转换回RU要考虑的就多了...
 
 # Quest: tfr.quest27.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=§b§l涡轮机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=消耗SU(蒸汽)产生RU%n从侧面输出蒸馏水, 若没有可用的流体容器或管道, 蒸馏水会自动被销毁. %n如果正面朝上, 生物站在上面会自己转%n%n注意了, 只有王冠形状的任务是主线任务, 换句话说其他的机器是选做的. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=消耗SU(蒸汽)产生RU%n从侧面输出蒸馏水, 若没有可用的流体容器或管道, 蒸馏水会自动被销毁. %n如果正面朝上, 生物站在上面会自己转
 
 # Quest: tfr.quest33.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=正经的RF发电
@@ -3664,7 +3684,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=你第一个应该前往的行�
 
 # Quest: tfru.q74n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=简便RU源
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=不只有蒸汽涡轮可以产生RU, 燃油引擎/燃气涡轮分别可以消耗燃油和可燃气体生产RU, 虽然功率较低, 但它是一个安全而便捷的RU来源%n%n将来你会见到更大的燃气涡轮的ww
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.desc=燃油引擎/燃气涡轮分别可以消耗可燃液体和可燃气体生产RU, 虽然功率较低, 但它是一个安全而便捷的RU来源%n%n将来你会见到更大的燃气涡轮的ww
 
 # Quest: tfru.q112n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABog.name=手动RU源
@@ -3730,10 +3750,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=在第一代计算机强大算�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=裂变核心
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=这是核裂变反应堆的核心, 用于启动核裂变反应, 产出热冷却液, 具体教程见下:%n%n可控核裂变反应, 即为燃料棒中的重原子核因受到中子, 转为高能态后分裂变成其他原子并放出热能和更多中子的过程. 这个过程中涉及的重要概念包括以下内容：%n%n§l燃料棒§r：即核燃料, 核裂变反应的主要消耗物质. 在GT6中有以下几个参数：%n- 1.§a§on§r：中子数, 当前（燃料、控制）棒上的中子数. GT6中, 核燃料棒的数据每隔一定时间更新一次, 其中棒上最重要的属性就是当前时刻棒上含有的中子数, 这个中子数涉及到后续的热量产生与向外释放的数量. %n- 2.§a§oSelf§r：核燃料棒自身反应发送给自己的中子数, 维持了核反应的基础运行. %n- 3.§a§oEmission§r：燃料棒向四周其他（燃料、控制）棒发送的中子, 这与上面的Self是互不相干的属性. %n- 4.§a§oFactor§r：增殖比率, 当燃料棒除去向自己发送的的中子数外, 剩余数量的中子会按这个比率进行缩放并释放. %n- 5.§a§oMaximum§r：最大稳定中子数, 一个燃料棒如果接受过量的中子, 它的反应会加快, 同时对棒本身的耐久会非线性的增大. 这个过量的边界值就是这个§aMaximum§r值. %n%n§l控制棒§r：对核反应进行调控的棒, 包括以下4种：%n- 1.§o中子吸收棒§r：吸收中子热量, 并高效率转化为热能的控制棒, 产热量有：§aQ §r= §an §r* §b2 其中§aQ§r单位为§cHU/t§r, §an§r为中子数%n- 2.§o中子反射棒§r：将某个方向发射来的中子完整地原路反射回去. %n- 3.§o慢化剂棒§r：对射入的 中子减速并反射, 这会导致有效反应的中子数增加. 在标准情况下, 它会反射某个射来的中子, 如果多个方向, 那么根据射来的方向数, 每一个方向反射的中子数将会乘上这个方向数量, 如东方向射来§aa§r个中子, 西方向射来§ab§r个中子, 北方向射来§ac§r个中子, 则慢化棒向东反射§a3a§r个中子, 向西方反射§a3b§r个, 向北方反射§a3c§r个. 同时, 慢化剂棒会对相邻的燃料棒附加慢化的属性, 加快燃料棒的消耗. %n- 4.§o增殖棒§r：接收中子转化为含有另外一种元素燃料棒的控制棒, 接收中子并转化, 并且速度会越来越快, 慢化的中子不能用于进行转化. %n%n§l反应堆核心§r：核反应发生的环境, 存储冷却液, 热冷却液, 反应棒. 可以通过红石以类似控制机器的方式控制核心的运行与否, 也可以通过软锤敲击的方式禁止或开启某个（燃料、控制）棒工作. %n冷却液：与棒直接接触的液体, 起到承受核反应堆热量和中子辐照的介质. 不仅仅是传递能量的媒介, 还会影响到燃料棒的各项属性, 同时不同的冷却液在被加热和被中子辐照后会有不同的效果, 核燃料棒与冷却液的配套选择是核反应设计的高阶技巧, 常用的冷却液通常会是IC工业冷却液和二氧化碳. %n%n§l中子增殖判定与计算§r%n%n核裂变反应的核心在于利用不断增长的中子进行产热和再利用, 所以计算每个燃料棒获得和发射的中子是必要的. 在GT6中, 一个棒只能和相邻的棒交换中子. 如图中在同一红圈内的棒都视为相邻%n%n每一个棒会向相邻的棒发射中子, 发射量的数值为：%n%n    §aE_n §r= §aEmission §r+ §c( §an§r-§aSelf §c) §r* §aFactor§r%n若§c( §an§r-§aSelf §c)§r<0, 则视为0 %n参数含义见上方的解释. 注意燃料棒的各项数值会根据冷却液变化而不同. %n%n而某一个棒上的中子量为棒向自身发射的中子数与周围向自己发射的中子数之和：%n%n    §an §r= §aSelf§r + §aE_1 §r+ §aE_2 §r+ ⋯%n%n注意, 中子数不是一个存量, 它不是你电池盒里面的电, 而是一个累计的接收值, 这个值同时也是你的棒产生热量的标准值, 在燃料棒中, 中子数就是你产热量的数值, 在吸收棒中, 产热量会变成这个数值的2倍, 反射棒不会产热. %n%n但很明显, 这个中子数在某种情况下会不断不断地增加, 比如在某一种燃料棒的§aFactor§r为§b1/3§r, §aEmission§r是§b2048§r, §aSelf§r是§b512§r, 有5个棒以十字排列, 中间是燃料棒, 四周是反射棒. %n%n刚刚开机时. 这个棒发射的中子数是：%n%n    §aE_0 = §b2048§r%n%n由于四周都是反射棒, 向四周发射的中子全部反射回来了, 所以下一刻的中子数将从0变为%n%n    §an_1 §r= §b512 §r+ §b2048 §r* §b4 §r= §b8704§r%n%n发射量变为%n%n    §aE_1 §r= (§b8704§r - §b512 §r)* §b1/3 §r+ §b2048 §r= §b4778§r%n%n而下一个时刻的中子数%n%n    §an_2 §r= §b512 §r+ §b4778 §r* §b4 §r= §b19642§r%n%n如果你一直计算下去, 你会发现中子数越来越多. 事实上, 如果我们列一个递推公式：%n%n    §an_i §r= §aself §r+( §an_{i-1} §r- §aself §r)* §afactor §r* §b4 §r+ §b4 §r* §aEmission §r= §an_{i-1} §r*§b 4 §r* §afactor §r+( §b1 §r- §b4 §r* §afactor §r)* §aself §r+ §b4 §r* §aEmission§r%n%n如果要让上面的 §an_i§r 比 §an_{i-1}§r 大, 只需要%n%n    §an_{i-1} §r>= §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)%n%n注意启动时是没有中子的, 即如果 §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)< §b0 §r, 那么就能顺利实现中子从开机就一直不断增长增长增长增长, 直到你的冷却液全部耗尽, 你的燃料和控制棒全部溶解. %n%n但是以上的情况可以通过强行关机来制止, 所以无限增长往往是高功率的关键, 不能无限增加的反应堆我们称为稳定反应堆, 通过红石控制, 保证反应堆工作在无限增长状态但中子数不至于过多的反应堆我们称为超临界反应堆. 一般来说超临界反应堆具有更高的应用价值.
 
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=无损探伤
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=钴-60可以用于探伤, 这将尽可能检测出金属中存在的微小缺陷, 可以用于制作高转速高压力等极端工况的部件.
-
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=大燃气涡轮
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=尽管不推荐, 石化燃料可能仍然是你的最爱, 涡轮的具体规则请参考蒸汽涡轮任务, 燃气涡轮需要额外的压气和燃烧部分因而更重一些, 建议制作完整个涡轮再进行探伤. %n%n不推荐的原因? 多方块燃气涡轮功率很高, 你家的产线很可能无法供给如此巨量的燃气用于发电, 这不是一个可持续的选择. 锅炉爆炸问题请参考上一章的多方块锅炉任务.
@@ -3745,6 +3761,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=使用质子交换膜和特制�
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=手动KU源
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=使用生物化学能转化为KU的机器, 百KU消耗四oz面包!
+
+# Quest: tfru.q266n
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=§8SU
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=蒸汽能, 是一种名义能量, 实际为1L/t的蒸汽流量, 一般用于驱动蒸汽涡轮. %n蒸汽与热流体一样属于发电介质, 进入储罐时会立刻消失. %n%nSU机器过载时会§e损坏§r, 变成废料
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=附魔!

@@ -3,6 +3,20 @@
  "bindItemID":"gt.multitileentity.20181",
  "icon":"gregtech:gt.multiitem.books:32000",
  "dir":"教程/GregTech6",
+  "animes":[{
+      "type":"gui.setCamera",
+      "time":10,
+      "y":3,
+      "yaw":30,
+      "pitch":120
+     },
+     {
+   "type":"gui.transparency",
+   "startTime":0,
+   "endTime":10000,
+   "originA":255,
+   "dA":-255
+  }],
  "Objects":[
     {
      "type":"image",

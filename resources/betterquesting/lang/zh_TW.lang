@@ -460,6 +460,14 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在鍛造的時�
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
 
+# Quest: tfru.q296n
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=
+
+# Quest: tfr.quest23.name
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=搞快點！
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=乾燥器不止有鋼這一個版本, 殷鋼、鈦、碳化鎢都能做乾燥器。當然, 更高級的乾燥器需要更多的HU。殷鋼的乾燥器算下來並不比鋼貴多少, 而且快很多。%n*我推薦用鉻燃燒室帶殷鋼乾燥器, 找到鉻鐵礦的話鉻並不算太貴。(你想用鈦燃燒室我不攔你)
+
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=砂輪
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=解放你的雙手！可以自動刮制皮革, 而不需要你用小刀。是手動打磨石的替代品。
@@ -479,10 +487,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=鍋爐可嬌貴了, 普通的�
 # Quest: tfr.quest24.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=§b§l硫酸
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=硫酸非常重要, 他可以製作鹽酸, 氫氟酸, 處理礦物等。為了製作他你需要製作至少兩台青銅攪拌機。%n%n第一台需要一個通風口輸入空氣, 輸入你在焙燒爐獲得的二氧化硫, 以及一個鉑粉或者五氧化二釩（不消耗）製作三氧化硫%n%n第二個攪拌機輸入三氧化硫和水, 製作硫酸。越多越好！§4%n%n§r提交任務你需要製作一個蓄水槽, 蓄水槽貼在機器的輸出口就可以得到液體。蓄水槽也可以放在機器的自動輸入口輸入流體, 所以不用擔心浪費。這裡你需要提交16000mb的液體。
-
-# Quest: tfr.quest26.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=計算！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=你應該已經注意到了, 格雷的機器都有輸入和輸出的功率範圍。%n為了帶動某一個機器, 你需要計算用什麼樣的機器產生能量來帶動這個機器。%n(如果給一個機器的能量超過額定功率, 多出來的能量不會浪費, 機器會無損超頻)%n%n注意 鉻燃燒室是112HU.
 
 # Quest: tfr.quest28.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=破碎機
@@ -636,7 +640,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=
 
-# Quest: tfru.q107n
+# Quest: tfru.q292n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=
 
@@ -688,6 +692,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q297n
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.desc=
+
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
@@ -703,6 +711,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 
 ## Quest Line: tfr.line5.name
@@ -753,9 +765,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=實際上這玩意並不高級,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=木工機
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=一台很實用的機器, 最關鍵在於能製作原版書苗
 
+# Quest: tfru.q293n
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.name=
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.desc=
+
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
+
+# Quest: tfru.q294n
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -1106,6 +1126,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=
 # Quest: tfru.q182n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
@@ -1574,7 +1598,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 
-# Quest: tfru.q288n
+# Quest: tfru.q
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
 
@@ -1590,7 +1614,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q287n
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
@@ -1630,7 +1654,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q295n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
 
@@ -1641,6 +1665,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
+
+# Quest: tfru.q288n
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.name=
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.desc=
 
 
 ## Quest Line: tfr.line18.name
@@ -2624,10 +2652,6 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=
 
-# Quest: tfru.q266n
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
-
 # Quest: LiquidBattery
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
@@ -3253,10 +3277,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=關於開放式電腦模組
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.name=一切從電晶體開始
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.desc=電晶體開啟了一個全新的資訊時代！
 
-# Quest: tfr.quest681.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.desc=
-
 # Quest: tfr.quest682.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.desc=
@@ -3730,10 +3750,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
 
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
-
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=
@@ -3745,6 +3761,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
+
+# Quest: tfru.q266n
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=

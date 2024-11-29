@@ -460,6 +460,14 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=One day, when you were forg
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
 betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
 
+# Quest: tfru.q296n
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=
+betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=
+
+# Quest: tfr.quest23.name
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=GOTTA GO FASTTTTTTTTTT!
+betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=The dryer has multiple versions: steel, Invar, titanium, tungsten carbide. Of course, more advanced dryers require more HU. The Invar dryers are not much more expensive than steel, but they are much faster. %n* I recommend a chrome combustion chamber with a steel dryer, chromium is not too expensive if you can find chromite. If you want to use a titanium chamber, I won't stop you.
+
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Grinding wheel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.desc=Free your hands! The leather can be scraped automatically without you having to use a knife. It's a substitute for hand - operated grinding.
@@ -479,10 +487,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=Boiler can be delicate, ordinar
 # Quest: tfr.quest24.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=§ §bl sulfuric acid
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=Sulfuric acid is very important, as it's the ingredient of hydrochloric acid, hydrofluoric acid. It can also be used for ore processing and so on. You need to make at least two bronze mixer in order to make it. The first one requires a vent for air, input the sulfur dioxide that you get in the calciner, and 1 platinum powder or vanadium pentoxide (not consumed) to make sulfur trioxide %n%n Use the second mixer for sulfur trioxide and water to make sulfuric acid. The more the better! §4%n%n§r In order to submit the task you need to make a water tank, which can be attached to the output side of the machine to get the liquid. The tank can also be used for  the machine's automatic input so there is no need to worry about wasting the materials. Here you have to submit 16000MB of liquid.
-
-# Quest: tfr.quest26.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Calculations!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=As you may have noticed, GregTech's machine has a range of power inputs and outputs. In order to run a machine, you need to calculate what kind of power source produces the energy to run the machine. (If a machine is given more energy than its desired power, the extra energy will not be wasted and the machine will automatically oveclock itself)%n%n Note the chromium combustor produces 112HU, using it to power the chrome boiler will blow it up.
 
 # Quest: tfr.quest28.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=crusher
@@ -636,7 +640,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABiQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=
 
-# Quest: tfru.q107n
+# Quest: tfru.q292n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=
 
@@ -688,6 +692,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q297n
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.desc=
+
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.desc=
@@ -703,6 +711,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 
 ## Quest Line: tfr.line5.name
@@ -753,9 +765,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=It's actually not very advanced
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=Woodworking machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=A very practical machine, the most key is to be able to make the original book seedling
 
+# Quest: tfru.q293n
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.name=
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.desc=
+
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
+
+# Quest: tfru.q294n
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -1106,6 +1126,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=
 # Quest: tfru.q182n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
@@ -1574,7 +1598,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABkQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkg.desc=
 
-# Quest: tfru.q288n
+# Quest: tfru.q
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkw.desc=
 
@@ -1590,7 +1614,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q287n
+# Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
@@ -1630,7 +1654,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q295n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=
 
@@ -1641,6 +1665,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.desc=
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLQ.desc=
+
+# Quest: tfru.q288n
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.name=
+betterquesting.quest.jf4VrR97Sxi0aIv4UO41og.desc=
 
 
 ## Quest Line: tfr.line18.name
@@ -2624,10 +2652,6 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=
 
-# Quest: tfru.q266n
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
-
 # Quest: LiquidBattery
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
@@ -3253,10 +3277,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFw.desc=Basic introduction of open 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.name=It all starts with the transistor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACgQ.desc=The transistor opens a whole new information age!
 
-# Quest: tfr.quest681.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACqQ.desc=
-
 # Quest: tfr.quest682.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACqg.desc=
@@ -3730,10 +3750,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
 
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
-
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=
@@ -3745,6 +3761,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
+
+# Quest: tfru.q266n
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
