@@ -131,7 +131,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能无序�
 
 # Quest: tfr.quest619.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=多人模式
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联机存在bug, 本整合包禁用了局域网联机. 请按照整合包目录下docs/tfru/server.txt搭建服务端. %n%n组队系统可以在任务书打开时的选择界面找到, 可以让一个队伍的玩家同步完成任务. 与FTB任务不同, 一个组队只能领取一份奖励.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联机存在bug, 本整合包禁用了局域网联机. 请按照整合包目录下docs/tfru/server.txt搭建服务端. %n%n组队系统可以在任务书打开时的选择界面找到, 可以让一个队伍的玩家同步完成任务.
 
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社区
