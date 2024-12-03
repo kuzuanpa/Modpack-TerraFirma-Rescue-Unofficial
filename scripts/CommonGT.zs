@@ -56,7 +56,6 @@ val fw = <liquid:freshwater>;
 // Remove
 
 //recipes.remove(<gregtech:gt.multitileentity:20201>);
-recipes.remove(<gregtech:gt.multitileentity:20151>);
 recipes.remove(<gregtech:gt.multitileentity:10111>);
 recipes.remove(<terrafirmacraft:item.MetalNugget:7>);
 recipes.remove(<gregtech:gt.meta.ingot:8336>);
@@ -354,15 +353,16 @@ recipes.addShaped(<gregtech:gt.multitileentity:20314>,
 recipes.remove(<gregtech:gt.multitileentity:20152>);
 recipes.addShaped(<gregtech:gt.multitileentity:20152>,
 [[<gregtech:gt.meta.gearGtSmall:8631>,<gregtech:gt.meta.gearGt:8631>,<gregtech:gt.meta.gearGtSmall:8631>],
-[Wrench,<ore:casingMachineAnyIronStell>,HHammer],
-[null,<advancedRocketry:circuitIC>,null]]);
-
-// LV Cable maker
-recipes.remove(<gregtech:gt.multitileentity:20152>);
-recipes.addShaped(<gregtech:gt.multitileentity:20152>,
-[[<gregtech:gt.meta.gearGtSmall:8631>,<gregtech:gt.meta.gearGt:8631>,<gregtech:gt.meta.gearGtSmall:8631>],
 [Wrench,<ore:casingMachineAnyIronSteel>,HHammer],
-[null,<advancedRocketry:circuitIC>,null]]);
+[null,null,null]]);
+
+
+// Wiremill Ti
+recipes.remove(<gregtech:gt.multitileentity:20153>);
+recipes.addShaped(<gregtech:gt.multitileentity:20153>,
+[[<gregtech:gt.meta.gearGtSmall:8654>,<gregtech:gt.meta.gearGt:8654>,<gregtech:gt.meta.gearGtSmall:8654>],
+[Wrench,<ore:casingMachineTitanium>,HHammer],
+[null,null,null]]);
 
 // Generators
 recipes.remove(<gregtech:gt.multitileentity:10112>);
