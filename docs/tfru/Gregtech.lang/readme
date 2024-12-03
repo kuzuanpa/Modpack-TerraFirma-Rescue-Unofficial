@@ -1,8 +1,0 @@
-origin verion is from https://github.com/TeamNED/GregTech6-Translation-Groupware
-but they didn't updated for a time.
-tfru modified some translate and add some new
-diff file can show difference between them.
-Command:
-#diff GregTech.lang origin*.lang > diff.txt
-
-generated version is generated from the newest dev version of GregTech6-TFRU, It could contains some different from the official GT6.

@@ -1,0 +1,13 @@
+    S:gt.multitileentity.32052=微型艾尔夫海姆传送门
+改为
+    S:gt.multitileentity.32052=微型群峦下界传送门
+
+    S:gt.lang.pipe.stats.stepsize=传输距离:
+改为
+    S:gt.lang.pipe.stats.stepsize=阻力:
+    
+    
+    S:gt.lang.cheap.overclocking=在消耗额外能量时可以超频
+改为
+    S:gt.lang.cheap.overclocking=此机器可无损超频
+
