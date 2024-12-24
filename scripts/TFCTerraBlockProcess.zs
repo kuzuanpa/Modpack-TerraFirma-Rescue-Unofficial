@@ -51,7 +51,14 @@ val w = <liquid:water>;
 val dw = <liquid:ic2distilledwater>;
 val fw = <liquid:freshwater>;
 
+MTUtilsGT.addCustomRecipe("gt.recipe.anvil", false, 16, 40, 0,[10000,500],
+[<terrafirmacraft:item.Ore:21>, <gregapi:gt.empty_slot>*0],
+[<gregtech:gt.meta.dustSmall:8300>, <terrafirmacraft:item.Diamond:2>]);
+
 //Granite
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:0>*4],
+[<terrafirmacraft:Gravel:0>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgInCobble:0>],
 [<terrafirmacraft:Gravel:0>]);
@@ -66,6 +73,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,343,343,2
 
 //Diorite
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:1>*4],
+[<terrafirmacraft:Gravel:1>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgInCobble:1>],
 [<terrafirmacraft:Gravel:1>]);
 
@@ -78,6 +88,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,343,343,2
 [<gregtech:gt.meta.storage.dust:8511>, <terrafirmacraft:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:1>, <terrafirmacraft:item.Small Ore:5>]);
 
 //Gabbro
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:2>*4],
+[<terrafirmacraft:Gravel:2>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgInCobble:2>],
 [<terrafirmacraft:Gravel:2>]);
@@ -92,6 +105,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,343,343,2
 
 //Shale
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:3>*4],
+[<terrafirmacraft:Gravel:3>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:0>],
 [<terrafirmacraft:Gravel:3>]);
 
@@ -104,6 +120,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 [<gregtech:gt.meta.storage.dust:9190>, <tfctech:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:2>, <terrafirmacraft:item.Small Ore:3>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:7>, <terrafirmacraft:item.Small Ore:10>, <terrafirmacraft:item.Small Ore:11>, <terrafirmacraft:item.Small Ore:13>]);
 
 //Claystone
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:4>*4],
+[<terrafirmacraft:Gravel:4>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:1>],
 [<terrafirmacraft:Gravel:4>]);
@@ -118,6 +137,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 
 //SaltRock
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:5>*4],
+[<terrafirmacraft:Gravel:5>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:2>],
 [<terrafirmacraft:Gravel:5>]);
 
@@ -130,6 +152,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 [<minecraft:gravel>, <tfctech:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:2>, <terrafirmacraft:item.Small Ore:3>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:7>, <terrafirmacraft:item.Small Ore:10>, <terrafirmacraft:item.Small Ore:11>, <terrafirmacraft:item.Small Ore:13>]);
 
 //Limestone
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:6>*4],
+[<terrafirmacraft:Gravel:6>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:3>],
 [<terrafirmacraft:Gravel:6>]);
@@ -144,6 +169,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 
 //Conglomerate
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:7>*4],
+[<terrafirmacraft:Gravel:7>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:4>],
 [<terrafirmacraft:Gravel:7>]);
 
@@ -156,6 +184,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 [<minecraft:gravel>, <tfctech:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:2>, <terrafirmacraft:item.Small Ore:3>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:7>, <terrafirmacraft:item.Small Ore:10>, <terrafirmacraft:item.Small Ore:11>, <terrafirmacraft:item.Small Ore:13>]);
 
 //Dolomite
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:8>*4],
+[<terrafirmacraft:Gravel:8>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:5>],
 [<terrafirmacraft:Gravel:8>]);
@@ -170,6 +201,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 
 //Chert
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:9>*4],
+[<terrafirmacraft:Gravel:9>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:6>],
 [<terrafirmacraft:Gravel:9>]);
 
@@ -182,6 +216,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 [<minecraft:gravel>, <tfctech:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:2>, <terrafirmacraft:item.Small Ore:3>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:7>, <terrafirmacraft:item.Small Ore:10>, <terrafirmacraft:item.Small Ore:11>, <terrafirmacraft:item.Small Ore:13>]);
 
 //Chalk
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:10>*4],
+[<terrafirmacraft:Gravel:10>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneSedCobble:7>],
 [<terrafirmacraft:Gravel:10>]);
@@ -196,6 +233,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,120,3
 
 //Rhyolite
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:11>*4],
+[<terrafirmacraft:Gravel:11>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgExCobble:0>],
 [<terrafirmacraft:Gravel:11>]);
 
@@ -208,6 +248,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,343,3
 [<gregtech:gt.meta.storage.dust:9179>, <tfctech:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:1>, <terrafirmacraft:item.Small Ore:3>, <terrafirmacraft:item.Small Ore:5>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:7>]);
 
 //Basalt
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:12>*4],
+[<terrafirmacraft:Gravel:12>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgExCobble:1>],
 [<terrafirmacraft:Gravel:12>]);
@@ -223,6 +266,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,343,3
 
 //Andesite
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:13>*4],
+[<terrafirmacraft:Gravel:13>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgExCobble:2>],
 [<terrafirmacraft:Gravel:13>]);
 
@@ -235,6 +281,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,343,3
 [<gregtech:gt.meta.storage.dust:9188>, <tfctech:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:0>, <terrafirmacraft:item.Small Ore:1>, <terrafirmacraft:item.Small Ore:3>, <terrafirmacraft:item.Small Ore:5>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:7>]);
 
 //Dasite
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:14>*4],
+[<terrafirmacraft:Gravel:14>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneIgExCobble:3>],
 [<terrafirmacraft:Gravel:14>]);
@@ -250,6 +299,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,343,3
 
 //quartzite
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:15>*4],
+[<terrafirmacraft:Gravel:15>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneMMCobble:0>],
 [<terrafirmacraft:Gravel:15>]);
 
@@ -262,6 +314,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,480,4
 [<gregtech:gt.meta.storage.dust:9180>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:9>, <terrafirmacraft:item.Small Ore:12>, <terrafirmacraft:item.Small Ore:13>]);
 
 //Slate
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:16>*4],
+[<terrafirmacraft:Gravel2:0>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneMMCobble:1>],
 [<terrafirmacraft:Gravel2:0>]);
@@ -276,6 +331,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,480,4
 
 //phyllite
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:17>*4],
+[<terrafirmacraft:Gravel2:1>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneMMCobble:2>],
 [<terrafirmacraft:Gravel2:1>]);
 
@@ -288,6 +346,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,480,4
 [<minecraft:gravel>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:9>, <terrafirmacraft:item.Small Ore:12>, <terrafirmacraft:item.Small Ore:13>]);
 
 //Schist
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:18>*4],
+[<terrafirmacraft:Gravel2:2>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneMMCobble:3>],
 [<terrafirmacraft:Gravel2:2>]);
@@ -302,6 +363,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,480,4
 
 //Gneiss
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:19>*4],
+[<terrafirmacraft:Gravel2:3>]);
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneMMCobble:4>],
 [<terrafirmacraft:Gravel2:3>]);
 
@@ -314,6 +378,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.sifter", false, 16, 256, 0,[10000,480,480,4
 [<gregtech:gt.meta.storage.dust:9170>, <terrafirmacraft:item.Small Ore:4>, <terrafirmacraft:item.Small Ore:6>, <terrafirmacraft:item.Small Ore:9>, <terrafirmacraft:item.Small Ore:12>, <terrafirmacraft:item.Small Ore:13>]);
 
 //marble
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
+[<terrafirmacraft:item.LooseRock:20>*4],
+[<terrafirmacraft:Gravel2:4>]);
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 40, 0,[10000],
 [<terrafirmacraft:StoneMMCobble:5>],
 [<terrafirmacraft:Gravel2:4>]);
