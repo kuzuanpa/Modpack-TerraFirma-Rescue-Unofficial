@@ -6,10 +6,10 @@
 
 移除所有oreDict.开头的翻译，已将它们改为由mod自动生成
 
-加入oredict.lang内的所有内容
+加入oredict.txt内的所有内容
 
-加入ktfruaddon.lang内的所有内容
+加入ktfruaddon.txt内的所有内容
 
-
+将gt的书部分替换为books.txt中的内容
 
 使用autoLang分支的gt6-TFRU启动游戏, 生成的文件即可作为稳定版语言文件使用.

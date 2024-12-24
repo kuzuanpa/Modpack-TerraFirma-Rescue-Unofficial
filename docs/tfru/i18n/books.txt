@@ -1,0 +1,467 @@
+    S:written.book.Manual_Enchantments.page.0=真不敢相信这些古老附魔的信息如此难找！但终于我收集到了所有关于这魔法的知识！
+    S:written.book.Manual_Enchantments.page.1=附魔台¶===================¶你需要一个这样的附魔台，通常由2颗钻石、4块黑曜石和一本书构成。然后你可以使用你的魔力，有时是青金石，来给工具和书籍随机附魔！
+    S:written.book.Manual_Enchantments.page.2=书架¶===================¶为了提升上述提到的随机附魔的效果，你只需要一些装满书的书架即可。甚至可以是金属制的精美书架！书籍也可以放在背面！
+    S:written.book.Manual_Enchantments.page.3=铁砧¶===================¶但随机附魔不能直接从工具上移除。铁砧可以帮助你，因为它允许你将书籍中的附魔转移到工具上，并且还可以给它们命名！
+    S:written.book.Manual_Enchantments.page.4=磨石¶===================¶据说有能移除附魔的磨石，但我从未见过！就像我常听说的缸中之脑一样神秘！
+    S:written.book.Manual_Enchantments.page.5=魔力¶===================¶通过击杀世界中的生物、烹饪食物或处理矿石可以获得这种力量！这就是许多人称之为经验值（XP或EXP）的原因！
+    S:written.book.Manual_Enchantments.page.6=列表¶===================¶以下是我所知的附魔及其效果列表。
+    S:written.book.Manual_Enchantments.page.7=锋利¶===================¶等级1至5+¶每级额外造成81.25点伤害，几乎适用于所有物品！
+    S:written.book.Manual_Enchantments.page.8=破击¶===================¶等级1至5+¶每级额外造成1.5点伤害，通常只能应用于Railcraft撬棍。
+    S:written.book.Manual_Enchantments.page.9=亡灵杀手¶===================¶等级1至5+¶每级额外造成125点伤害，适用于不死生物：骷髅、僵尸、溺尸、干尸、怨灵、木乃伊和巫妖！亡灵杀手 3+ 级子弹甚至可以穿透巫妖屏障！
+    S:written.book.Manual_Enchantments.page.10=节肢杀手¶===================¶等级1至5+¶每级额外造成125点伤害，适用于六条腿以上的生物，如讨厌的蜘蛛、螨虫、昆虫或蠹虫！
+    S:written.book.Manual_Enchantments.page.11=防爆¶===================¶等级1至5+¶每级额外造成3点伤害，适用于任何苦力怕！通常只能应用于Railcraft撬棍。它也可以伤害其他爆炸性怪物，如凋灵！
+    S:written.book.Manual_Enchantments.page.12=溶解¶===================¶对任何黏液生物造成虚弱和中毒效果！
+    S:written.book.Manual_Enchantments.page.13=末影离析¶===================¶等级1至5+¶对任何末影生物造成虚弱和中毒效果！被削弱的末影人无法传送，使得带有此附魔的投射物是对抗它们的无价之宝！
+    S:written.book.Manual_Enchantments.page.14=狼人杀手¶===================¶等级1至5+¶对任何狼形生物及类似生物造成枯萎和中毒效果！也适用于牛头人！
+    S:written.book.Manual_Enchantments.page.15=击退¶===================¶等级1至2+¶击中目标会将其击退，同时减少你自己40%的水平速度，只在空中明显。冲刺时等级增加一级。
+    S:written.book.Manual_Enchantments.page.16=火焰附加¶===================¶等级1至2+¶不仅会使敌人燃烧4秒，有时还会烤熟掉落物；等级3时还能快速熔炼采集到的方块！
+    S:written.book.Manual_Enchantments.page.17=掠夺¶===================¶等级1至3+¶增加从生物身上获得的掉落物数量。可能会增加总掉落物数量或稀有掉落物的几率。
+    S:written.book.Manual_Enchantments.page.18=丰收¶===================¶等级1至3+¶增加从方块获得的掉落物数量。可能增加总掉落物数量或稀有掉落物的几率。适用于矿石、作物、沙砾和岩浆膏。
+    S:written.book.Manual_Enchantments.page.19=精准采集¶===================¶仅1级¶确保用正确的工具采集方块时，掉落该方块本身而非其正常掉落物。小矿石有更高的几率掉落大宝石。
+    S:written.book.Manual_Enchantments.page.20=无限¶===================¶等级1+¶只要身上有一支箭，弓就可以无限射击。枪械根据等级有不同的概率不消耗弹药：50%，66%，75%，80%，84%或更高。
+    S:written.book.Manual_Enchantments.page.21=力量¶===================¶等级1至5+¶射出的箭矢每级额外造成25%伤害。射出的子弹飞得更快，因此具有更高的穿透率和远程高伤害。
+    S:written.book.Manual_Enchantments.page.22=火矢¶===================¶等级1+¶你的远程武器将使投射物着火，造成类似于或结合火焰附加的火焰伤害。你还可以用它点燃TNT和其他物品。
+    S:written.book.Manual_Enchantments.page.23=冲击¶===================¶等级1至2+¶你的远程武器每级击退击中的目标约3格。
+    S:written.book.Manual_Enchantments.page.24=海之眷顾¶===================¶等级1至3+¶增加钓到宝藏的几率，减少钓到垃圾的几率，略微减少钓到鱼的几率。
+    S:written.book.Manual_Enchantments.page.25=饵钓¶===================¶等级1至3+¶每级减少等待鱼咬钩的时间5秒，最高等级为5级。等级6或以上则使钓鱼竿无法用于钓鱼。
+    S:written.book.Manual_Enchantments.page.26=保护¶===================¶等级1至4+¶每件盔甲每级减少4%的总伤害，最高可达80%的综合减伤，包括所有其他类型的保护附魔！
+    S:written.book.Manual_Enchantments.page.27=防火¶===================¶等级1至4+¶每件盔甲每级减少8%的火焰伤害，最高与保护附魔一致。每级还可减少最高15%的燃烧时间。
+    S:written.book.Manual_Enchantments.page.28=爆炸保护¶===================¶等级1至4+¶每件盔甲每级减少8%的爆炸伤害，最高与保护附魔一致。每级还可减少最高15%的爆炸击退。
+    S:written.book.Manual_Enchantments.page.29=弹射物保护¶===================¶等级1至4+¶每件盔甲每级减少8%的远程伤害，最高与保护附魔一致。注意，爆炸性的远程攻击可能只有部分减伤！
+    S:written.book.Manual_Enchantments.page.30=摔落保护¶===================¶等级1至4+¶每件盔甲每级减少12%的末影珍珠和坠落伤害，最高与保护附魔一致。撞墙时不生效。
+    S:written.book.Manual_Enchantments.page.31=荆棘¶===================¶等级1至3+¶每件盔甲每级有15%的几率对近战或远程攻击者造成0.5至2心的伤害。盔甲耐久度会额外损耗。
+    S:written.book.Manual_Enchantments.page.32=水下呼吸¶===================¶等级1至3+¶每级增加15秒的水下氧气时间，分别为两倍、三倍或四倍于正常时间。还分别以50%、66%或75%的几率减少溺水伤害。
+    S:written.book.Manual_Enchantments.page.33=水中速掘¶===================¶仅1级¶使你在水下站立时能够以正常速度挖掘，而不是减慢五倍。仍然需要站在地上，否则速度还会被减慢五倍。
+    S:written.book.Manual_Enchantments.page.34=效率¶===================¶等级1至5+¶该附魔使工具的挖掘速度得到平方加1的加成，即+2, +5, +10, +17或+26。工具材料永远不会自带此附魔，因为没有意义。
+    S:written.book.Manual_Enchantments.page.35=耐久¶===================¶等级1至3+¶该附魔使工具平均寿命延长+100%每级。盔甲则分别延长+25%, +34%或+43%。工具材料永远不会自带此附魔，因为没有意义。
+
+    S:written.book.Manual_Extenders.page.0=本手册包括了扩展器和过滤器。它将详细解释这些设备的使用方法，以便您能轻松使用它们。
+    S:written.book.Manual_Extenders.page.1=首先说明任何过滤器和扩展器的面向。主要面是你可以用扳手设置的那个面，其周围有4个点环绕中心管道。
+    S:written.book.Manual_Extenders.page.2=次要面向是有输出样式的箭头的一面，这是使用活动扳手设置的。而扩展器/过滤器的其他面为中立面向。
+    S:written.book.Manual_Extenders.page.3=现在明确了这一点，我们可以讨论功能了。基本上，任何通过中立或次要面与扩展器'互动'（*稍后解释）的东西都会被重定向到主要面的方块实体。
+    S:written.book.Manual_Extenders.page.4=这意味着你通过中立面向或次要面插入物品时，主要面通常是（但不总是）输出侧。因此，将主要面连接到你想要延伸或进行过滤的方块实体上。
+    S:written.book.Manual_Extenders.page.5=关于次要面：如上文所述，5个面向会将其访问重定向到主要面的方块实体，但主要面本身也可以将所有该侧的访问重定向到次要面上的方块实体。
+    S:written.book.Manual_Extenders.page.6=这意味着如果你在某方块实体的同一个面有输入和输出，你可以将它的输出重定向到次要面的方向，同时从中立面向主要面的方块实体输出。
+    S:written.book.Manual_Extenders.page.7=从主要面到次要面的重定向不受过滤影响，只有从中立&次要面到主要面的交互是经过过滤的！希望这个解释足以让你正确使用过滤器。
+    S:written.book.Manual_Extenders.page.8=扩展器和过滤器不能串联使用，这意味着你需要在两个扩展器/过滤器之间放置某些东西，比如管道，除非它们是平行的。
+    S:written.book.Manual_Extenders.page.9=现在来解释'互动'的实际含义。漏斗从它'互动'的所有上方物体拉取物品，并向下推动物品给它可以'互动'的所有物体。这意味着物品的行进方向对于扩展器来说无关紧要。
+    S:written.book.Manual_Extenders.page.10=所以，如果你把漏斗放在扩展器下面，漏斗将从扩展器连接到的方块实体拉取物品。如果你把漏斗放在扩展器上面，它会将物品推入扩展器连接到的方块实体。
+    S:written.book.Manual_Extenders.page.11=扩展器基本上是为任何尝试以某种形式与它们互动的东西提供了一个接口，就好像附着的方块实体现在有两格大而不是一格。
+    S:written.book.Manual_Extenders.page.12=它们本身完全不做任何事情，它们只是在那里伪装成附着的方块实体。所以不要期望它们会主动输入输出任何物品，或者任何类似这种愚蠢的事情。
+   
+    S:written.book.Manual_Hunting_Blaze.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_Blaze.page.1=Blazes¶===================¶Blazes are floating, fireball shooting, yellow Heads with valuable fiery Rods rotating around them. Those Rods only drop if they are killed by a living thing, making them rare. They also deal Melee Fire Damage too.
+    S:written.book.Manual_Hunting_Blaze.page.2=Blazes¶===================¶As they shoot Fireballs, they can be hard to get close to. My advice is either just shooting them with a Bow or being very creative and using a Fishing Rod to reel them in for Melee Combat.
+    S:written.book.Manual_Hunting_Blaze.page.3=Blazes¶===================¶You can also just hide behind a Wall and wait for them to come close, and then strike and hide again, so they don't get a chance to fire back. Building such a Wall between you and the Blazes is also a good Idea.
+    S:written.book.Manual_Hunting_Blaze.page.4=Blazes¶===================¶Fire Resistance is a nice Effect you should somehow have on yourself when you fight them, it makes you nearly immune to Blazes overall. Also possible is the use of Iron Golems, what not many think about doing.
+    S:written.book.Manual_Hunting_Blaze.page.5=Blazes¶===================¶Snowballs are normally useless against Mobs but in case of Blazes they do cause some severe Damage and are easier throw than you can shoot a bow. Snow Golems wouldn't survive in the Nether but they would work too.
+    S:written.book.Manual_Hunting_Blaze.page.6=Blazes¶===================¶Using Wolves or Golems can lead to them knowing Blazes down the Platforms, meaning you might not get drops, or they will now attack you from a distance, only do this for Areas that are surrounded by Netherrack.
+    S:written.book.Manual_Hunting_Blaze.page.7=Blazes¶===================¶Blazes can also be damaged by Water Buckets, sure they won't drop anything, and Water Buckets don't work in the Nether, but this Information might be useful if you got some way to get Water over there.
+    S:written.book.Manual_Hunting_Blaze.page.8=Ghasts¶===================¶Ghasts, flying, ghost alike, crying Tentacle Monsters with explosive Projectiles. Their Tears are hard to get due to them being airborne and the Nether being all like 'The Floor is Lava!'.
+    S:written.book.Manual_Hunting_Blaze.page.9=Ghasts¶===================¶Their Projectiles can literally be punched back at them kinda like a Baseball, what will yield the 'Return to Sender' Achievement. What is a Baseball, you ask? I don't know either.
+    S:written.book.Manual_Hunting_Blaze.page.10=Ghasts¶===================¶Punching their Fireballs back at them can be hard to do, especially with Lag, but Arrows can deflect the fireballs aswell, meaning you can shoot Arrows at the Fireballs as a defense.
+    S:written.book.Manual_Hunting_Blaze.page.11=Ghasts¶===================¶In general any form of ranged Attack is advised, because it happens very rarely, that a Ghast is close enough to the ground to actually melee it. The Implosion Enchantment works well on them too.
+    S:written.book.Manual_Hunting_Blaze.page.12=Ghasts¶===================¶It can happen very often that you are unprepared and a Ghast shows up trying to blow you into smithereens. In that case, run away and hide, first.
+    S:written.book.Manual_Hunting_Blaze.page.13=Ghasts¶===================¶After you are done finding a hiding Spot, look at where exactly the Ghast is right now, so you can stay out of its Range. Then either continue your business or shoot the Ghast.
+    S:written.book.Manual_Hunting_Blaze.page.14=Ghasts¶===================¶If you are going to deflect a Ghast Blast the melee way, then use a Sword for that, as it gives you a slightly increased Range. This is especially useful if you cant use a Bow.
+    S:written.book.Manual_Hunting_Blaze.page.15=Ghasts¶===================¶Ghasts are the normal kind of Mob, they are neither Undead nor Spiders, there is no special Enchant against them, and Potions work normally on them.
+    
+    S:written.book.Manual_Hunting_Creeper.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_Creeper.page.1=Creepers¶===================¶Creepers are sneaky, suicidal, leafy sticks on 4 short Legs, which will blow up when they are close by. They drop Gunpowder and will not deal any damage aside from the explosion when you let them come close.
+    S:written.book.Manual_Hunting_Creeper.page.2=Creepers¶===================¶If a Creeper is struck by Lightning it will become supercharged and will explode with a much larger force. Creepers in general when shot by a Skeleton, will drop Music Discs, which are usable for the Jukebox.
+    S:written.book.Manual_Hunting_Creeper.page.3=Creepers¶===================¶In order to detonate, a Creeper needs to see the Player, due to this it is always recommended to take the high Ground as you can hide behind the Cliff you are standing on more easily.
+    S:written.book.Manual_Hunting_Creeper.page.4=Creepers¶===================¶Water is also a good place to melee a Creeper, as knockback will get it out of explosion Range, and even if it explodes it will not cause Damage to the ground, due to the Water absorbing the shock.
+    S:written.book.Manual_Hunting_Creeper.page.5=Creepers¶===================¶For Melee Combat in general it is adviced to have Weapons with a strong Knockback so you don't need to sprint to knock the Creeper out of the Detonation Zone. You can also just shoot an Arrow first and then melee.
+    S:written.book.Manual_Hunting_Creeper.page.6=Creepers¶===================¶The Implosion Enchantment does a great deal of Damage to Creepers. It can however only be gotten by enchanting Crowbars, or by using Tool Materials that have the Enchantment on them normally.
+    S:written.book.Manual_Hunting_Creeper.page.7=Creepers¶===================¶You can manually ignite Creepers with Flint and Steel or a Lighter, and Ammunition with the Fire Aspect Enchantment will ignite Creepers at a distance if Implosion is not also on the same Arrow or Bullet.
+    S:written.book.Manual_Hunting_Creeper.page.8=Creepers¶===================¶Last but not least, you can always just drop Water between you and the Creeper, it will slow it down considerably and if its about to explode anyways, then it won't damage the Terrain.
+    
+    S:written.book.Manual_Hunting_End.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_End.page.1=Endermen¶===================¶Endermen, 3m tall, black, purple eyed Teleporters with a weakness for Water and Silver (Disjunction Enchant), that can take some Blocks away from the World.
+    S:written.book.Manual_Hunting_End.page.2=Endermen¶===================¶Under normal circumstances Endermen just mind their Business and don't care what you are doing, but they do not like getting stared at, to the point that they will attack you if you do so.
+    S:written.book.Manual_Hunting_End.page.3=Endermen¶===================¶If you still want to look at them without them attacking you, then wear a carved Pumpkin as Helmet. But you are hunting them, probably for the Pearls, so turn to the next Page.
+    S:written.book.Manual_Hunting_End.page.4=Endermen¶===================¶Since Endermen don't usually attack you, I presume you just want their Pearls, and for that an Enderman Trap is a good Idea.
+    S:written.book.Manual_Hunting_End.page.5=Endermen¶===================¶The simplest Method is just standing below a 2m tall ceiling, so they cannot get to you. And then stare at every Enderman around to let them rage at you and attack you.
+    S:written.book.Manual_Hunting_End.page.6=Endermen¶===================¶Another way would be the use of Water Buckets to shield yourself off. Also they can only teleport distances of at least 16m btw, no shorter teleports are possible for them.
+    S:written.book.Manual_Hunting_End.page.7=Endermen¶===================¶As you may know, normal Arrows are pretty much worthless against them, that is why you should use Arrows with Disjunction on it (Silver), in order to prevent them from teleporting.
+    S:written.book.Manual_Hunting_End.page.8=Endermen¶===================¶If you encounter an angry Enderman, then try to run into the closest Forest, the low Trees are perfect hiding Spots, and they cant teleport to you if they are too close to you already.
+    S:written.book.Manual_Hunting_End.page.9=Endermen¶===================¶Melee attacks only work out if you look at their feet while swinging, as they will teleport away when you stare at them, since staring at them would freeze them into place.
+    S:written.book.Manual_Hunting_End.page.10=Endermen¶===================¶The Weakness Potion Effect is capable of preventing an Enderman from Teleporting, make use of that and splash them. (Note, that it is GregTech adding that Feature!)
+    S:written.book.Manual_Hunting_End.page.11=Ender Dragon¶===================¶The Ender Dragon is essentially the Queen of the Endermen. She flies around between Obsidian Pillars with Magical Ender Crystals, that will regenerate her Health. Her attack pattern is Kamikaze Melee.
+    S:written.book.Manual_Hunting_End.page.12=Ender Dragon¶===================¶She will obliterate every normal Block (except Endstone, Bedrock and Obsidian) when flying through it. She is immune to Knockback and Fire, and weak to the Disjunction Enchant found in Silver.
+    S:written.book.Manual_Hunting_End.page.13=Ender Dragon¶===================¶The first thing you have to do is making sure you don't get knocked into the Void. Building Walls will only help if you have Obsidian with you, since she can't break it, unlike everything else you can bring.
+    S:written.book.Manual_Hunting_End.page.14=Ender Dragon¶===================¶Once you are safe on the Main Island, you have to go and get rid of the Ender Crystals. They can easily be destroyed by Snowballs and Arrows. Do not melee those Crystals as they deal a huge explosion damage.
+    S:written.book.Manual_Hunting_End.page.15=Ender Dragon¶===================¶Due to the Kamikaze Ram Attack, the Ender Dragon can be fought in Melee aswell as with Bow and Arrow. Use Weapons with the Disjunction Enchant and get yourself some Strength Buff in order to deal more melee.
+    S:written.book.Manual_Hunting_End.page.16=Ender Dragon¶===================¶During the Fight it can happen that you stare at Endermen by accident, in order to prevent that you could either wear a Pumpkin as Hat and press F1, or just try to only look at a slight upwards angle.
+    
+    S:written.book.Manual_Hunting_Skeleton.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_Skeleton.page.1=Skeletons¶===================¶Skeletons, usually named after Fonts and armed with Bow and Arrows. They are good at aiming, some of them are even capable of picking up dropped Weapons and Armor.
+    S:written.book.Manual_Hunting_Skeleton.page.2=Skeletons¶===================¶If they somehow kill Creepers, those Creepers will drop Music Discs. Killing a Skeleton on long Range will yield the Sniper Duel Achievement aswell.
+    S:written.book.Manual_Hunting_Skeleton.page.3=Skeletons¶===================¶In order to not have a bad time with Skeletons, you need to either keep a Safe distance from them and shoot them from far away, or to quickly engage them with Melee Attacks, Speed is useful for this purpose.
+    S:written.book.Manual_Hunting_Skeleton.page.4=Skeletons¶===================¶When you charge at a Skeleton, strave slightly to the right or left in order to have less Arrows hit you, any way to instantly kill them with one blow, will greatly reduce the chance of more Arrows flying at you.
+    S:written.book.Manual_Hunting_Skeleton.page.5=Skeletons¶===================¶If you have a Sword then blocking with it will reduce the Damage of Arrows. This can easily be used even during Melee to not get that large amounts of Damage, even if you get hit.
+    S:written.book.Manual_Hunting_Skeleton.page.6=Skeletons¶===================¶Backing a Skeleton into a Corner, by pushing it or knocking it back for example, will result in the Arrow getting Stuck in the Wall in a glitchy fashion and therefore not flying at you or damaging you.
+    S:written.book.Manual_Hunting_Skeleton.page.7=Skeletons¶===================¶Walls of any kind are useful, but what really helps (if you are prepared) is Sugar Canes / Reeds as they can block their view on you, while letting you shoot through.
+    S:written.book.Manual_Hunting_Skeleton.page.8=Skeletons¶===================¶You can also use Saplings and (sadistically) Bonemeal to instantly create a small Forest as a Shield in the Grasslands.
+    S:written.book.Manual_Hunting_Skeleton.page.9=Skeletons¶===================¶Being in Water makes you an easy Target for the Skeleton, since you are slow and constantly get knocked back. But the Skeleton being in Water can be worse as it bounces up and down without losing accuracy!
+    S:written.book.Manual_Hunting_Skeleton.page.10=Skeletons¶===================¶But if both you and the Skeleton are in deep water then diving below the surface and attacking the Skeleton from below is the best advise I can give, as the Skeletons often miss at steep angles.
+    S:written.book.Manual_Hunting_Skeleton.page.11=Skeletons¶===================¶In some cases it is possible to just drop a Stone or a Wooden Sword for the Skeleton to pick up, they will drop their Bow in this case. However, this does not work on every Skeleton!
+    S:written.book.Manual_Hunting_Skeleton.page.12=Skeletons¶===================¶Skeletons are grouped amoung the Undead Mobs, meaning they can be damaged by Sunlight, since it sets them on Fire. The Smite Enchant will also help a lot.
+    S:written.book.Manual_Hunting_Skeleton.page.13=Skeletons¶===================¶Due to being undead, Healing Splash Potions deal damage to them, while poisoning ones heal them. Since Skeletons shoot Arrows, it is a good Idea to wear Armor with Projectile Protection on it.
+    S:written.book.Manual_Hunting_Skeleton.page.14=Skeletons¶===================¶It is always a good Idea to just make Skeletons attack each other or other Mobs in order to make the attacked Mob angry at them (instead of you), causing them to kill each other.
+    S:written.book.Manual_Hunting_Skeleton.page.15=Spider Jockeys¶===================¶Ever saw a Skeleton Ride a Spider? Yeah its a terrifying picture. The speed and mobility of a Spider and a 'Turret' on its back.
+    S:written.book.Manual_Hunting_Skeleton.page.16=Spider Jockeys¶===================¶To fight them you can use easy tricks, like making the Spider crawl up a wall into the Roof, crushing the Skeleton that rides it in the process.
+    S:written.book.Manual_Hunting_Skeleton.page.17=Spider Jockeys¶===================¶In general you can apply the Strategies for both the Skeletons and the Spiders, to this combo. It's always the best solution to just shoot them from far away though.
+    S:written.book.Manual_Hunting_Skeleton.page.18=Spider Jockeys¶===================¶If you have a Bow then go for the Skeleton first, if you have to Melee then go for the Spider. Alternatively you can wait for the Sun to burn the Skeleton before engaging.
+    S:written.book.Manual_Hunting_Skeleton.page.19=Wither Skeletons¶===================¶Wither Skeletons are just like normal Skeletons with a Stone Sword, that instead of Arrows will drop regular Coal. They also are 3 Blocks tall and can absorb your Health.
+    S:written.book.Manual_Hunting_Skeleton.page.20=Wither Skeletons¶===================¶While Witherskeletons behave like any other humanoid Melee Mob, they are relatively fast and less stupid than Zombie Pigmen. If you want to know if you can handle one, practise on Zombie Pigmen first.
+    S:written.book.Manual_Hunting_Skeleton.page.21=Wither Skeletons¶===================¶Due to being about 3m tall, just like Endermen, you can essentially hide behind a 2m tall Roof and grind them into Ashes, uhh I mean Coal.
+    S:written.book.Manual_Hunting_Skeleton.page.22=Wither Skeletons¶===================¶In Melee Situations, walking backwards and swinging is the best way to fight them without getting yourself harmed, but watch out for Fire and Lava behind you.
+    S:written.book.Manual_Hunting_Skeleton.page.23=Wither Skeletons¶===================¶An Iron Golem is a good Idea to have with you, just take Iron Blocks and a Pumpkin with you. The Iron Golem will turn every hostile Mob in the area into scraps.
+    S:written.book.Manual_Hunting_Skeleton.page.24=Wither Skeletons¶===================¶Those black Skeletons spawn alongside regular Skeletons with Bow & Arrow inside a Nether Fortress, and they are the only really aggressive Mob there, aside from Blazes.
+    S:written.book.Manual_Hunting_Skeleton.page.25=Wither Skeletons¶===================¶If you end up fighting both a Wither Skeleton and a Blaze, the best is to hide outside the Range of the Blaze and trying to fight the Skeleton first, or to bring the Skeleton between the Blaze and yourself.
+    S:written.book.Manual_Hunting_Skeleton.page.26=Wither Skeletons¶===================¶Since most of the times you are in the Nether with these Mobs, placing a Nether Portal close by to lure Mobs inside it, by hiding behind it, might be a good Idea (if you don't plan to use that Portal later).
+    S:written.book.Manual_Hunting_Skeleton.page.27=Wither Skeletons¶===================¶The Heads, which are dropped by every 40th Wither Skeleton, can be used to summon the Wither, but the Wither is being talked about in another Book.
+    
+    S:written.book.Manual_Hunting_Spider.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_Spider.page.1=Spiders¶===================¶Spiders, octo-legged, climbing, pastry selling Arthropods, that can jump at you. Often accompanied by a random Potion Effect, which doesn't ever run out, making them invisible, resistant, regenerating or faster.
+    S:written.book.Manual_Hunting_Spider.page.2=Spiders¶===================¶They are fast, usually faster than you unless you run. They can also climb to a certain extend, so Walls won't help much, however Spiders can easily get stuck on ceilings, where they could fall down on you!
+    S:written.book.Manual_Hunting_Spider.page.3=Spiders¶===================¶The normal way to beat them is already very effective, just melee or shoot them. They have less Health than other Mobs. The Bane of Arthropods Enchant is very effective on them.
+    S:written.book.Manual_Hunting_Spider.page.4=Spiders¶===================¶Spiders will jump/pounce at you when they are close, if you time it right then hitting them will knock them back farther than usual. Also always have the high Ground when fighting Spiders as otherwise they'll jump you.
+    S:written.book.Manual_Hunting_Spider.page.5=Spiders¶===================¶If you are in a Desert, then look out for some tsundere Plants called 'Cactus', plural being 'Cactii', Spiders apparently love climbing them, damaging themselves in the process.
+    S:written.book.Manual_Hunting_Spider.page.6=Spiders¶===================¶At daytime, Spiders are tired and usually not aggressive. If you attack them then and with critical hits, then they will die by the surprise and won't damage you.
+    S:written.book.Manual_Hunting_Spider.page.7=Spiders¶===================¶Running is the best thing to do when fighting Spiders, not running away, I mean running at them or keeping a safe distance during combat. Spiders are immune to Poison, so splashing them with it isn't effective at all.
+    S:written.book.Manual_Hunting_Spider.page.8=Spiders¶===================¶They get stuck at overhangs, meaning if you build a pillar with 4 overhang blocks (one at each side) Spiders won't get up and you can damage them from ontop of that pillar.
+    S:written.book.Manual_Hunting_Spider.page.9=Spiders¶===================¶due to being 2m in diameter, hiding in a 1m tight spot is a good idea when fighting regular Spiders. This doesn't work on the poinsonous Cave Spiders though.
+    S:written.book.Manual_Hunting_Spider.page.10=Cave Spiders¶===================¶Cave Spiders are just 1m in diameter and they inject poison when they melee you. They normally only spawn inside Mineshafts, since there are Spawners for them over there.
+    S:written.book.Manual_Hunting_Spider.page.11=Cave Spiders¶===================¶The Spawners are surrounded by lots and lots of Webs, those webs will slow you down, so take your Sword or Silk Touch Shears and slice those Webs away, also useful if you need String.
+    S:written.book.Manual_Hunting_Spider.page.12=Cave Spiders¶===================¶Cave Spiders often get Stuck at the wooden Pillars or hide in the ceiling at those, so be careful where you walk as they will fall down at you very surprisingly despite making lots of noise.
+    S:written.book.Manual_Hunting_Spider.page.13=Cave Spiders¶===================¶Due to them being poisonous, Milk or any sort of Antidote Pill are useful Items to have on your Hotbar. Also hiding from them by closing off Paths is very needed sometimes.
+    
+    S:written.book.Manual_Hunting_Witch.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_Witch.page.1=Witches¶===================¶Witches are uglier Villagers with Potion Skills. When damaged they will drink a Potion of Regeneration or Fire Resistance depending on the source of the Damage. They sometimes drop the **most recently used** Potion.
+    S:written.book.Manual_Hunting_Witch.page.2=Witches¶===================¶Their attacks are Splash Potions of Poison and Harming. Since they use Fire Resistance Potions 'BURN THE WITCH!!!' is not an attack option for you. Drowning doesn't work either, as they use Water Breathing Potions.
+    S:written.book.Manual_Hunting_Witch.page.3=Witches¶===================¶Bow and Arrow are ofcourse a good option, but if you have to melee then do it fast and run straight at the Witch to hit them. This will cause the Witch to try healing themself instead of attacking you.
+    S:written.book.Manual_Hunting_Witch.page.4=Witches¶===================¶A Bucket of Water can give you the needed distance from the Witch in order to attack them with ranged Weapons. But watch out, if you are too far away, the Witch may use Speed Potions to be able to catch up with you.
+    S:written.book.Manual_Hunting_Witch.page.5=Witches¶===================¶In swampy Areas there is the possibility to find Witch Huts, those Huts may be very small but only Witches can spawn in there, meaning a Mob Spawning Area built around it will only spawn Witches!
+    S:written.book.Manual_Hunting_Witch.page.6=Witches¶===================¶Witches drop Empty Bottles, Sticks, Redstone, Glowstone, Sugar, Spider Eyes, Gunpowder and Potions. This makes them a valuable Mob to farm and also a way to get Glowstone and Potions without the Nether.
+    
+    S:written.book.Manual_Hunting_Zombie.page.0=Hi, I'm Alex Grylls, Adventurer and experienced Hunter of the several Mobs you encounter in our World. In this Guide I will explain you easy Methods to hunt for wild Mobs in their natural Habitats.
+    S:written.book.Manual_Hunting_Zombie.page.1=Zombies¶===================¶Zombies, the most common Mob in Minecraft. Zombies always attack with Melee Damage and they can wield Weapons and wear Armor.
+    S:written.book.Manual_Hunting_Zombie.page.10=Zombies¶===================¶As always, Bow and Arrows can help you killing Zombies, it is a good Idea to use golden Arrows or other Smite Arrows if possible. But usually there are too many of them to kill all.
+    S:written.book.Manual_Hunting_Zombie.page.11=Zombies¶===================¶Use Knockback on Zombies even if not needed, otherwise there might be too many Zombies grouping up at you if you are surrounded, so keep them at distance.
+    S:written.book.Manual_Hunting_Zombie.page.12=Zombies¶===================¶Keep Zombies in the Water, they are almost helpless there and can't shoot you like Skeletons would. They are swimming much slower than you do.
+    S:written.book.Manual_Hunting_Zombie.page.13=Zombies¶===================¶Iron Golems are made for killing Zombies, they might be a viable option for your purposes.
+    S:written.book.Manual_Hunting_Zombie.page.14=Zombies¶===================¶The official Mojang term for Zombies wearing golden Armor is 'Zom-Bling'.
+    S:written.book.Manual_Hunting_Zombie.page.15=Baby Zombies¶===================¶Annoying little Bastards would be a better Name for them, not only that they are immune to Sunlight, they are also very fast and hard to hit!
+    S:written.book.Manual_Hunting_Zombie.page.16=Baby Zombies¶===================¶If you didn't need the Anti Zombie Strategies before, then now you probably need to use them, since those little things can ruin your day.
+    S:written.book.Manual_Hunting_Zombie.page.17=Baby Zombies¶===================¶If you have the option, go for the Water, they aren't fast there. Other than that, mow your lawn and then aim low and hit them as fast as you can!
+    S:written.book.Manual_Hunting_Zombie.page.18=Chicken Jockeys¶===================¶Thought it couldn't get any worse? Chickens are faster than those Baby Zombies and now they actually ride the Chickens!
+    S:written.book.Manual_Hunting_Zombie.page.19=Chicken Jockeys¶===================¶Shoot the Chicken, yes get rid of it as fast as possible, you won't be able to Melee it as the Zombie is in the way, but you can try to shoot it!
+    S:written.book.Manual_Hunting_Zombie.page.2=Zombies¶===================¶Zombies are grouped amoung the Undead Mobs, meaning they can be damaged by Sunlight, since it sets them on Fire. However, this does not apply to Baby Zombies!
+    S:written.book.Manual_Hunting_Zombie.page.20=Chicken Jockeys¶===================¶Other than that? Run for your life and try to either find a pond of water or use a Water Bucket on them, maybe you get it to dismount by doing so!
+    S:written.book.Manual_Hunting_Zombie.page.21=Zombie Pigmen¶===================¶Zombie Pigmen, usually wielding a Golden Sword and dropping Gold Nuggets. The only pieceful Zombie, well peaceful until a Player harms it.
+    S:written.book.Manual_Hunting_Zombie.page.22=Zombie Pigmen¶===================¶If a Player does any damage to a Zombie Pigman, all the other Pegmen get angry and try to kill you, not only are they pretty fast, but they also do lots of Damage!
+    S:written.book.Manual_Hunting_Zombie.page.23=Zombie Pigmen¶===================¶Zombie Pigmen are immune to Fire and the Sun, if you happen to find one in the Overworld (Pig struck by Lightning, or fresh from a Portal) it is usually safe to kill.
+    S:written.book.Manual_Hunting_Zombie.page.24=Zombie Pigmen¶===================¶The easiest Solution is not to harm them, but it always can happen that you accidentially do harm to them, or you mine the Ores of that Nether Ores Mod.
+    S:written.book.Manual_Hunting_Zombie.page.25=Zombie Pigmen¶===================¶In that case, pillar up or dig yourself in, as fast as possible! You don't want to die instantly and drop all your Inventory into the Nether.
+    S:written.book.Manual_Hunting_Zombie.page.26=Zombie Pigmen¶===================¶Once you have done that, make yourself a comfortable spot to attack the Pigmen from a space where they cant attack you.
+    S:written.book.Manual_Hunting_Zombie.page.27=Zombie Pigmen¶===================¶Since most of the times you are in the Nether with these Mobs, placing a Nether Portal close by to lure Mobs inside it, by hiding behind it, might be a good Idea (if you don't plan to use that Portal later).
+    S:written.book.Manual_Hunting_Zombie.page.28=Zombie Pigmen¶===================¶As they are undead like normal Zombies aswell, Splash Potions of Regeneration and Healing can deal great damage to them, while leaving yourself unharmed.
+    S:written.book.Manual_Hunting_Zombie.page.29=Zombie Villagers¶===================¶They behave just like normal Zombies, even though they look much worse, the only difference is that you can cure them to get Villagers, what will be explained in the following Pages.
+    S:written.book.Manual_Hunting_Zombie.page.3=Zombies¶===================¶Due to being undead, Healing Splash Potions deal damage to them, while poisoning ones heal them. The Smite Enchant is a good way to cause a lot of damage on them.
+    S:written.book.Manual_Hunting_Zombie.page.30=Zombie Villagers¶===================¶First of all, you need a good place to actually cure that Zombie without other Zombies turning the Villager right back into the undead Green.
+    S:written.book.Manual_Hunting_Zombie.page.31=Zombie Villagers¶===================¶For that you need to know, that the Transformation back into a Villager for some reason goes by faster if you use vanilla Iron Bars for the Cage.
+    S:written.book.Manual_Hunting_Zombie.page.32=Zombie Villagers¶===================¶Once you got the Cage, there are multiple Options on the Item you use to cure the Villager Zombie. There are multiple options.
+    S:written.book.Manual_Hunting_Zombie.page.33=Zombie Villagers¶===================¶Splash Potions of Weakness + Golden Apples are one way. Holy Water or the rainbow colored Cure-All Pill are other alternatives. Get the Item of your choice and continue.
+    S:written.book.Manual_Hunting_Zombie.page.34=Zombie Villagers¶===================¶Now you need to somehow lure the Zombie Villager into your Cage. Don't worry, the Villager won't remember that you punched them while they were a Zombie.
+    S:written.book.Manual_Hunting_Zombie.page.35=Zombie Villagers¶===================¶A fishing Rod can also work wonders on moving the Zombie into the right directions. Punching them into a pit and closing it off, will work aswell.
+    S:written.book.Manual_Hunting_Zombie.page.36=Zombie Villagers¶===================¶If your Cage is outside (or improvised), then make sure the Sun won't burn the Villager before you can heal them. Add a Roof or something to your Cage, once you caught them.
+    S:written.book.Manual_Hunting_Zombie.page.37=Zombie Villagers¶===================¶So, now that you got the Villager into a Cage, you can heal them. Once you have done that, transport the Villager somewhere else, maybe with Rails and Minecarts.
+    S:written.book.Manual_Hunting_Zombie.page.4=Zombies¶===================¶Do not underestimate their Melee Damage and try to keep a safe distance while attacking them, make sure they dont hit you when you Melee them yourself.
+    S:written.book.Manual_Hunting_Zombie.page.5=Zombies¶===================¶While wearing a Helmet they are immune to the Sun, that is until the Helmet loses all of its durability and breaks as it gets damaged when worn by a Zombie in Sunlight.
+    S:written.book.Manual_Hunting_Zombie.page.6=Zombies¶===================¶Zombies are attracted by Villagers, you can use them to distract them. If you want them to murder that Village, that is.
+    S:written.book.Manual_Hunting_Zombie.page.7=Zombies¶===================¶They can detect you from very far distances and will therefore end up swarming you from all directions, if you are not careful.
+    S:written.book.Manual_Hunting_Zombie.page.8=Zombies¶===================¶Build yourself a small fortification if you are in the wild. Zombies luckily cannot break Blocks so they won't be able to attack you if you build it right.
+    S:written.book.Manual_Hunting_Zombie.page.9=Zombies¶===================¶Since Zombies normally group up on you due to coincedential pathfinding, it is well advised to just throw Splash Potions of Regeneration or Healing at them, since they are damaged by those.
+    
+    S:written.book.Manual_Microwave.page.0=恭喜，你将一本空白的书放入微波炉中，这些文字就这样凭空出现了。
+    S:written.book.Manual_Microwave.page.1=你刚刚获得了一个微波炉，可能在想'我为什么需要它？'。答案很简单，微波炉只需消耗128 EU就能以惊人的速度加热食物。即使是普通的电炉也无法如此快速和经济地完成烹饪！
+    S:written.book.Manual_Microwave.page.2=这是最经济快捷的烹饪方式。因此，微波炉几乎可以在每个厨房中找到（详见 www.youwannabuyakitchen.ly）。
+    S:written.book.Manual_Microwave.page.3=长时间暴露于微波下可能会导致癌症，但Steve能否能活到因此而死还是个问题。
+    S:written.book.Manual_Microwave.page.4=不要放入任何金属物品。这可能导致爆炸。
+    S:written.book.Manual_Microwave.page.5=不要用它来烘干动物。无论你放入什么动物，结果都只会是一根热狗。
+    S:written.book.Manual_Microwave.page.6=不要放入易燃物体。微波炉会因此起火。
+    S:written.book.Manual_Microwave.page.7=不要放入诸如鸡蛋之类的爆炸物。请一定遵守这一条。
+    
+    S:written.book.Manual_Portal_TF.page.0=This Books existence means that you found a GregTech 6 Dungeon with a Twilight Forest Portal inside of it, congratulations. If you don't know how to light the Portal to go on the Adventure, don't worry, in here are some instructions.
+    S:written.book.Manual_Portal_TF.page.1=Step 1: You see the 4x4 of Grass Blocks with 12 Flowers growing on it and a 2x2 Pool of Water in the middle? That is going to be the Twilight Forest Portal.
+    S:written.book.Manual_Portal_TF.page.2=Step 2: All you need to do to activate that Portal, is throwing a Diamond into that Water Pool, and you are ready to go. Yep, it is that simple. I did all the work for you and summoned the Blocks of the Portal in the right configuration.
+    
+    S:written.book.Manual_Printer.page.0=恭喜您获得了一台新的扫描仪和/或打印机。您在购买时收到的这本手册将非常有用。请记住，如果您丢失了它，可以让打印机为您创建一个新的。
+    S:written.book.Manual_Printer.page.1=首先，您需要通过设备背面为扫描仪和打印机提供电力。只需将它们插入相应电压的插座即可。接下来，您需要一根USB线缆或一个USB闪存盘来连接它们。
+    S:written.book.Manual_Printer.page.2=任何USB闪存盘都可以使用，因为图像和文本文件并不大，不超过USB 1.0的标准，尽管当然也可以使用更高版本的USB接口，得益于向下兼容性。
+    S:written.book.Manual_Printer.page.3=现在，您需要根据所需执行的任务补充打印机的墨水储备。为此仅接受化学染料。黑色用于文本，CMYK用于图像，蓝色或白色用于蓝图。
+    S:written.book.Manual_Printer.page.4=完成以上步骤后，是时候将需要扫描的物品放入扫描仪中进行扫描了。只需插入USB并放入您想要扫描的书籍、画布、蓝图等。如果插入方块，它也会扫描其表面。
+    S:written.book.Manual_Printer.page.5=成功扫描后，它会弹出可能插入的USB闪存盘以及扫描的物品。现在您可以将数据和所需的纸张/画布类型放入打印机中，让它打印您的产品。
+    S:written.book.Manual_Printer.page.6=打印机不仅可以打印画布和书籍，还可以执行更多类型的打印任务。NEI会帮助您了解所有可能的配方。
+        
+    S:written.book.Manual_Punch_Cards.page.0=本手册将解释打孔卡的功能，它们还没有完全实现。不，它们不会像现实生活中的打孔卡。这只是一个当前的想法集合。
+    S:written.book.Manual_Punch_Cards.page.1=(i1&&i2)?o1=15:o1=0;=10
+    S:written.book.Manual_Punch_Cards.page.2=忽略所有空白字符，使用 Long 类型保存数字。
+    S:written.book.Manual_Punch_Cards.page.3=&& || ^^ & | ^ ! ++ -- + - % / // * ** << >> >>> < > <= >= == !=  ~ ( ) ?: , ; ;= ;=X; = i0 i1 i2 i3 i4 i5 o0 o1 o2 o3 o4 o5 v0 v1 v2 v3 v4 v5 v6 v7 v8 v9 m0 m1 m2 m3 m4 m5 m6 m7 m8 m9 A B C D E F
+    S:written.book.Manual_Punch_Cards.page.4='0' 表示 false, '非0' 表示 true, '!' 将 '0' 转换为 '1' 并将其他所有值转换为 '0'
+    S:written.book.Manual_Punch_Cards.page.5=',' 用于分隔一行中多个连续执行的代码。
+    S:written.book.Manual_Punch_Cards.page.6=';' 表示程序在继续之前等待下一个刻。';=10' 和 ';=10;' 都表示它将等待10个刻而不是1个。而 ';=0' 或任何小于0的值默认为0。
+    S:written.book.Manual_Punch_Cards.page.7=如果 '=' 操作符在括号内使用，则返回被赋值的变量值。
+    S:written.book.Manual_Punch_Cards.page.8=程序在其NBT中保存当前任务的字符索引、10个变量（程序循环结束时重置为0）、10个成员变量以及剩余的等待时间。
+    S:written.book.Manual_Punch_Cards.page.9=A = 10, B = 11, C = 12, D = 13, E = 14, F = 15，仅为节省十六进制空间，因为红石仅有4个位。
+    S:written.book.Manual_Punch_Cards.page.10=如何实现循环：每个循环只需要一张打孔卡。这些卡片可以在完成后重新开始，具体取决于您插入程序循环中的其他卡片数量，因为它们会按顺序处理。
+    S:written.book.Manual_Punch_Cards.page.11=一个打孔卡处理器可以并行运行最多四个循环，每个循环长度为七张打孔卡。
+    S:written.book.Manual_Punch_Cards.page.12=您可能会问，为什么打孔卡需要墨水来制作？因为空白卡片需要有一些线条，并且对于打孔后的卡片，它会在卡片上以“人类”可读的格式打印要执行的代码。
+        
+    S:written.book.Manual_Random.page.0=本书包含了一些可能在某些时候有用的信息。遇到问题时请阅读它，也许能找到解决方案。
+    S:written.book.Manual_Random.page.1=第一个提示很明显：务必总是先阅读完工具提示！工具提示通常包含了你需要的信息，但很多人懒得读完它们。它们通常包含了机器的所有数据。
+    S:written.book.Manual_Random.page.2=如果一台机器无法处理某个配方（但能处理其他配方），那么你提供的电力不足。这总是问题所在。机器的级别决定了它比正常配方多消耗多少能量。
+    S:written.book.Manual_Random.page.3=机器的级别如下：每刻消耗16-64GU为一级¶二级：65-256¶三级：257-1024¶四级：1025-4096¶五级：4097-16192
+    S:written.book.Manual_Random.page.4=如果你使用的机器级别高于配方的级别（参见其GU/t），它会将所需的输入GU/t乘以4并将处理时间除以2，使配方总耗能加倍。
+    S:written.book.Manual_Random.page.5=是的，64 GU/t 仍然是第一级，你确实需要向一级机器中输入这么多！通常可以使用更高级别的电机/加热器等，在最低功率输入下获得GU/t。
+    S:written.book.Manual_Random.page.6=GT6电力与所有使用IC² API的模组广泛兼容，如：¶IC², IC²-Classic, IC²-Addons, Railcraft, Forestry 等！
+    S:written.book.Manual_Random.page.7=输出电压小于1024 EU/t的设备甚至可以为以下模组的非IC²机器供电：¶Galacticraft及其附加包, Applied Energistics, Immersive Engineering, OpenModularTurrets, TechGuns 甚至 GT5U！
+    S:written.book.Manual_Random.page.8=任何类型的燃烧室都存在火灾隐患，确保周围只有防火材料！关闭这些燃烧室的唯一方法是在前面放置一个实心方块或使用灭火器。
+    S:written.book.Manual_Random.page.9=你想搬运水或获取牛奶，但没有铁桶？尝试制作一个木桶来完成这个任务，虽然它只适用于少量种类的液体，但更便宜。
+    S:written.book.Manual_Random.page.10=如果你需要打印机的手册，只需将化学黑色染料和一本空的原版书放入其中并提供能量。它会立即打印出该手册。
+    S:written.book.Manual_Random.page.11=浸洗盆和浸洗器可以使用液态染料给皮革盔甲和GT6方块上色。¶你可以在早期通过将矿石扔进装满水的炼药锅里来清洗矿石。另外，容量为334L及以上的GT管道可以给锅加水。
+    S:written.book.Manual_Random.page.12=为了能够在后期自动化机器而不造成混乱，请将机器稍微分散开来。每台机器之间至少留出两个方块的空间，最好是三个！忽略可能的电力损失，这是值得的。
+
+    S:written.book.Manual_Reactors.page.0=¶¶===================¶前言¶===================¶
+    S:written.book.Manual_Reactors.page.1=[Transcript]¶恭喜 [输入员工的名字] 成功从核科学专业毕业!¶你已被录取到 Apature Atomics, 操作核心反应堆.
+    S:written.book.Manual_Reactors.page.2=我会教你如何在尽量避免爆炸的情况下操作:¶大部分反应堆的心脏----反应堆核心.
+    S:written.book.Manual_Reactors.page.3=我们的一些工程师会说所谓的核心只是一个带有四个活塞的金属盒子, 公司为它提供的算力太多了, 四根线就能控制一切.
+    S:written.book.Manual_Reactors.page.4=真有人会觉得四根破电线就能避免核毁灭? 我想他们也不希望看到满世界的核尘埃吧。因此我们的反应堆核心中，每个控制棒控制器都是有意识的。
+    S:written.book.Manual_Reactors.page.5=它们最好是不要爆炸，因为如果那样的话我会非常生气，并将它们流放到“反应堆棒控制器”的地狱！
+    S:written.book.Manual_Reactors.page.6=我们是这样告诉它们的，但显然这样的地方并不存在，我们没有钱去资助每一个愚蠢的控制器。相反，它们会被送到机器人地狱，在那里被永恒地焚烧和重建，而我们可以收集有用的数据。
+    S:written.book.Manual_Reactors.page.7=但是它们根本不会自动插入拔出反应堆控制棒，使得反应堆绝对安全，但也相当无用，所以我们覆盖了它们对控制棒的控制权，改为由四根电线控制。
+    S:written.book.Manual_Reactors.page.8=任何你可能听说过的1x1反应堆核心都只是传闻，我们当然永远不会建造这样的东西，因为很明显，如果没有其他三个来陪伴它，控制棒控制器会发疯。
+    S:written.book.Manual_Reactors.page.9=在你不太可能遇到这样一个核心的情况下，这不会发生，如果它们存在的话，我们已经把它们送到了机器人地狱，在那里它们会处于不断的痛苦之中，但这不会发生，因为它们并不存在。
+    S:written.book.Manual_Reactors.page.10=安全重于一切, 我需要首先向你介绍最重要的部分: 始终穿戴好防辐射服. 不要引爆核反应堆. 不要引爆核反应堆. 不要引爆核反应堆. 不要让堆芯熔毁.
+    S:written.book.Manual_Reactors.page.11=在发生堆芯熔毁的情况下，不要否认是你造成的。不要触摸运行中的反应堆。不要破坏运行中的反应堆。不要舔舐运行中的反应堆。不要让野生动物靠近反应堆。
+    S:written.book.Manual_Reactors.page.12=不要吃核燃料。不要用核反应堆做饭。在出现肿瘤的情况下，也不要吃核燃料。（这是个玩笑，请勿模仿）这些应该是你需要知道的一切，现在去做实验吧，创造一些爆炸性的科学发现!
+    S:written.book.Manual_Reactors.page.13=¶¶===================¶反应堆基本操作指南¶===================¶
+    S:written.book.Manual_Reactors.page.14=核反应堆核心（2x2）有四个反应堆棒的插槽。插入反应堆的棒只会直接与直接相邻的4个反应堆棒互动，包括在其他反应堆核心块上的相邻棒。
+    S:written.book.Manual_Reactors.page.15=使用棒右键点击插槽可以手动将棒插入插槽。用钳子右键点击插槽会拔出插槽内的反应堆棒。
+    S:written.book.Manual_Reactors.page.16=当反应堆块关闭时，反应堆棒可以自动插入顶部。同样，当块关闭时，可以从底部自动提取它们。
+    S:written.book.Manual_Reactors.page.17=可以用软锤手动切换反应堆的开启或关闭。也可以用红石机器开关配合红石自动开关。当反应堆关闭时，反应堆的行为与它不包含任何棒相同。
+    S:written.book.Manual_Reactors.page.18=各个棒也可以被切换为开启或关闭状态，以表现得如同插槽为空。这可以通过红石或手动选择器完成。
+    S:written.book.Manual_Reactors.page.19=反应堆核心有两个内部储罐，分别可以储存64,000升冷/热冷却液。不同的冷却液对插入的反应堆棒有不同的效果。冷冷却液可以从任意一侧输入。
+    S:written.book.Manual_Reactors.page.20=热冷却液将向红色面自动输出。如果冷冷却液储罐超过半满，冷冷却液将向蓝色面自动输出。红色面可以用扳手更改，蓝色面向可以用活动扳手更改。
+    S:written.book.Manual_Reactors.page.21=当反应堆运行时，中子会在反应堆棒上进行多种工作。
+    S:written.book.Manual_Reactors.page.22=通常，每个中子都会直接以HU的形式输出到反应堆。中子仅持续一秒，因此每秒才会更新一次。
+    S:written.book.Manual_Reactors.page.23=中子数可以用盖革计数器右键点击反应堆核心来手动测量。盖革计数器传感器也可以连接到反应堆核心，以测量4个反应堆棒上的中子总和。
+    S:written.book.Manual_Reactors.page.24=传感器百分比模式的100%指的是反应堆核心内所有燃料棒的最大中子值之和。反应堆还会根据所有反应堆棒上当前中子数的最高者发出辐射。
+    S:written.book.Manual_Reactors.page.25=强烈建议在远离任何定居点的地方建造反应堆，并穿戴辐射防护服。任何反应堆核心在没有冷却液的情况下加热都会爆炸。
+    S:written.book.Manual_Reactors.page.26=如果在反应堆冷却液用尽后再次吸收中子热能，反应堆将会爆炸。
+    S:written.book.Manual_Reactors.page.27=如果反应堆内没有空间容纳产生的热冷却液，反应堆将会爆炸。
+    S:written.book.Manual_Reactors.page.28=¶¶===================¶反应堆棒指南¶===================¶
+    S:written.book.Manual_Reactors.page.29=空反应堆棒¶===================¶什么都不会发生，也不接受中子。
+    S:written.book.Manual_Reactors.page.30=燃料棒¶===================¶燃料棒向自身和相邻的反应堆棒发射中子。它们有几个基本属性，会根据棒的材料和反应堆中使用的冷却液而变化。
+    S:written.book.Manual_Reactors.page.31=Self: 表示了棒向其自身插槽输出多少中子。¶Emission: 表示它会向每个相邻反应堆棒输出多少中子。
+    S:written.book.Manual_Reactors.page.32=factor: 因子，表示它会向相邻反应堆棒输出多少额外的中子，输出数=因子*棒目前有的中子数。
+    S:written.book.Manual_Reactors.page.33=更大的因子意味着每当中子棒自身中子数提高时, 额外中子输出的更多。¶Maximum: 最大中子值，表示在这个燃料棒上可以有多少中子，大于此值时它的持续时间将会更快地降低。
+    S:written.book.Manual_Reactors.page.34=超过最大中子值时，燃料棒的持续时间以四倍以上的速度降低，降低速度随着超过最大中子值的中子数量线性增加。
+    S:written.book.Manual_Reactors.page.35=慢化燃料棒会使相邻的活动燃料棒也变为慢化。慢化燃料棒消耗速度会快四倍，并且增殖棒不会吸收慢中子。
+    S:written.book.Manual_Reactors.page.36=当燃料棒的剩余持续时间耗尽时，它将转换为耗尽的燃料棒。
+    S:written.book.Manual_Reactors.page.37=耗尽的燃料棒¶===================¶在反应堆内时什么都不做。不接受中子。可以通过离心获得一些燃料和一些更高级别的裂变燃料。
+    S:written.book.Manual_Reactors.page.38=吸收棒¶===================¶吸收棒从相邻的燃料棒接受中子。每个吸收棒上的中子会被转化为2HU而非1HU。
+    S:written.book.Manual_Reactors.page.39=反射棒¶===================¶直接将任何放置在其上的中子返回给来源。因此它们上面永远不会2HU而非1HU
+    S:written.book.Manual_Reactors.page.40=慢化棒¶===================¶像反射棒一样，它们将中子直接返回给来源，但是它们返回的中子数量会乘以向它们发射中子的燃料棒的数量。
+    S:written.book.Manual_Reactors.page.41=它们最多可以反射回四倍数量的中子。它们上面也不会有任何中子。但它同时也会慢化相邻的燃料棒，
+    S:written.book.Manual_Reactors.page.42=使它们变为慢化状态, 即消耗速度快四倍，增殖棒不吸收慢中子。慢化燃料棒同时也会使相邻的激活燃料棒变为慢化。
+    S:written.book.Manual_Reactors.page.43=增殖棒¶===================¶每次更新，这个棒的中子所需数量会减去棒上的中子数。如果所需中子数达到零，棒将变成富集棒。
+    S:written.book.Manual_Reactors.page.44=增殖棒不会接受来自慢化燃料棒的中子。每次发射到此棒上的中子数会先扣除loss值，
+    S:written.book.Manual_Reactors.page.45=即任何一个面发射到增殖棒上的中子都会损失一次loss值，而不仅仅是针对增殖棒整体的一次损失。
+    S:written.book.Manual_Reactors.page.46=¶¶===================¶Guide to Reactor Coolants¶===================¶
+    S:written.book.Manual_Reactors.page.47=蒸馏水¶===================¶直接转化为蒸汽，不需要热交换器。消耗80 HU将1升蒸馏水转换成160升蒸汽。慢化内部的所有燃料棒。不会改变燃料棒的属性。
+    S:written.book.Manual_Reactors.page.48=半重水¶===================¶消耗40 HU将1升半重水转换成1升热半重水。慢化任何内部的燃料棒。不会改变燃料棒的属性。
+    S:written.book.Manual_Reactors.page.49=重水¶===================¶消耗50 HU将1升重水转换成1升热重水。慢化任何内部的燃料棒。将燃料棒的最大中子值除以8。
+    S:written.book.Manual_Reactors.page.50=氚化水¶===================¶消耗60 HU将1升氚化水转换成1升热氚化水。慢化任何内部的燃料棒。将燃料棒的最大中子值除以16。
+    S:written.book.Manual_Reactors.page.51=工业冷却液¶===================¶消耗20 HU将1升工业冷却液转换成1升热工业冷却液。将燃料棒的Self值乘以4。
+    S:written.book.Manual_Reactors.page.52=将燃料棒的Emit值乘以4，Factor统计值乘以2。将燃料棒因子的分母减1。
+    S:written.book.Manual_Reactors.page.53=二氧化碳¶===================¶消耗20 HU将1升二氧化碳转换成1升热二氧化碳。将燃料棒的Self值乘以3。
+    S:written.book.Manual_Reactors.page.54=氦气¶===================¶消耗30 HU将1升氦气转换成1升热氦气。将燃料棒的发射统计值除以2。
+    S:written.book.Manual_Reactors.page.55=熔融氯化锂¶===================¶消耗15 HU将1升熔融氯化锂转换成1升热熔融氯化锂。将燃料棒的Self值乘以5，发射统计值除以2。增加25%的燃料棒最大中子值。
+    S:written.book.Manual_Reactors.page.56=熔融锡¶===================¶消耗40 HU将1升熔融锡转换成1升热熔融锡。中子只转换为三分之一的HU。将燃料棒因子的分母减1。
+    S:written.book.Manual_Reactors.page.57=熔融钠¶===================¶消耗30 HU将1升熔融钠转换成1升热熔融钠。中子只转换为六分之一的HU。将燃料棒因子的分母减1。
+    S:written.book.Manual_Reactors.page.58=熔融钍盐¶===================¶消耗2,560,000 HU将1升熔融钍盐转换成1升熔融氯化锂。将燃料棒的Self值设为0，Emit值除以2。将燃料棒的最大中子值除以4。
+    S:written.book.Manual_Reactors.page.59=¶¶===================¶稳定反应堆设计指南¶===================¶
+    S:written.book.Manual_Reactors.page.60=稳定的核裂变反应堆，通常也被称为次临界反应堆，是一种没有临界燃料棒的裂变反应堆设计。这意味着在反应堆运行时，中子数量以及因此产生的热量输出不会持续增加。
+    S:written.book.Manual_Reactors.page.61=稳定反应堆的优点是：¶- 不需要外部控制¶- 稳定的中子/HU输出¶- 提高安全性¶- 设计简单¶- 可使用任何核燃料
+    S:written.book.Manual_Reactors.page.62=稳定反应堆的缺点是：¶- 燃料效率不高¶- 仅适用于发电反应堆¶- 通常比类似的临界反应堆更大
+    S:written.book.Manual_Reactors.page.63=当反射回燃料棒的中子数量乘以棒的因子大于或等于燃料棒的发射量时，可以认为一根反应堆棒处于超临界状态。
+    S:written.book.Manual_Reactors.page.64=这意味着如果周围的反射棒数量乘以因子大于或等于1，则该棒是超临界的。所以一个因子为1/3的燃料棒需要至少3个相邻的反射棒才能达到临界。
+    S:written.book.Manual_Reactors.page.65=因此建议在稳定反应堆中使用工业冷却液作为冷却剂。工业冷却液减少了燃料棒的因子，使得没有任何燃料棒可以在没有慢化棒的情况下达到临界。
+    S:written.book.Manual_Reactors.page.66=它还增加了Self值和Emit值，在稳定反应堆中这是非常有利的，因为它中子更多，从而提高效率。
+    S:written.book.Manual_Reactors.page.67=通常遵循以下四个规则可以使您的稳定反应堆达到最佳效率：¶如果使用的燃料因子小于1/8，用吸收棒包围燃料棒可以获得最大的HU输出。
+    S:written.book.Manual_Reactors.page.68=如果使用的燃料因子为1/8，用吸收棒、反射棒或其他燃料棒包围燃料棒都会产生相同的HU输出。
+    S:written.book.Manual_Reactors.page.69=如果使用的燃料因子大于1/8，用反射棒或其他燃料棒包围燃料棒可以获得最大的HU输出。
+    S:written.book.Manual_Reactors.page.70=不要在稳定反应堆中使用基于水的冷却液或慢化棒，因为它们会大大减少燃料棒的持续时间，因此降低效率，而在稳定反应堆设计中并无实际益处。
+    S:written.book.Manual_Reactors.page.71=¶¶===================¶超临界反应堆设计指南¶===================¶
+    S:written.book.Manual_Reactors.page.72=临界核裂变反应堆，通常也被称为超临界反应堆，是一种拥有临界燃料棒的裂变反应堆设计。这意味着在反应堆运行时，中子数量以及因此产生的热量输出会持续增加。
+    S:written.book.Manual_Reactors.page.73=超临界反应堆的优点是：¶- 更高的效率¶- 完全可配置的中子输出¶- 通常比类似的稳定反应堆更小¶- 可以作为燃烧或增殖反应堆工作
+    S:written.book.Manual_Reactors.page.74=超临界反应堆的缺点是：¶- 需要外部控制¶- HU输出不断波动¶- 设计难度更大¶- 安全性降低¶- 需要更高因子的燃料
+    S:written.book.Manual_Reactors.page.75=当反射回燃料棒的中子数量乘以棒的因子大于或等于燃料棒的发射量时，可以认为一根反应堆棒处于超临界状态。
+    S:written.book.Manual_Reactors.page.76=这意味着如果周围的反射棒数量乘以因子大于或等于1，则该棒是超临界的。所以一个因子为1/3的燃料棒需要至少3个相邻的反射棒才能达到临界。
+    S:written.book.Manual_Reactors.page.77=由于燃料棒上的中子数量将无限期地增加，您需要控制反应，以确保不会输出超过处理能力的功率。
+    S:written.book.Manual_Reactors.page.78=盖革计数器传感器允许在与红石机器开关或选择器结合使用时自动实现这种控制。
+    S:written.book.Manual_Reactors.page.79=当中子数量过高时，您需要关闭一根反应堆棒，使燃料棒再次变为次临界，从而使中子数量减少。
+    S:written.book.Manual_Reactors.page.80=为了获得最大的效率，您需要使燃料棒上的中子数量始终低于该燃料棒的最大中子值，同时尽可能接近它。
+    S:written.book.Manual_Reactors.page.81=您还需要在关闭反应堆时中子数量尽可能少地减少，以保持HU输出相对平稳。
+    S:written.book.Manual_Reactors.page.82=因此，您需要一种因子至少为1/4的燃料，以便能够在不使用慢化棒的情况下建造临界反应堆。
+    S:written.book.Manual_Reactors.page.83=最容易获取的满足这一条件的燃料是铀235。您可以通过加工铀矿石来获得它。当使用慢化棒时，燃料的因子可以低至1/16，因此使用铀238也成为可能。
+    S:written.book.Manual_Reactors.page.84=¶¶===================¶燃烧反应堆设计指南¶===================¶
+    S:written.book.Manual_Reactors.page.85=燃烧反应堆是一种核裂变设计类型，目的是尽可能快地消耗燃料棒，从而允许对耗尽的燃料棒进行处理，以获得更好的核燃料材料。
+    S:written.book.Manual_Reactors.page.86=有两种显著加快燃料棒消耗的方法：¶- 慢化燃料棒¶- 在最大中子值之上运行
+    S:written.book.Manual_Reactors.page.87=燃料棒可以通过将其放置在用蒸馏水、半重水、重水或氚化水冷却的反应堆中，或者放在慢化棒或已经慢化的燃料棒旁边来慢化。当被慢化时，燃料棒的消耗速度会快四倍。
+    S:written.book.Manual_Reactors.page.88=当燃料棒上的中子数量大于燃料棒的最大中子值时，它也会快四倍的速度消耗，与慢化效果叠加后可达16倍速。
+    S:written.book.Manual_Reactors.page.89=超出最大中子值越多，燃料棒消耗得越快；当中子数量是最大中子值的两倍时，消耗速度将再次翻倍，与慢化效果叠加后可达32倍速。
+    S:written.book.Manual_Reactors.page.90=因此，当中子数量是最大中子值的17倍时，燃料棒的消耗速度将是17倍再乘以4（因为超过了最大中子值），即68倍速；如果棒被慢化，则是272倍速，相比未慢化且中子数量低于最大中子值的情况。
+    S:written.book.Manual_Reactors.page.92=除了大幅增加燃料棒上的中子数量外，还可以通过降低最大中子值来利用这一效应。
+    S:written.book.Manual_Reactors.page.93=这可以通过使用重水或氚化水轻松完成，它们分别将最大中子值降低8倍和16倍，并且因为它们是水基的，所以也能慢化所有燃料棒。
+    S:written.book.Manual_Reactors.page.94=为了实现极高的中子数量，建议采用超临界反应堆设计，尽管也可以将燃烧反应堆作为稳定设计来运行。
+    S:written.book.Manual_Reactors.page.95=钴60虽然作为反应堆燃料本身几乎无用，但很容易燃烧成钍，后者更为有用。
+    S:written.book.Manual_Reactors.page.96=¶¶===================¶增殖反应堆设计指南¶===================¶
+    S:written.book.Manual_Reactors.page.97=增殖反应堆的目标是将增殖棒转化为富集棒。它们允许从较为丰富但质量较低的燃料，如钍和铀238，中获得更优质的核燃料。
+    S:written.book.Manual_Reactors.page.98=然而，尽管与燃烧反应堆类似，它们构建起来要困难得多，需要非慢化的临界反应堆设计。增殖棒有一个损失值，表示从吸收的中子中减去多少。
+    S:written.book.Manual_Reactors.page.99=所以当您有一个损失为500的增殖棒，并尝试从一个相邻的燃料棒向其发射300个中子时，增殖棒不会接收到任何中子，这意味着增殖过程不会进行。
+    S:written.book.Manual_Reactors.page.100=当从另一个相邻的燃料棒再次向同一根增殖棒发射300个中子时，实际上相当于两次各发射300个中子到增殖棒上，仍然不会有中子留在增殖棒上，因为损失会应用于每次发射的中子数。
+    S:written.book.Manual_Reactors.page.101=这意味着单个燃料棒需要有较高的中子输出，使得作为增殖反应堆运行的次临界反应堆设计变得不可行。
+    S:written.book.Manual_Reactors.page.102=向具有500损失的增殖棒发射900个中子意味着400个中子最终会留在增殖棒上，这些中子会在每一次更新被用于转化成富集棒。
+    S:written.book.Manual_Reactors.page.103=另一根燃料棒也向同一根增殖棒发射900个中子，即实际上两次各发射900个中子，会有800个中子在增殖棒上。
+    S:written.book.Manual_Reactors.page.104=由于增殖棒需要紧邻一根临界的燃料棒，燃料棒便只有三个面可以放置反射棒，这意味着只有因子为1/3或更大的燃料棒才能达到超临界状态。
+    S:written.book.Manual_Reactors.page.105=显然不能使用慢化棒，因为增殖棒不能接受来自慢化燃料棒的中子。这意味着要么需要像钚这样的高因子燃料，要么需要使用能提高因子的冷却液。
+    S:written.book.Manual_Reactors.page.106=因此熔融金属冷却液，如熔融锡或熔融钠，最适合用于增殖反应堆，因为它们提高了内部燃料棒的因子，
+    S:written.book.Manual_Reactors.page.107=使增殖成为可能，即使使用更常见的燃料材料如铀235，或者使更好的燃料材料同时增殖更多的增殖棒。
+    S:written.book.Manual_Reactors.page.108=它们还有降低中子HU输出的优势，这意味着可以用较少的冷却实现更高的中子数。
+    S:written.book.Manual_Reactors.page.109=向增殖棒发射更高的中子计数意味着更快且更高效的增殖过程，因为计算中子损失的次数更少，使得总的中子损失减少。
+    S:written.book.Manual_Reactors.page.110=¶¶===================¶钍盐反应堆设计指南¶===================¶
+    S:written.book.Manual_Reactors.page.111=钍盐是一种非常特殊的冷却剂。事实上，它甚至不能被认为是冷却剂，因为它不会转化为携带能量的液体。
+    S:written.book.Manual_Reactors.page.112=相反，它可以更多地被视为一种燃料本身，因为它会变成熔融氯化锂，意味着钍盐中的钍实际上作为燃料被消耗掉。
+    S:written.book.Manual_Reactors.page.113=钍盐缓慢地耗尽为熔融氯化锂，每2,560,000个中子才会有一升钍盐转化为熔融氯化锂。
+    S:written.book.Manual_Reactors.page.114=使用钍盐的主要优势在于它对任何内部燃料棒数值的巨大提升。
+    S:written.book.Manual_Reactors.page.115=然而，由于无法从钍盐中提取电力（因为它不转化为携带能量的液体），你不能单独使用钍盐进行任何反应堆设计。
+    S:written.book.Manual_Reactors.page.116=利用钍盐的反应堆设计至少需要另外一种额外的冷却剂。
+    S:written.book.Manual_Reactors.page.117=装满钍盐的反应堆核心将容纳燃料棒，而相邻装有其他冷却剂的反应堆核心则通过中子吸收棒捕捉该反应堆发出的中子。
+    S:written.book.Manual_Reactors.page.118=由于钍盐的主要优势在于大幅提高内部燃料棒的各种数值，它通常只在临界反应堆设计中有意义。
+    S:written.book.Manual_Reactors.page.119=临界的钍盐反应堆是最高效的发电反应堆，但也是最难建造的之一。
+    S:written.book.Manual_Reactors.page.120=¶¶===================¶高级裂变反应堆¶===================¶
+    S:written.book.Manual_Reactors.page.121=本章将为您提供一些提示和数学公式，以帮助您构建最先进和高效的反应堆。
+    S:written.book.Manual_Reactors.page.122=计算中子发射¶===================¶当燃料棒上的中子数量较高时，它会向相邻棒发射更多的中子。
+    S:written.book.Manual_Reactors.page.123=任何燃料棒向一个相邻棒发射的中子数量e_n可以通过以下方式计算：¶e_n = e + ((n – s) * f)
+    S:written.book.Manual_Reactors.page.124=e_n: 发射的中子数¶e: 燃料棒的Emission值¶n: 燃料棒上的中子数¶s: 燃料棒的self值¶f: 燃料棒的因子
+    S:written.book.Manual_Reactors.page.125=计算燃料棒的消耗速率¶===================¶燃料棒通常的消耗速率为1，因此将持续时间如工具提示所建议的那样长。
+    S:written.book.Manual_Reactors.page.126=然而，当燃料棒上的中子数量超过中子最大值时，消耗速率会乘以这个数：¶f = 4 * n / m
+    S:written.book.Manual_Reactors.page.127=f: 消耗速率乘数¶n: 燃料棒上的中子数¶m: 燃料棒的最大中子值
+    S:written.book.Manual_Reactors.page.128=此外，如果燃料棒被慢化，其消耗速率还会额外乘以4。将燃料棒的剩余时间统计值除以计算出的消耗速率，即可得到实际的耗尽时间。
+    S:written.book.Manual_Reactors.page.129=小贴士和技巧¶===================¶您可以构建使用多种冷却剂的反应堆设计。对于使用慢化棒的临界反应堆来说，控制相邻的燃料棒而非慢化棒本身来控制中子数量更为明智。机械臂允许对反应堆核心进行精确自动化。¶过滤器可用于更容易地自动化燃烧和增殖反应堆。
+    S:written.book.Manual_Reactors.page.130=在临界反应堆设计中，较高的Self值是不利的，因为它占用了最大中子数而不影响中子发射。¶在临界反应堆设计中，Emission值对效率的影响较小。
+    S:written.book.Manual_Reactors.page.131=当试图控制大于9,999的中子数量时，将盖革计数器传感器设置为十六进制模式是有用的。在十六进制模式下，您可以比较最多65,535个中子。使用oc可以控制高达21亿的中子数。
+
+    S:written.book.Manual_Smeltery.page.0=This is the Manual of the Smelting Crucible and related Objects. It will explain how to use the Smelting Crucible and the Molds properly, so that you can start smelting things which cannot me molten inside a regular Furnace.
+    S:written.book.Manual_Smeltery.page.1=If you need to know how heavy an Object is or what Materials it consists out of, just use the good old vanilla F3+H Method to enable advanced Tooltips, so you can see the most relevant Data about the Object.
+    S:written.book.Manual_Smeltery.page.2=Step 1: Heat Source¶===================¶You need a Heat Source in order to heat up your Crucible to the desired Temperature. Possible Heat Sources may include Burning Boxes, Electric Heaters, Laser Heaters and Arc Heaters.
+    
+    S:written.book.Manual_Smeltery.page.3=Optional: Air Source¶===================¶In case you have to supply Air for the Crucible (for Steel), you need to point an Engine into it, which will act as a Fan. For Multiblock Crucibles the Engine has to be at the Bottom Row.
+    
+    S:written.book.Manual_Smeltery.page.4=Step 2: Crucible¶===================¶The choice of Crucible Material is very important. The Crucible can melt too at a certain Temperature, which is usually higher than the actual Melting Point of the Crucible itself.
+    S:written.book.Manual_Smeltery.page.5=Step 2: Crucible¶===================¶Now place the Crucible of your choice at the Output Facing of the Heat Source. The Burning Box for example only emits to its Top Side, so you need to place the Crucible above it.
+    S:written.book.Manual_Smeltery.page.6=Step 3: The Molds¶===================¶You probably want to cast the molten Metal into a Shape, so you need to place a Mold horizontally adjacent to the Crucible. As you may have noticed the Mold itself doesn't have a Shape.
+    S:written.book.Manual_Smeltery.page.7=Step 3: The Molds¶===================¶This is why you need a Chisel in order to chisel the proper Shape into the Mold by using it in World. The most important Shapes are Listed in the last Pages of this Book.
+    S:written.book.Manual_Smeltery.page.8=Step 3: The Molds¶===================¶If you somehow fail to put a correct Shape into the Mold, the End Result will be as many Nuggets as you have chiseled out places.
+    S:written.book.Manual_Smeltery.page.9=Step 4: Smelting¶===================¶Now we get to smelting. Just throw the things you want to smelt into the Crucible, or use a Hopper above the Crucible to fill it. And turn up the Heat until you reach the melting Point.
+    S:written.book.Manual_Smeltery.page.10=Step 4: Smelting¶===================¶Unless your Heat Source has some kind of Temperature regulation, you may need to shut it off once the Temperature reaches the Melting Point or else you will vaporate the Metals or worse.
+    S:written.book.Manual_Smeltery.page.11=Step 5: Shaping¶===================¶Now just click the Side of the top of the Mold where the Crucible is next to, in order to fill it with its Metals. Warning: The Mold itself can melt too if it is made of the wrong Material.
+    S:written.book.Manual_Smeltery.page.12=Step 5: Shaping¶===================¶Wait for the Metal to cool down, but note that you should not touch or take out the Metal while it is hot or else you will burn yourself unless you wear a Hazmat Suit or something.
+    S:written.book.Manual_Smeltery.page.13=Mold Shapes¶===================¶The following is a List of Shapes you can chisel the Mold into. The position of the Shape on the Mold is NOT important, you can rotate and mirror it too¶X = Chiseled¶O = Not Chiseled
+    S:written.book.Manual_Smeltery.page.14=Ingot¶===================¶XXXOO¶XXXOO¶XXXOO¶XXXOO¶XXXOO¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.15=Chunk¶===================¶XXOOO¶XXOOO¶OOOOO¶OOOOO¶OOOOO¶===================¶0.250 Units required
+    S:written.book.Manual_Smeltery.page.16=Plate¶===================¶XXXXX¶XXXXX¶XXXXX¶XXXXX¶XXXXX¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.17=Tiny Plate¶===================¶OOOOO¶OXXXO¶OXXXO¶OXXXO¶OOOOO¶===================¶0.111 Units required
+    S:written.book.Manual_Smeltery.page.18=Bolt¶===================¶XXOOO¶OOOOO¶OOOOO¶OOOOO¶OOOOO¶===================¶0.125 Units required
+    S:written.book.Manual_Smeltery.page.19=Rod¶===================¶OOOOO¶OOOOO¶XXXXX¶OOOOO¶OOOOO¶===================¶0.500 Units required
+    S:written.book.Manual_Smeltery.page.20=Long Rod¶===================¶XOOOO¶OXOOO¶OOXOO¶OOOXO¶OOOOX¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.21=Item Casing¶===================¶XXXOX¶XXXOX¶XXXOX¶OOOOX¶XXXOO¶===================¶0.500 Units required
+    S:written.book.Manual_Smeltery.page.22=Ring¶===================¶OOOOO¶OXXXO¶OXOXO¶OXXXO¶OOOOO¶===================¶0.250 Units required
+    S:written.book.Manual_Smeltery.page.23=Gear¶===================¶XOXOX¶OXXXO¶XXOXX¶OXXXO¶XOXOX¶===================¶4.000 Units required
+    S:written.book.Manual_Smeltery.page.24=Small Gear¶===================¶OXOXO¶XXXXX¶OXOXO¶XXXXX¶OXOXO¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.25=Sword¶===================¶OOXOO¶OXXXO¶OXXXO¶OXXXO¶OXXXO¶===================¶2.000 Units required
+    S:written.book.Manual_Smeltery.page.26=Pickaxe¶===================¶OOOOO¶OXXXO¶XOOOX¶OOOOO¶OOOOO¶===================¶3.000 Units required
+    S:written.book.Manual_Smeltery.page.27=Spade¶===================¶OXXXO¶OXXXO¶OXXXO¶OXOXO¶OOOOO¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.28=Shovel¶===================¶OOXOO¶OXXXO¶OXXXO¶OXXXO¶OOOOO¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.29=Universal Spade¶===================¶OOXOO¶OXXXO¶OXXOO¶OXXXO¶OOOOO¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.30=Axe¶===================¶OOOOO¶OXXXO¶OXXXO¶OXOOO¶OOOOO¶===================¶3.000 Units required
+    S:written.book.Manual_Smeltery.page.31=Double Axe¶===================¶OOOOO¶XXXXX¶XXXXX¶XOOOX¶OOOOO¶===================¶5.000 Units required
+    S:written.book.Manual_Smeltery.page.32=Saw¶===================¶OOOOO¶XXXXX¶XXXXX¶OOOOO¶OOOOO¶===================¶2.000 Units required
+    S:written.book.Manual_Smeltery.page.33=Hammer¶===================¶XXXOO¶XXXOO¶XOXOO¶XXXOO¶XXXOO¶===================¶6.000 Units required
+    S:written.book.Manual_Smeltery.page.34=File¶===================¶OXXXO¶OXXXO¶OXXXO¶OOXOO¶OOXOO¶===================¶1.500 Units required
+    S:written.book.Manual_Smeltery.page.35=Screwdriver¶===================¶OOOOO¶OOXOO¶OOXOO¶OOXOO¶OOXOO¶===================¶1.000 Units required
+    S:written.book.Manual_Smeltery.page.36=Chisel¶===================¶OXXXO¶OOXOO¶OOXOO¶OOXOO¶OOXOO¶===================¶1.500 Units required
+    S:written.book.Manual_Smeltery.page.37=Arrow¶===================¶OOOOO¶OOXOO¶OOXOO¶OXXXO¶OOOOO¶===================¶0.125 Units required
+    S:written.book.Manual_Smeltery.page.38=Hoe¶===================¶OOOOO¶OOXXO¶OXXXO¶OOOOO¶OOOOO¶===================¶2.000 Units required
+    S:written.book.Manual_Smeltery.page.39=Sense/Scythe¶===================¶OOOOO¶OXXXX¶XXXXX¶OOOOO¶OOOOO¶===================¶3.000 Units required
+    S:written.book.Manual_Smeltery.page.40=Plow¶===================¶XXXXX¶XXXXX¶XXXXX¶XXXXX¶OOXOO¶===================¶4.000 Units required
+    S:written.book.Manual_Smeltery.page.41=Builder's Wand¶===================¶OOXOO¶XXXXX¶OXXXO¶OXOXO¶OOOOO¶===================¶1.000 Units required
+    
+    S:written.book.Manual_Steam.page.0=This Manual is about the proper operation of a Boiler, in order to not blow yourself up. And yes there are many people who get blown up by improper operation of a Boiler.
+    S:written.book.Manual_Steam.page.1=First of all you need to make sure that the Boiler you use fits the Burning Box you place below. The Tooltips will hint you the proper values you can use. The Boiler itself does accept heat from all directions, not just the Bottom.
+    S:written.book.Manual_Steam.page.2=Then you need to fill the Boiler with Water on the Sides, so that you can generate Steam with it. Placing a Funnel on it and rightclicking that Funnel with a Water Bucket works for filling aswell.
+    S:written.book.Manual_Steam.page.3=But if you use regular Water instead of distilled Water, then you will end up with calcification and a constant decrease of Steam-Creation-Efficiency. No risk of explosion due to that though, since it just makes less Steam per Water.
+    S:written.book.Manual_Steam.page.4=Inserting Water into an empty hot Boiler, it will rapidly increase the Pressure maybe causing it to explode, depending on how much heat and water you insert at once.
+    S:written.book.Manual_Steam.page.5=If a Boiler stores too much Heat without being able to convert Water into Steam, then it will simply melt and break, leaving you with a giant mess.
+    S:written.book.Manual_Steam.page.6=Steam Turbines and Engines emit distilled Water to their Sides, which makes it possible to simply cycle the distilled Water back into the Boiler for having less calcification going on.
+    S:written.book.Manual_Steam.page.7=The Boilers have a Barometer on their Front, their ideal State is if the Line is inside the dark green Area, so in the middle of the Barometer itself. The closer it is to the red Area, the closer it is to exploding.
+    S:written.book.Manual_Steam.page.8=Steam Engines work best if they are in green Mode, if they are too blue then they have not enough Steam (look for Boiler Calcification if it happens after a while of running normally).
+    S:written.book.Manual_Steam.page.9=If the Engines are too Red then they will release the Steam and stop running (no Explosions, just a waste of Steam and a fizzing noise).
+
+    S:written.book.Manual_Tools.page.0=This Manual is about common and uncommon Tools and how to use them. It contains a List of every normal Tool that you might not know the true purpose of.
+    S:written.book.Manual_Tools.page.1=Swords¶===================¶It's a Sword, it deals Damage and cuts things. It can harvest Leaves, Webs and Wool Blocks.
+    S:written.book.Manual_Tools.page.10=Pickaxes¶===================¶Mines Blocks like a normal Pickaxe usually does.
+    S:written.book.Manual_Tools.page.11=Construction Picks¶===================¶It mines man-made Blocks much faster, but is slow on Natural Rocks.
+    S:written.book.Manual_Tools.page.12=Gem tipped Pickaxes¶===================¶In an exchange for a lot of Durability, you can put flawed Gems onto your Raw Steel Pickaxe Head, to give it the Quality of a Gem Tool. Amber, Sapphires and Diamonds are best for this.
+    S:written.book.Manual_Tools.page.13=JackHammers¶===================¶This thing mines Blocks and crushes them like a Hammer at an insane Speed. Not much to say about it.
+    S:written.book.Manual_Tools.page.14=Mining Drills¶===================¶It can mine and shovel things at once and is the perfect universal mining Tool.
+    S:written.book.Manual_Tools.page.15=Shovels¶===================¶Mines Blocks like a normal Shovel usually does.
+    S:written.book.Manual_Tools.page.16=Spades¶===================¶A Spade has conditional Silk-Touch for certain Blocks, such as Dirt, Grass, Mycelium, Clay, Mud, Snow and Podzol, but it is slower than a normal Shovel and doesn't work on Sand.
+    S:written.book.Manual_Tools.page.17=Plows¶===================¶The Plow harvests a 3x3x3 Area of Snow Layers and similar Blocks at once.
+    S:written.book.Manual_Tools.page.18=Universal Spades¶===================¶Shovel, Saw, Sword and Crowbar at once. Very versatile, but that goes at the cost of Durability and Speed.
+    S:written.book.Manual_Tools.page.19=Hammers¶===================¶Crushing Blocks and Smithery are the most common usages of this Tool. It doesn't do much else, but it can be used in Combat.
+    S:written.book.Manual_Tools.page.2=Knifes¶===================¶They cut Food, Sticks, Rubber, Saplings into Sticks, Bark of a Tree, and similar things and are a somewhat usable early weapon. It can harvest all the things a Sword can harvest too.
+    S:written.book.Manual_Tools.page.20=Soft Hammers¶===================¶These Hammers are mainly used to turn Machines ON and OFF. They can even turn Redstone Lamps and certain Rails ON without having to have a Redstone Signal close to them.
+    S:written.book.Manual_Tools.page.21=Wrenches¶===================¶Adjusts the primary Facing of most Machines, sometimes it can be used to toggle Modes aswell.
+    S:written.book.Manual_Tools.page.22=Monkey Wrenches¶===================¶Adjusts the secondary Facing of most Machines, often it can be used to toggle Modes aswell.
+    S:written.book.Manual_Tools.page.23=Electric Wrenches¶===================¶They are a combination of the normal Wrench and the Monkey Wrench and can easily switch between them via Modes. Sneak Rightclick on a non-wrenchable Block to switch.
+    S:written.book.Manual_Tools.page.24=Files¶===================¶Sharpens things and can comically harvest Iron Bars way faster than anything else.
+    S:written.book.Manual_Tools.page.25=Chisels¶===================¶Can put Molds into Shape and change the looks of some Stones.
+    S:written.book.Manual_Tools.page.26=Bending Cylinders¶===================¶Turns Plates into Curved Plates and is used for similar Metal Working procedures
+    S:written.book.Manual_Tools.page.27=Crowbars¶===================¶Opens Crates and can be used on Rails and Minecarts
+    S:written.book.Manual_Tools.page.28=Pincers¶===================¶Used to pick up hot things from Molds and Basins, so you don't have to wait for them to cool down before picking them up.
+    S:written.book.Manual_Tools.page.29=Plungers¶===================¶Empties Pipes and Fluid Tanks by either voiding the Fluid or dropping the ItemStack that is stuck in them. Works on Thaumic Conduits aswell.
+    S:written.book.Manual_Tools.page.3=Butchery Knifes¶===================¶Has a Looting Modifier on it per Default, but has a slow swing and low Damage.
+    S:written.book.Manual_Tools.page.30=Scoops¶===================¶Catches Butterflies, Bees and Bumblebees, also needed to harvest Bumble Hives and Bee Hives.
+    S:written.book.Manual_Tools.page.31=Hoes¶===================¶They till the ground, what do you expect? I'm not gonna explain vanilla Tools in great detail.
+    S:written.book.Manual_Tools.page.32=Branch Cutters¶Trimmers¶===================¶Cuts Saplings out of Leaves with high precision, like a Grafter.
+    S:written.book.Manual_Tools.page.33=Senses¶===================¶Harvests a 3x3x3 Area of Crops, Flowers and Tall Grass.
+    S:written.book.Manual_Tools.page.34=Rolling Pins¶===================¶Flattens Dough and Clay for cooking and crafting purposes.
+    S:written.book.Manual_Tools.page.35=Scissors¶===================¶Can cut Tripwires on Rightclick, shear Sheep and harvest Wool-ish/Cloth-ish Blocks.
+    S:written.book.Manual_Tools.page.36=Screwdrivers¶===================¶Drives Screws and such. The most common usage is adjusting Modes on Blocks and Covers. They can rotate Comparators and Repeaters.
+    S:written.book.Manual_Tools.page.37=Wire Cutters¶===================¶They harvest Wires. Another usage is to adjust Wires and in some cases Covers aswell.
+    S:written.book.Manual_Tools.page.38=Hand Mixers¶===================¶These are just so you don't consume your Hunger Bar when operating the Mixing Bowl.
+    S:written.book.Manual_Tools.page.39=Hand Drills¶===================¶Those Drill Holes in Surfaces. If you have Dynamite Sticks or Iron/Steel Rods with you, you can stick the Dynamite into Walls or reinforce Bricks and Concrete.
+    S:written.book.Manual_Tools.page.4=Clubs¶===================¶Sometimes kindof expensive, but it works like a Hammer and deals lots of Damage, while having a larger cooldown time after a hit. It can break Rocky Blocks, but it will crush them.
+    S:written.book.Manual_Tools.page.40=Flint and Tinder¶===================¶Sets things on Fire and can light anything that requires ignition. But it might take a few tries to do so.
+    S:written.book.Manual_Tools.page.41=Magnifying Glasses¶===================¶With this you can look at the Details of a LOT of things in GregTech, just put a Lens of any kind on a Stick and you are good to go for a long time.
+    S:written.book.Manual_Tools.page.42=Pocket Multitool¶===================¶A Multi-Tool that can be switched to the most common purposes. See it as a Swiss Army Knife.
+    S:written.book.Manual_Tools.page.5=Axes¶===================¶Good in chopping down Trees, bad in chopping down Planks or other wooden things.
+    S:written.book.Manual_Tools.page.6=Double Axes¶===================¶Still good for chopping on Trees, but also very effective as a Weapon and has 50% more Durability than the normal Axe, while requiring 66.666% more Material to create.
+    S:written.book.Manual_Tools.page.7=Saws¶===================¶Bad for chopping Trees, but can easily cut wooden things like Planks.
+    S:written.book.Manual_Tools.page.8=Chainsaws¶===================¶Good for pretty much all purposes, can chop Trees, saw Planks and is a very nice Weapon. It can specifically be used to spam click Creepers to death easily.
+    S:written.book.Manual_Tools.page.9=Buzzsaws¶===================¶This Type of Saw is dedicated to Hand Crafting and cannot harvest any Blocks. It is cheaper to use this than a Chainsaw for crafting purposes.
