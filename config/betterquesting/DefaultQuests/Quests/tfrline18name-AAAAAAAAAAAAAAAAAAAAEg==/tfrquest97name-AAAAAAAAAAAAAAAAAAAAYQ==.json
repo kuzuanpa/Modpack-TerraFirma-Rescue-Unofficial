@@ -33,11 +33,6 @@
       "desc:8": "tfr.quest97.desc"
     }
   },
-  "tasks:9": {
-    "0:10": {
-      "index:3": 0,
-      "taskID:8": "bq_standard:checkbox"
-    }
-  },
+  "tasks:9": {},
   "rewards:9": {}
 }

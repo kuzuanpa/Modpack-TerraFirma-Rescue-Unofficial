@@ -3,43 +3,37 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 821
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 39
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 61
+      "questIDLow:4": 164
     }
   },
-  "questIDLow:4": 400,
+  "questIDLow:4": 408,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "AND",
       "partySingleReward:1": 0,
-      "visibility:8": "NORMAL",
+      "visibility:8": "ALWAYS",
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
         "id:8": "gregtech:gt.multitileentity",
         "Count:3": 1,
-        "Damage:2": 20062,
+        "tag:10": {
+          "gt.energy:4": 2000000000000
+        },
+        "Damage:2": 14999,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
       "repeatTime:3": -1,
-      "globalShare:1": 1,
+      "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfr.quest400.name",
-      "isGlobal:1": 0,
+      "name:8": "tfru.q287n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfr.quest400.desc"
+      "desc:8": "tfru.q287d"
     }
   },
   "tasks:9": {
@@ -47,14 +41,17 @@
       "partialMatch:1": 1,
       "autoConsume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "consume:1": 0,
       "requiredItems:9": {
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 20062,
+          "tag:10": {
+            "gt.energy:4": 2000000000000
+          },
+          "Damage:2": 14999,
           "OreDict:8": ""
         }
       },
@@ -67,15 +64,17 @@
       "index:3": 0,
       "rewards:9": {
         "0:10": {
-          "id:8": "ktfruaddon:ktfru.item.compact",
+          "id:8": "enhancedlootbags:lootbag",
           "Count:3": 2,
-          "Damage:2": 4,
-          "OreDict:8": ""
-        },
-        "1:10": {
-          "id:8": "gregtech:gt.meta.stickLong",
-          "Count:3": 2,
-          "Damage:2": 8610,
+          "tag:10": {
+            "ench:9": {
+              "0:10": {
+                "lvl:2": 3,
+                "id:2": 35
+              }
+            }
+          },
+          "Damage:2": 6,
           "OreDict:8": ""
         }
       }

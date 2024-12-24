@@ -145,6 +145,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=Our team has created a TFR-spec
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=Can't find clay?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=The natives of the Terrafirma want you to build them a thatched house, and in return give you some clay.
 
+# Quest: New Quest
+betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.name=
+betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.desc=
+
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
@@ -318,10 +322,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=You can put the temperature sen
 # Quest: tfr.quest90.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=Coke oven +
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=You may have noticed that the vanilla furnace no longer produces charcoal, but a multi-block gt coke oven can. The coke oven is a hollow 3x3x3 cube. The front center is the main block of the coke oven, while the others are firebricks. Each coke oven requires 25 firebricks and 1 coke oven control block. I now want you to collect a lot of clay to make it. The %n%n coke oven needs to be lit by the vanilla or GregTech fire starters after putting in logs or lignite/coal, instead of the TFC fire starter, clicks on the controller to start the operation. %n the coke oven can process 16 fuels at once. A group of coal or a pure broken coal mine can be processed into a stack of cokes, the burn value is doubled, and 32000L of creosote can be obtained. More creosote can be obtained by coking lignite, but the burn value of coking lignite is lower. The wood can be processed to charcoal and considerable creosote can be obtained. %n%n Creosote is the best liquid fuel before the distillation tower is finished. Its burnn value is comparable to that of crude oil. It is easy to make and it's trash otherwise. %n%n§ C Note that this task has two pages
-
-# Quest: tfr.quest91.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=Fluid combustion chamber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=Fluid combustors can turn off the fire as soon as it's blocked, so why not try it? %n*The creosote from  coke oven is a good liquid fuel
 
 # Quest: tfr.quest101.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Temperature matters
@@ -715,6 +715,10 @@ betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 # Quest: tfru.q107n
 betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
 betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
+# Quest: tfru.q250n
+betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
+betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
 
 
 ## Quest Line: tfr.line5.name
@@ -1409,183 +1413,6 @@ betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
 betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
-## Quest Line: tfr.line17.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=Human Limitless
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=Although you are an ordinary human, learning physics well will make you be GUD. About weapons and equipment
-
-# Quest: tfru.q102n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.desc=
-
-# Quest: tfr.quest338.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.name=adventurers
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.desc=The most basic armor, only need 4 pieces of leather can be made (holding 1 leather and right click to enter the kneading interface)
-
-# Quest: tfr.quest378.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.name=Well done, soldier
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest379.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.name=Medieval knight
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest380.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.name=The King's Guard
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest381.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.name=Medieval knight
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest382.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=heroes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest384.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=gliding
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=If you take off from a high altitude with your right hand glider, you can glide for a long time using Bernoulli's principle. It's a good way to travel a long way.
-
-# Quest: tfr.quest388.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=Bipedal dragon armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.desc=A set of advanced armor, consuming RF to withstand high intensity attacks.
-
-# Quest: tfr.quest390.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.name=The dragon armor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=A set of super armor, with ultra high level 3d maneuverability, can reach 6 times the speed of normal flight, consuming RF to withstand almost extreme intensity of attack.
-
-# Quest: tfru.q81n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=
-
-# Quest: tfru.q9n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.desc=
-
-# Quest: tfru.q10n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=
-
-# Quest: tfr.quest382.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=heroes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
-
-# Quest: tfr.quest708.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=
-
-# Quest: tfr.quest707.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=
-
-# Quest: tfru.q93n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.desc=
-
-# Quest: tfru.q88n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.desc=
-
-# Quest: tfru.q87n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.desc=
-
-# Quest: tfru.q94n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.desc=
-
-# Quest: tfru.q92n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.desc=
-
-# Quest: tfru.q100n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.desc=
-
-# Quest: tfru.q99n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.desc=
-
-# Quest: tfru.q86n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.desc=
-
-# Quest: tfru.q85n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=
-
-# Quest: tfru.q91n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=
-
-# Quest: tfru.q90n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
-
-# Quest: tfru.q98n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
-
-# Quest: tfru.q97n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
-
-# Quest: tfru.q103n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
-
-# Quest: tfru.q104n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=
-
-# Quest: tfru.q78n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.desc=
-
-# Quest: tfru.q80n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.desc=
-
-# Quest: tfru.q79n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.desc=
-
-# Quest: tfru.q96n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.desc=
-
-# Quest: tfru.q95n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.desc=
-
-# Quest: tfru.q101n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.desc=
-
-# Quest: tfru.q84n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.desc=
-
-# Quest: tfru.q83n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.desc=
-
-# Quest: tfru.q89n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.desc=
-
-# Quest: tfru.q82n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
-
-# Quest: tfru.q141n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
-
-
 ## Quest Line: tfru.l1n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
@@ -1614,7 +1441,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q287n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
@@ -1912,157 +1739,117 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=The Lord of chaos
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(Not in the world generation and production at present)
 
 
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
+## Quest Line: tfr.line10.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Agriculture, animal husbandry and fisheries
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=Help %n about your survival on this planet as a carbon-based creature based on the Legend of Sierra, Industrial Age 2, and GregTech technology.
 
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
+# Quest: tfr.quest220.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Agriculture
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=You start with 1000 drops of blood, and you probably already see that the cap is coming down. If agriculture is not well developed, the ceiling will soon fall. There are many wild crops in the world. Go and collect some seeds. The importance of this chapter has been repeatedly emphasized. If the main push tired, come to the development of development here.
 
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=The Advanced crafting table is a non-essential but useful device. It has an internal fluid buffer, which allows player to pipe fluid and draw it out through the top slot in its GUI.It will automatically extract items from the storage space next to it. It also has a drawer, which can also hold a lot of things, and special slots for tools. Strongly recommended!
+# Quest: tfr.quest225.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Drink more hot water
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=In the TFC world, your hunger tank (green) is empty and you won't die quickly, but if the water tank (blue) is empty, you'll keep bleeding to death. %n can drink by right-clicking fresh water with empty hands, which is the only way to restore the sink until you have made pottery (see next chapter).
 
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Metal packaging
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=This is such a miracle, you can put 54 items with it now, touched?
+# Quest: tfr.quest226.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Balanced diet
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Open the inventory bar. There is a box on the right. There are four boxes, which are your inventory, time, skills and nutrition %n nutrition and experience. There are five kinds of nutrition, and you need to eat different kinds of food to recover. %n%n When born, every nutrient of the player is full. As the player's hunger wears off, so do their nutritional bars. %n%n In order to supplement the nutrition, the player must eat the corresponding category of food. When the player is full, they get extra nutrients, and according to the player's current nutrition level, when the player is malnourished, they get more nutrients. %n%n The first four categories account for 25 percent of a player's maximum health, and dairy products have an additional 25 percent maximum health. For example, a starting player with no level is likely to reach a maximum life span of 800HP(the first four nutrients are filled). If one of the nutrients is empty and the other three are full, the player's maximum health value is 600HP. If a player has all five nutrients, their maximum life span is 1000HP.
 
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Store (a lot of) liquid
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=The by-product of the coke oven is difficult to dispose of if it accumulates too much. To save money for fluid combustors, you can make the first multi-block tank: a large wooden tank. %n it can store 432000L of fluid, but don't try to use it to store corrosive liquids or gases. You can also choose to use it as a distilled water cache. %n It is placed in a similar way to a coke oven.
+# Quest: tfr.quest227.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=Fruit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Fruits are obtained in two ways: berry bushes and fruit trees, both of which can be found in the wild. %n Berry bushes can be gathered directly by hand and cannot reproduce. When the shrub is in season and in the right temperature range, it can produce a new fruit every month. Each berry has a different life span, and at the end of that life span, the fruit is removed from the bush. To harvest the fruit, just right-click on the bush and the fruit will drop. The harvested weights vary from 3 to 8 ounces. There is a chance of getting a sapling by chopping it down with an axe. If the trunk is left, it can continue to grow, multiply and produce more. %n%n tree seedlings do not grow immediately. On the contrary, the fruit trees grow slowly, with branches and leaves coming out in stages. This means that the saplings will eventually grow back after the branches have been cut off for harvest. But it also means that saplings take a long time to grow into trees as big as those in the wild. The trunk will reach its maximum height after 30 days, with a branch every 20 days and a leaf every two days. At harvest time, the tree will have a fruit on each leaf. To harvest the fruit, right-click on the leaves or left-click on the leaves and the fruit will fall. Fruit per serving is 4 to 16 ounces. %n%n fruit trees bear fruit only when the current temperature is between 0 and 38. For most cases, the corresponding seasonal temperatures (spring to late fall) are within this range, except in deserts, equatorial jungles, and deep tundra.%n
 
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Base fluid transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=In this chapter I will introduce you to some of the objects and fluid transport and storage systems in GregTech's Technology. This is not a main chapter, you can choose to do it.
+# Quest: tfr.quest228.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=Amino acids
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=There are two main ways to get protein: 1. Kill animals 2. Plant soybeans In the sierra World, where wild animals are produced only once since the world began, slaughtering is not a sustainable path! So, you need to raise animals, and Here I recommend cages to take them home, but also a leash or ears of wheat. N animals have sex and need to get to know you before they can mate with each other, but of course you have to feed them. In general, cows have fewer calves, but pigs have a litter.
 
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Rubber pipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Rubber pipeline has a good property, and not leak, and not expensive, is a very high cost performance fluid pipeline. It can only be made with a mould press
+# Quest: tfr.quest229.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=Vegetables
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Again, only through crops. The individual pushed the potato and cabbage, the yield is large, the growth condition is not harsh.
 
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Corrosion resistant pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Stainless steel pipe is not only airtight, heat resistant, but also can resist all kinds of chemical corrosion, before the production of sulfuric acid production line recommended production.
+# Quest: tfr.quest230.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Do you remember how much oz bread you've eaten in your life -- DIO
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=One of the five sources of nutrition, the only way to get it is by growing grain.%n Directly harvested grains need to be processed before they can be eaten. Bake them over a fire, or use a knife to cut them into grains. If you want a grain to last longer, or if you want to make a sandwich, you should make the grain into bread. Grain grains are ground in a stone mill to make flour, which is combined with a wooden bucket to make dough, which is baked over a fire to make bread. If you grow five food crops, you get the ultimate food: bread between bread and bread between bread and bread
 
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Electric pump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=An electric pump is a cover that can be right - click attached to a GregTech machine or pipe to extract/discharge fluid from the container facing/in the container. Right click on the screwdriver to set extraction/discharge. Fluid can be extracted from OB tanks.
+# Quest: tfr.quest231.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Dairy products
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Dairy products are obtained in two ways: by drinking milk and by eating cheese (cheese is made of milk and is essentially milk). Cows that have been domesticated enough can milk a pail once a day for a pail of milk. 9 pails of milk and 1 pail of vinegar are sealed in wooden pails to obtain cheese.
 
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Modern Item pipes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Cost-effective item pipes, after obtaining PVC it can be massively produced.
+# Quest: tfr.quest233.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Animal cages
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=With this device, you can put animals into mysterious Spaces without suffocating them.
 
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Modern pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Corrosion resistance, no air leakage. Cost-effective pipeline when PTFE (polytetrafluroethylene) can be produced on a large scale.
+# Quest: tfr.quest105.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Strange saplings
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=After making a carpenter machine, you can convert the TFC oak sapling into the vanilla oak seedling. The bark can be obtained by right-clicking a log with the GregTech axe, or by machine.
 
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Conveyor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=A conveyor is a covering plate that can be right-click on a GregTech machine or pipe to extract/expel items from the container facing/in the container. Right click on the screwdriver to set extraction/discharge.
+# Quest: tfr.quest273.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=farmland
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Farmland, also known as soil, contains the three basic nutrients of a plant, and if there's enough water cube nearby, your plant can get important water. By using the water and nutrient pattern of the metal hoe, you can see the nutrient level of the crop and the availability of water. Growing crops in the soil reduces soil nutrients and must be fallow, fertilized, or planted periodically with crops that require different nutrient types in order to replenish nutrients. Note: Some crops, such as soybeans and green beans, require additional nutrients as they grow. %n%n Unlike the original, farmland cannot be turned back into soil. The destruction of cropland also does not produce any soil to prevent the reuse of nutrients.
 
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Better logistics pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Better logistics pipeline
+# Quest: tfr.quest274.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=Animal husbandry: 1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=Chickens, cows, horses, pigs and sheep are all livestock. The natural generation of the world's animals is based on the climate of the region. %n%n livestock will follow any kind of refined grain and ear of corn, similar to the original animals will follow wheat, carrots and seeds. The rope is also the same as in the original drawing of livestock %n%n Bears, deer and pheasants are wild animals and cannot breed. Wild animals will be refreshed all over the world, except named animals, or at least tethered once, which won't disappear. All animals have a degree of intimacy that increases the need to interact in some way, such as milking, shearing, riding, raising and naming animals. The exact value of these interactions varies from species to species, and some require more interaction. Familiarity can be improved by performing specific actions every 24 game hours. To raise an animal, the player must sneak around to provide food so that the animal does not get spooked. If intimacy does not reach 30 percent and the animal does not interact with the human within 24 hours, then intimacy will decline. Adult animals are limited in their ability to be domesticated, only small animals can be fully domesticated, and intimacy increases faster. Young animals retain 50 per cent of their mother's closeness at birth, unless she is close to the maximum, in which case they will retain 90 per cent. %n%n Stealthily looking at an animal displays a closeness indicator. As the intimacy increases, the indicator will fill with red, and when it reaches 100 percent, it will turn gold. A white border means that the animal has reached at least 30 percent and intimacy is no longer diminished. %n%n Sex: %n%n animals (excluding squid) have different sex (male or female), which is determined randomly at the time of animal generation. With the exception of bears, horses and wolves, all animals have visual cues to easily determine sex, such as horns, teeth, breasts and different feather colors. For creatures with no visual cues, players can right click on the animal, and the chat window will indicate gender.
 
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=The best logistics pipeline
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=The best logistics pipeline
+# Quest: tfr.quest275.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=Animal husbandry: Reproduction
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=All reproducible animals except chickens are bred by bringing together animals of different genders and feeding them until heart-shaped particles begin to appear. The animals consumed 5 ounces of grain each time they were fed, and if both animals had the heart, they would approach within seconds of the particles disappearing. A successful breeding can be confirmed by right-clicking on the female animal, which will produce a chat message, "pregnant". %n % chicken %n%n chickens are bred by using nesting boxes. The hen will lay an egg in the nest box every day. If there is a rooster in the box, the egg will be fertilized. A fertilized egg has a hint of fertilization on it. After three quarters of a month in the nest, the fertilized eggs hatch into chicks. Note: This calculation is based on months, not days. So a world with a long month will have a longer incubation period because there are more days in a month. %n%n pregnancy and baby %n%n all reproducible animals except chickens, the female will become pregnant directly after breeding. Once a female becomes pregnant, she must pass through pregnancy before giving birth. Note: This calculation is based on months, not days. Therefore, longer months will lead to longer pregnancies. %n%n When the time of conception is complete, the female gives birth. The length of pregnancy, the length of adulthood, and the number of offspring born depend on the type of animal.%n
 
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Open the door, Amazon Express
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Point-to-point instantaneous item pipelines, which require both sides to be connected for remote transmission, use item pipelines as Receiver and Sender, similar to P2P.
+# Quest: ph.empty
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=Wild crops: In the wild, crops are randomly generated and each type of crop is contained in block 8x8. This means that players need to explore considerable distances to collect each crop. Wild crops are produced only between spring and late summer, and there is a chance to regenerate each year.   %n%n seeds: Harvesting a crop will drop at least one seed, while increasing the player's seedtime skill. The better your farming skills, the more likely you are to gain  machine seed that will help you expand your farm. %n%n Crop types: Plant crops that mimic real life, and how long they grow before they can be harvested. Note, however, that these values have been scaled to the TFC year length, which is 96 days by default. %n%n use: Most of the harvested products can be eaten directly by the player, making them a renewable food source. The following grain products can be used to feed animals: barley, rice, rye, wheat, and oats
 
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=King Crimson! Delete the Time ~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Instantaneously transfers fluid, but requires Repeaters on both sides. There are four types of pipe with upper temperature limit available.
+# Quest: tfr.quest305.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=I'm going to break
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=§4 Press F3 to open block boundary display: make sure your ice cellar is in a block, otherwise it won't work. The cellar will keep your hard-earned food from going bad. %n%n made a hollow rectangular structure with an external height of 4 meters and an internal height of 2 meters from the ice cellar wall block. %n%n Ice cellar door should have two layers. The ice cellar door should be located in a space that protrudes from the wall itself, and there should also be ice wall blocks around it. %n%n One of the cubes in the bottom of the cellar needs to be the core of the ice cellar, and the TFC ice excavated by the ice saw needs to be placed inside to start the operation of the ice cellar. The temperature can be seen in the upper right corner of the GUI that opens the core of the ice pit when %n%n starts running. %n%n Food can only be put in the ice shelf. There should be no cubes in the ice cellar except for the ice shelf. There should be no square contact around the wall of the ice cellar. Only the bottom side should contact with the ground. %n%n This is a top view: %n%nX: wall %nD: gate %n%nXXXXX%nX X%nXX %nXXDXX%n XDX
 
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Nice tanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, but it can't output automatically. It needs to be pumped by a GregTech electric pump or affixed to the automatic input surface of the GregTech machine.
+# Quest: tfr.quest306.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=barbecue
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Some foods can only be eaten cooked: this includes all meats. Still others get more cooking after baking, such as baking dough into bread. You can grill food in a hot tub over an open fire, or put this grill on top of a forge. The grill can grill 8 items at once. Shift right - click grill can flip up.
 
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
+# Quest: tfr.quest308.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=New seeds
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=Some seeds cannot be found on the surface of sierra stars, but you can get them by sifting through the soil. These seeds are important for your future development.
 
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=All GregTechtech tanks can be set to auto output with right - click wrench. Corrosion-resistant tanks, 4 times larger than OB tanks, very good. Stainless steel tanks are also available in multi-block versions, similar to the way wood is constructed.
+# Quest: tfr.quest309.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=Agricultural tycoon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Now you will never lack for food again. Be careful, overfarming may cause your fields to lose nutrients. As you work your way up the grade, hold a hoe and you'll see how nutritious the field is. To thank you for your efforts, I will send you two Earth pigs, which can provide l-protein, a specialty not available in the TFC star population.
 
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=High temperature fluid transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Start making your steam equipment? You probably need some heat resistant fluid piping, bronze would be good. %n%n Pay attention to the description at the bottom of your pipe, different pipes have different heat temperature, air tightness, and corrosion resistance.
+# Quest: tfr.quest310.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Hard farmer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=The following task will be difficult for you at the beginning: You will need to collect more than 20 kinds of food and harvest them. However, the final reward is very rich oh.%n
 
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Low-level item transfer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Brass pipes are one of the most readily available item pipes that can interact with funnels, coke ovens, and most machines (but not buckets!). You'll probably need lots and lots of stuff later on.
+# Quest: tfr.quest312.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=reed
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Reed is not edible, but its fiber is good for paper, and there is no harm in growing it more often.
 
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Anticorrosive wood pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem to be better than wood pipes in terms of flow
+# Quest: tfr.quest313.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Sugar cane
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Here, sugarcane can only be synthesized from reeds, but it can still reproduce. But mind you, sugar cane needs the original soil to grow.
 
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+# Quest: tfr.quest314.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=The original soil
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=You can synthesize the original clay from any legendary clay of the hills. The fabled soil of the hills can only grow the fabled crops of the hills, but the original soil can only grow the original crops. It's a bit of a hassle, but the original crop has many USES.%n
 
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=It's a miracle that you can put 27 items in there. Touched?
+# Quest: tfr.quest315.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Not just keeping warm
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Wool is obtained by shearing. A sheep of high intimacy can be trimmed with scissors or a knife. Using scissors will give you more wool %n %n Another method is to use a knife to scrape the sheepskin in the composite column, depending on the size of the sheepskin, you can produce a different amount of wool. %n%n You need a spindle to synthesize it into wool yarn, which is then made into wool yarn at the loom. Wool yarn is an important material for making space suits in the future.
 
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Iron chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=More storage space
+# Quest: tfr.quest317.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Jute, not marijuana
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=It can be made into linen or rope and is a practical industrial material.
 
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=The silver chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=More storage space
+# Quest: tfr.quest332.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=fisheries
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=You need to make a fishing rod to fish. A fishing rod needs to be made of line. Any fish of any size can be submitted!
 
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Copper chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=More storage space
+# Quest: tfr.quest333.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=line
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Important resources, can be made from jute fiber or wool yarn
 
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Diamond chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=More storage space
-
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Gold chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=More storage space
-
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Crystal chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=More storage space
-
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Vanity case
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
-
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Metal chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blocks
-
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
-
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Storage barrel (of iron)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=Store 10,000 items per piece
-
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Shadow trash can (Support fluid)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=It can interact with the logistics pipeline and the fluid pipeline, which means it can destroy everything including items and fluids. %n%n production automation of practical equipment, strongly recommended production
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Memory input unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalent to the drawer module, but cannot interact with the logistics pipeline, AE network. %n%n items can only be placed by hand into contiguous mass storage and storage bins. %n%n suitable shape: a wall, namely XoY plane or ZoY plane. %n%n Maximum range (wall size) : 50 on both sides of the horizontal direction, namely 121 grids, the input is put in the middle. Vertical direction 7 bars, including the input. The maximum shape is 121 x 7 x 1 (length x height x width). %n%n7 lattice calculation method and origin: from the floor up to seven lattice, people (Steve) hands vertical direction maximum interactive distance (human! For the seven. %n%n floor: If there is a square in front of the input, the square nearest to the input will be regarded as the floor (human!). , and need to extend the floor to the left and right of each 50 grids (if with the largest area to cover the whole wall). %n%n All storage and storage buckets should be facing the same way and not covered, that is, there is no block in front of them (human! . %n%n, when right-clicking empty-handed, places all items in the package (3 x 9, not including the shortcut bar) with a maximum stack number of one into the wall. %n%n storage inputs cannot be pipelined for automation
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+# Quest: tfr.quest347.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Miners necessary
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=If you have a lot of wool yarn or jute fiber, this rope is much cheaper than a ladder. It allows you to climb up and down a mine without having to dig a stepped tunnel that might collapse.
 
 
 ## Quest Line: tfr.line21.name
@@ -2290,121 +2077,181 @@ betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
 
 
-## Quest Line: tfr.line10.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Agriculture, animal husbandry and fisheries
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=Help %n about your survival on this planet as a carbon-based creature based on the Legend of Sierra, Industrial Age 2, and GregTech technology.
+## Quest Line: tfr.line17.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=Human Limitless
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=Although you are an ordinary human, learning physics well will make you be GUD. About weapons and equipment
 
-# Quest: tfr.quest220.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Agriculture
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=You start with 1000 drops of blood, and you probably already see that the cap is coming down. If agriculture is not well developed, the ceiling will soon fall. There are many wild crops in the world. Go and collect some seeds. The importance of this chapter has been repeatedly emphasized. If the main push tired, come to the development of development here.
+# Quest: tfru.q102n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.desc=
 
-# Quest: tfr.quest225.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=Drink more hot water
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=In the TFC world, your hunger tank (green) is empty and you won't die quickly, but if the water tank (blue) is empty, you'll keep bleeding to death. %n can drink by right-clicking fresh water with empty hands, which is the only way to restore the sink until you have made pottery (see next chapter).
+# Quest: tfr.quest338.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.name=adventurers
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.desc=The most basic armor, only need 4 pieces of leather can be made (holding 1 leather and right click to enter the kneading interface)
 
-# Quest: tfr.quest226.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=Balanced diet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=Open the inventory bar. There is a box on the right. There are four boxes, which are your inventory, time, skills and nutrition %n nutrition and experience. There are five kinds of nutrition, and you need to eat different kinds of food to recover. %n%n When born, every nutrient of the player is full. As the player's hunger wears off, so do their nutritional bars. %n%n In order to supplement the nutrition, the player must eat the corresponding category of food. When the player is full, they get extra nutrients, and according to the player's current nutrition level, when the player is malnourished, they get more nutrients. %n%n The first four categories account for 25 percent of a player's maximum health, and dairy products have an additional 25 percent maximum health. For example, a starting player with no level is likely to reach a maximum life span of 800HP(the first four nutrients are filled). If one of the nutrients is empty and the other three are full, the player's maximum health value is 600HP. If a player has all five nutrients, their maximum life span is 1000HP.
+# Quest: tfr.quest378.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.name=Well done, soldier
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest227.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=Fruit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=Fruits are obtained in two ways: berry bushes and fruit trees, both of which can be found in the wild. %n Berry bushes can be gathered directly by hand and cannot reproduce. When the shrub is in season and in the right temperature range, it can produce a new fruit every month. Each berry has a different life span, and at the end of that life span, the fruit is removed from the bush. To harvest the fruit, just right-click on the bush and the fruit will drop. The harvested weights vary from 3 to 8 ounces. There is a chance of getting a sapling by chopping it down with an axe. If the trunk is left, it can continue to grow, multiply and produce more. %n%n tree seedlings do not grow immediately. On the contrary, the fruit trees grow slowly, with branches and leaves coming out in stages. This means that the saplings will eventually grow back after the branches have been cut off for harvest. But it also means that saplings take a long time to grow into trees as big as those in the wild. The trunk will reach its maximum height after 30 days, with a branch every 20 days and a leaf every two days. At harvest time, the tree will have a fruit on each leaf. To harvest the fruit, right-click on the leaves or left-click on the leaves and the fruit will fall. Fruit per serving is 4 to 16 ounces. %n%n fruit trees bear fruit only when the current temperature is between 0 and 38. For most cases, the corresponding seasonal temperatures (spring to late fall) are within this range, except in deserts, equatorial jungles, and deep tundra.%n
+# Quest: tfr.quest379.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.name=Medieval knight
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest228.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=Amino acids
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=There are two main ways to get protein: 1. Kill animals 2. Plant soybeans In the sierra World, where wild animals are produced only once since the world began, slaughtering is not a sustainable path! So, you need to raise animals, and Here I recommend cages to take them home, but also a leash or ears of wheat. N animals have sex and need to get to know you before they can mate with each other, but of course you have to feed them. In general, cows have fewer calves, but pigs have a litter.
+# Quest: tfr.quest380.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.name=The King's Guard
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest229.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=Vegetables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=Again, only through crops. The individual pushed the potato and cabbage, the yield is large, the growth condition is not harsh.
+# Quest: tfr.quest381.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.name=Medieval knight
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest230.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=Do you remember how much oz bread you've eaten in your life -- DIO
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=One of the five sources of nutrition, the only way to get it is by growing grain.%n Directly harvested grains need to be processed before they can be eaten. Bake them over a fire, or use a knife to cut them into grains. If you want a grain to last longer, or if you want to make a sandwich, you should make the grain into bread. Grain grains are ground in a stone mill to make flour, which is combined with a wooden bucket to make dough, which is baked over a fire to make bread. If you grow five food crops, you get the ultimate food: bread between bread and bread between bread and bread
+# Quest: tfr.quest382.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=heroes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest231.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=Dairy products
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=Dairy products are obtained in two ways: by drinking milk and by eating cheese (cheese is made of milk and is essentially milk). Cows that have been domesticated enough can milk a pail once a day for a pail of milk. 9 pails of milk and 1 pail of vinegar are sealed in wooden pails to obtain cheese.
+# Quest: tfr.quest384.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=gliding
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=If you take off from a high altitude with your right hand glider, you can glide for a long time using Bernoulli's principle. It's a good way to travel a long way.
 
-# Quest: tfr.quest233.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=Animal cages
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=With this device, you can put animals into mysterious Spaces without suffocating them.
+# Quest: tfr.quest388.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=Bipedal dragon armor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.desc=A set of advanced armor, consuming RF to withstand high intensity attacks.
 
-# Quest: tfr.quest105.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=Strange saplings
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=After making a carpenter machine, you can convert the TFC oak sapling into the vanilla oak seedling. The bark can be obtained by right-clicking a log with the GregTech axe, or by machine.
+# Quest: tfr.quest390.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.name=The dragon armor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=A set of super armor, with ultra high level 3d maneuverability, can reach 6 times the speed of normal flight, consuming RF to withstand almost extreme intensity of attack.
 
-# Quest: tfr.quest273.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=farmland
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=Farmland, also known as soil, contains the three basic nutrients of a plant, and if there's enough water cube nearby, your plant can get important water. By using the water and nutrient pattern of the metal hoe, you can see the nutrient level of the crop and the availability of water. Growing crops in the soil reduces soil nutrients and must be fallow, fertilized, or planted periodically with crops that require different nutrient types in order to replenish nutrients. Note: Some crops, such as soybeans and green beans, require additional nutrients as they grow. %n%n Unlike the original, farmland cannot be turned back into soil. The destruction of cropland also does not produce any soil to prevent the reuse of nutrients.
+# Quest: tfru.q81n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=
 
-# Quest: tfr.quest274.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=Animal husbandry: 1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=Chickens, cows, horses, pigs and sheep are all livestock. The natural generation of the world's animals is based on the climate of the region. %n%n livestock will follow any kind of refined grain and ear of corn, similar to the original animals will follow wheat, carrots and seeds. The rope is also the same as in the original drawing of livestock %n%n Bears, deer and pheasants are wild animals and cannot breed. Wild animals will be refreshed all over the world, except named animals, or at least tethered once, which won't disappear. All animals have a degree of intimacy that increases the need to interact in some way, such as milking, shearing, riding, raising and naming animals. The exact value of these interactions varies from species to species, and some require more interaction. Familiarity can be improved by performing specific actions every 24 game hours. To raise an animal, the player must sneak around to provide food so that the animal does not get spooked. If intimacy does not reach 30 percent and the animal does not interact with the human within 24 hours, then intimacy will decline. Adult animals are limited in their ability to be domesticated, only small animals can be fully domesticated, and intimacy increases faster. Young animals retain 50 per cent of their mother's closeness at birth, unless she is close to the maximum, in which case they will retain 90 per cent. %n%n Stealthily looking at an animal displays a closeness indicator. As the intimacy increases, the indicator will fill with red, and when it reaches 100 percent, it will turn gold. A white border means that the animal has reached at least 30 percent and intimacy is no longer diminished. %n%n Sex: %n%n animals (excluding squid) have different sex (male or female), which is determined randomly at the time of animal generation. With the exception of bears, horses and wolves, all animals have visual cues to easily determine sex, such as horns, teeth, breasts and different feather colors. For creatures with no visual cues, players can right click on the animal, and the chat window will indicate gender.
+# Quest: tfru.q9n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.desc=
 
-# Quest: tfr.quest275.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=Animal husbandry: Reproduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=All reproducible animals except chickens are bred by bringing together animals of different genders and feeding them until heart-shaped particles begin to appear. The animals consumed 5 ounces of grain each time they were fed, and if both animals had the heart, they would approach within seconds of the particles disappearing. A successful breeding can be confirmed by right-clicking on the female animal, which will produce a chat message, "pregnant". %n % chicken %n%n chickens are bred by using nesting boxes. The hen will lay an egg in the nest box every day. If there is a rooster in the box, the egg will be fertilized. A fertilized egg has a hint of fertilization on it. After three quarters of a month in the nest, the fertilized eggs hatch into chicks. Note: This calculation is based on months, not days. So a world with a long month will have a longer incubation period because there are more days in a month. %n%n pregnancy and baby %n%n all reproducible animals except chickens, the female will become pregnant directly after breeding. Once a female becomes pregnant, she must pass through pregnancy before giving birth. Note: This calculation is based on months, not days. Therefore, longer months will lead to longer pregnancies. %n%n When the time of conception is complete, the female gives birth. The length of pregnancy, the length of adulthood, and the number of offspring born depend on the type of animal.%n
+# Quest: tfru.q10n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=
 
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=Wild crops: In the wild, crops are randomly generated and each type of crop is contained in block 8x8. This means that players need to explore considerable distances to collect each crop. Wild crops are produced only between spring and late summer, and there is a chance to regenerate each year.   %n%n seeds: Harvesting a crop will drop at least one seed, while increasing the player's seedtime skill. The better your farming skills, the more likely you are to gain  machine seed that will help you expand your farm. %n%n Crop types: Plant crops that mimic real life, and how long they grow before they can be harvested. Note, however, that these values have been scaled to the TFC year length, which is 96 days by default. %n%n use: Most of the harvested products can be eaten directly by the player, making them a renewable food source. The following grain products can be used to feed animals: barley, rice, rye, wheat, and oats
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=
 
-# Quest: tfr.quest305.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=I'm going to break
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=§4 Press F3 to open block boundary display: make sure your ice cellar is in a block, otherwise it won't work. The cellar will keep your hard-earned food from going bad. %n%n made a hollow rectangular structure with an external height of 4 meters and an internal height of 2 meters from the ice cellar wall block. %n%n Ice cellar door should have two layers. The ice cellar door should be located in a space that protrudes from the wall itself, and there should also be ice wall blocks around it. %n%n One of the cubes in the bottom of the cellar needs to be the core of the ice cellar, and the TFC ice excavated by the ice saw needs to be placed inside to start the operation of the ice cellar. The temperature can be seen in the upper right corner of the GUI that opens the core of the ice pit when %n%n starts running. %n%n Food can only be put in the ice shelf. There should be no cubes in the ice cellar except for the ice shelf. There should be no square contact around the wall of the ice cellar. Only the bottom side should contact with the ground. %n%n This is a top view: %n%nX: wall %nD: gate %n%nXXXXX%nX X%nXX %nXXDXX%n XDX
+# Quest: tfr.quest382.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=heroes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=Metal armor is not made in the same way as leather: the armor of each material needs to be forged from the corresponding metal anvil or above. Also, armor forging has two stages: unfinished and complete, so it can be quite challenging for you. However, they can provide you with good protection.
 
-# Quest: tfr.quest306.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=barbecue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=Some foods can only be eaten cooked: this includes all meats. Still others get more cooking after baking, such as baking dough into bread. You can grill food in a hot tub over an open fire, or put this grill on top of a forge. The grill can grill 8 items at once. Shift right - click grill can flip up.
+# Quest: tfr.quest708.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=
 
-# Quest: tfr.quest308.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=New seeds
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=Some seeds cannot be found on the surface of sierra stars, but you can get them by sifting through the soil. These seeds are important for your future development.
+# Quest: tfr.quest707.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=
 
-# Quest: tfr.quest309.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=Agricultural tycoon.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=Now you will never lack for food again. Be careful, overfarming may cause your fields to lose nutrients. As you work your way up the grade, hold a hoe and you'll see how nutritious the field is. To thank you for your efforts, I will send you two Earth pigs, which can provide l-protein, a specialty not available in the TFC star population.
+# Quest: tfru.q93n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.desc=
 
-# Quest: tfr.quest310.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=Hard farmer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=The following task will be difficult for you at the beginning: You will need to collect more than 20 kinds of food and harvest them. However, the final reward is very rich oh.%n
+# Quest: tfru.q88n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.desc=
 
-# Quest: tfr.quest312.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=reed
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=Reed is not edible, but its fiber is good for paper, and there is no harm in growing it more often.
+# Quest: tfru.q87n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.desc=
 
-# Quest: tfr.quest313.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=Sugar cane
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=Here, sugarcane can only be synthesized from reeds, but it can still reproduce. But mind you, sugar cane needs the original soil to grow.
+# Quest: tfru.q94n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.desc=
 
-# Quest: tfr.quest314.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=The original soil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=You can synthesize the original clay from any legendary clay of the hills. The fabled soil of the hills can only grow the fabled crops of the hills, but the original soil can only grow the original crops. It's a bit of a hassle, but the original crop has many USES.%n
+# Quest: tfru.q92n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.desc=
 
-# Quest: tfr.quest315.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=Not just keeping warm
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=Wool is obtained by shearing. A sheep of high intimacy can be trimmed with scissors or a knife. Using scissors will give you more wool %n %n Another method is to use a knife to scrape the sheepskin in the composite column, depending on the size of the sheepskin, you can produce a different amount of wool. %n%n You need a spindle to synthesize it into wool yarn, which is then made into wool yarn at the loom. Wool yarn is an important material for making space suits in the future.
+# Quest: tfru.q100n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.desc=
 
-# Quest: tfr.quest317.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Jute, not marijuana
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=It can be made into linen or rope and is a practical industrial material.
+# Quest: tfru.q99n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.desc=
 
-# Quest: tfr.quest332.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=fisheries
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=You need to make a fishing rod to fish. A fishing rod needs to be made of line. Any fish of any size can be submitted!
+# Quest: tfru.q86n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.desc=
 
-# Quest: tfr.quest333.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=line
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=Important resources, can be made from jute fiber or wool yarn
+# Quest: tfru.q85n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=
 
-# Quest: tfr.quest347.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=Miners necessary
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=If you have a lot of wool yarn or jute fiber, this rope is much cheaper than a ladder. It allows you to climb up and down a mine without having to dig a stepped tunnel that might collapse.
+# Quest: tfru.q91n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=
 
-# Quest: tfru.q285n
-betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
-betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
+# Quest: tfru.q90n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
+
+# Quest: tfru.q98n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
+
+# Quest: tfru.q97n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
+
+# Quest: tfru.q103n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
+
+# Quest: tfru.q104n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=
+
+# Quest: tfru.q78n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.desc=
+
+# Quest: tfru.q80n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.desc=
+
+# Quest: tfru.q79n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.desc=
+
+# Quest: tfru.q96n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.desc=
+
+# Quest: tfru.q95n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.desc=
+
+# Quest: tfru.q101n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.desc=
+
+# Quest: tfru.q84n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.desc=
+
+# Quest: tfru.q83n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.desc=
+
+# Quest: tfru.q89n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.desc=
+
+# Quest: tfru.q82n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
+
+# Quest: tfru.q141n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
 
 ## Quest Line: tfr.line0.name
@@ -2568,6 +2415,159 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
 
 
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=Storage and Logistics
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=About plumbing, storage, and transport systems.
+
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Build according to the tooltip, one valve input and one valve output are required.
+
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Advanced Crafting Table
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=The Advanced crafting table is a non-essential but useful device. It has an internal fluid buffer, which allows player to pipe fluid and draw it out through the top slot in its GUI.It will automatically extract items from the storage space next to it. It also has a drawer, which can also hold a lot of things, and special slots for tools. Strongly recommended!
+
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Metal packaging
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=This is such a miracle, you can put 54 items with it now, touched?
+
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=Store (a lot of) liquid
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=The by-product of the coke oven is difficult to dispose of if it accumulates too much. To save money for fluid combustors, you can make the first multi-block tank: a large wooden tank. %n it can store 432000L of fluid, but don't try to use it to store corrosive liquids or gases. You can also choose to use it as a distilled water cache. %n It is placed in a similar way to a coke oven.
+
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=Base fluid transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=In this chapter I will introduce you to some of the objects and fluid transport and storage systems in GregTech's Technology. This is not a main chapter, you can choose to do it.
+
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=Rubber pipes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=Rubber pipeline has a good property, and not leak, and not expensive, is a very high cost performance fluid pipeline. It can only be made with a mould press
+
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Corrosion resistant pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=Stainless steel pipe is not only airtight, heat resistant, but also can resist all kinds of chemical corrosion, before the production of sulfuric acid production line recommended production.
+
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Electric pump
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=An electric pump is a cover that can be right - click attached to a GregTech machine or pipe to extract/discharge fluid from the container facing/in the container. Right click on the screwdriver to set extraction/discharge. Fluid can be extracted from OB tanks.
+
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=Modern Item pipes
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=Cost-effective item pipes, after obtaining PVC it can be massively produced.
+
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=Modern pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=Corrosion resistance, no air leakage. Cost-effective pipeline when PTFE (polytetrafluroethylene) can be produced on a large scale.
+
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=Conveyor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=A conveyor is a covering plate that can be right-click on a GregTech machine or pipe to extract/expel items from the container facing/in the container. Right click on the screwdriver to set extraction/discharge.
+
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=Better logistics pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=Better logistics pipeline
+
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=The best logistics pipeline
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=The best logistics pipeline
+
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=Open the door, Amazon Express
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=Point-to-point instantaneous item pipelines, which require both sides to be connected for remote transmission, use item pipelines as Receiver and Sender, similar to P2P.
+
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=King Crimson! Delete the Time ~
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=Instantaneously transfers fluid, but requires Repeaters on both sides. There are four types of pipe with upper temperature limit available.
+
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=Nice tanks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=It can hold almost any fluid, but it can't output automatically. It needs to be pumped by a GregTech electric pump or affixed to the automatic input surface of the GregTech machine.
+
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=Iron storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=Build according to the tooltip, one valve input and one valve output are required.
+
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=Stainless steel storage tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=All GregTechtech tanks can be set to auto output with right - click wrench. Corrosion-resistant tanks, 4 times larger than OB tanks, very good. Stainless steel tanks are also available in multi-block versions, similar to the way wood is constructed.
+
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=High temperature fluid transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=Start making your steam equipment? You probably need some heat resistant fluid piping, bronze would be good. %n%n Pay attention to the description at the bottom of your pipe, different pipes have different heat temperature, air tightness, and corrosion resistance.
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=Low-level item transfer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=Brass pipes are one of the most readily available item pipes that can interact with funnels, coke ovens, and most machines (but not buckets!). You'll probably need lots and lots of stuff later on.
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=Anticorrosive wood pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem to be better than wood pipes in terms of flow
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=It's a miracle that you can put 27 items in there. Touched?
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=Iron chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=More storage space
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=The silver chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=More storage space
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=Copper chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=More storage space
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=Diamond chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=More storage space
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=Gold chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=More storage space
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=Crystal chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=More storage space
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=Vanity case
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=Metal chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blocks
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=Storage barrel (of iron)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=Store 10,000 items per piece
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=Shadow trash can (Support fluid)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=It can interact with the logistics pipeline and the fluid pipeline, which means it can destroy everything including items and fluids. %n%n production automation of practical equipment, strongly recommended production
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=Memory input unit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalent to the drawer module, but cannot interact with the logistics pipeline, AE network. %n%n items can only be placed by hand into contiguous mass storage and storage bins. %n%n suitable shape: a wall, namely XoY plane or ZoY plane. %n%n Maximum range (wall size) : 50 on both sides of the horizontal direction, namely 121 grids, the input is put in the middle. Vertical direction 7 bars, including the input. The maximum shape is 121 x 7 x 1 (length x height x width). %n%n7 lattice calculation method and origin: from the floor up to seven lattice, people (Steve) hands vertical direction maximum interactive distance (human! For the seven. %n%n floor: If there is a square in front of the input, the square nearest to the input will be regarded as the floor (human!). , and need to extend the floor to the left and right of each 50 grids (if with the largest area to cover the whole wall). %n%n All storage and storage buckets should be facing the same way and not covered, that is, there is no block in front of them (human! . %n%n, when right-clicking empty-handed, places all items in the package (3 x 9, not including the shortcut bar) with a maximum stack number of one into the wall. %n%n storage inputs cannot be pipelined for automation
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+
+
 ## Quest Line: tfru.l2n
 betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.name=
 betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.desc=
@@ -2628,7 +2628,7 @@ betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.desc=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.name=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=
 
-# Quest: Wire
+# Quest: tfru.q283n
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
 
@@ -2676,7 +2676,7 @@ betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.desc=
 betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.name=
 betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=
 
-# Quest: LongDistance
+# Quest: tfru.q284n
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=
 
@@ -3769,6 +3769,10 @@ betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
+
+# Quest: tfru.q285n
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
 
 # Quest: tfru.q168n
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=

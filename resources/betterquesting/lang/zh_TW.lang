@@ -145,6 +145,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=我們的團隊製作了一個T
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=找不到粘土？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=群巒星的原住民希望你能給他們建造一座茅草屋的材料, 為了報答他們可以給你一些粘土。
 
+# Quest: New Quest
+betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.name=
+betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.desc=
+
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
@@ -318,10 +322,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=你可以將這個溫度傳感�
 # Quest: tfr.quest90.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=焦爐+
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=你或許已經發現原版熔爐不再能夠燒制木炭, 取而代之的是多方塊GT焦爐。焦爐是3x3x3的空心立方體, 正面中心是焦爐主方塊, 其他為耐火磚。每個焦爐需要25耐火磚和1焦爐主方塊。我現在要你去收集大量的粘土去製作它。%n%n焦爐在放進原木或者褐煤/煤炭後需要用原版或者格雷科技的打火, 而不是群巒傳說的打火機, 機點擊主方塊點燃%n 焦爐內置16線程, 效率很高。一組煤炭或者純淨的破碎煤礦可以焦化成一組焦煤, 熱值翻倍, 並且可以得到32000L的木榴油。褐煤焦化可以得到更多的木榴油但是焦化褐煤的熱值較低。木頭可以焦化成木炭, 也能獲得可觀的木榴油。%n%n木榴油是蒸餾塔完成之前最優秀的液體燃料, 熱值和原油媲美, 容易製取並且不具備再加工的可能, 燒起來不心疼。%n%n§c注意這個任務有兩頁
-
-# Quest: tfr.quest91.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.name=流體燃燒室
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWw.desc=流體燃燒室能在堵上的一瞬間關火, 為什麼不試試呢？%n*焦爐產生的木溜油是不錯的液體燃料
 
 # Quest: tfr.quest101.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=溫度
@@ -715,6 +715,10 @@ betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 # Quest: tfru.q107n
 betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
 betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
+# Quest: tfru.q250n
+betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
+betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
 
 
 ## Quest Line: tfr.line5.name
@@ -1409,183 +1413,6 @@ betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=金
 betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
 
 
-## Quest Line: tfr.line17.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=人類的能力沒有極限
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=雖然你是一介凡夫, 但是學好物理能讓你上天入地。關於武器與裝備
-
-# Quest: tfru.q102n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.desc=
-
-# Quest: tfr.quest338.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.name=冒險者
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.desc=最簡陋的裝甲, 只需要四塊皮革就可以捏制而成（手持1皮革右鍵進入捏制界面）
-
-# Quest: tfr.quest378.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.name=士兵, 幹得漂亮
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
-
-# Quest: tfr.quest379.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.name=中世紀騎士
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
-
-# Quest: tfr.quest380.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.name=國王近衛軍
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
-
-# Quest: tfr.quest381.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.name=中世紀騎士長
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
-
-# Quest: tfr.quest382.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=蓋世英雄
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
-
-# Quest: tfr.quest384.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=滑翔翼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=如果你手持滑翔翼右鍵從高處起飛, 你就能藉助伯努利原理滑翔很長一段時間。是個長途旅行的好方法。
-
-# Quest: tfr.quest388.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=雙足飛龍裝甲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.desc=一套高級裝甲, 消耗RF以承受高強度的打擊。
-
-# Quest: tfr.quest390.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.name=神龍裝甲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=一套超級裝甲, 擁有超高級別的立體機動功能, 可以達到普通飛行的6倍速度, 消耗RF以承受幾乎極高強度的打擊。
-
-# Quest: tfru.q81n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=
-
-# Quest: tfru.q9n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.desc=
-
-# Quest: tfru.q10n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=
-
-# Quest: tfr.quest382.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=蓋世英雄
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
-
-# Quest: tfr.quest708.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=
-
-# Quest: tfr.quest707.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=
-
-# Quest: tfru.q93n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.desc=
-
-# Quest: tfru.q88n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.desc=
-
-# Quest: tfru.q87n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.desc=
-
-# Quest: tfru.q94n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.desc=
-
-# Quest: tfru.q92n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.desc=
-
-# Quest: tfru.q100n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.desc=
-
-# Quest: tfru.q99n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.desc=
-
-# Quest: tfru.q86n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.desc=
-
-# Quest: tfru.q85n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=
-
-# Quest: tfru.q91n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=
-
-# Quest: tfru.q90n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
-
-# Quest: tfru.q98n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
-
-# Quest: tfru.q97n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
-
-# Quest: tfru.q103n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
-
-# Quest: tfru.q104n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=
-
-# Quest: tfru.q78n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.desc=
-
-# Quest: tfru.q80n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.desc=
-
-# Quest: tfru.q79n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.desc=
-
-# Quest: tfru.q96n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.desc=
-
-# Quest: tfru.q95n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.desc=
-
-# Quest: tfru.q101n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.desc=
-
-# Quest: tfru.q84n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.desc=
-
-# Quest: tfru.q83n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.desc=
-
-# Quest: tfru.q89n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.desc=
-
-# Quest: tfru.q82n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
-
-# Quest: tfru.q141n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
-
-
 ## Quest Line: tfru.l1n
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.name=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGg.desc=
@@ -1614,7 +1441,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABlQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABlw.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q287n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 
@@ -1912,157 +1739,117 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.name=混沌領主
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(目前不在世界生成, 製作中)
 
 
-## Quest Line: tfr.line14.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=存儲與物流學
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=關於管道, 存儲, 和傳輸系統。
+## Quest Line: tfr.line10.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=農業、畜牧業與漁業
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=關於你作為一個碳基生物在這個星球活下去的幫助%n基於群巒傳說, 工業時代2, 和格雷科技。
 
-# Quest: tfr.quest208.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=鋼製蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
+# Quest: tfr.quest220.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=農業
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你開局有1000滴血, 你估計已經發現上限正在下降了。如果不好好發展農業, 上限會很快下降的。%n%n世界裡有許多野生作物, 去收集一些作物種子吧！%n%n§l§o再三強調, 這個章節十分重要。如果主線推累了, 就來發展發展這裡吧。
 
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高級工作檯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高級工作檯是一個非必須但很有用的設備。他可以用管道輸入液體資源, 在GUI上部的槽里可以用桶接液體。也可以在旁邊放儲物桶, 合成的時候可以自動抽取物品。側邊是抽屜, 也能存放不少東西, 而且還有專門放工具的槽位。大力推進！
+# Quest: tfr.quest225.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=多喝熱水
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=在群巒世界中, 你的飢餓槽(綠)空了並不會很快死亡, 但是如果飲水槽(藍)空了, 你就會一直掉血致死。%n空手右擊淡水就能喝水, 在你製作出陶器(詳見下一章)之前, 你只有這一種方法回復飲水槽。
 
-# Quest: tfr.quest81.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金屬包裝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=這特麼就是個奇蹟, 你居然能放54個物品, 感動嗎？
+# Quest: tfr.quest226.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=均衡膳食
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=打開物品欄, 右側有一個框, 裡面有4個格, 分別是你的物品欄、時間、技能和營養%n營養和經驗共同決定你的最大血量。%n營養有五種, 要吃不同種類的食物來回復。%n%n當出生時, 玩家的每一種營養是全滿的。隨著玩家的飢餓消耗殆盡, 他們的營養條也會慢慢耗盡。%n%n%n%n為了補充營養, 玩家必須吃對應類別的食物。當玩家吃飽時, 他們會獲得額外的營養, 根據玩家當前的營養水平, 當玩家營養不良的時候, 他們會得到更多的營養。%n%n%n%n前四個類別占玩家最大生命的百分之二十五, 而乳製品則額外增加了百分之二十五的最高生命值。例如, 一個沒有等級的開始玩家有可能達到的最大生命為800HP(前四類營養都被填滿了)。如果其中一種營養是空的, 而另外三個則是滿的, 則玩家的最大健康值為600HP。如果玩家五種營養全滿, 他們的最大生命為1000HP。
 
-# Quest: tfr.quest100.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=儲存大量液體
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=焦爐副產的木榴油如果積攢過多很難處理。為了節約起來給流體燃燒室使用, 你可以製作第一個多方塊儲罐：大型木儲罐。%n他可以儲存432000L流體, 不過不要想用他裝腐蝕性液體或者氣體。你也可以選擇用它作為一個蒸餾水緩存。%n他的擺放方式和焦爐類似。
+# Quest: tfr.quest227.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=水果
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=水果有兩種獲得方式：漿果灌木和果樹, 兩者都可以在野外找到。%n漿果灌木可用手直接採集, 不可繁殖。%n%n當灌木應季並在適宜的溫度範圍內, 它每月可以產生一份新的水果。每一種漿果都有不同的壽命, 壽命結束後, 果實將被從灌木中去除。要收穫果實, 只需右擊灌木, 果實就會掉落。收穫重量從3到8盎司不等。%n%n果樹用斧頭砍斷分支有機率獲得樹苗, 主幹保留的話可以繼續生長, 可以繁殖並且產量更大。%n%n果樹幼苗不會立刻生長。相反, 果樹長得很慢, 一段段長出樹枝和樹葉。這意味著為了收穫樹苗砍掉樹枝後它們最終會生長回來。但這也意味著樹苗要花很長一段時間才能長成像野外那樣大的樹。樹幹將在30天後長到最高, 每20天生長一個樹枝, 每2天生長一個葉子。%n%n%n%n在收穫季節, 果樹將在每片葉子上結一份水果。要收穫水果, 右鍵單擊或左鍵點擊樹葉, 水果就會掉下來。每份水果為4到16盎司。%n%n果樹只有在當前溫度在0到38之間時才會結出果實。對於大多數的情況來說, 對應季節溫度(春季到晚秋)都在這個溫度範圍, 除了沙漠, 赤道附近的叢林, 以及深凍土帶。%n%n
 
-# Quest: tfr.quest127.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=基礎流體傳輸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=這一章中我會介紹給你一些關于格雷科技中物品和流體傳輸, 存儲系統的知識。這並非一個主線章節, 你可以選擇性完成。
+# Quest: tfr.quest228.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=胺基酸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=蛋白質主要有兩種途徑獲得：1. 宰殺動物 2. 種植大豆%n在群巒世界, 野生動物從世界生成起只產生一次, 所以濫殺並非可持續發展之道！%n所以, 你需要養殖動物, 這裡我推薦動物籠子將他們帶回家, 當然拴繩或者麥穗等也是可以的。%n動物有性別, 而且需要跟你熟悉之後才能互相交配, 當然你要餵它們。%n一般來說牛產崽比較少, 但是豬一產就是一窩。
 
-# Quest: tfr.quest130.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=橡膠管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=橡膠管道有著不錯的屬性, 而且不漏氣, 而且不算貴, 是性價比很高的一種流體管道。只能用壓模器製造
+# Quest: tfr.quest229.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=蔬菜
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=同樣只能通過作物獲得。個人強推馬鈴薯和捲心菜, 產量很大, 生長條件不苛刻。
 
-# Quest: tfr.quest133.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=耐腐蝕管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=不鏽鋼管道不僅僅不漏氣, 耐熱, 而且還能抗各種化學腐蝕, 製作硫酸產線前推薦製作。
+# Quest: tfr.quest230.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=你會記得你一生吃過多少oz麵包嗎 -- DIO
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=五種營養來源之一, 唯一獲取方法是種植穀物。%n直接收穫的穀物需要經過處理才能吃。放在火上烤, 或者用小刀切割成穀物粒。(玉米收穫下來就是粒, 赫魯雪夫狂喜)%n如果你想讓一份穀物吃更久, 或者你想做三明治, 那你應該把穀物做成麵包。%n穀物粒在石磨裡面研磨可以磨成粉, 粉和木質水桶合成可以得到麵團, 麵團放在火上烤就能得到麵包。%n如果你種植了五種糧食作物, 你就可以獲得究極食品：麵包夾麵包夾麵包夾麵包夾麵包
 
-# Quest: tfr.quest135.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=電動泵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=電動泵是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的流體。螺絲刀右擊設置抽取/排出。可以抽取OB儲罐中的流體。
+# Quest: tfr.quest231.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=乳製品
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=乳製品有兩種獲得方式:喝牛奶和吃奶酪(奶酪是牛奶做的所以本質上都是牛奶)%n馴化到一定程度的母牛每天可以用木桶右鍵擠奶一次獲得一桶牛奶。9桶牛奶+1桶醋在木桶中密封可以得到奶酪。
 
-# Quest: tfr.quest138.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=現代物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=性價比很高的物流管道, 得到聚氯乙烯後可以大規模生產。
+# Quest: tfr.quest233.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=動物籠子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=用這玩意可以把動物裝進神秘空間, 而且不會憋死。
 
-# Quest: tfr.quest149.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=現代管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=耐腐蝕, 不漏氣。性價比很高的管道, 得到聚四氟乙烯後可以大規模生產。
+# Quest: tfr.quest105.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=陌生的樹苗
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=製作一台木工機之後, 你可以將群巒的橡樹苗和覆蓋戎轉換為原版橡樹苗。樹皮可以通過用格雷斧頭右鍵原木獲得, 或者通過機器獲得。
 
-# Quest: tfr.quest150.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=輸送機
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=輸送機是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的物品。螺絲刀右擊設置抽取/排出。
+# Quest: tfr.quest273.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=農田
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=農田, 也被稱為土壤, 包含了作物的三種基本營養, 如果附近有足夠的水源方塊, 你的植物就能獲得重要的水源。通過使用金屬鋤頭的水和營養模式, 你可以看到作物的營養水平和水源的獲取情況。%n%n%n%n在土壤中種植作物會減少土壤營養, 為了補充營養必須讓作物休耕, 使用肥料, 或者周期種植需要不同營養類型的作物。注:一些農作物, 如大豆和青刀豆, 在生長時需要補充其他營養物質。%n%n%n%n與原版不同, 農田不能變回泥土。破壞農田塊也不會產生任何泥土, 以防止養分的重利用。
 
-# Quest: tfr.quest151.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=更好的物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=更好的物流管道
+# Quest: tfr.quest274.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=畜牧業：1
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=雞、牛、馬、豬、羊都是牲畜。%n%n世界上動物的自然生成是基於該地區的氣候。%n%n家畜將跟隨任何種類的精製穀物以及玉米穗, 類似於原版動物將會跟隨小麥、胡蘿蔔和種子。繩子也和原版拉走牲畜時的方式一樣%n%n熊、鹿和野雞是野生動物, 不能繁殖。野生動物將在世界上刷新, 除了被命名的動物, 或者至少被拴上一次, 這樣是不會消失的。%n%n親密度：%n%n所有的動物都有一個親密度, 增加需要以某種方式進行互動, 如擠奶、剪羊毛、騎馬、飼養動物和命名動物。這些作用的具體數值因物種而異, 有些物種需要更多的互動。熟悉度可以通過每24個遊戲小時執行一次特定的動作來提高。想要飼養動物, 玩家必須潛行提供食物使動物不受到驚嚇。%n%n如果親密度沒有達到百分之30且24小時內動物沒有與人互動, 那麼親密度將會下降。成年動物的馴養能力是有限的, 只有小動物能完全馴化, 親密度上漲得也更快。幼小的動物在出生時保留了母親的百分之50的親密度, 除非她接近於最高親密度, 在這種情況下, 他們將保留百分之90親密度。%n%n潛行看動物會顯示一個親密度指示器。隨著親密度的增加, 指示燈將會充滿紅色, 當它到達百分之百的時候, 就會變成金色。一個白色的邊框意味著這個動物已經達到了至少百分之三十, 親密度將不再減少。%n%n性別：%n%n動物(不包括魷魚)有不同的性別(雄性或雌性), 在動物生成時隨機決定。除了熊、馬和狼, 所有動物都有視覺線索來很容易地確定性別, 比如角、牙、乳房和不同的羽毛顏色。對於沒有視覺提示的生物, 玩家可以右鍵點擊動物, 聊天信息窗會說明性別。
 
-# Quest: tfr.quest152.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=最好的物流管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=最好的物流管道
+# Quest: tfr.quest275.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=畜牧業：繁殖
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=除了雞以外的所有可繁殖的動物都是通過將兩隻性別不同的動物養在一起, 餵飽它們直到心形的粒子開始出現。這些動物每次餵食時都會消耗5盎司的穀物, 如果這兩種動物都有心, 它們將會在粒子消失前幾秒鐘內靠近。一個成功的繁育可以用右鍵點擊雌性動物確認, 這將會產生一個聊天信息, 「懷孕」。%n%n%n%n雞%n%n%n%n雞是通過使用巢箱繁殖的。母雞每天會在巢箱裡下一個蛋, 如果在巢箱5格內有一隻公雞, 那麼蛋就會受精。一個受精的蛋上有一個「受精」的提示。%n受精蛋在巢箱裡待了3 /4個月後, 蛋就會孵化成小雞。注意:這個計算是以月份為基礎的, 而不是天數。因此, 一個月份長的世界會有更長的孵化期, 因為每個月有更多的天數。%n%n懷孕和嬰兒%n%n%n%n除了雞以外的所有可繁殖的動物, 雌性會在繁殖後直接懷孕。一旦雌性動物懷孕了, 必須通過妊娠期, 才能分娩。注意:這個計算是以月份為基礎的, 而不是天數。因此, 月份更長將會導致懷孕更久。%n%n%n%n當懷孕的時間完成後, 雌性就會分娩。懷孕時間, 成年時間, 出生的後代數量取決於動物的類型。%n
 
-# Quest: tfr.quest156.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=開門, 順豐快遞
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=點對點瞬達的物品管道, 需要兩側都接上遠距傳輸用物品管道作為中繼器, 和p2p類似。
+# Quest: ph.empty
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=野生作物：在野生環境中, 作物會隨機產生, 每一種類型的作物都包含在8x8區塊。這意味著玩家需要探索相當的距離來收集每一種作物。野生作物只在春季和夏末之間產生, 而且每年都有機會再生。%n%n%n%n種子：收穫一種作物將會至少掉下一粒種子, 同時增加玩家的稼穡技巧。玩家的稼穡技巧越高, 越有可能獲得第二個種子, 從而推進農場的擴張。%n%n%n作物類型：種植作物模擬真實的生命, 在它們能收穫之前生長多長時間。但是要注意的是, 這些值已經被縮放到符合TFC年份的長度, 默認情況下為96天。%n%n%n%n使用：收穫的大部分產品都可以被玩家直接吃掉, 這使它們成為可再生的食物來源。%n%n%n%n下列穀物產品可用於飼養動物：大麥粒, 大米粒, 黑麥粒, 小麥粒, 燕麥粒
 
-# Quest: tfr.quest165.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=削去時間
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=瞬間傳輸流體, 但是需要兩邊有中繼器。有四種溫度上限的管道可以選擇。
+# Quest: tfr.quest305.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=我要壞掉了
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=§4按F3打開區塊邊界顯示：確保你的冰窖在一個區塊內, 否則不會工作。%n%n地窖能避免你辛辛苦苦收穫的食物變質壞掉。%n%n用冰窖牆方塊製作一個外部高度為4米內部高度為2米的中空長方體結構。%n%n冰窖門需要有兩層, 冰窖門所在的位置需要突出牆體本身一格, 而且周圍也要有冰窖牆方塊。%n%n地窖內部底面其中一個方塊需要為冰窖核心, 內部需要放入冰鋸挖掘的TFC的冰塊才能使冰窖開始運行。%n%n開始運行時打開冰窖核心的GUI右上角能看到溫度。%n%n食物只能放在冰窖架里。冰窖內不能有除了冰窖架之外的任何方塊。%n%n冰窖的牆壁四周不能有任何方塊接觸, 只能底面與地面接觸。%n%n這是一個俯視圖：%n%nX：牆%nD：門%n%nXXXXX%nX   X%nX   X%nXXDXX%n XDX
 
-# Quest: tfr.quest166.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=清澈的蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=可以盛放幾乎一切流體, 但是無法自動輸出, 需要一個格雷電動泵抽取, 或者貼在格雷機器的自動輸入面。
+# Quest: tfr.quest306.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=燒烤
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=一些食物只有烤熟後才能食用：這包括所有的肉類。還有一些在烤制後會得到更多的烹飪方法, 比如把麵團烤成麵包。%n%n前期你可以把食物放進篝火的加熱槽中燒烤, 或者把這個烤架放在鍛造爐的上面。烤架能同時燒烤8個物品。Shift右鍵烤架可以翻起。
 
-# Quest: tfr.quest200.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=鐵製蓄水槽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
+# Quest: tfr.quest308.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=新種子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=一些種子無法在群巒星的地表發現, 但是通過篩濾泥土你就能獲得他們。這些種子對於你未來的發展很重要。
 
-# Quest: tfr.quest268.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=不鏽鋼儲罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=所有格雷科技儲罐都可以用扳手右鍵設置自動輸出。耐腐蝕的儲罐, 比OB儲罐大4倍, 很好用。不鏽鋼儲罐也有多方塊版本, 和木的建造方法類似。
+# Quest: tfr.quest309.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=農業大亨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=現在你再也不會缺乏食物了。小心了, 過度耕作可能會導致你的農田養分失效。當你的耕作等級逐漸提升時, 手持鋤頭就能看到農田的營養度。%n為了感謝你的付出, 我會送給你兩隻地球豬, 他們能夠提供左旋蛋白質, 一種群巒星沒有的特產。
 
-# Quest: tfr.quest300.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=高溫流體傳輸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=開始製作你的蒸汽設備了？你大概需要一些耐高溫的流體管道, 青銅就不錯。%n%n注意觀察你的管道底部的描述, 不同管道有不同的耐熱溫度, 氣密性, 和抗腐蝕性。
+# Quest: tfr.quest310.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=辛勤的農夫
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=下面的任務對於前期的你來說是很難的：你需要收集二十多種食物並將他們收穫。不過, 最後的獎勵可是非常豐厚的哦。%n
 
-# Quest: tfr.quest301.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=低級物品傳輸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=黃銅管道是前期容易獲得的物品管道之一, 他可以和漏斗交互, 焦爐交互, 大部分機器交互(但是不能和木桶交互！)你以後可能要很多很多物品管道。
+# Quest: tfr.quest312.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=蘆葦
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=蘆葦並不能食用, 但是它的纖維很適合製作紙張, 多多種植它是沒有壞處的。
 
-# Quest: tfr.quest302.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
+# Quest: tfr.quest313.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=甘蔗
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=在這裡, 甘蔗只能通過蘆葦合成獲得, 不過它依舊可以繁殖。不過注意了, 甘蔗需要原版的泥土才能種植。
 
-# Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低級物品抽取
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+# Quest: tfr.quest314.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=原版泥土
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=你可以將任何群巒傳說泥土無序合成為原版泥土。群巒傳說的泥土只能種植群巒傳說的作物, 而原版泥土只能種植原版作物。有些麻煩, 但是原版作物還是有許多用途的。%n
 
-# Quest: tfr.quest304.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸處理
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=這特麼就是個奇蹟, 你居然能放27個物品, 感動嗎？
+# Quest: tfr.quest315.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=不僅僅是保暖
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=羊毛是通過剪羊毛來獲得的, 一隻高親密度的羊可以用剪刀或刀子修剪。使用剪刀會給你更多的羊毛%n%n%n另一種方法是, 用小刀在合成欄中刮制羊皮, 根據羊皮的大小, 可以產生不同數量的羊毛。%n%n你需要一個紡錘將其合成為羊毛絲, 然後在織布機做成羊毛紗。%n%n羊毛紗是未來製作太空衣的重要材料。
 
-# Quest: tfr.quest443.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=鐵箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=更大的存儲空間
+# Quest: tfr.quest317.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=黃麻, 不是大麻
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=可以做成麻布或者繩子, 是一種實用的工業材料。
 
-# Quest: tfr.quest444.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=銀箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=更大的存儲空間
+# Quest: tfr.quest332.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=漁業
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=你需要製作魚竿來釣魚, 魚竿需要線做成。釣到任意大小的魚都可以提交任務！
 
-# Quest: tfr.quest445.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=銅箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=更大的存儲空間
+# Quest: tfr.quest333.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=線
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=重要的資源, 可以用黃麻纖維或者羊毛紗製作
 
-# Quest: tfr.quest446.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=鑽石箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=更大的存儲空間
-
-# Quest: tfr.quest447.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=金箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=更大的存儲空間
-
-# Quest: tfr.quest448.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=水晶箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=更大的存儲空間
-
-# Quest: tfr.quest450.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=虛空箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
-
-# Quest: tfr.quest451.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=金屬箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金屬錠壓縮成塊
-
-# Quest: tfr.quest452.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存儲空間
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
-
-# Quest: tfr.quest457.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=儲物桶(鐵製)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存儲單件10000個物品
-
-# Quest: tfr.quest458.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流體)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=可以與物流管道和流體管道交互, 也就是意味著他可以銷毀包括物品和流體在內的一切。%n%n製作自動化時的實用設備, 強烈建議製作
-
-# Quest: tfr.quest551.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=存儲輸入器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同於抽屜模組的抽屜管理器, 但是不能和物流管道、AE網絡交互。%n%n只能用手將物品放入相連的大容量存儲器及儲物桶。%n%n適用形狀：一面牆, 即 XoY平面或ZoY平面。%n%n適用最大範圍（牆壁大小）：水平方向兩邊各50, 即121格, 輸入器放中間。豎直方向7格, 包括輸入器。最大形狀為 121 x 7 x 1（長 x 高 x 寬）。%n%n7格計算方式及由來：從地板往上數七格, 人（史蒂夫）手豎直方向最大可交互距離（人性化！）為七格。%n%n地板：輸入器面前方塊向下七格範圍內（1 ~ 7）存在方塊, 則將離輸入器最近的方塊視為地板（人性化！）, 並且需要將地板左右各延伸50格（若以最大面積鋪滿整面牆）。%n%n所有存儲器及儲物桶需朝向一致, 且不被遮蓋, 即面前沒有方塊阻礙（人性化！）。%n%n空手右擊時, 會將包裹內（3 x 9, 不包括快捷欄）所有最大堆疊數量不為一的物品放入「牆壁」中。%n%n存儲輸入器不能通過管道進行自動化
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+# Quest: tfr.quest347.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=礦工必備
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=如果你有大量的羊毛紗或者黃麻纖維, 這條繩子比梯子要便宜很多。下礦的時候你可以通過它爬上爬下, 而不需要挖掘可能會坍塌的階梯式礦道。
 
 
 ## Quest Line: tfr.line21.name
@@ -2290,121 +2077,181 @@ betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.desc=
 
 
-## Quest Line: tfr.line10.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=農業、畜牧業與漁業
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=關於你作為一個碳基生物在這個星球活下去的幫助%n基於群巒傳說, 工業時代2, 和格雷科技。
+## Quest Line: tfr.line17.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.name=人類的能力沒有極限
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEQ.desc=雖然你是一介凡夫, 但是學好物理能讓你上天入地。關於武器與裝備
 
-# Quest: tfr.quest220.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=農業
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你開局有1000滴血, 你估計已經發現上限正在下降了。如果不好好發展農業, 上限會很快下降的。%n%n世界裡有許多野生作物, 去收集一些作物種子吧！%n%n§l§o再三強調, 這個章節十分重要。如果主線推累了, 就來發展發展這裡吧。
+# Quest: tfru.q102n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAw.desc=
 
-# Quest: tfr.quest225.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=多喝熱水
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.desc=在群巒世界中, 你的飢餓槽(綠)空了並不會很快死亡, 但是如果飲水槽(藍)空了, 你就會一直掉血致死。%n空手右擊淡水就能喝水, 在你製作出陶器(詳見下一章)之前, 你只有這一種方法回復飲水槽。
+# Quest: tfr.quest338.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.name=冒險者
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABUg.desc=最簡陋的裝甲, 只需要四塊皮革就可以捏制而成（手持1皮革右鍵進入捏制界面）
 
-# Quest: tfr.quest226.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.name=均衡膳食
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4g.desc=打開物品欄, 右側有一個框, 裡面有4個格, 分別是你的物品欄、時間、技能和營養%n營養和經驗共同決定你的最大血量。%n營養有五種, 要吃不同種類的食物來回復。%n%n當出生時, 玩家的每一種營養是全滿的。隨著玩家的飢餓消耗殆盡, 他們的營養條也會慢慢耗盡。%n%n%n%n為了補充營養, 玩家必須吃對應類別的食物。當玩家吃飽時, 他們會獲得額外的營養, 根據玩家當前的營養水平, 當玩家營養不良的時候, 他們會得到更多的營養。%n%n%n%n前四個類別占玩家最大生命的百分之二十五, 而乳製品則額外增加了百分之二十五的最高生命值。例如, 一個沒有等級的開始玩家有可能達到的最大生命為800HP(前四類營養都被填滿了)。如果其中一種營養是空的, 而另外三個則是滿的, 則玩家的最大健康值為600HP。如果玩家五種營養全滿, 他們的最大生命為1000HP。
+# Quest: tfr.quest378.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.name=士兵, 幹得漂亮
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeg.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
 
-# Quest: tfr.quest227.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.name=水果
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4w.desc=水果有兩種獲得方式：漿果灌木和果樹, 兩者都可以在野外找到。%n漿果灌木可用手直接採集, 不可繁殖。%n%n當灌木應季並在適宜的溫度範圍內, 它每月可以產生一份新的水果。每一種漿果都有不同的壽命, 壽命結束後, 果實將被從灌木中去除。要收穫果實, 只需右擊灌木, 果實就會掉落。收穫重量從3到8盎司不等。%n%n果樹用斧頭砍斷分支有機率獲得樹苗, 主幹保留的話可以繼續生長, 可以繁殖並且產量更大。%n%n果樹幼苗不會立刻生長。相反, 果樹長得很慢, 一段段長出樹枝和樹葉。這意味著為了收穫樹苗砍掉樹枝後它們最終會生長回來。但這也意味著樹苗要花很長一段時間才能長成像野外那樣大的樹。樹幹將在30天後長到最高, 每20天生長一個樹枝, 每2天生長一個葉子。%n%n%n%n在收穫季節, 果樹將在每片葉子上結一份水果。要收穫水果, 右鍵單擊或左鍵點擊樹葉, 水果就會掉下來。每份水果為4到16盎司。%n%n果樹只有在當前溫度在0到38之間時才會結出果實。對於大多數的情況來說, 對應季節溫度(春季到晚秋)都在這個溫度範圍, 除了沙漠, 赤道附近的叢林, 以及深凍土帶。%n%n
+# Quest: tfr.quest379.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.name=中世紀騎士
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABew.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
 
-# Quest: tfr.quest228.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.name=胺基酸
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5A.desc=蛋白質主要有兩種途徑獲得：1. 宰殺動物 2. 種植大豆%n在群巒世界, 野生動物從世界生成起只產生一次, 所以濫殺並非可持續發展之道！%n所以, 你需要養殖動物, 這裡我推薦動物籠子將他們帶回家, 當然拴繩或者麥穗等也是可以的。%n動物有性別, 而且需要跟你熟悉之後才能互相交配, 當然你要餵它們。%n一般來說牛產崽比較少, 但是豬一產就是一窩。
+# Quest: tfr.quest380.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.name=國王近衛軍
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfA.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
 
-# Quest: tfr.quest229.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.name=蔬菜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5Q.desc=同樣只能通過作物獲得。個人強推馬鈴薯和捲心菜, 產量很大, 生長條件不苛刻。
+# Quest: tfr.quest381.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.name=中世紀騎士長
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfQ.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
 
-# Quest: tfr.quest230.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.name=你會記得你一生吃過多少oz麵包嗎 -- DIO
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5g.desc=五種營養來源之一, 唯一獲取方法是種植穀物。%n直接收穫的穀物需要經過處理才能吃。放在火上烤, 或者用小刀切割成穀物粒。(玉米收穫下來就是粒, 赫魯雪夫狂喜)%n如果你想讓一份穀物吃更久, 或者你想做三明治, 那你應該把穀物做成麵包。%n穀物粒在石磨裡面研磨可以磨成粉, 粉和木質水桶合成可以得到麵團, 麵團放在火上烤就能得到麵包。%n如果你種植了五種糧食作物, 你就可以獲得究極食品：麵包夾麵包夾麵包夾麵包夾麵包
+# Quest: tfr.quest382.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.name=蓋世英雄
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABfg.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
 
-# Quest: tfr.quest231.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.name=乳製品
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=乳製品有兩種獲得方式:喝牛奶和吃奶酪(奶酪是牛奶做的所以本質上都是牛奶)%n馴化到一定程度的母牛每天可以用木桶右鍵擠奶一次獲得一桶牛奶。9桶牛奶+1桶醋在木桶中密封可以得到奶酪。
+# Quest: tfr.quest384.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.name=滑翔翼
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABgA.desc=如果你手持滑翔翼右鍵從高處起飛, 你就能藉助伯努利原理滑翔很長一段時間。是個長途旅行的好方法。
 
-# Quest: tfr.quest233.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=動物籠子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=用這玩意可以把動物裝進神秘空間, 而且不會憋死。
+# Quest: tfr.quest388.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.name=雙足飛龍裝甲
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhA.desc=一套高級裝甲, 消耗RF以承受高強度的打擊。
 
-# Quest: tfr.quest105.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=陌生的樹苗
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.desc=製作一台木工機之後, 你可以將群巒的橡樹苗和覆蓋戎轉換為原版橡樹苗。樹皮可以通過用格雷斧頭右鍵原木獲得, 或者通過機器獲得。
+# Quest: tfr.quest390.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.name=神龍裝甲
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABhg.desc=一套超級裝甲, 擁有超高級別的立體機動功能, 可以達到普通飛行的6倍速度, 消耗RF以承受幾乎極高強度的打擊。
 
-# Quest: tfr.quest273.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.name=農田
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=農田, 也被稱為土壤, 包含了作物的三種基本營養, 如果附近有足夠的水源方塊, 你的植物就能獲得重要的水源。通過使用金屬鋤頭的水和營養模式, 你可以看到作物的營養水平和水源的獲取情況。%n%n%n%n在土壤中種植作物會減少土壤營養, 為了補充營養必須讓作物休耕, 使用肥料, 或者周期種植需要不同營養類型的作物。注:一些農作物, 如大豆和青刀豆, 在生長時需要補充其他營養物質。%n%n%n%n與原版不同, 農田不能變回泥土。破壞農田塊也不會產生任何泥土, 以防止養分的重利用。
+# Quest: tfru.q81n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABjw.desc=
 
-# Quest: tfr.quest274.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=畜牧業：1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=雞、牛、馬、豬、羊都是牲畜。%n%n世界上動物的自然生成是基於該地區的氣候。%n%n家畜將跟隨任何種類的精製穀物以及玉米穗, 類似於原版動物將會跟隨小麥、胡蘿蔔和種子。繩子也和原版拉走牲畜時的方式一樣%n%n熊、鹿和野雞是野生動物, 不能繁殖。野生動物將在世界上刷新, 除了被命名的動物, 或者至少被拴上一次, 這樣是不會消失的。%n%n親密度：%n%n所有的動物都有一個親密度, 增加需要以某種方式進行互動, 如擠奶、剪羊毛、騎馬、飼養動物和命名動物。這些作用的具體數值因物種而異, 有些物種需要更多的互動。熟悉度可以通過每24個遊戲小時執行一次特定的動作來提高。想要飼養動物, 玩家必須潛行提供食物使動物不受到驚嚇。%n%n如果親密度沒有達到百分之30且24小時內動物沒有與人互動, 那麼親密度將會下降。成年動物的馴養能力是有限的, 只有小動物能完全馴化, 親密度上漲得也更快。幼小的動物在出生時保留了母親的百分之50的親密度, 除非她接近於最高親密度, 在這種情況下, 他們將保留百分之90親密度。%n%n潛行看動物會顯示一個親密度指示器。隨著親密度的增加, 指示燈將會充滿紅色, 當它到達百分之百的時候, 就會變成金色。一個白色的邊框意味著這個動物已經達到了至少百分之三十, 親密度將不再減少。%n%n性別：%n%n動物(不包括魷魚)有不同的性別(雄性或雌性), 在動物生成時隨機決定。除了熊、馬和狼, 所有動物都有視覺線索來很容易地確定性別, 比如角、牙、乳房和不同的羽毛顏色。對於沒有視覺提示的生物, 玩家可以右鍵點擊動物, 聊天信息窗會說明性別。
+# Quest: tfru.q9n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6g.desc=
 
-# Quest: tfr.quest275.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=畜牧業：繁殖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.desc=除了雞以外的所有可繁殖的動物都是通過將兩隻性別不同的動物養在一起, 餵飽它們直到心形的粒子開始出現。這些動物每次餵食時都會消耗5盎司的穀物, 如果這兩種動物都有心, 它們將會在粒子消失前幾秒鐘內靠近。一個成功的繁育可以用右鍵點擊雌性動物確認, 這將會產生一個聊天信息, 「懷孕」。%n%n%n%n雞%n%n%n%n雞是通過使用巢箱繁殖的。母雞每天會在巢箱裡下一個蛋, 如果在巢箱5格內有一隻公雞, 那麼蛋就會受精。一個受精的蛋上有一個「受精」的提示。%n受精蛋在巢箱裡待了3 /4個月後, 蛋就會孵化成小雞。注意:這個計算是以月份為基礎的, 而不是天數。因此, 一個月份長的世界會有更長的孵化期, 因為每個月有更多的天數。%n%n懷孕和嬰兒%n%n%n%n除了雞以外的所有可繁殖的動物, 雌性會在繁殖後直接懷孕。一旦雌性動物懷孕了, 必須通過妊娠期, 才能分娩。注意:這個計算是以月份為基礎的, 而不是天數。因此, 月份更長將會導致懷孕更久。%n%n%n%n當懷孕的時間完成後, 雌性就會分娩。懷孕時間, 成年時間, 出生的後代數量取決於動物的類型。%n
+# Quest: tfru.q10n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC6w.desc=
 
-# Quest: ph.empty
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=野生作物：在野生環境中, 作物會隨機產生, 每一種類型的作物都包含在8x8區塊。這意味著玩家需要探索相當的距離來收集每一種作物。野生作物只在春季和夏末之間產生, 而且每年都有機會再生。%n%n%n%n種子：收穫一種作物將會至少掉下一粒種子, 同時增加玩家的稼穡技巧。玩家的稼穡技巧越高, 越有可能獲得第二個種子, 從而推進農場的擴張。%n%n%n作物類型：種植作物模擬真實的生命, 在它們能收穫之前生長多長時間。但是要注意的是, 這些值已經被縮放到符合TFC年份的長度, 默認情況下為96天。%n%n%n%n使用：收穫的大部分產品都可以被玩家直接吃掉, 這使它們成為可再生的食物來源。%n%n%n%n下列穀物產品可用於飼養動物：大麥粒, 大米粒, 黑麥粒, 小麥粒, 燕麥粒
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7A.desc=
 
-# Quest: tfr.quest305.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.name=我要壞掉了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMQ.desc=§4按F3打開區塊邊界顯示：確保你的冰窖在一個區塊內, 否則不會工作。%n%n地窖能避免你辛辛苦苦收穫的食物變質壞掉。%n%n用冰窖牆方塊製作一個外部高度為4米內部高度為2米的中空長方體結構。%n%n冰窖門需要有兩層, 冰窖門所在的位置需要突出牆體本身一格, 而且周圍也要有冰窖牆方塊。%n%n地窖內部底面其中一個方塊需要為冰窖核心, 內部需要放入冰鋸挖掘的TFC的冰塊才能使冰窖開始運行。%n%n開始運行時打開冰窖核心的GUI右上角能看到溫度。%n%n食物只能放在冰窖架里。冰窖內不能有除了冰窖架之外的任何方塊。%n%n冰窖的牆壁四周不能有任何方塊接觸, 只能底面與地面接觸。%n%n這是一個俯視圖：%n%nX：牆%nD：門%n%nXXXXX%nX   X%nX   X%nXXDXX%n XDX
+# Quest: tfr.quest382.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.name=蓋世英雄
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACpg.desc=金屬裝甲的製作和皮革不大一樣：每種材質的裝甲都需要對應材質或以上的金屬砧鍛造而成。而且, 裝甲鍛造分為未完成和完成兩個階段, 所以對於你來說還是挺有挑戰的。不過, 他們能給你提供不錯的保護。
 
-# Quest: tfr.quest306.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.name=燒烤
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABMg.desc=一些食物只有烤熟後才能食用：這包括所有的肉類。還有一些在烤制後會得到更多的烹飪方法, 比如把麵團烤成麵包。%n%n前期你可以把食物放進篝火的加熱槽中燒烤, 或者把這個烤架放在鍛造爐的上面。烤架能同時燒烤8個物品。Shift右鍵烤架可以翻起。
+# Quest: tfr.quest708.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACwg.desc=
 
-# Quest: tfr.quest308.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.name=新種子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNA.desc=一些種子無法在群巒星的地表發現, 但是通過篩濾泥土你就能獲得他們。這些種子對於你未來的發展很重要。
+# Quest: tfr.quest707.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACxA.desc=
 
-# Quest: tfr.quest309.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.name=農業大亨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNQ.desc=現在你再也不會缺乏食物了。小心了, 過度耕作可能會導致你的農田養分失效。當你的耕作等級逐漸提升時, 手持鋤頭就能看到農田的營養度。%n為了感謝你的付出, 我會送給你兩隻地球豬, 他們能夠提供左旋蛋白質, 一種群巒星沒有的特產。
+# Quest: tfru.q93n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHA.desc=
 
-# Quest: tfr.quest310.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.name=辛勤的農夫
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABNg.desc=下面的任務對於前期的你來說是很難的：你需要收集二十多種食物並將他們收穫。不過, 最後的獎勵可是非常豐厚的哦。%n
+# Quest: tfru.q88n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOQ.desc=
 
-# Quest: tfr.quest312.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.name=蘆葦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOA.desc=蘆葦並不能食用, 但是它的纖維很適合製作紙張, 多多種植它是沒有壞處的。
+# Quest: tfru.q87n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOg.desc=
 
-# Quest: tfr.quest313.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.name=甘蔗
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOQ.desc=在這裡, 甘蔗只能通過蘆葦合成獲得, 不過它依舊可以繁殖。不過注意了, 甘蔗需要原版的泥土才能種植。
+# Quest: tfru.q94n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADOw.desc=
 
-# Quest: tfr.quest314.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.name=原版泥土
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOg.desc=你可以將任何群巒傳說泥土無序合成為原版泥土。群巒傳說的泥土只能種植群巒傳說的作物, 而原版泥土只能種植原版作物。有些麻煩, 但是原版作物還是有許多用途的。%n
+# Quest: tfru.q92n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPA.desc=
 
-# Quest: tfr.quest315.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.name=不僅僅是保暖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABOw.desc=羊毛是通過剪羊毛來獲得的, 一隻高親密度的羊可以用剪刀或刀子修剪。使用剪刀會給你更多的羊毛%n%n%n另一種方法是, 用小刀在合成欄中刮制羊皮, 根據羊皮的大小, 可以產生不同數量的羊毛。%n%n你需要一個紡錘將其合成為羊毛絲, 然後在織布機做成羊毛紗。%n%n羊毛紗是未來製作太空衣的重要材料。
+# Quest: tfru.q100n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPQ.desc=
 
-# Quest: tfr.quest317.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=黃麻, 不是大麻
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=可以做成麻布或者繩子, 是一種實用的工業材料。
+# Quest: tfru.q99n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADPg.desc=
 
-# Quest: tfr.quest332.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.name=漁業
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTA.desc=你需要製作魚竿來釣魚, 魚竿需要線做成。釣到任意大小的魚都可以提交任務！
+# Quest: tfru.q86n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQQ.desc=
 
-# Quest: tfr.quest333.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.name=線
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTQ.desc=重要的資源, 可以用黃麻纖維或者羊毛紗製作
+# Quest: tfru.q85n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQg.desc=
 
-# Quest: tfr.quest347.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.name=礦工必備
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=如果你有大量的羊毛紗或者黃麻纖維, 這條繩子比梯子要便宜很多。下礦的時候你可以通過它爬上爬下, 而不需要挖掘可能會坍塌的階梯式礦道。
+# Quest: tfru.q91n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADQw.desc=
 
-# Quest: tfru.q285n
-betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
-betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
+# Quest: tfru.q90n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRA.desc=
+
+# Quest: tfru.q98n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRQ.desc=
+
+# Quest: tfru.q97n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADRg.desc=
+
+# Quest: tfru.q103n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=
+
+# Quest: tfru.q104n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=
+
+# Quest: tfru.q78n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.desc=
+
+# Quest: tfru.q80n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSw.desc=
+
+# Quest: tfru.q79n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTA.desc=
+
+# Quest: tfru.q96n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTQ.desc=
+
+# Quest: tfru.q95n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADTg.desc=
+
+# Quest: tfru.q101n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUA.desc=
+
+# Quest: tfru.q84n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUQ.desc=
+
+# Quest: tfru.q83n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUg.desc=
+
+# Quest: tfru.q89n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADUw.desc=
+
+# Quest: tfru.q82n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
+
+# Quest: tfru.q141n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
 
 ## Quest Line: tfr.line0.name
@@ -2568,6 +2415,159 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADBQ.desc=
 
 
+## Quest Line: tfr.line14.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.name=存儲與物流學
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=關於管道, 存儲, 和傳輸系統。
+
+# Quest: tfr.quest208.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=鋼製蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
+
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高級工作檯
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高級工作檯是一個非必須但很有用的設備。他可以用管道輸入液體資源, 在GUI上部的槽里可以用桶接液體。也可以在旁邊放儲物桶, 合成的時候可以自動抽取物品。側邊是抽屜, 也能存放不少東西, 而且還有專門放工具的槽位。大力推進！
+
+# Quest: tfr.quest81.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金屬包裝
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=這特麼就是個奇蹟, 你居然能放54個物品, 感動嗎？
+
+# Quest: tfr.quest100.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.name=儲存大量液體
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZA.desc=焦爐副產的木榴油如果積攢過多很難處理。為了節約起來給流體燃燒室使用, 你可以製作第一個多方塊儲罐：大型木儲罐。%n他可以儲存432000L流體, 不過不要想用他裝腐蝕性液體或者氣體。你也可以選擇用它作為一個蒸餾水緩存。%n他的擺放方式和焦爐類似。
+
+# Quest: tfr.quest127.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.name=基礎流體傳輸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfw.desc=這一章中我會介紹給你一些關于格雷科技中物品和流體傳輸, 存儲系統的知識。這並非一個主線章節, 你可以選擇性完成。
+
+# Quest: tfr.quest130.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=橡膠管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=橡膠管道有著不錯的屬性, 而且不漏氣, 而且不算貴, 是性價比很高的一種流體管道。只能用壓模器製造
+
+# Quest: tfr.quest133.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=耐腐蝕管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=不鏽鋼管道不僅僅不漏氣, 耐熱, 而且還能抗各種化學腐蝕, 製作硫酸產線前推薦製作。
+
+# Quest: tfr.quest135.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=電動泵
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=電動泵是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的流體。螺絲刀右擊設置抽取/排出。可以抽取OB儲罐中的流體。
+
+# Quest: tfr.quest138.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=現代物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=性價比很高的物流管道, 得到聚氯乙烯後可以大規模生產。
+
+# Quest: tfr.quest149.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.name=現代管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlQ.desc=耐腐蝕, 不漏氣。性價比很高的管道, 得到聚四氟乙烯後可以大規模生產。
+
+# Quest: tfr.quest150.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.name=輸送機
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlg.desc=輸送機是一種覆蓋版, 可以右擊貼在格雷機器或者管道上, 作用是抽取/排出面對/所在的容器中的物品。螺絲刀右擊設置抽取/排出。
+
+# Quest: tfr.quest151.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.name=更好的物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAlw.desc=更好的物流管道
+
+# Quest: tfr.quest152.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.name=最好的物流管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmA.desc=最好的物流管道
+
+# Quest: tfr.quest156.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.name=開門, 順豐快遞
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnA.desc=點對點瞬達的物品管道, 需要兩側都接上遠距傳輸用物品管道作為中繼器, 和p2p類似。
+
+# Quest: tfr.quest165.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.name=削去時間
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApQ.desc=瞬間傳輸流體, 但是需要兩邊有中繼器。有四種溫度上限的管道可以選擇。
+
+# Quest: tfr.quest166.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.name=清澈的蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApg.desc=可以盛放幾乎一切流體, 但是無法自動輸出, 需要一個格雷電動泵抽取, 或者貼在格雷機器的自動輸入面。
+
+# Quest: tfr.quest200.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.name=鐵製蓄水槽
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyA.desc=根據方塊介紹擺放, 需要一個閥門輸入, 一個閥門輸出。
+
+# Quest: tfr.quest268.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.name=不鏽鋼儲罐
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDA.desc=所有格雷科技儲罐都可以用扳手右鍵設置自動輸出。耐腐蝕的儲罐, 比OB儲罐大4倍, 很好用。不鏽鋼儲罐也有多方塊版本, 和木的建造方法類似。
+
+# Quest: tfr.quest300.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.name=高溫流體傳輸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLA.desc=開始製作你的蒸汽設備了？你大概需要一些耐高溫的流體管道, 青銅就不錯。%n%n注意觀察你的管道底部的描述, 不同管道有不同的耐熱溫度, 氣密性, 和抗腐蝕性。
+
+# Quest: tfr.quest301.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.name=低級物品傳輸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLQ.desc=黃銅管道是前期容易獲得的物品管道之一, 他可以和漏斗交互, 焦爐交互, 大部分機器交互(但是不能和木桶交互！)你以後可能要很多很多物品管道。
+
+# Quest: tfr.quest302.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
+
+# Quest: tfr.quest303.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低級物品抽取
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+
+# Quest: tfr.quest304.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸處理
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=這特麼就是個奇蹟, 你居然能放27個物品, 感動嗎？
+
+# Quest: tfr.quest443.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.name=鐵箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuw.desc=更大的存儲空間
+
+# Quest: tfr.quest444.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.name=銀箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvA.desc=更大的存儲空間
+
+# Quest: tfr.quest445.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.name=銅箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvQ.desc=更大的存儲空間
+
+# Quest: tfr.quest446.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.name=鑽石箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvg.desc=更大的存儲空間
+
+# Quest: tfr.quest447.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.name=金箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABvw.desc=更大的存儲空間
+
+# Quest: tfr.quest448.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.name=水晶箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwA.desc=更大的存儲空間
+
+# Quest: tfr.quest450.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.name=虛空箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABwg.desc=
+
+# Quest: tfr.quest451.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.name=金屬箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金屬錠壓縮成塊
+
+# Quest: tfr.quest452.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存儲空間
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+
+# Quest: tfr.quest457.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=儲物桶(鐵製)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存儲單件10000個物品
+
+# Quest: tfr.quest458.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流體)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.desc=可以與物流管道和流體管道交互, 也就是意味著他可以銷毀包括物品和流體在內的一切。%n%n製作自動化時的實用設備, 強烈建議製作
+
+# Quest: tfr.quest551.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.name=存儲輸入器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同於抽屜模組的抽屜管理器, 但是不能和物流管道、AE網絡交互。%n%n只能用手將物品放入相連的大容量存儲器及儲物桶。%n%n適用形狀：一面牆, 即 XoY平面或ZoY平面。%n%n適用最大範圍（牆壁大小）：水平方向兩邊各50, 即121格, 輸入器放中間。豎直方向7格, 包括輸入器。最大形狀為 121 x 7 x 1（長 x 高 x 寬）。%n%n7格計算方式及由來：從地板往上數七格, 人（史蒂夫）手豎直方向最大可交互距離（人性化！）為七格。%n%n地板：輸入器面前方塊向下七格範圍內（1 ~ 7）存在方塊, 則將離輸入器最近的方塊視為地板（人性化！）, 並且需要將地板左右各延伸50格（若以最大面積鋪滿整面牆）。%n%n所有存儲器及儲物桶需朝向一致, 且不被遮蓋, 即面前沒有方塊阻礙（人性化！）。%n%n空手右擊時, 會將包裹內（3 x 9, 不包括快捷欄）所有最大堆疊數量不為一的物品放入「牆壁」中。%n%n存儲輸入器不能通過管道進行自動化
+
+# Quest: New Quest
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+
+
 ## Quest Line: tfru.l2n
 betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.name=
 betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.desc=
@@ -2628,7 +2628,7 @@ betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.desc=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.name=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=
 
-# Quest: Wire
+# Quest: tfru.q283n
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
 
@@ -2676,7 +2676,7 @@ betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.desc=
 betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.name=
 betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=
 
-# Quest: LongDistance
+# Quest: tfru.q284n
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=
 
@@ -3769,6 +3769,10 @@ betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
+
+# Quest: tfru.q285n
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
+betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
 
 # Quest: tfru.q168n
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=
