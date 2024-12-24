@@ -54,6 +54,7 @@
     "0:10": {
       "rewardID:8": "bq_standard:item",
       "index:3": 0,
+      "ignoreDisabled:1": 0,
       "rewards:9": {
         "0:10": {
           "id:8": "enhancedlootbags:lootbag",
@@ -67,7 +68,8 @@
       "amount:3": 200,
       "rewardID:8": "bq_standard:xp",
       "isLevels:1": 0,
-      "index:3": 1
+      "index:3": 1,
+      "ignoreDisabled:1": 0
     }
   }
 }

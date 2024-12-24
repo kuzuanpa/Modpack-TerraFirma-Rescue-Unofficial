@@ -57,7 +57,8 @@
       "amount:3": 4,
       "rewardID:8": "bq_standard:xp",
       "isLevels:1": 1,
-      "index:3": 1
+      "index:3": 1,
+      "ignoreDisabled:1": 0
     }
   }
 }
