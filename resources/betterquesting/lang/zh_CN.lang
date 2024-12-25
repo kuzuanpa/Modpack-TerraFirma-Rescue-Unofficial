@@ -11,7 +11,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=如果已经晚上了的话, �
 
 # Quest: tfr.quest224.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=淘金(筛铜)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=找个临水的沙滩, 手持淘金盘右键沙子, 然后对准流动的水持续右键, 你有几率获得一些好东西, 包括铜. %n%n注意 沙子用多了是会消失的. %n%n§c此方法推荐不想跑图的人使用
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=找个临水的沙滩, 手持淘金盘右键沙子, 然后对准流动的水持续右键, 你有几率获得一些好东西, 包括铜. %n%n注意 沙子用多了是会消失的. %n%n§c此方法产量不高, 推荐不想跑图的人使用
 
 # Quest: tfr.quest0.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=石器时代
@@ -63,7 +63,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=打开物品栏右侧你可以�
 
 # Quest: tfr.quest118.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=随身工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=NEI 搜索 3x3背包工作台升级. %n你可以在制作它之后直接将背包内的工作台升级为3x3网格.%n死亡或者跨纬度需要小退才能再次生效.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=NEI 搜索 背包工作台升级. %n你可以在制作它之后直接将背包内的工作台升级为3x3网格.%n死亡后需要重新制作.
 
 # Quest: tfr.quest132.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=NEI使用
@@ -98,8 +98,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.name=查看材料含量
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=在不打开任何GUI的情况下按 f3+h 打开材料显示 查看材料含量%n%n这个很重要对往后的格雷发展有极大的帮助
 
 # Quest: tfr.quest293.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.name=关于任务线的解锁
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.desc=这本任务书并不是像一般的任务书一样将每条任务线严格地放在前一条任务线全部完成后解锁, 而更像网状的任务结构. %n%n任务线的最重要目的是指引你了解这个整合包中很多方面的玩法. %n%n比如, 当你解锁锄头, 你就会解锁农业任务线. 当你解锁钢, 你就会解锁蒸汽时代的任务线. 如果你只发展主线, 很可能会错过很实用的东西哦.%n%n有许多任务会要求提交储罐, 请认真确认任务需求储罐内所含的流体. %n%n关于各章支线任务的实际内容: %n§a非酋福音§r: 当你找不到一些资源时可以前去兑换. %n§a万用商店§r: 使用TFRU币买卖物品. %n§a探索的时光§r: 关于快速旅行和方式和旅途中可能遇到的物品. %n§a征服新世界§r: 击杀各种怪物换取奖励. %n§a农业、畜牧业与渔业§r: 如题. %n§b[BOT]魔法觉醒§r: 植物魔法等魔法mod的主任务线. %n§b人类的能力没有极限§r: 关于各类工具、装备、盔甲的介绍. %n§b养蜂人的日常§r: 养蜂所需要知道的一切. %n§b存储与物流学§r: 介绍一些存储方式和运输方式. %n§b能量产生、转换和储存§r: 列出了本整合包所有的能量产生、转换和储存方式. %n§e石化革命§r: 介绍原油处理和石油制品(塑料等). %n§e计算学§r: 介绍光刻开始的高性能计算机的制作路线. %n§b航天时代§r: 介绍如何制作火箭上天. %n§b[AE]质量-信息转换技术§r: ae2的主任务线, 这是最通用和常见的自动化mod之一.  %n§e[OC]信息时代§r: oc的主任务线, 代码驱动的高级而复杂的自动化方式. %n§6[MO]人类的能力是有极限的§r: 超能物质的主任务线, 这是一个具有让人变成机器人等高度科幻内容的一个mod. %n§c[DE]龙之进化§r: 龙之进化的主任务线, 这里包含了最强大和危险的设备和装备.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.name=关于任务书
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.desc=这本任务书并不是像一般的任务书一样将每条任务线严格地放在前一条任务线全部完成后解锁, 而更类似网状的结构, 不同章节之间彼此枝蔓和穿插. %n%n任务书最重要的目的是指引你了解本包各方面的玩法. %n%n比如, 当你解锁锄头, 你就会解锁农业任务线. 当你解锁钢, 你就会解锁蒸汽时代的任务线. §a如果你只发展主线, 很可能会错过很实用的东西哦§r.%n%n有许多任务会要求提交储罐, 请认真确认任务需求储罐内所含的流体. %n%n关于各章支线任务的实际内容: %n%n§a非酋福音§r: 当你找不到一些资源时可以前去兑换. %n§a万用商店§r: 使用TFRU币买卖物品. %n§a探索的时光§r: 关于快速旅行的方式和旅途中可能遇到的物品. %n§a征服新世界§r: 击杀各种怪物换取奖励. %n§a农业、畜牧业与渔业§r: 如题. %n§b[BOT]魔法觉醒§r: 植物魔法等魔法mod的主任务线. %n§b人类的能力没有极限§r: 关于各类工具、装备、盔甲的介绍. %n§b养蜂人的日常§r: 养蜂所需要知道的一切. %n§b存储与物流学§r: 介绍一些存储方式和运输方式. %n§b能量产生、转换和储存§r: 列出了本整合包所有的能量产生、转换和储存方式. %n§e石化革命§r: 介绍原油处理和石油制品(塑料等). %n§e计算学§r: 介绍光刻开始的高性能计算机的制作路线. %n§e航天时代§r: 介绍如何制作火箭上天. %n§e[AE]质量-信息转换技术§r: ae2的主任务线, 这是最通用和常见的自动化mod之一.  %n§e[OC]信息时代§r: oc的主任务线, 代码驱动的高级而复杂的自动化方式. %n§6[MO]人类的能力是有极限的§r: 超能物质的主任务线, 这是一个具有让人变成机器人等高度科幻内容的一个mod. %n§c[DE]龙之进化§r: 龙之进化的主任务线, 这里包含了最强大和危险的设备和装备.
 
 # Quest: tfr.quest307.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.name=关于无法锻造问题(没配方)
@@ -115,7 +115,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABcQ.desc=地面上有些石头比较特�
 
 # Quest: tfr.quest370.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.name=§b§l你所记得的一切在这里都不适用
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.desc=这是一个完全修改了原版世界的整合包！你所记忆的关于MC生存模式的一切在这里都不适用. %n%n§c§n请记住, 任务书永远是你最好的帮手, 当你遇到什么问题, 请找找任务书内有没有答案. %n%n§r想致富, 先捡一些地上的石头和木棍吧！ 任意石头都可以提交任务. %n%n诶, 逃生舱里还有些面包诶. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.desc=这是一个完全修改了原版mc和mod的整合包！你所记忆的一切在这里都不适用. %n%n§c§n请记住, 任务书永远是你最好的帮手, 当你遇到什么问题, 请找找任务书内有没有答案. %n%n§r想致富, 先捡一些地上的石头和木棍吧！ 任意石头都可以提交任务. %n%n诶, 逃生舱里还有些面包诶.
 
 # Quest: tfr.quest460.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.name=我该挖什么？
@@ -145,9 +145,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=我们的团队制作了一个T
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=找不到粘土？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=群峦星的原住民希望你能给他们建造一座茅草屋的材料, 为了报答他们可以给你一些粘土.
 
-# Quest: New Quest
-betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.name=
-betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.desc=
+# Quest: tfru.q298n
+betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.name=不想挖矿?
+betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=使用洗矿槽自动淘金! 我们移除了原版TFC对洗矿槽的限制, 尽管效率很低, 它仍是自动化生产矿物的方式之一! 具体用法请参考沉思页面.
 
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=狼牙棒
@@ -293,7 +293,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA9g.desc=用它来制作坩埚, 它将�
 
 # Quest: tfr.quest11.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=§b§l金属熔炼
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=想暂时告别在砧上打板, 加工部分零件吗？这台格雷科技的坩埚是你最好的帮手. %n%n§l注意：这台坩锅不能加工你挖到的原矿！你必须将原矿处理为粉碎的矿石/洗净的矿石/矿石粉, 或者变成金属单质, 之后才能熔炼他们. 现在对你来说, 这台坩锅最大的用途在于制作合金. 有了这台坩锅, 制作黑钢、蓝钢、红钢等复杂合金变得更加简单. %n%n§r用法：首先, 把燃烧室放坩锅正下方, 把模具放在坩埚一个y平面上, 贴着坩锅摆放. 将要熔炼的物品丢进坩埚, 然后右键燃烧室放入任何燃料, 如煤炭, 木头等. 接下来, 用起火器(GT)右键燃烧室, 有几率点起火. 接着, 你可以等待坩埚中金属熔化, 或者合金变色. 用手/钳子右键模具, 即可导出金属. 等待金属凝固后, 再次右键就可以取出金属了. 如果不用钳子, 你会受到烫伤. %n%n坩锅的介绍里有一个熔毁温度, 一旦持续加温超过该温度, 坩锅就会熔毁(周围的方块不会被破坏, 但是你的坩锅会消失), 我建议你做完这个任务后, 在使用之前, 先看看旁边的温度任务. %n%n模具可以用凿子做成各种形状, 如板, 锭, 杆, 齿轮. 具体可以看可选任务部分粘土模具的形状. 导出金属就是你做成的形状. 比如板就是全部凿空. 这将大大节省你的时间.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=想暂时告别在砧上打板, 加工部分零件吗？这台格雷科技的坩埚是你最好的帮手. %n%n§l注意：这台坩锅不能加工你挖到的原矿！你必须将原矿处理为粉碎的矿石/洗净的矿石/矿石粉, 或者变成金属单质, 之后才能熔炼他们. 现在对你来说, 这台坩锅最大的用途在于制作合金. 有了这台坩锅, 制作黑钢、蓝钢、红钢等复杂合金变得更加简单. %n%n§r用法：首先, 把燃烧室放坩锅正下方, 把模具放在坩埚一个y平面上, 贴着坩锅摆放. 将要熔炼的物品丢进坩埚, 然后右键燃烧室放入任何燃料, 如煤炭, 木头等. 接下来, 用起火器(GT)右键燃烧室, 有几率点起火. 接着, 你可以等待坩埚中金属熔化, 或者合金变色. 用手/钳子右键模具, 即可导出金属. 等待金属凝固后, 再次右键就可以取出金属了. 如果不用钳子, 你会受到烫伤. %n%n坩锅的介绍里有一个熔毁温度, 一旦持续加温超过该温度, 坩锅就会熔毁(周围的方块不会被破坏, 但是你的坩锅会消失), 我建议你做完这个任务后, 在使用之前, 先看看旁边的温度任务. %n%n模具可以用凿子做成各种形状, 如板, 锭, 杆, 齿轮. 具体可以nei搜素粘土模具看它们的形状, 可选任务列出了一部分. 之后导出金属就是你做成的形状, 不规则形状会做成多个粒.
 
 # Quest: tfr.quest13.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.name=§b§l锻铁砧
@@ -691,6 +691,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=当你准备进行第一次机�
 # Quest: tfru.q233n
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=大型坩埚
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=这个巨大的钢块块可以一次为你熔炼400余单位的物质, 极大方便你进行大量加工. %n%n大型坩埚本身的质量非常大, 导致它升温很慢. 建议配合温度计控温和流化床燃烧室使用.
+
+# Quest: tfru.q299n
+betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=还是不想挖矿?
+betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=既然原始人能用淘金盘找到矿物, 蒸汽人就应该用更蒸汽的方式找到更多的矿! %n%n使用破碎机破碎石头, 再用筛选机找到砂砾,沙子中隐藏的矿石! 等到你有能力制作电路板的时候, 还可以自动挖掘大量的石头用于供给这一过程. %n%n筛选配方出矿的种类和概率是根据筛选的砂砾或沙子所属的岩层中矿物的种类和丰度确定的.
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=计压瓶

@@ -145,9 +145,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=我們的團隊製作了一個T
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=找不到粘土？
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=群巒星的原住民希望你能給他們建造一座茅草屋的材料, 為了報答他們可以給你一些粘土。
 
-# Quest: New Quest
-betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.name=
-betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.desc=
+# Quest: tfru.q298n
+betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.name=
+betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=
 
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
@@ -691,6 +691,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 # Quest: tfru.q233n
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
+
+# Quest: tfru.q299n
+betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
+betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=

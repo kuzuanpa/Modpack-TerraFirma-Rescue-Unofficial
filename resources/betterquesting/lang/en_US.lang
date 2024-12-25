@@ -145,9 +145,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.desc=Our team has created a TFR-spec
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.name=Can't find clay?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiA.desc=The natives of the Terrafirma want you to build them a thatched house, and in return give you some clay.
 
-# Quest: New Quest
-betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.name=
-betterquesting.quest.XyxzwzkOTri2D8ZwQi_W1A.desc=
+# Quest: tfru.q298n
+betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.name=
+betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=
 
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
@@ -691,6 +691,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 # Quest: tfru.q233n
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
+
+# Quest: tfru.q299n
+betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
+betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=
