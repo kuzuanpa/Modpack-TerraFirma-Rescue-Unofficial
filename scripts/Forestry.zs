@@ -213,12 +213,13 @@ MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 16 ,0,[10000],
 [<Forestry:fertilizerCompound>*16]);
 
 // Silk
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 32, 100 ,0,[10000],
+MTUtilsGT.addCustomRecipe("gt.recipe.loom", false, 32, 100 ,0,[10000],
 [<terrafirmacraft:item.WoolYarn>*6],
-[<liquid:seedoil>*100],
-[n],
 [<Forestry:craftingMaterial:3>]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.loom", false, 16, 80, 0, [10000],
+[<minecraft:string>*8],
+[<Forestry:craftingMaterial:3>]);
 
 recipes.addShapeless(<Forestry:sturdyMachine>,[<gregtech:gt.meta.machine:8610>]);
 //TODO: Bees

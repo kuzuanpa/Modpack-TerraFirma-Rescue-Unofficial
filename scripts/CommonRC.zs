@@ -150,7 +150,7 @@ val platePb  = <terrafirmacraft:item.Lead Sheet>;
 //RC blast furnace recipes
 //mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:ingot>);
 //mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:nugget:1>);
-mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:cube:2>);
+//mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:cube:2>);
 
 furnace.setFuel(<terrafirmacraft:item.coal>, 1600);
 furnace.setFuel(<terrafirmacraft:item.coal:1>, 1600);
