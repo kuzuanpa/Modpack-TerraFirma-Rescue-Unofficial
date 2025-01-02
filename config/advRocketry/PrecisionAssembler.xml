@@ -202,7 +202,7 @@
 			<oreDict>casingMachineDoubleSteelGalvanized;1</oreDict>
 			<itemStack>gregtech:gt.multiitem.technological;1;12001</itemStack>
 			<oreDict>springSteelGalvanized;1</oreDict>
-			<oreDict>gearGTsmallSteelGalvanized;1</oreDict>
+			<oreDict>gearGtSmallSteelGalvanized;1</oreDict>
 			<oreDict>stickIronMagnetic;1</oreDict>
 			<itemStack>mo:isolinear_circuit;1</itemStack>
 		</input>

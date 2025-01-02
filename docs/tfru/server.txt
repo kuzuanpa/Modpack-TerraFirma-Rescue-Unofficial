@@ -5,15 +5,12 @@ bettercrashes
 neiaddons
 NEIIntegration
 BetterLoadingScreen
-neodymium
 CoreTweaks
-NotEnoughCharacters
+nechar
 CustomMainMenu
 ResourceLoader
 falsepatternlib
-rightproperguiscale
 FpsReducer
-SmoothFont
 InGameInfoXML
 SoundLimitExtends
 InputFix

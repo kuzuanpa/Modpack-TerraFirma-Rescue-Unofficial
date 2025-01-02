@@ -42,52 +42,12 @@
 <Recipes useDefault="false">
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorNanoChestplate</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorNanoChestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorBatpack</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorBatpack;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>minecraft:iron_chestplate</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
         </input>
         <output>
             <itemStack>minecraft:iron_chestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorNanoBoots</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorNanoBoots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>minecraft:chainmail_boots</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>minecraft:chainmail_boots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -108,16 +68,6 @@
         </input>
         <output>
             <itemStack>gregtech:gt.armor.hazmat.universal.head;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorQuantumHelmet</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorQuantumHelmet;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -152,16 +102,6 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorJetpackElectric</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorJetpackElectric;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>Forestry:apiaristBoots</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
@@ -172,72 +112,12 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorJetpack</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorJetpack;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorRubBoots</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorRubBoots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>gregtech:gt.armor.hazmat.heat.boots</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
         </input>
         <output>
             <itemStack>gregtech:gt.armor.hazmat.heat.boots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorHazmatHelmet</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorHazmatHelmet;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorHazmatLeggings</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorHazmatLeggings;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorEnergypack</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorEnergypack;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorBronzeBoots</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorBronzeBoots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -260,26 +140,7 @@
             <itemStack>gregtech:gt.armor.hazmat.frost.chest;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorNanoLegs</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorNanoLegs;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorAdvBatpack</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorAdvBatpack;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
+    
     <Recipe timeRequired="100" power="10">
         <input>
             <itemStack>minecraft:iron_leggings</itemStack>
@@ -352,26 +213,6 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorBronzeLegs</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorBronzeLegs;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorQuantumLegs</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorQuantumLegs;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>Forestry:apiaristLegs</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
@@ -382,32 +223,12 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorBronzeHelmet</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorBronzeHelmet;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>minecraft:leather_chestplate</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
         </input>
         <output>
             <itemStack>minecraft:leather_chestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorQuantumBoots</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorQuantumBoots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -472,16 +293,6 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemStaticBoots</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemStaticBoots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>gregtech:gt.armor.hazmat.frost.head</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
@@ -512,26 +323,6 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorBronzeChestplate</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorBronzeChestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemSolarHelmet</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemSolarHelmet;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>minecraft:diamond_helmet</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
@@ -558,16 +349,6 @@
         </input>
         <output>
             <itemStack>DraconicEvolution:draconicLeggs;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorNanoHelmet</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorNanoHelmet;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -652,26 +433,6 @@
     </Recipe>
     <Recipe timeRequired="100" power="10">
         <input>
-            <itemStack>IC2:itemArmorQuantumChestplate</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorQuantumChestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorAlloyChestplate</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorAlloyChestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
             <itemStack>gregtech:gt.armor.hazmat.biochemgas.head</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
             <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
@@ -698,16 +459,6 @@
         </input>
         <output>
             <itemStack>gregtech:gt.armor.hazmat.biochemgas.legs;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemNightvisionGoggles</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemNightvisionGoggles;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -748,16 +499,6 @@
         </input>
         <output>
             <itemStack>minecraft:iron_boots;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorHazmatChestplate</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorHazmatChestplate;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="100" power="10">
@@ -848,16 +589,6 @@
         </input>
         <output>
             <itemStack>minecraft:golden_helmet;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
-        </output>
-    </Recipe>
-    <Recipe timeRequired="100" power="10">
-        <input>
-            <itemStack>IC2:itemArmorCFPack</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;1;1000</itemStack>
-            <itemStack>ktfruaddon:ktfru.item.compact;4;1001</itemStack>
-        </input>
-        <output>
-            <itemStack>IC2:itemArmorCFPack;1;0;{ench:[{id:128s,lvl:1s}]}</itemStack>
         </output>
     </Recipe>
     <Recipe timeRequired="200" power="100">

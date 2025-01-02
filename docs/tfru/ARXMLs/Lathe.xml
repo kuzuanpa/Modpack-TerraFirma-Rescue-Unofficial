@@ -1,0 +1,109 @@
+<!--
+  ~ Copyright (c) 2024.
+  ~ Original Author: TeamMoeg
+  ~ https://teammoeg.com
+  ~ Unofficial Version Main Author: kuzuanpa
+  ~ https://github.com/kuzuanpa
+  ~
+  ~ This file is distributed as part of the Terrafirma: Rescue Unofficial Modpack.
+  ~ Visit whole Source Code on Github:
+  ~ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
+  ~
+  ~ Terrafirma: Rescue Unofficial is a fork of Terrafirma: Rescue, Visit their Source Code on Github:
+  ~ https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
+  ~
+  ~ Terrafirma: Rescue Unofficial is a Free and Open Source Software distributed under the
+  ~ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
+  ~
+  -->
+
+<!-->
+	<Recipe timeRequired="NUMBER" power="NUMBER">
+		<input>
+			<fluidStack>FLUID NAME;SIZE</fluidStack>
+			<itemStack>ITEM_NAME;SIZE;META</itemStack>
+			<oreDict>OREDICT_NAME;SIZE</oreDict>
+        </input>
+		<output>
+			<fluidStack>FLUID_NAME;SIZE</fluidStack>
+			<itemStack>ITEM_NAME;SIZE;META</itemStack>
+			<oreDict>OREDICT_NAME;SIZE</oreDict>
+		</output>
+	</Recipe>
+
+	Can have Multiple In/Outputs
+	Some Machines can only Accept either Fluids or Items
+
+	timeRequired="NUMBER"	how long a Recipe takes, Unit is in Ticks.
+	power="NUMBER" how much Power the Recipes takes per Tick. Unit is in RF.
+
+	The "useDefault" attribute will prevent loading of recipes if set to "false"
+<!-->
+<Recipes useDefault="true">
+	<!--Custom Recipes Starts here-->
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<itemStack>gregtech:gt.multitileentity;2;28350</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:tile.energyPipe</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickTin</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Tin Wire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickAnyCopper</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Copper Wire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickGold</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Gold Wire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Aluminum Wire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickElectrum</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Electrum Wire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickAnyIron</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Wrought Iron Wire</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>stickAnyIronSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>tfctech:item.Steel Wire</itemStack>
+		</output>
+	</Recipe>
+    
+</Recipes> 

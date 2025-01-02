@@ -1,0 +1,136 @@
+ <!--
+  ~ Copyright (c) 2024.
+  ~ Original Author: TeamMoeg
+  ~ https://teammoeg.com
+  ~ Unofficial Version Main Author: kuzuanpa
+  ~ https://github.com/kuzuanpa
+  ~
+  ~ This file is distributed as part of the Terrafirma: Rescue Unofficial Modpack.
+  ~ Visit whole Source Code on Github:
+  ~ https://github.com/kuzuanpa/Modpack-TerraFirma-Rescue-Unofficial
+  ~
+  ~ Terrafirma: Rescue Unofficial is a fork of Terrafirma: Rescue, Visit their Source Code on Github:
+  ~ https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
+  ~
+  ~ Terrafirma: Rescue Unofficial is a Free and Open Source Software distributed under the
+  ~ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
+  ~
+  -->
+
+<!-->
+	<Recipe timeRequired="NUMBER" power="NUMBER">
+		<input>
+			<fluidStack>FLUID NAME SIZE</fluidStack>
+			<itemStack>ITEM_NAME SIZE META</itemStack>
+			<oreDict>OREDICT_NAME SIZE</oreDict>
+        </input>
+		<output>
+			<fluidStack>FLUID_NAME SIZE</fluidStack>
+			<itemStack>ITEM_NAME SIZE META</itemStack>
+			<oreDict>OREDICT_NAME SIZE</oreDict>
+		</output>
+	</Recipe>
+	
+	Can have Multiple In/Outputs
+	Some Machines can only Accept either Fluids or Items
+	
+	timeRequired="NUMBER"	how long a Recipe takes, Unit is in Ticks.
+	power="NUMBER" how much Power the Recipes takes per Tick. Unit is in RF.
+	
+	The "useDefault" attribute will prevent loading of recipes if set to "false"
+<!-->
+<Recipes useDefault="true">
+	<Recipe timeRequired="100" power ="1">
+		<input>
+			<oreDict>sheetIron</oreDict>
+			<oreDict>sheetIron</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:pressureTank</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="200" power ="2">
+		<input>
+			<oreDict>sheetSteel</oreDict>
+			<oreDict>sheetSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:pressureTank;1;1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="1">
+		<input>
+			<oreDict>sheetAluminum</oreDict>
+			<oreDict>sheetAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:pressureTank;1;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1000" power ="8">
+		<input>
+			<oreDict>sheetTitanium</oreDict>
+			<oreDict>sheetTitanium</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:pressureTank;1;3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateIron</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductsheet;1;1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateCopper</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductsheet;1;4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductsheet;1;6</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateTitanium</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductsheet;1;7</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateAluminum</oreDict>
+		</input>
+		<output>
+			<itemStack>libVulpes:libVulpesproductsheet;1;9</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateTitaniumAluminide</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:advancedRocketryproductsheet</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="200">
+		<input>
+			<oreDict>plateTitaniumIridium</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:advancedRocketryproductsheet;1;1</itemStack>
+		</output>
+	</Recipe>
+    
+</Recipes>

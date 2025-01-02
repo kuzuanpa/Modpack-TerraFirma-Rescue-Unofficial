@@ -1,0 +1,112 @@
+<!-->
+Original Author: TeamMoeg
+https://teammoeg.com
+Unofficial Version Author: kuzuanpa
+https://github.com/kuzuanpa
+This file is distributed as part of the Terrafirma: Rescue Modpack.
+Visit the whole Project Source Code on Github:
+https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack
+
+Terrafirma: Rescue is a Free and Open Source Software distributed under the
+Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE
+<!-->
+
+<!-->
+	<Recipe timeRequired="NUMBER" power="NUMBER">
+		<input>
+			<fluidStack>FLUID;NAME;SIZE</fluidStack>
+			<itemStack>ITEM_NAME;SIZE;META</itemStack>
+			<oreDict>OREDICT_NAME;SIZE</oreDict>
+		</input>
+		<output>
+			<fluidStack>FLUID_NAME;SIZE</fluidStack>
+			<itemStack>ITEM_NAME;SIZE;META</itemStack>
+			<oreDict>OREDICT_NAME;SIZE</oreDict>
+		</output>
+	</Recipe>
+	
+
+<!-->
+<Recipes useDefault="true">
+	<Recipe timeRequired="300" power ="100">
+		<input>
+			<itemStack>advancedRocketry:circuitplate</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:circuitIC;4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="100">
+		<input>
+			<itemStack>advancedRocketry:circuitplate;1;1</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:circuitIC;4;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="100">
+		<input>
+			<oreDict>bouleSilicon</oreDict>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:wafer;4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>advancedRocketry:alienWood</itemStack>
+		</input>
+		<output>
+			<itemStack>advancedRocketry:tile.planks;6</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>minecraft:log</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:planks;6</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>minecraft:log;1;1</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:planks;6;1</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>minecraft:log;1;2</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:planks;6;2</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>minecraft:log;1;3</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:planks;6;3</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>minecraft:log2</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:planks;6;4</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="80" power ="10">
+		<input>
+			<itemStack>minecraft:log2;1;1</itemStack>
+		</input>
+		<output>
+			<itemStack>minecraft:planks;6;5</itemStack>
+		</output>
+	</Recipe>
+	
+</Recipes>
