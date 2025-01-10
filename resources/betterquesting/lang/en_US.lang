@@ -158,6 +158,10 @@ betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.name=Tier 0 - Bronze Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.desc=The sudden wind runs under the mistletoe; the confused wander beneath the trees. Just before climbing, the fruit falls. %n
 
+# Quest: tfru.q188n
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
+
 # Quest: tfr.quest217.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=Fermentation/soaking/cooling in one
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=The barrel is an important tool: it doesn't consume energy and just needs to be sealed and wait for the recipe to complete.  A simple barrel of water can be a very useful tool in cooling ingots of metal quickly.
@@ -265,6 +269,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=Lime dyes can be made up to eig
 # Quest: tfr.quest644.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=Refractory mineral
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=Kaolinite and graphite are important raw materials for making high-temperature clay! These minerals have no surface indicators: try looking for them in the TFCs or using a pick in the rock formations they produce! %n Kaolinite and graphite are produced in all sedimentary rocks and metamorphic rocks. What are sedimentary rocks and metamorphic rocks? Check out the first chapter of the geological introduction mission!
+
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
 
 
 ## Quest Line: tfr.line1.name
@@ -456,9 +464,9 @@ betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - Steam Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=One day, when you were forging, you accidentally left the kettle by the forge stove. Soon the lid of the kettle was plumped up by a white mist. You built a steam engine according to the guide. - based on GregTech
 
-# Quest: tfru.q188n
-betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
-betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
+# Quest: tfru.q308n
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.name=
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=
 
 # Quest: tfru.q296n
 betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=
@@ -1095,7 +1103,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q305n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=
 
@@ -2509,7 +2517,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=Anticorrosive wood pipes seem t
 
 # Quest: tfr.quest303.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=Low-level item extraction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=No Description
 
 # Quest: tfr.quest304.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=In oil processing
@@ -2551,7 +2559,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=Compress a metal ingot into blo
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=Obsidian chest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=More storage space
 
-# Quest: New Quest
+# Quest: tfru.q307n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
 
@@ -2570,6 +2578,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=The drawer manager is equivalen
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+
+# Quest: tfru.q306n
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.name=
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.desc=
 
 
 ## Quest Line: tfru.l2n
@@ -2632,6 +2644,10 @@ betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.desc=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.name=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=
 
+# Quest: tfru.q304n
+betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.name=
+betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.desc=
+
 # Quest: tfru.q283n
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
@@ -2643,6 +2659,10 @@ betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=
 # Quest: RF2CU
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
+
+# Quest: tfru.q300n
+betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.name=
+betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.desc=
 
 # Quest: RF2KU
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
@@ -2663,6 +2683,10 @@ betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
 # Quest: LU2EU
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
+
+# Quest: tfru.q302n
+betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.name=
+betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.desc=
 
 # Quest: tfru.q262n
 betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.name=
@@ -2727,6 +2751,10 @@ betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=
 # Quest: tfru.q259n
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.name=
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=
+
+# Quest: tfru.q303n
+betterquesting.quest.yy3Nar60SSO5WK99b4B8og.name=
+betterquesting.quest.yy3Nar60SSO5WK99b4B8og.desc=
 
 
 ## Quest Line: tfr.line11.name

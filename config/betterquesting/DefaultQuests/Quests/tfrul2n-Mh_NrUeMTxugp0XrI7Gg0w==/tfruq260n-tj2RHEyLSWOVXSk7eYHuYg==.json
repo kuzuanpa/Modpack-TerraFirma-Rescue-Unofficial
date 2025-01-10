@@ -2,10 +2,18 @@
   "questIDHigh:4": -5314932434498008733,
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": 7187285000508883202,
+      "questIDLow:4": -4826201535888571065
+    },
+    "1:10": {
+      "questIDHigh:4": 3488510191359051459,
+      "questIDLow:4": -7499528656468125455
+    },
+    "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 890
     },
-    "1:10": {
+    "3:10": {
       "questIDHigh:4": -3986478980397185537,
       "questIDLow:4": -4764461029788907617
     }
@@ -40,6 +48,11 @@
       "desc:8": "tfru.q260d"
     }
   },
-  "tasks:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  },
   "rewards:9": {}
 }

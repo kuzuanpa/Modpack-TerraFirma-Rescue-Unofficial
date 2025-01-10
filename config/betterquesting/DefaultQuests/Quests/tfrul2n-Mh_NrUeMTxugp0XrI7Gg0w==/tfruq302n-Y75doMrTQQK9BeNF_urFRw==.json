@@ -1,24 +1,27 @@
 {
-  "questIDHigh:4": 0,
+  "questIDHigh:4": 7187285000508883202,
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 890
+      "questIDHigh:4": -3170086497426060012,
+      "questIDLow:4": -5079853277477366411
     }
   },
-  "questIDLow:4": 893,
+  "questIDLow:4": -4826201535888571065,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "minecraft:nether_star",
+        "id:8": "gregapi:gt.display.fluid",
         "Count:3": 1,
-        "Damage:2": 0,
+        "tag:10": {
+          "f:8": "hottritiatedwater",
+          "h:2": 650
+        },
+        "Damage:2": 107,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -26,13 +29,18 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q200n",
+      "name:8": "tfru.q302n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q200d"
+      "desc:8": "tfru.q302d"
     }
   },
-  "tasks:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  },
   "rewards:9": {}
 }

@@ -1,24 +1,23 @@
 {
-  "questIDHigh:4": 0,
+  "questIDHigh:4": -3806160251708487389,
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 304
+      "questIDHigh:4": -3463258557863998568,
+      "questIDLow:4": -6952906696132525220
     }
   },
-  "questIDLow:4": 455,
+  "questIDLow:4": -5091126425465881438,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "OR",
-      "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
         "id:8": "gregtech:gt.multitileentity",
         "Count:3": 1,
-        "Damage:2": 6991,
+        "Damage:2": 24818,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -26,11 +25,11 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfr.quest455.name",
+      "name:8": "tfru.q303n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfr.quest455.desc"
+      "desc:8": "tfru.q303d"
     }
   },
   "tasks:9": {
@@ -45,7 +44,7 @@
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 6991,
+          "Damage:2": 24808,
           "OreDict:8": ""
         }
       },
@@ -62,7 +61,7 @@
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 6998,
+          "Damage:2": 24818,
           "OreDict:8": ""
         }
       },
@@ -79,7 +78,7 @@
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 6990,
+          "Damage:2": 24788,
           "OreDict:8": ""
         }
       },
@@ -96,32 +95,63 @@
         "0:10": {
           "id:8": "gregtech:gt.multitileentity",
           "Count:3": 1,
-          "Damage:2": 6992,
+          "Damage:2": 24798,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "4:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 4,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "gregtech:gt.multitileentity",
+          "Count:3": 1,
+          "Damage:2": 24828,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "5:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 5,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "gregtech:gt.multitileentity",
+          "Count:3": 1,
+          "Damage:2": 24838,
+          "OreDict:8": ""
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "6:10": {
+      "partialMatch:1": 1,
+      "autoConsume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 6,
+      "consume:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "id:8": "gregtech:gt.multitileentity",
+          "Count:3": 1,
+          "Damage:2": 24848,
           "OreDict:8": ""
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
   },
-  "rewards:9": {
-    "0:10": {
-      "rewardID:8": "bq_standard:item",
-      "index:3": 1,
-      "ignoreDisabled:1": 0,
-      "rewards:9": {
-        "0:10": {
-          "id:8": "ktfruaddon:ktfru.item.compact",
-          "Count:3": 2,
-          "Damage:2": 4,
-          "OreDict:8": ""
-        },
-        "1:10": {
-          "id:8": "enhancedlootbags:lootbag",
-          "Count:3": 1,
-          "Damage:2": 1,
-          "OreDict:8": ""
-        }
-      }
-    }
-  }
+  "rewards:9": {}
 }

@@ -7,7 +7,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFg.desc=你驾驶着逃生梭降落
 
 # Quest: tfr.quest223.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.name=钻木取火
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=如果已经晚上了的话, 再来看这个任务吧. %n%n收集树枝的主要方法是打破树叶. 叶子大约有三分之一的几率会掉落木棍. 使用镰刀可以以破坏的块为中心破坏一个3x3x3区域的叶子方块, 使其更有效率, 但掉落率将会降低到十分之一. 用锤子砸一根木头会掉1 - 3根棍子. %n%n要创建一个篝火, 往一个方块上抛出(默认按键:Q)3个木棍, 然后用一个起火器或打火石持续右键点燃这个方块的顶部. %n%n起火器可以用来点燃TFC中几种类型的火焰, 包括篝火、木炭坑和坑窑. 当点火时, 起火器可能需要多次使用才能成功地点燃火焰, 而且根据随机的机会, 可能需要更多的起火器. %n%n此外, 起火器可以激活一个锻铁炉或高炉. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=如果快到晚上了, 来看看这个任务吧. %n%n你需要两根木棍制作起火器. %n%n要创建一个篝火, 往一个方块上抛出(默认Q键)3个木棍, 然后用它起火器持续右键点燃这个方块的顶部. %n%n起火器可以用来点燃TFC中几种类型的火焰, 包括篝火、木炭坑和坑窑, 锻铁炉或高炉等. 此外, 起火器并不能每次都成功点燃火焰, 你可能需要很多起火器.
 
 # Quest: tfr.quest224.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=淘金(筛铜)
@@ -19,11 +19,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=啊, 头好痛, 一定是还没
 
 # Quest: tfr.quest1.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=粘土
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=世界里生成着一些特殊的草地：粘土. 他们上方通常长着秋麒麟, 一种黄色的花卉. 大量挖掘他们. %n%n§c降雨量为250的干草地无法生成粘土.%n%n§r找不到的话去看看"找不到粘土？"那个任务吧
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=世界里生成着一些特殊的草地：粘土. 他们通常与草地融为一体，但秋麒麟只会在粘土上生长. 因而找到秋麒麟后它下面即为粘土. %n%n§c降雨量为250的干草地无法生成粘土.%n%n§r找不到的话去看看"找不到粘土？"那个任务吧
 
 # Quest: tfr.quest2.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=陶器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=使用类似于打制石器的方式创建黏土GUI. 要打开这个GUI, 您必须手持5个或更多的黏土右键单击. %n%n粘土制品必须首先被烧制变成陶瓷才有作用. 怎么烧制呢？你需要一个「陶窑」. %n%n步骤：%n1. 挖一个1x1x1的泥土坑, 然后潜行右击放置4个你想烧制的物品, 重复潜行右击可以拾起. %n%n2. 手持8根干草右击该泥土坑底部, 直到方块半满. (瞄准地面, 而不是物品)%n%n3. 手持8根木头右击干草上, 直到方块装满, 然后用起火工具点燃. %n%n4. 一旦火焰燃烧完毕, 你就可以空手来收集你的陶瓷物品, 或者简单地打破这个方块来收集所有的东西. %n%n重要的是:在陶窑上燃烧的火焰会点燃附近易燃的方块. 出于这个原因, 建议不要在用木头、干草或其他易燃材料制成的房子里烧窑. 然而, 陶窑不会被雨水扑灭. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=类似于打制石器, 手持5个或更多的黏土打开黏土GUI. 将它们捏成各种粘土制品. %n%n粘土制品必须被烧制变成陶瓷才有作用. 怎么烧制呢？你需要一个「陶窑」. %n%n步骤：%n1. 挖一个1x1x1的泥土坑, 然后潜行右击放置4个你想烧制的物品, 空手潜行右击可以拾起. %n%n2. 手持8根干草右击该泥土坑底部, 直到方块半满. (瞄准地面, 而不是物品)%n%n3. 手持8根木头右击干草上, 直到方块装满, 然后用起火工具点燃. %n%n4. 若火焰燃烧完毕, 你便可以空手来收集你的陶瓷物品, 或者简单地打破这个方块来收集所有的东西. %n%n重要的是:在陶窑上燃烧的火焰会点燃附近易燃的方块. 出于这个原因, 建议不要在用木头、干草或其他易燃材料制成的房子里烧窑. %n陶窑不会被雨水扑灭.
 
 # Quest: tfr.quest3.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name="新西伯利亚"种土豆
@@ -34,8 +34,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=砍树
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=如你所尝试, 你的力量变弱了, 这个世界的树木不再能被徒手挖掘. %n%n你需要做一把石斧头来砍树. 幸运的是你只要砍断最下面的树根, 整棵树就会连根而起. 
 
 # Quest: tfr.quest7.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=想要砍树？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.desc=想要砍树, 你需要一把石斧头, 而不是用手. %n%n当你拿着两颗或更多的石子的时候右键, 你会启动一个界面来将一块石头敲成工具头. 请按照NEI里的图样凿掉不需要的色块, 直到和你想要制作的工具头匹配. %n%n然后, 工具头可以附着在一个木棍上, 以创建一个石头工具. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.name=想要砍树?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.desc=想要砍树, 你需要一把斧头. %n%n你需要拿着两颗或以上石子右键, 会看到一个可以敲去部分石块的界面. 请按照NEI里的图样(按u查看石头用途)凿掉不需要的色块, 直到和你想要制作的工具头匹配. %n%n然后, 工具头与木棍合成即可.
 
 # Quest: tfr.quest8.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=石砧
@@ -47,11 +47,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=陶瓷花瓶(又称陶罐)可�
 
 # Quest: tfr.quest15.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=不喝水怎么行
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=你注意到了你现在有水分度这一属性. 嗯难道不应该有吗？你可以右键淡水方块饮水(淡水湖中有芦苇)或者用这个水瓶装水. %n%n每次你使用陶瓷制品时, 都有可能破碎. 每个物品的几率不同. 当物品破碎时, 它会发出清脆的声音. %n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=你注意到了你现在有水分度这一属性. 你可以右键淡水方块饮水(淡水湖中有芦苇)或者用这个水瓶装水. %n%n每次你使用陶瓷制品时, 都有可能破碎. 每个物品的几率不同. 当物品破碎时, 它会发出清脆的声音.
 
 # Quest: tfr.quest37.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=金属烧烤
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=在地面上连续右键8次放置8个木炭或直接放置一个煤炭块, 除顶面外都与石质方块(包括但不限于圆石、石头、石砖、光滑石头)接触, 再在顶面使用起火器点燃即可生成一个锻造炉方块. %n%n锻造炉中显示煤炭图标的地方可以放煤炭或木炭, 上面放可加热的金属. %n%n将金属材料放进锻造炉中即可加热金属, 随着温度的升高, 金属的颜色会发生变化(你看不出来, 但是物品下面有显示), 同时物品会先变成"可加工"状态, 然后变成"可焊接"状态, 再然后变成"危险"状态. %n%n§c当金属变为"危险"状态的时候要小心, 继续加热你的金属就会熔化. %n%n金属熔化时, 若右侧的五个栏中有锭模具, 熔化的金属将进入模具中, 若没有模具, 金属直接消失.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=在地面上连续右键7次放置7个木炭或直接放置一个煤炭块, 除顶面外都与石质方块(包括但不限于圆石、石头、石砖、光滑石头)接触, 再在顶面使用起火器点燃即可生成一个锻造炉方块. %n%n锻造炉中显示煤炭图标的地方可以放煤炭或木炭, 上面放可加热的金属. %n%n将金属材料放进锻造炉中即可加热金属, 随着温度的升高, 金属的颜色会发生变化(你看不出来, 但是物品tooltip上有显示), 温度达标后会显示"§c可加工§r"状态, 然后变成"§6可焊接§r"状态, 再然后变成"§l**危险**§r"状态. %n%n§c当金属变为"危险"状态的时候要小心, 继续加热你的金属就会熔化. %n%n金属熔化时, 若右侧的五个栏中有锭模具, 熔化的金属将进入模具中, 若没有模具, 金属直接消失.
 
 # Quest: tfr.quest78.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=金属焊接
@@ -67,7 +67,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=NEI 搜索 背包工作台升�
 
 # Quest: tfr.quest132.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=NEI使用
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=打开物品栏按 O (默认)可以控制NEI开关.        %n左下角有选项-按键绑定-物品栏-查看物品合成或用途的按键. %n你可以改成你喜欢的按键.   %n%n§lNEI可以翻页, 下面的翻页是看同一种处理方式的不同配方(也可以用鼠标滚轮翻), 上面的标签页查看不同的处理方式(比如用辊压机或砧)%n%n按U可以查看物品能做些什么, 比如查看青铜合成, 对铜或锡粉按U翻到合金熔炼页, 左下角有熔炼合金所需要的温度(单位开尔文), §还有合金的比例.        %n§6祝您游玩愉快.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=请记住，本任务书和NEI是你永远的良师益友！%n%n对物品按§aR/左键§r和§bU/右键§r可以查看该物品§a如何制作§r/§b可以制作成什么§r, 通常简称为物品的§a来源§r和§b用途§r. §e你可以用右侧可选任务的铜粉练习下面的内容§r.%n%n对物品按r或u, NEI页面最上面一栏标签表示在该工作站处进行的配方, 选择好工作站后可以看到左边一竖列同类工作站, 主页面通常有许多页数，表明它的多种来源/用途，鼠标滚轮可以换页，主页面中通常即包含了直观的演示，按照该演示放置物品即可. 同时底部会有一些额外信息，指示该配方的条件，功率，耗时等.%n§6祝您游玩愉快.  %n打开物品栏按 O (默认)可以开关NEI. 左下角扳手-按键绑定 可以自己修改按键绑定.
 
 # Quest: tfr.quest137.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.name=多人游戏
@@ -79,19 +79,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.desc=用木材合成木板, 制作�
 
 # Quest: tfr.quest163.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=地质探测-目前可以透露的情报
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=§o不同于你熟悉的原版世界, 群峦星的地下世界变得更加复杂且真实. %n%n§r岩层是由大量同种类岩石形成的. 这里的地壳很厚, 厚达130-150米. %n%n岩石在三个不同的垂直岩层产生. 沉积岩只能在顶层找到. 变质岩存在于顶层和中层. 所有三层都有侵入岩和火成岩. 每一层都独立于其他层, 因此, 表面上的石头变化并不一定意味着另外两层的石头变化. %n%n§3侵入岩：闪长岩、辉长岩、花岗岩%n%n§4火成岩：安山岩, 玄武岩、英安岩、流纹岩%n%n§6沉积岩：白垩岩、黑硅岩、粘土岩、砾岩、白云岩、石灰石、岩盐、页岩%n%n§e§7§d变质岩：片麻岩、大理石、千枚岩、硅岩、片岩、板岩%n%n§r§o能制作助焊剂的岩石(碳酸钙为主要成分的)：§a白云岩、石灰石、白垩岩、大理石%n%n§r能制作盐的岩石(氯化钠为主要成分的)：岩盐%n%n§r矿物在岩层中以矿脉形式生成：%n%n石子和它们下面顶层的石头有着相同的纹理. 如果附近有矿脉, 松散的岩石就有可能产生一小块矿石而不是岩石. 这些矿物石子代表以其为y轴的附近地下有对应矿脉生成. %n%n石墨在变质岩和沉积岩生成；高岭石在变质岩和沉积岩生成；钻石在玄武岩、辉长岩和闪长岩中生成；锡和铀在所有火成岩和侵入岩中生成. %n%n其他矿物的位置需要你自己探索. %n%n金红石, 钨酸盐, 锆石等矿物并没有在贫瘠的群峦星被发现, 你需要制作火箭前往其卫星获得.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=§o不同于你熟悉的原版世界, 群峦星的地下世界变得更加复杂且真实. %n%n§r岩层是由大量同种类岩石形成的. 这里的地壳很厚, 厚达100-130米. %n%n岩石在三个不同的垂直岩层产生. 沉积岩只能在顶层找到. 变质岩存在于顶层和中层. 所有三层都有侵入岩和火成岩. 每一层都独立于其他层, 因此, 表面上的石头变化并不一定意味着另外两层的石头变化. %n%n§3侵入岩：闪长岩、辉长岩、花岗岩%n%n§4火成岩：安山岩, 玄武岩、英安岩、流纹岩%n%n§6沉积岩：白垩岩、黑硅岩、粘土岩、砾岩、白云岩、石灰石、岩盐、页岩%n%n§e§7§d变质岩：片麻岩、大理石、千枚岩、硅岩、片岩、板岩%n%n§r§o能制作助焊剂的岩石(碳酸钙为主要成分的)：§a白云岩、石灰石、白垩岩、大理石%n%n§e矿物不再是原版一样的随处都是, 而是聚集成矿脉, 你需要探测到矿脉再去挖矿, 否则很可能一无所获.§r%n%n如果附近有矿脉, 就可能有一小块矿石散落在地上. 这些矿物石子代表附近地下有对应矿脉生成. %n%n石墨在变质岩和沉积岩生成；高岭石在变质岩和沉积岩生成；钻石在玄武岩、辉长岩和闪长岩中生成；锡和铀在所有火成岩和侵入岩中生成. %n%n其他矿物的位置需要你自己探索. %n%n金红石, 钨酸盐, 锆石等矿物并没有在贫瘠的群峦星被发现, 你需要制作火箭前往其卫星获得.
 
 # Quest: tfr.quest271.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.name=干草
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.desc=通过用刀或镰刀在世界各地割草, 可以获得干草. 每个草会掉落一根干草. 干草在精炼谷物时也会作为副产品产生. %n%n%n%n干草也可以从它的块状形态中恢复过来. %n%n干草块是游戏中最早的屋顶砖之一. 与泥土和圆石不同, 干草不受重力的影响, 所以它可以用来制造屋顶. 干草比原木有优势, 因为它可以很容易地用手打掉. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.desc=通过用刀或镰刀在世界各地割草, 可以获得干草. 每个草会掉落一根干草. 处理谷物时也会产出. %n%n干草块是游戏中最早的屋顶砖之一. 与泥土和圆石不同, 它可以很容易地用手打掉, 而且不受重力的影响.
 
 # Quest: tfr.quest272.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABEA.name=篝火
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEA.desc=篝火是由掉在地面上的三根棍子用一个引火器或燧石在他们下面的方块右击创建的. 使用引火器可能需要多次尝试, 才能成功点燃. 把一根稻草扔进去会让火更容易点燃. %n%n%n%n直接暴露于降水中的篝火将不会消耗燃料, 最终会熄灭. 为了防止这种情况发生, 应该把一个方块放在篝火之上来保护它. %n%n%n%n一旦它被点燃, 它很快就会燃尽, 除非增加更多的燃料(原木). 为了重新点燃它, 至少有一块燃料在燃料槽里, 再用起火器或打火石右键点击篝火. %n%n篝火用于制造火把, 烹饪食物, 加热初级物品
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEA.desc=在一个方块上丢出3个木棍, 用一个引火器点燃它们即可创建篝火. 额外添加一根稻草会让火更容易点燃. %n%n篝火可能被火浇灭, 你应该一个方块放在篝火之上几格来保护它. %n%n燃料(原木)耗尽时, 篝火会熄灭. 为了重新点燃它, 你需要至少有一块燃料在燃料槽里, 再用起火器或打火石右键点击篝火即可. %n%n篝火可用于制造火把, 烹饪食物, 加热初级物品等
 
 # Quest: tfr.quest276.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFA.name=木炭
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFA.desc=注意区分原版木炭与TFC木炭%n%nTFC木炭怎么制作呢？你需要一个木炭坑. %n%n手持原木潜行右击地面获得原木堆, 空手打开可以放进最多16根原木. %n%n木炭坑最小的版本是一堆木头(最大无限)里面有四根原木, 以保证至少有一块木炭产生. %n%n用泥土或者石头等方块使得原木堆不接触空气, 在顶部开个口, 丢进去一个火把点燃, 然后用泥土封住口. %n%n玩家把火把扔到地上后, 将会有大约10秒钟的时间. 一旦它着火, 木炭坑必须盖住任何不易燃的固体块. 任何暴露的原木堆将会燃烧并最终掉落原木, 导致点火失败. 如果点火成功, 将从被覆盖的坑中释放出烟雾粒子. 在游戏时间18个小时后, 烟雾粒子将会消散, 而原木堆会变成炭块, 可以用铲子一次收获一份. %n%n注:只有填满的原木堆可以有另一个原木堆放在上面, 所以要相应地计划高度. %n%n如果坑里有一个受重力影响的块, 比如泥土或圆石, 这些方块就会坍塌, 因为原木变成木炭出现了空气方块. 大多数较大的木炭坑是用石头和砖砌成的, 以提供更持久的结构. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFA.desc=%n%n你需要一个木炭坑烧制木炭. %n%n手持原木潜行右击地面可以放置原木堆, 原木堆最多放入16根原木. %n%n用泥土或者石头等方块使得原木堆完全不接触空气, 向任意一个原木堆上丢一个火把等待10s左右即可点燃, 然后用泥土封住口等待约18游戏小时即可. %n%n木炭坑中的每个原木堆必须都与空气隔绝. 任何暴露的原木堆将会直接燃烧殆尽. 如果点火成功, 覆盖的坑中将释放出烟雾粒子. 在18游戏小时后, 烟雾粒子将会消散, 而原木堆会变成炭块, 可以用铲子挖掉它们. %n%n注:只有填满的原木堆可以有另一个原木堆放在上面, 所以要相应地计划高度. %n注意区分原版木炭与TFC木炭, 它们材质不同.
 
 # Quest: tfr.quest281.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.name=查看材料含量
@@ -99,7 +99,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=在不打开任何GUI的情况�
 
 # Quest: tfr.quest293.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.name=关于任务书
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.desc=这本任务书并不是像一般的任务书一样将每条任务线严格地放在前一条任务线全部完成后解锁, 而更类似网状的结构, 不同章节之间彼此枝蔓和穿插. %n%n任务书最重要的目的是指引你了解本包各方面的玩法. %n%n比如, 当你解锁锄头, 你就会解锁农业任务线. 当你解锁钢, 你就会解锁蒸汽时代的任务线. §a如果你只发展主线, 很可能会错过很实用的东西哦§r.%n%n有许多任务会要求提交储罐, 请认真确认任务需求储罐内所含的流体. %n%n关于各章支线任务的实际内容: %n%n§a非酋福音§r: 当你找不到一些资源时可以前去兑换. %n§a万用商店§r: 使用TFRU币买卖物品. %n§a探索的时光§r: 关于快速旅行的方式和旅途中可能遇到的物品. %n§a征服新世界§r: 击杀各种怪物换取奖励. %n§a农业、畜牧业与渔业§r: 如题. %n§b[BOT]魔法觉醒§r: 植物魔法等魔法mod的主任务线. %n§b人类的能力没有极限§r: 关于各类工具、装备、盔甲的介绍. %n§b养蜂人的日常§r: 养蜂所需要知道的一切. %n§b存储与物流学§r: 介绍一些存储方式和运输方式. %n§b能量产生、转换和储存§r: 列出了本整合包所有的能量产生、转换和储存方式. %n§e石化革命§r: 介绍原油处理和石油制品(塑料等). %n§e计算学§r: 介绍光刻开始的高性能计算机的制作路线. %n§e航天时代§r: 介绍如何制作火箭上天. %n§e[AE]质量-信息转换技术§r: ae2的主任务线, 这是最通用和常见的自动化mod之一.  %n§e[OC]信息时代§r: oc的主任务线, 代码驱动的高级而复杂的自动化方式. %n§6[MO]人类的能力是有极限的§r: 超能物质的主任务线, 这是一个具有让人变成机器人等高度科幻内容的一个mod. %n§c[DE]龙之进化§r: 龙之进化的主任务线, 这里包含了最强大和危险的设备和装备.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.desc=这本任务书并不是线性的顺序解锁, 而更类似网状的结构, 不同章节之间彼此枝蔓和穿插. %n%n§a如果你只发展主线, 很可能会错过很实用的东西哦§r.%n%n§6此版本任务书中包含搜索和书签功能, 右键一个任务即可添加到书签, 左下角的按钮中分别有搜索和书签按钮, 当你找不到任务时记得使用哦. §r%n%n有许多任务会要求提交储罐, 请认真确认任务需求储罐内所含的流体. %n%n§6关于各章支线任务的实际内容§r: %n%n§a非酋福音§r: 当你找不到一些资源时可以前去兑换. %n§a万用商店§r: 使用TFRU币买卖物品. %n§a探索的时光§r: 关于快速旅行的方式和旅途中可能遇到的物品. %n§a征服新世界§r: 击杀各种怪物换取奖励. %n§a农业、畜牧业与渔业§r: 如题. %n§b[BOT]魔法觉醒§r: 植物魔法等魔法mod的主任务线. %n§b人类的能力没有极限§r: 关于各类工具、装备、盔甲的介绍. %n§b养蜂人的日常§r: 养蜂所需要知道的一切. %n§b存储与物流学§r: 介绍一些存储方式和运输方式. %n§b能量产生、转换和储存§r: 列出了本整合包所有的能量产生、转换和储存方式. %n§e石化革命§r: 介绍原油处理和石油制品(塑料等). %n§e计算学§r: 介绍光刻开始的高性能计算机的制作路线. %n§e航天时代§r: 介绍如何制作火箭上天. %n§e[AE]质量-信息转换技术§r: ae2的主任务线, 这是最通用和常见的自动化mod之一.  %n§e[OC]信息时代§r: oc的主任务线, 代码驱动的高级而复杂的自动化方式. %n§6[MO]人类的能力是有极限的§r: 超能物质的主任务线, 这是一个具有让人变成机器人等高度科幻内容的一个mod. %n§c[DE]龙之进化§r: 龙之进化的主任务线, 这里包含了最强大和危险的设备和装备.
 
 # Quest: tfr.quest307.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.name=关于无法锻造问题(没配方)
@@ -119,11 +119,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABcg.desc=这是一个完全修改了原�
 
 # Quest: tfr.quest460.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.name=我该挖什么？
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.desc=在获取第一把铜镐之后你就可以挖掘石头中的矿而不用继续采集地表的矿粒了. %n%n找到地上的矿物石子之后你可以用我送给你的勘矿镐右键附近的泥土, 会有文字信息反馈给你这里的矿物量. %n(一般是以你敲击的方块为中心的25x25x25立方体)%n 升级勘矿技能等级会获得更详细和明显的信息提示, 升级到学徒等级后还可以通过破坏方块探测深处的矿物. %n%n §*§*§c*个人推荐十字定位法(经纬度定位)：%n §r      首先找到一个巨量的位置, 大概是中心(如果没有巨量请在地表矿粒处找到大概中心位置下挖)%n       然后选一个方向, 比如x轴方向, 在这条直线上探矿, 直到探到大量%n       打个比方, 你探到结果是这样的%n           大量 大量 大量 大量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 大量 大量%n       那么就在“巨量”的两端的中点定位, 即加粗的两个中选一个%n       然后站在你找到的这个中点, 在与之前的方向垂直的方向(之前是x轴, 现在就是z轴)探一条线%n       打个比方, 你探到的结果是这样的%n           大量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 巨量 大量%n       那么这次“巨量”的两端的中点, 即加粗位置, 就是矿脉的中心了. %n%n前期建议你挖掘铜矿, 煤矿, 锡矿, 铋矿等, 进入Tier1后可以挖掘铁矿等.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzA.desc=在获取第一把铜镐之后你就可以挖掘石头中的矿而不用继续采集地表的矿粒了. %n%n找到地上的矿物石子之后你可以用勘矿镐右键附近的泥土, 会有文字信息反馈给你这里的矿物量. %n(会探测以你敲击的方块为中心的25x25x25立方体)%n升级勘矿技能等级会获得更详细和明显的信息提示, 升级到学徒等级后还可以通过破坏方块探测深处的矿物. %n%n §*§*§c*找到矿脉后如何确定准确位置? 推荐十字定位法：%n 首先找到丰度变化的点A(即巨量变为大量等), 从该点向丰度高的方向延伸, 找到下一次丰度降低的点B. 从AB中点出发, 向垂直于AB的两个方向探测到另外两个丰度降低的点CD, 取CD中点向下挖, 一般即为矿脉. %n%n前期建议你挖掘铜矿, 煤矿, 锡矿, 铋矿等, 进入Tier1后可以挖掘铁矿等.
 
 # Quest: tfr.quest461.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.name=支撑柱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.desc=你可能注意到了这里的岩石可能会坍塌, 为了防止这点你必须做一些东西. %n%n有了锯子你就能制作支撑柱了(NEI搜索支撑柱)任何原木都可以制作支撑柱, 他们共同的作用都是防止矿洞坍塌. %n%n在矿洞中你需要把他们摆成如下的形状(侧视图)：%n支撑柱：V%n石头：S%n%nS S S%nV V V%nV   V%nV   V%nS S S%n%n他们可以支撑起上方7x7x3的方块
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.desc=你可能注意到了这里的岩石可能会坍塌, 为了防止这点你必须做一些东西. %n%n有了锯子你就能制作支撑柱了(NEI搜索支撑柱)任何原木都可以制作支撑柱, 他们共同的作用都是防止矿洞坍塌. %n%n在两根竖直的柱子间可以建造横着的柱子, 仅有横着的柱子是有效的支撑.%n%n一根横柱子可以支撑起上方7x7x3的方块(半径仅有3), 挖矿时注意及时搭建支撑柱.
 
 # Quest: tfr.quest561.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=转换
@@ -135,7 +135,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联�
 
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社区
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我们非常欢迎玩家加入我们的QQ交流群:%nQQ1群： 836643851
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
 
 # Quest: tfr.quest638.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfg.name=专属材质包
@@ -158,13 +158,17 @@ betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=用原木和石头做的大棒,
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.name=Tier 0 - 青铜时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.desc=骤风穿行于知识之槲, 迷茫者在树下彷徨驻足. %n将要攀登之际, 果实落下.
 
+# Quest: tfru.q188n
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=区块加载
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=拥有机器后你很可能需要保持区块加载,这个节点加载器可以常加载它所在的区块.
+
 # Quest: tfr.quest217.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=发酵/浸泡/降温于一体
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=木桶是个重要的工具：它不消耗能量只需要密封后等待配方完成. 
 
 # Quest: tfr.quest218.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.name=皮革
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.desc=兽皮由猪、牛、鹿和剪去羊毛的绵羊所掉落, 并有三种大小:小的、中等的和大的. 每只动物只掉一张皮, 但更大的动物会掉落更大的兽. %n%n把兽皮变成浸泡皮革, 需要一桶石灰水. 一旦装满你想要的量, 把兽皮放在桶里, 然后密封它. 在整个过程完成之前, 你将无法打开桶. 一旦完成, 桶里就会出现浸泡皮革. %n%n刮制浸泡皮革需要一个皮革架. 首先, 需要放置一个原木. 然后, 通过右击可以将浸泡皮革放在原木上(放在原木的顶部, 而不是侧面或者底面！). 用刀把每一部分刮干净. 最后, 可以从原木上取下皮革. %n%n把刮制皮革变成预制皮革, 需要一桶水. 一旦填满你想要的量, 把兽皮放到桶里, 然后密封. 在整个过程完成之前, 你将无法打开桶. 一旦完成, 桶里就会出现预制皮革. %n%n预制皮革用于制造皮革. 这需要一桶鞣酸. 填入所需的量, 将预制皮革放入桶内并密封. 在整个过程完成之前, 你将无法打开桶. 一旦完成, 桶里就会有皮革. 更大的皮革需要更多的鞣酸, 但会产生更多的皮革. %n%n注意并非所有原木都能制作鞣酸
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.desc=兽皮由猪、牛、鹿和剪去羊毛的绵羊所掉落, 并有三种大小. 每只动物只掉一张皮, 但更大的动物会掉落更大的皮. %n%n把兽皮变成浸泡皮革, 需要一桶石灰水. 把兽皮放在石灰水桶里, 然后密封. 在浸泡结束前打开桶会中断进度. 完成时, 桶里会出现浸泡皮革. %n%n刮制浸泡皮革需要一个皮革架. 首先, 需要放置一个原木. 然后, 右击将浸泡皮革放在原木上(放在原木的顶部, 而不是侧面或者底面！). 用刀把每一部分刮干净. 最后再次右键, 从原木上取下皮革. %n%n把刮制皮革变成预制皮革, 需要一桶水, 把兽皮放到水桶里, 然后密封. 完成时桶里就会出现预制皮革. %n%n预制皮革用于制造皮革. 这需要一桶鞣酸. 按相同操作, 放入后密封等待即可. 更大的兽皮需要更多的鞣酸, 但会产生更多的皮革. %n%n注意并非所有原木都能制作鞣酸
 
 # Quest: tfr.quest219.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=§b§l§r§l§c§l氧气助燃
@@ -180,7 +184,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=可以用原版桶将杂酚油�
 
 # Quest: tfr.quest99.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.name=§b§l灰铁时代的曙光
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.desc=使用你的锉刀做一些杆, 再锻造一些青铜/铋青铜板, 你就能制作锻铁炉了. %n%n§锻§锻锻铁炉使用TFC木炭%n%n§锻锻铁炉是一个多方块结构, 这是你的第一个多方块结构！%n%n锻铁炉的构造如下(俯视图)：%n%nX = 任意石砖/光滑石头%n%nB = 锻铁炉方块%n%nA = 空气%n%n第一层：%n%nX X X%n%nX X X%n%nX X X%n%n第二层：%n%nX X X%n%nX A X%n%nX B X%n%n第三层 - 第N层(锻铁炉的高度可以任意扩展, 不过最低三层)%n%nX X X%n%nX A X%n%nX X X%n%n通过在顶部再添加两层砖环, 可以将锻铁炉的矿石储藏量扩大到三倍. 每增加一层, 就可以冶炼8块额外的矿石. %n%n除了圆石, 任何一种石头都可以使用:原始的, 光滑的, 或砖块. 如果需要, 也可以混合石头的风格, 甚至是岩石的类型(例如光滑的玄武岩和花岗岩砖). %n%n使用起火器右键锻铁炉主方块点火.%n%n使用任意石头或者光滑石头, 而不是圆石, 都可以提交任务. %n%n光滑石头制作方法是快捷栏内有TFC锤子, 凿子右键任意岩石, 然后挖下来
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.desc=使用你的锉刀做一些杆, 再锻造一些青铜/铋青铜板, 你就能制作锻铁炉了. %n%n§锻§锻锻铁炉使用TFC木炭%n%n§锻锻铁炉是一个多方块结构, 这是你的第一个多方块结构！%n%n锻铁炉的构造如下(俯视图)：%n%nX = 任意石砖/光滑石头%n%nB = 锻铁炉方块%n%nA = 空气%n%n第一层：%n%nX X X%n%nX X X%n%nX X X%n%n第二层：%n%nX X X%n%nX A X%n%nX B X%n%n第三层 - 第N层(锻铁炉的高度可以任意扩展, 不过最低三层)%n%nX X X%n%nX A X%n%nX X X%n%n通过在顶部再添加两层砖环, 可以将锻铁炉的矿石储藏量扩大到三倍. 每增加一层, 就可以冶炼8块额外的矿石. %n%n除了圆石, 任何一种石头都可以使用:原始的, 光滑的, 或砖块. 如果需要, 也可以混合石头的风格, 甚至是岩石的类型(例如光滑的玄武岩和花岗岩砖). %n%n使用起火器右键锻铁炉主方块点火. %n%n你即将进入灰铁时代! 你现在应该前往下一章继续查看具体如何炼铁，并继续探索这个世界了，祝你好运!
 
 # Quest: tfr.quest108.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.name=扳手
@@ -256,7 +260,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABtw.desc=哇, 这玩意真方便不是�
 
 # Quest: tfr.quest440.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.name=金属锻造
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.desc=看看砧里中间的部分吧, 这些就是锻造相关的部分. §r%n%n*以下内容建议截图后配合砧的gui一起食用*%n%n先看最中间, 最中间的两个格子是你放锻造的原料的. 金属加热到"可加工"即可放入砧中锻造. 砧只能锻造和自己等级相同或更低等级的材料(如青铜砧可以加工青铜和铜). %n中间两格右面的按钮是"设计图"按钮, 在此选择你要锻造的成品. %n选择好成品之后看最上方的三个橙红色的框, 从左到右分别是你要进行的倒数第一、倒数第二、倒数第三个操作, 记住它们. %n接下来往下看, 中下方有8个按钮, 4红4绿, 它们分别是%n§4轻击 击打 §2§a冲压 弯曲%n§4重击 牵拉 §a敦锻 收缩%n§r这八个按钮就是你可以进行的操作. %n再往下看, 中间的最下方有一个条, 上面有一个红色箭头, 下面有一个绿色箭头, 其中你可以通过操作移动绿色箭头. 你要做的就是使红色和绿色对齐, 并且保证后三个操作与需求的一致. %n八种操作让绿色箭头的移动方向和距离都不一样：%n§c§4轻击：向左3单位   %n击打：向左6单位%n重击：向左9单位%n牵拉：向左15单位%n§a冲压：向右2单位%n弯曲：向右7单位%n敦锻：向右13单位%n收缩：向右16单位§r%n注意不要让绿色箭头移动到最右端, 否则金属会消失. %n建议先将红绿色箭头对齐, 再算出后三个操作的总位移量, 通过操作使两个箭头差的距离与总位移量相反, 再进行后三个操作即可打出成品. %n如果金属冷掉, 请放进锻造炉继续加热, 锻造进度会保留.  %n%n§a进阶提示!§r使用尽量少的步骤锻造工具和盔甲时会获得额外加成, 可以节省部分材料, 步骤最少时会有完美锻造的提示, 向完美铁匠进发吧!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABuA.desc=看看砧里中间的部分吧, 这些就是锻造相关的部分. %n%n*以下内容建议截图后配合砧的gui一起食用*%n%n先看最中间, 最中间的两个格子是你放锻造的原料的. 金属加热到"可加工"即可放入砧中锻造. 砧只能锻造和自己等级相同或更低等级的材料(如青铜砧可以加工青铜和铜). %n中间两格右面的按钮是"设计图"按钮, 在此选择你要锻造的成品. %n%n选择好成品之后看最上方的三个橙红色的框, 从左到右分别是你要进行的倒数第一、倒数第二、倒数第三个操作, 记住它们. %n%n接下来往下看, 中下方有8个按钮, 4红4绿, 它们分别是%n§4轻击 击打 §2§a冲压 弯曲%n§4重击 牵拉 §a敦锻 收缩%n§r这八个按钮就是你可以进行的操作. %n再往下看, 中间的最下方有一个条, 上面的红色箭头即为需求, 你需要通过8个按钮移动绿色箭头, 使§e红色和绿色对齐§r, §e同时保证后三个操作与需求的一致§r. %n八种操作让绿色箭头的移动方向和距离都不一样：%n§c§4轻击：向左3单位   %n击打：向左6单位%n重击：向左9单位%n牵拉：向左15单位%n§a冲压：向右2单位%n弯曲：向右7单位%n敦锻：向右13单位%n收缩：向右16单位§r%n注意不要让绿色箭头移动到最右端, 否则金属会消失. %n%n建议先将红绿色箭头对齐, 再算出后三个操作的总位移量, 通过操作使两个箭头差的距离与总位移量相反, 再进行后三个操作即可打出成品. %n%n如果金属冷掉, 请放进锻造炉继续加热, 锻造进度会保留.  %n%n§a进阶提示!§r使用尽量少的步骤锻造工具和盔甲时会获得额外加成, 可以节省部分材料, 步骤最少时会有完美锻造的提示, 向完美铁匠进发吧!
 
 # Quest: tfr.quest441.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.name=彩虹～
@@ -266,6 +270,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=石灰染料一次能做八个,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=耐火矿物质
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=高岭石和石墨是制作耐高温粘土的重要原料！%n这些矿物质没有地表指示物：试试在山上找找他们, 或者在他们生成的岩层中使用斟矿镐都是不错的选择！%n高岭石和石墨在所有沉积岩和变质岩中生成. %n忘了沉积岩和变质岩都是什么了？去看看第一章的地质介绍任务！
 
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=早期机械
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=你观察到水流总是会推动其中的任何物体, 你或许可以利用它来解放双手. %n%n水车在有正确的水流冲击下会产出旋转能, 一般简称为RU, 水车产出的RU转速仅为2, 扭矩为1或2(见下文), 请转到能源任务线查看如何提高转速. %n%n水车需要由合理的水流推动才会产出能量, 具体来说, 它会检测上下左右的方块, 如果不是水流也不是空气, 则水车会被阻挡而不产出任何能量. 如果是水流, 会计算水流对叶片的推动力, 一格垂直冲击叶片的水流推动力为1, 推动力有正负, 有冲突的水流产生的推动力会相互抵消. 当推动力大于(不包含)0时扭矩为1, 大于(不包含)2时产出扭矩为2.
+
 
 ## Quest Line: tfr.line1.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=Tier 1 - 钢铁时代
@@ -273,7 +281,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=进入了灰铁时代的你
 
 # Quest: tfr.quest210.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.name=自动化木炭生产
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=当你拥有一个林业的多方块农场(详见农业任务线)源源不断产出原木的时候, 你就可以制作大量焦炉来烧制木炭了. %n%n焦炉底部可以接格雷科技的管道自动输出杂酚油, 也可以接料斗自动输出木炭, 顶部可以用料斗或者物品管道输入原木. %n%n总而言之, 他是个完全支持自动化的设备. %n%n再制作三个焦炉以及相应的自动化设备足以支撑一个蒸汽时代的工厂. %n%n§c注意这个任务有3页
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0g.desc=当你拥有一个林业的多方块农场(详见农业任务线)源源不断产出原木的时候, 你就可以制作大量焦炉来烧制木炭了. %n%n从上顶面可以输入物品, 从下底面可以抽出物品, 流体会主动从下底面输出. %n%n总而言之, 他是个完全支持自动化的设备. %n%n再制作三个焦炉以及相应的自动化设备足以支撑一个蒸汽时代的工厂.
 
 # Quest: tfr.quest214.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=耐热合金-殷钢
@@ -321,7 +329,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=你可以将这个温度传感�
 
 # Quest: tfr.quest90.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.name=焦炉+
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=你或许已经发现原版熔炉不再能够烧制木炭, 取而代之的是多方块GT焦炉. 焦炉是3x3x3的空心立方体, 正面中心是焦炉主方块, 其他为耐火砖. 每个焦炉需要25耐火砖和1焦炉主方块. 你需要收集大量的粘土去制作它. %n%n焦炉在放进原木或者褐煤/煤炭后需要用原版或者格雷科技的打火, 而不是群峦传说的打火机, 机点击主方块点燃%n 焦炉内置16线程, 效率很高. 一组煤炭或者纯净的破碎煤矿可以焦化成一组焦煤, 热值翻倍, 并且可以得到32000L的木榴油. 褐煤焦化可以得到更多的木榴油但是焦化褐煤的热值较低. 木头可以焦化成木炭, 也能获得可观的木榴油. %n%n木榴油是蒸馏塔完成之前最优秀的液体燃料, 热值和原油媲美, 容易制取并且不具备再加工的可能, 烧起来不心疼. %n%n§c注意这个任务有两页
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=你或许已经发现原版熔炉不再能够烧制木炭, 取而代之的是多方块GT焦炉. 焦炉是3x3x3的空心立方体, 正面中心是焦炉主方块, 其他为耐火砖. 每个焦炉需要25耐火砖和1焦炉主方块. 你需要收集大量的粘土去制作它. %n%n焦炉在放进原木或者褐煤/煤炭后需要用原版或者格雷科技的打火石/打火机点燃主方块, 而不是群峦传说的起火器. %n%n与原始焦炉不同, 这个焦炉完全支持自动化. 从上顶面可以输入物品, 从下底面可以抽出物品, 流体会主动从下底面输出.
 
 # Quest: tfr.quest101.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=温度
@@ -369,7 +377,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=将蒸汽炉内放入木炭和�
 
 # Quest: tfr.quest279.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.name=冶炼铁矿石
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=打开锻铁炉的开口, 在烟囱底部放置8个木炭. %n%n%n%n爬到锻铁炉的顶部, 然后将24个铁矿石(视其大小而定)投入烟囱. %n%n在木炭块上投掷等量或更多的木炭. 矿石和木炭都应该消失在木炭块中. %n%n注意:如果玩家投掷的矿石比锻铁炉能容纳的的要多, 那么额外的矿石就会浮在木炭上, 而不会被熔化. %n%n用起火器或打火石在锻铁炉主方块上右击, 激活锻铁炉. 锻铁炉和烟囱的顶部都应该开始发光. %n%n当它完成的时候, 发光就会消失, 这个过程大约需要15个游戏小时. 打开锻铁炉, 以获得铁坯. %n%n用镐子把铁坯打破. 该物品将自动向最近的锻铁炉方块移动, 便于拾取. %n%n%n铁坯是多孔的铁和矿渣的混合物, 在一个锻铁炉中冶炼铁矿石产生. %n%n锻铁炉的产物是一个生铁坯. 生铁坯的铁含量会有一个百分比的值, 其中的百分之一等于一个金属单位(100单位的矿石会产生百分之百的铁坯, 对应一个锻铁锭). 注:如果没有足够多的矿石添加到锻铁炉, 它的铁百分比会小于百分之百, 那么它就不能被精炼, 而必须被重新投入到锻铁炉中, 添加更多的矿石. %n%n接下来, 你需要用青铜等级或以上的砧对生铁坯进行精炼, 切分, 敲打. %n你就能获得第一个锻铁锭了. %n%n为了提交任务请在水桶内降温锻铁锭
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=打开锻铁炉的开口, 在烟囱底部放置8个木炭. %n%n爬到锻铁炉的顶部, 然后将24个铁矿石等投入烟囱. %n%n在木炭块上投掷等量的木炭. 矿石和木炭都只能容纳各24个, 多余的可以捡回来. %n%n用起火器或打火石在锻铁炉主方块上右击, 激活锻铁炉. 锻铁炉和烟囱的顶部都应该开始发光. %n%n当它完成的时候, 发光就会消失, 这个过程大约需要15个游戏小时. 打开锻铁炉, 用镐子挖掉铁方坯. 该物品将自动向最近的锻铁炉方块移动, 便于拾取. %n%n%n铁坯是多孔的铁和矿渣的混合物, 在一个锻铁炉中冶炼铁矿石产生. 100单位对应一个锻铁锭, 小于100单位的方坯必须被重新投入到锻铁炉中, 与其他矿石一同冶炼凑够100单位. 注意坩埚不能融化铁方坯%n%n接下来, 你需要用青铜等级或以上的砧对生铁坯进行精炼, 切分, 敲打. %n你就能获得第一个锻铁锭了. %n%n为了提交任务请在水桶内降温锻铁锭
 
 # Quest: tfr.quest284.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHA.name=胶水和储罐
@@ -396,8 +404,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABPA.name=筛选台
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABPA.desc=你可以通过筛滤纯净宝石粉碎矿获得各种稀有等级的宝石, 当然也可以通过它筛滤泥土获得各种原版种子. %n找不到钻石了？我会送你两个试试运气. 
 
 # Quest: tfr.quest321.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.name=坩锅浇铸道
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.desc=可使坩埚只用一个面输出到多个模具, 通过浇筑道与坩埚相连的模具支持红石控制. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.name=坩埚浇铸道
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQQ.desc=可使坩埚只用一个面输出到多个模具, 通过浇筑道与坩埚相连的模具支持红石控制. %n%n不知道为何，你看出了一丝不属于这个时代的影子，隐约显出"核聚变"三个字, 随即便消失了...
 
 # Quest: tfr.quest325.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABRQ.name=CCCP
@@ -456,9 +464,9 @@ betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.desc=当前阶段齿轮即有两种�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - 蒸汽时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在锻造的时候不小心把水壶放在了锻造炉旁边. 不一会, 水壶的盖扑通扑通地被一种白雾顶了起来. 你根据帝国指南制作了一台蒸汽机.
 
-# Quest: tfru.q188n
-betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=区块加载
-betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=拥有机器后你很可能需要保持区块加载,这个节点加载器可以常加载它所在的区块.
+# Quest: tfru.q308n
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.name=机器工具
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=大部分gt普通机器可以使用类似的工具切换一些属性: %n%n使用螺丝刀切换是否仅在所有输出槽为空时启动工作/某个输入槽是否仅在为空时接受输入 %n使用活动扳手对着自动输入输出面右键可以切换是否自动输入输出 %n使用软锤中止当前处理的配方, 不会返还原料. %n使用剪线钳右键可以切换是否在配方结束时一并输出催化剂.
 
 # Quest: tfru.q296n
 betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=小漏斗, 龙头, 喷嘴
@@ -1036,7 +1044,7 @@ betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=请查看nei了解具体配方,
 
 # Quest: tfru.q236n
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=发电,变压,输电,耗电
-betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=GT6的电路规则众说纷纭, 这里是根据gt代码确定的规则, 可以确保正确, 当你建设电网遇到困难时, 记得使用万用表(MV电路板后的任务有)详细检测§b电流§a电压§r, 根据该任务确定修改方法. %n%n大部分发电机会输出§anEU/A§r的1§bA电流§r, 通过变压器可以降低§a电压§r到原来的1/4, 并将§b电流§r提高到4A, 一个变压器仅能降压1A高电压到原来的1/4, 但可以升压最多16A电流至尽量接近输出上限(仅接受整数电流).机器§6仅§r在§a电压§r大于输入下限时接受电流%n%n供能充足时, 机器会接受刚好使缓存大于输入上限的(整数)§b电流§r, 从缓存中消耗(输入上限)的能量, 剩余的能量会保存在缓存中, 使得下一刻接受的§b电流§r可能更少. §7(大部分机器频繁闪烁的情况均是此条规则作祟)§r%n%n供能不足时, 机器会使用掉全部§b电流§r, 计算出提供功率=§a电压§r*§b电流§r, 若提供功率小于需求功率§7(即配方功率或超频后的配方功率, 超频规则见蒸汽时代任务线"机器自动超频")§r, 机器会罢工, 否则会加速(提供功率/需求功率)倍, 但右下角进度条的总时间不会变化, 而是进度增加的更快.%n%n举例: 为普通MV机器(2级机器)供能§a120EU/A§r * §a1A/t§r时, 若配方需求功率为§e80EU/t§r(2级配方), 机器会以1.5倍速工作, 进度每秒增加1.5秒, 若配方需求§e32EU/t§r(1级配方), 机器会有损超频(功率*4, 速度*2), 需求功率变为§e128EU/t§r, 机器罢工, 若输入功率加至128EU, 机器会以2倍速工作. 标有"消耗额外能量时可以超频"的机器是无损超频, 此时输入128EU的无损超频机器会以4倍速工作. %n%n为普通MV机器供能§a120EU/A §r* §b16A/t§r时, 初始缓存为0, 因而机器需求功率为§e256EU§r(输入上限), 机器会接受§b3A电流§r(§e360EU§r)并消耗§e256EU§r, 缓存变为§e104EU§r, 下一刻时机器需求功率是§e256-104EU(152EU)§r, 将只接受2§bA电流§r(§e240EU§r)存入缓存(§e345EU§r), 消耗§e256EU§r后缓存变为§e89EU§r, 以此类推.
+betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=GT6的电路规则众说纷纭, 这里是根据gt代码确定的规则, 可以确保正确, 当你建设电网遇到困难时, 记得使用万用表(MV电路板后的任务有)详细检测§b电流§a电压§r, 根据该任务确定修改方法. %n%n大部分发电机会输出§anEU/A§r的§b1A电流§r, 通过变压器可以降低§a电压§r到原来的1/4, 并将§b电流§r提高到§b4A§r, 一个变压器仅能降压§b1A§r高电压到原来的1/4, 但可以升压最多§b16A§r电流至尽量接近输出上限(仅接受整数电流).机器§6仅§r在§a电压§r大于输入下限时接受电流%n%n供能充足时, 机器会接受刚好使缓存大于输入上限的(整数)§b电流§r, 从缓存中消耗(输入上限)的能量, 剩余的能量会保存在缓存中, 使得下一刻接受的§b电流§r可能更少. §7(大部分机器频繁闪烁的情况均是此条规则作祟)§r%n%n供能不足时, 机器会使用掉全部§b电流§r, 计算出提供功率=§a电压§r*§b电流§r, 若提供功率小于需求功率§7(即配方功率或超频后的配方功率, 超频规则见蒸汽时代任务线"机器自动超频")§r, 机器会罢工, 否则会加速(提供功率/需求功率)倍, 但右下角进度条的总时间不会变化, 而是进度增加的更快.%n%n举例: 为普通MV机器(2级机器)供能§a120EU/A§r * §b1A/t§r时, 若配方需求功率为§e80EU/t§r(2级配方), 机器会以1.5倍速工作, 进度每秒增加1.5秒, 若配方需求§e32EU/t§r(1级配方), 机器会有损超频(功率*4, 速度*2), 需求功率变为§e128EU/t§r, 机器罢工, 若输入功率加至128EU, 机器会以2倍速工作. 标有无损超频的机器会运行无损超频规则, 既不会因超频罢工也不会减速, 此时输入128EU会以4倍速工作. %n%n为普通MV机器供能§a120EU/A §r* §b16A/t§r时, 初始缓存为0, 因而机器需求功率为§e256EU§r(输入上限), 机器会接受§b3A电流§r(§e360EU§r)并消耗§e256EU§r, 缓存变为§e104EU§r, 下一刻时机器需求功率是§e256-104EU(152EU)§r, 将只接受2§bA电流§r(§e240EU§r)存入缓存(§e345EU§r), 消耗§e256EU§r后缓存变为§e89EU§r, 以此类推.
 
 # Quest: New Quest
 betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.name=
@@ -1095,9 +1103,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdw.desc=将铀矿进行浸洗, 多次�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.name=晶质铀
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=在外星能找到的铀矿, 能提取出更多的铀.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=你来到了世界的尽头
+# Quest: tfru.q305n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=简单入门
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=看晕了? 看一看这本小书的内容. 尽管前言看起来不太靠谱, 但是其中的内容还是有助于你理解这个复杂而危险的方块.
 
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=正在制作..
@@ -1272,7 +1280,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念设计:%nYueS
 
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%nQQ1群： 836643851
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
 
 
 ## Quest Line: tfr.line12.name
@@ -1942,7 +1950,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACag.desc=这是植物魔法的最终目�
 
 # Quest: tfr.quest620.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.name=植物酿造台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.desc=使用更为强大的植物魔法版炼药台.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACbA.desc=使用更为强大的植物魔法版炼药台， 可以酿造特殊药水，能喝更多次的药水和在一定区域内持续提供效果的熏香.
 
 # Quest: tfr.quest621.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbQ.name=泰拉之刃
@@ -2429,7 +2437,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根据方块介绍摆放, 需�
 
 # Quest: tfr.quest6.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高级工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高级工作台是一个非必须但很有用的设备. 他可以用管道输入液体资源, 在GUI上部的槽里可以用桶接液体. 也可以在旁边放储物桶, 合成的时候可以自动抽取物品. 侧边是抽屉, 也能存放不少东西, 而且还有专门放工具的槽位. 大力推进！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高级工作台是一个非必须但很有用的设备. 他可以用管道输入液体资源, 在GUI上部的槽里可以用桶接液体. 也可以在旁边放储物桶, 合成的时候可以从NEI直接放置物品, 批量合成时会自动抽取左边格子和抽屉里可用的材料, 可以点击侧边打开抽屉. %n%n此外, 高级工作台合成时不会因矿词查找造成卡顿.
 
 # Quest: tfr.quest81.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金属包装
@@ -2508,8 +2516,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.name=防腐木管道
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管道好一些, 在流量上
 
 # Quest: tfr.quest303.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低级物品抽取
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=物品抽取
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=功能与原版漏斗类似, 是一个强化版的漏斗. %n使用扳手修改朝向 %n使用螺丝刀设置一次最多输出的物品数量%n使用活动扳手可以切换是否仅输出螺丝刀设置的数量(即低于设置数量时不输出)%n使用软锤清除以上设置.
 
 # Quest: tfr.quest304.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸处理
@@ -2551,13 +2559,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金属锭压缩成块
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存储空间
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
+# Quest: tfru.q307n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=量子存储器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=可以存储单种物品1000000(1M, 一百万)个. 不同材质的量子存储器的容量是相同的. 右键点击正面的六个按钮可以取出对应数量的物品, 可以从六个面输入物品, %n%n使用螺丝刀可以切换内容物数量为0时是否清除过滤器, 默认不清除, 会显示物品数量为0并且不会接受其他物品. %n使用活动扳手右键可以开启主动输出模式, 从下面主动输出物品.%n使用剪线钳右键可以开启过量输出模式, 会将超出容量的物品输出到下方的容器.%n使用软锤右键取出所有内容物并清除过滤器.%n使用布胶带可以封装该容器, 会消耗(容器中物品数量)点耐久值. 封装的容器可以使用刀解除封装.
 
 # Quest: tfr.quest457.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.name=储物桶(铁制)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存储单件10000个物品
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByQ.desc=存储单件10000个物品 %n%n右键点击正面的六个按钮可以取出对应数量的物品, 可以从六个面输入物品, %n%n使用螺丝刀可以切换内容物数量为0时是否清除过滤器, 默认不清除, 会显示物品数量为0并且不会接受其他物品. %n使用活动扳手右键可以开启主动输出模式, 从下面主动输出物品.%n使用剪线钳右键可以开启过量输出模式, 会将超出容量的物品输出到下方的容器.%n使用软锤右键取出所有内容物并清除过滤器.%n使用布胶带可以封装该容器, 会消耗(容器中物品数量)点耐久值. 封装的容器可以使用刀解除封装.
 
 # Quest: tfr.quest458.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByg.name=末影垃圾桶(支持流体)
@@ -2571,6 +2579,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同于抽屉模组的抽屉�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
+# Quest: tfru.q306n
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.name=物流基础
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.desc=一个方块具有6个面, 每个面都可能具有单独的(物品/流体)(输入/输出)(物流状态)组合, 这个组合决定了这个面的物流情况. 物流状态有三种: 禁用, 被动和主动.  禁用: 该面无法输入或输出, 被动: 该面可以接受输入或被抽出. 主动: 该面会主动抽入或推出.%n%n举例: %n原版箱子六个面均可以被动输入输出物品, 无法与流体交互. %n原版漏斗的顶面可以主动输入物品, 漏斗下面颈部的指向面会主动输出物品, 其他面可以被动输入输出物品, 六个面均无法与流体交互. %ngt的物品/流体管道: 未连接的面为禁用输入输出, 已连接的面是主动输出, 被动输入. %n%n约定俗成的习惯: 没有提到的面一般为禁用, 仅提到"可以输入/输出"的一般是被动输入/输出.  %n%n注意: gt的许多方块主动输出物品时不都会检测对应位置有没有容器. 没有容器时会扔到地上, 可能造成损失.
+
 
 ## Quest Line: tfru.l2n
 betterquesting.questline.Mh_NrUeMTxugp0XrI7Gg0w.name=§b能量产生、转换和储存
@@ -2582,7 +2594,7 @@ betterquesting.quest.-FU0ekZAT-2WaIfK2OP-mQ.desc=电能, 最广泛的二级能�
 
 # Quest: tfru.q265n
 betterquesting.quest.1AGXIF2oTRS5gLxbvNuVdQ.name=§cHU
-betterquesting.quest.1AGXIF2oTRS5gLxbvNuVdQ.desc=热能, 最基础和常见的能量, 可以驱动机器, 加热坩埚, 烧锅炉等, 没有直接储存和传导方式%n%nHU机器过载时会§6烧毁
+betterquesting.quest.1AGXIF2oTRS5gLxbvNuVdQ.desc=热能, 最基础和常见的能量, 没有电压电流概念, 可以驱动机器, 加热坩埚, 烧锅炉等, 没有直接储存和传导方式%n%nHU机器过载时会§6烧毁
 
 # Quest: tfru.q272n
 betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.name=§eLU
@@ -2630,11 +2642,15 @@ betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.desc=使用足量的红石作为介�
 
 # Quest: tfru.q274n
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.name=§5QU
-betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=量子能, 是量子操作必要的能量, 用于驱动物质复制等机器. %n%nQU机器§a不会过载
+betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=量子能, 没有电压电流概念, 是量子操作必要的能量, 用于驱动物质复制等机器. %n%nQU机器§a不会过载
+
+# Quest: tfru.q304n
+betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.name=变压器
+betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.desc=EU可以使用变压器变压, 目前版本的变压器很死板, 默认模式是降压, 将4n§9EU§a/A§r * 1§bA/t§r转换为n§9EU§a/A§r * §b4A/t§r. 使用活动扳手可以切换反向升压, 会吃低电压等级范围内尽可能多的电流, 无损转换到1A高电压.
 
 # Quest: tfru.q283n
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=导线
-betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=电力使用导线传输, 使用剪线钳连接或断开导线之间的连接. %n%n导线具有线损, 流经的电会降低§b(线损)EU§r的§a电压§r, §b电流§r保持不变. 因此, 导线本身线损越低, 流经的§b电流§r越小, 消耗越小. %n%ngt6的电流寻路大概是社区中疑点最大的部分, 这边根据代码确定了以下原则以供参考: 首先, gt6导线§6不具有§r整体性, 应将一根导线视为一格格导线方块在进行电力交换. 当一格导线输入电时, 首先会将§a电压§r减去自己的§c线损§r, 然后按§d(下>上>北>南>东>西)§r的顺序查找已连接的"目标"(可为另一格导线或其他用电器等), 当该目标可输出电力时会"立刻"尝试向该目标输出电力(然后才会查找下一个目标), 目标会根据§a电压§r和自己的情况报告实际消耗的§b电流§r. 之后若§b电流§r未用尽则继续查找, 直到查找完毕或§b电流§r用尽.%n%n对于多个电源, 每个电源提供的§b电流§r均会进行一次上面的操作, 万用表可以显示多输入源流经同一格导线时各自的情况%n%n
+betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=电力使用导线传输, 使用剪线钳连接或断开导线之间的连接. %n%n导线具有线损, 流经的电会降低§b(线损)EU§r的§a电压§r, §b电流§r保持不变. 因此, 导线本身线损越低, 流经的§b电流§r越小, 消耗越小. %n%ngt6的电流寻路大概是社区中疑点最大的部分, 这边根据代码确定了以下原则以供参考: %n%n首先, gt6导线§6不具有§r整体性, 应将一根导线视为一格格导线方块在进行电力交换. 当一格导线输入电时, 首先会将§a电压§r减去自己的§6线损§r, 然后按§e(下>上>北>南>东>西)§r的顺序查找已连接的"目标"§7(可为另一格导线或其他用电器等)§r, 当该目标可输出电力时会§d立刻§r尝试向该目标输出电力§7(然后才会查找下一个目标)§r, 目标会根据§a电压§r和自己的情况报告实际消耗的§b电流§r. 之后若§b电流§r未用尽则继续查找, 直到查找完毕或§b电流§r用尽.%n%n对于多个电源, 每个电源提供的§b电流§r均会进行一次上面的操作, 万用表可以显示多输入源流经同一格导线时各自的情况%n%n
 
 # Quest: tfru.q278n
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.name=大型发电机
@@ -2643,6 +2659,10 @@ betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=巨大的发电机, 可以提�
 # Quest: RF2CU
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
+
+# Quest: tfru.q300n
+betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.name=地热能源
+betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.desc=这个机器可以向很深的地下钻洞，从中获取热能. 中心的地热钻杆需要一直向下延伸，接触到基岩并直接连接到虚空, 结构成型后输入128RU/t以上的旋转能来钻深, 钻深进度到达一半时开始产热，进度满时功率最大. 主方块温度越低产热越高, 最高1024HU/t, 但HU直接输出模式需要预热才能以最大功率输出, 热流体输出模式不受该限制.
 
 # Quest: RF2KU
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
@@ -2664,6 +2684,10 @@ betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
 
+# Quest: tfru.q302n
+betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.name=热流体
+betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.desc=HU没有直接运输、存储和变压方式, 但你可以通过运输或存储热流体达成相同的效果. 由于热流体与蒸汽有相同的储罐限制, 你也无法通过存储热流体达成变压的目的.
+
 # Quest: tfru.q262n
 betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.name=RC锅炉
 betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.desc=这也是蒸汽生产的选择之一, 可以选择RC的固体或液体燃烧室, 燃烧室只需要一层, 锅炉则有多种尺寸选择. 详见锅炉的描述(注: 描述有误, 写的是"燃烧室"尺寸, 实际应为锅炉尺寸). 燃烧室和锅炉本体组成多方块结构即可使用. 该锅炉相对安全, 不需要注意过压爆炸. 但仍注意不要在干烧后加水
@@ -2674,11 +2698,11 @@ betterquesting.quest.ceSPniAwRjOGQsX46MVslg.desc=使用飞轮组可以存储一�
 
 # Quest: tfru.q271n
 betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.name=§bCU
-betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.desc=冷能, 可以驱动机器, 用于冷馏塔产出稀有气体或者加速坩埚冷却.%n%nCU机器§a不会过载
+betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.desc=冷能, 没有电压电流概念, 一般仅用于驱动机器, 用于冷馏塔产出稀有气体或者加速坩埚冷却.%n%nCU机器§a不会过载
 
 # Quest: tfru.q270n
 betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.name=§4RF
-betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=红石通量, 一种原始而广泛的能源, 无法转换为部分高级能源, 但仍有一定作用. %n%nRF机器§a不会过载 %n%n§8左侧的两个反应堆不是你现在应该窥探的内容…
+betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=红石通量, 一种原始而广泛的能源, 没有电压电流概念, 无法转换为部分高级能源, 但仍有一定作用. %n%nRF机器§a不会过载 %n%n§8左侧的两个反应堆不是你现在应该窥探的内容…
 
 # Quest: tfru.q284n
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=远距离输电
@@ -2714,7 +2738,7 @@ betterquesting.quest.qbxxuaAUQBy10Duu1cK3Kg.desc=避雷针可以将地表附近�
 
 # Quest: tfru.q260n
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.name=热流体
-betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=太阳能集热塔和核反应堆等高功率热能生产装置往往支持输出热流体, 这样可以使得热量更方便调配, 可以使用一个产热装置带动多个锅炉等. 热流体需要使用热交换器将HU输出, 并变回普通流体. 注意大部分热流体不能进入储罐(ae系统可以), 否则会立刻消失.
+betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=太阳能集热塔和核反应堆等高功率热能生产装置往往支持输出热流体, 这样可以使得热量更方便调配, 可以使用一个产热装置带动多个锅炉等. 热流体需要使用热交换器将HU输出, 并变回普通流体. 注意热流体被储罐存储时, 输出速率不会超过输入速率.
 
 # Quest: LUBattery
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=
@@ -2722,11 +2746,15 @@ betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=
 
 # Quest: tfru.q257n
 betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.name=本章说明
-betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=这章任务讲述了本整合包中大部分的能量生成,转换,存储,运输方式, 由于覆盖面广泛, 你能看到的任务并不一定能在你目前所处的时代完成.%n由于大部分任务实际在其他任务线也有提到, 本章的任务大部分是引用而非本体. %n%n能量的任务图标是最大的, 图标右下角是该能量的直接运输方式, 图标右侧是该能量的直接存储方式, 图标下方是该能量转换为其他能量所用到的机器, 图标左侧是从自然/化石燃料等直接产生该能量的生成器%n这意味着某种能量的产生方式不仅有左侧的直接产生方式, 还有上方由其他能量转换而来的方式. %n对应位置没有任务即为无法直接传输/储存/生产 %n%n其他图标里最小的是普通的单方块机器, 比小图标大一圈的任务图标表示这个任务提到的机器是多方块结构.
+betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=这章任务讲述了本整合包中§a所有§r的能量生成,转换,存储,运输方式, 由于覆盖面广泛, §c你能看到的任务并不一定能在你目前所处的时代完成§r.%n由于大部分任务实际在其他任务线也有提到, 本章的任务大部分是引用而非本体. %n%n§e存在势差和通量概念的能量基本有着相似的逻辑, 为了方便理解, 任务书其他部分会统称其为电压/电流§r, 请勿在见到"RU电压"等表述时感到奇怪.%n%n能量本体的任务图标是最大的, 图标右下角是该能量的§a直接运输方式§r, 右上角是§e变压方式§r, 图标右侧是该能量的§b直接存储方式§r, 图标下方是该能量§d转换为其他能量§r所用到的机器, 图标左侧是从自然/化石燃料等§6直接产生该能量的生成器§r%n§r这意味着某种能量的产生方式§6不仅有左侧的直接产生方式, 还有上方由其他能量转换而来的方式§r. %n对应位置没有任务即为无法直接传输/储存/生产 %n%n其他图标里最小的是普通的单方块机器, 比小图标大一圈的任务图标表示这个任务提到的机器是多方块结构.
 
 # Quest: tfru.q259n
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.name=太阳能集热塔
-betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=§8赞美太阳!%n%n§r这个巨大的塔可以接受反射镜射来的阳光, 并可切换输出HU/输出热流体模式. %n%n右侧可选任务是除热吸收层外的其他层需要的材料, 第二个可选任务是一层热吸收层需要的材料, 更高的热吸收层层数可以提供更高的输出上限和更高的储热量.%n%n每个反射镜在清晨生产16HU/t, 随后功率逐渐升高, 在中午时会生产64HU/t, 再逐渐降低, 到傍晚降回16HU/t. 夜晚反射镜会平置并不再产生能量.%n输出区域是顶层中心3*3顶盖的顶面, 每格输出功率均为256 * 热吸收层层数 HU/t, 切换为热流体模式时会以 1024 * 9 * 热吸收层层数 HU/t加热流体并在同样位置输出(即快4倍). %n%n塔需要预热, 当温度升高一些后才会以前面提到的功率输出, 使用温度计可以查看温度, 温度过高会使整个塔熔毁.%n%n你可能查看到流体加热配方中有蒸汽, 的确可以直接使用它加热蒸汽, 但效率仅有锅炉的1/4, 不建议使用.
+betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=§8赞美太阳!%n%n§r这个巨大的塔可以接受反射镜射来的阳光, 并可切换输出HU/输出热流体模式. %n%n右侧可选任务是除热吸收层外的其他层需要的材料, 第二个可选任务是一层热吸收层需要的材料, 更高的热吸收层层数可以提供更高的输出上限和更高的储热量.%n%n每个反射镜在清晨生产16HU/t, 随后功率逐渐升高, 在中午时会生产64HU/t, 再逐渐降低, 到傍晚降回16HU/t. 夜晚反射镜会平置并不再产生能量.%n输出区域是顶层中心3*3顶盖的顶面, 每格输出功率均为256 * 热吸收层层数 HU/t, 切换为热流体模式时会以 1024 * 9 * 热吸收层层数 HU/t加热流体并在同样位置输出(即快4倍). %n%n塔需要预热, 当温度升高一些后才会以前面提到的功率输出, 使用温度计可以查看温度, 温度过高会使整个塔熔毁.%n%n你可能查看到流体加热配方中有蒸汽, 的确可以直接使用它加热蒸汽, 但效率仅有锅炉的1/2, 不建议使用.
+
+# Quest: tfru.q303n
+betterquesting.quest.yy3Nar60SSO5WK99b4B8og.name=变速箱
+betterquesting.quest.yy3Nar60SSO5WK99b4B8og.desc=RU可以使用齿轮组变速箱变速, 默认模式是降压, 将4n§aRU/A§r * 1§bA/t§r转换为n§aRU/A§r * 4§bA/t§r. 使用活动扳手可以切换反向升压, 会吃低转速等级范围内尽可能多的扭矩, 无损转换到1A扭矩高转速.
 
 
 ## Quest Line: tfr.line11.name
@@ -3624,7 +3652,7 @@ betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=拥有探伤仪后你可以构�
 
 # Quest: tfr.quest216.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHH
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=这是模组名为Minecraft的工作台, 可以放置. %n%n经历千辛万苦, 你终于制作了这个原版生存里一分钟就能做出的物品. 恭喜！%n%n§l你问我石头怎么得到？用稿子挖掉一个岩石相邻的六个方块, 他就自己掉下来了. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=这是模组名为Minecraft的工作台, 可以放置. %n%n经历千辛万苦, 你终于制作了这个原版生存里一分钟就能做出的物品. 恭喜！%n%n§l你问我石头怎么得到？用稿子挖掉一个岩石相邻的六个方块, 他就自己掉下来了. %n%n你应该前往下一章继续你的旅途了，祝你好运!
 
 # Quest: tfr.quest221.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=§b§lRF
@@ -3636,7 +3664,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=使用石砧, 你可以开始�
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b烧开水！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了! %n%n锅炉内需要有水, 输入HU可以加热锅炉, 产出蒸汽会先存在内部加压, 压力达到25%时开始输出, 达到50%时会开始逐渐提高输出, 到75%时会达到最大(2倍面板)输出. 到达90%时会有粒子溢出提示你锅炉即将爆炸. 注意锅炉干烧会提高温度, 如果温度过高锅炉会熔化. 可以通过及时少量加水快速降温, 注意水加入过多可能导致蒸汽储量瞬间存满引发爆炸. 熔化时若内部仍存有蒸汽会发生爆炸.
 
 # Quest: tfr.quest17.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§b§l蒸汽引擎
@@ -3699,8 +3727,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.name=木工奇迹
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABug.desc=这特么就是个奇迹, 你居然能放18个物品, 感动吗？
 
 # Quest: tfr.quest455.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=储物桶(青铜制)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=存储单件5000个物品
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.name=储物桶
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=存储单件5000个物品, 这种储物桶有四种制作方法. %n%n右键点击正面的六个按钮可以取出对应数量的物品, 可以从六个面输入物品, %n%n使用螺丝刀可以切换内容物数量为0时是否清除过滤器, 默认不清除, 会显示物品数量为0并且不会接受其他物品. %n使用活动扳手右键可以开启主动输出模式, 从下面主动输出物品.%n使用剪线钳右键可以开启过量输出模式, 会将超出容量的物品输出到下方的容器.%n使用软锤右键取出所有内容物并清除过滤器.%n使用布胶带可以封装该容器, 会消耗(容器中物品数量)点耐久值. 封装的容器可以使用刀解除封装.
 
 # Quest: tfru.q11n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=神龙反应堆
@@ -3768,7 +3796,7 @@ betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=使用生物化学能转化为K
 
 # Quest: tfru.q266n
 betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=§8SU
-betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=蒸汽能, 是一种名义能量, 实际为1L/t的蒸汽流量, 一般用于驱动蒸汽涡轮. %n蒸汽与热流体一样属于发电介质, 进入储罐时会立刻消失. %n%nSU机器过载时会§e损坏§r, 变成废料
+betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=蒸汽能, 是一种名义能量, 实际为1L/t的蒸汽流量, 一般用于驱动蒸汽涡轮. %n蒸汽与热流体一样属于发电介质, 这种流体被存储时储罐的输出速率不会超过输入速率. %n%nSU机器过载时会§e损坏§r, 变成废料
 
 # Quest: tfru.q218n
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=附魔!
@@ -3788,7 +3816,7 @@ betterquesting.quest.w8O4sBY8T86oax1NKi4gyQ.desc=往复动能, 可以松动坩�
 
 # Quest: tfru.q267n
 betterquesting.quest.z_AIsNUvS5ifglAyrJYDXA.name=§aRU
-betterquesting.quest.z_AIsNUvS5ifglAyrJYDXA.desc=旋转动能, 用途很广泛, 来源也很多. %n%nRU机器过载时会§e损坏§r, 变成废料
+betterquesting.quest.z_AIsNUvS5ifglAyrJYDXA.desc=旋转动能, 用途很广泛, 来源也很多. 一般认为RU电压(RU/A)为转速, RU电流(RUA/t)为扭矩.%n%nRU机器过载时会§e损坏§r, 变成废料
 
 
 ### Quests in no quest lines ###

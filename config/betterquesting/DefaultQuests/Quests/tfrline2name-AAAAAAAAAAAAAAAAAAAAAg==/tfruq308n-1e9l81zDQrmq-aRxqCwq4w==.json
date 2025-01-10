@@ -1,24 +1,23 @@
 {
-  "questIDHigh:4": 0,
+  "questIDHigh:4": -3031091928289295687,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 304
+      "questIDLow:4": 395
     }
   },
-  "questIDLow:4": 453,
+  "questIDLow:4": -6126685010001122589,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.multitileentity",
+        "id:8": "gregtech:gt.metatool.01",
         "Count:3": 1,
-        "Damage:2": 6009,
+        "Damage:2": 150,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -26,30 +25,17 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "New Quest",
+      "name:8": "tfru.q308n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "No Description"
+      "desc:8": "tfru.q308d"
     }
   },
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
-      "autoConsume:1": 0,
-      "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
       "index:3": 0,
-      "consume:1": 0,
-      "requiredItems:9": {
-        "0:10": {
-          "id:8": "gregtech:gt.multitileentity",
-          "Count:3": 1,
-          "Damage:2": 6009,
-          "OreDict:8": ""
-        }
-      },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:checkbox"
     }
   },
   "rewards:9": {}

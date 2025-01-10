@@ -1,27 +1,29 @@
 {
-  "questIDHigh:4": -3402990272930952360,
+  "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 784
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 280
+      "questIDLow:4": 890
     }
   },
-  "questIDLow:4": -6218725615255666193,
+  "questIDLow:4": 893,
   "properties:10": {
     "betterquesting:10": {
       "snd_complete:8": "random.levelup",
       "taskLogic:8": "AND",
+      "partySingleReward:1": 0,
       "visibility:8": "NORMAL",
       "isMain:1": 0,
       "simultaneous:1": 0,
       "icon:10": {
-        "id:8": "ChickenChunks:chickenChunkLoader",
+        "id:8": "gregtech:gt.multiitem.books",
         "Count:3": 1,
-        "Damage:2": 1,
+        "tag:10": {
+          "author:8": "Apature Atomics",
+          "book:8": "Manual_Reactors",
+          "title:8": "Fission Reactor Manual"
+        },
+        "Damage:2": 32005,
         "OreDict:8": ""
       },
       "snd_update:8": "random.levelup",
@@ -29,30 +31,17 @@
       "globalShare:1": 0,
       "questLogic:8": "AND",
       "repeat_relative:1": 1,
-      "name:8": "tfru.q188n",
+      "name:8": "tfru.q305n",
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q188d"
+      "desc:8": "tfru.q305d"
     }
   },
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
-      "autoConsume:1": 0,
-      "groupDetect:1": 0,
-      "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
-      "requiredItems:9": {
-        "0:10": {
-          "id:8": "ChickenChunks:chickenChunkLoader",
-          "Count:3": 8,
-          "Damage:2": 1,
-          "OreDict:8": ""
-        }
-      },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:checkbox"
     }
   },
   "rewards:9": {
@@ -62,9 +51,14 @@
       "ignoreDisabled:1": 0,
       "rewards:9": {
         "0:10": {
-          "id:8": "ChickenChunks:chickenChunkLoader",
-          "Count:3": 16,
-          "Damage:2": 1,
+          "id:8": "gregtech:gt.multiitem.books",
+          "Count:3": 1,
+          "tag:10": {
+            "author:8": "Apature Atomics",
+            "book:8": "Manual_Reactors",
+            "title:8": "Fission Reactor Manual"
+          },
+          "Damage:2": 32005,
           "OreDict:8": ""
         }
       }

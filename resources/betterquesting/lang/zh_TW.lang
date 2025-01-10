@@ -158,6 +158,10 @@ betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.name=Tier 0 - 青銅時代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAADQ.desc=驟風穿行於知識之槲, 迷茫者在樹下彷徨駐足。%n將要攀登之際, 果實落下。%n
 
+# Quest: tfru.q188n
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
+betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
+
 # Quest: tfr.quest217.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.name=發酵/浸泡/降溫於一體
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2Q.desc=木桶是個重要的工具：它不消耗能量只需要密封后等待配方完成。
@@ -265,6 +269,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=石灰染料一次能做八個,
 # Quest: tfr.quest644.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=耐火礦物質
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=高嶺石和石墨是製作耐高溫粘土的重要原料！%n這些礦物質沒有地表指示物：試試在山上找找他們, 或者在他們生成的岩層中使用斟礦鎬都是不錯的選擇！%n高嶺石和石墨在所有沉積岩和變質岩中生成。%n忘了沉積岩和變質岩都是什麼了？去看看第一章的地質介紹任務！
+
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
 
 
 ## Quest Line: tfr.line1.name
@@ -456,9 +464,9 @@ betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=Tier 2 - 蒸汽時代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在鍛造的時候不小心把水壺放在了鍛造爐旁邊。不一會, 水壺的蓋撲通撲通地被一種白霧頂了起來。你根據帝國指南製作了一台蒸汽機。%n%n基于格雷科技%n
 
-# Quest: tfru.q188n
-betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.name=
-betterquesting.quest.0MYmYGfXS1ipsqYASxBB7w.desc=
+# Quest: tfru.q308n
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.name=
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=
 
 # Quest: tfru.q296n
 betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=
@@ -1095,7 +1103,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q305n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=
 
@@ -2509,7 +2517,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABLg.desc=防腐木管道似乎比木管�
 
 # Quest: tfr.quest303.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.name=低級物品抽取
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=Nothing is here because nothing is needed to be said.
 
 # Quest: tfr.quest304.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=油浸處理
@@ -2551,7 +2559,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABww.desc=把金屬錠壓縮成塊
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.name=黑曜石箱子
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxA.desc=更大的存儲空間
 
-# Quest: New Quest
+# Quest: tfru.q307n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxQ.desc=
 
@@ -2570,6 +2578,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACJw.desc=等同於抽屜模組的抽屜�
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
+
+# Quest: tfru.q306n
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.name=
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.desc=
 
 
 ## Quest Line: tfru.l2n
@@ -2632,6 +2644,10 @@ betterquesting.quest.CqGz7lUlSG2o3LcaOJxJQA.desc=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.name=
 betterquesting.quest.EIcmkI2vQoCDu_eaejzAig.desc=
 
+# Quest: tfru.q304n
+betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.name=
+betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.desc=
+
 # Quest: tfru.q283n
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
@@ -2643,6 +2659,10 @@ betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=
 # Quest: RF2CU
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
+
+# Quest: tfru.q300n
+betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.name=
+betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.desc=
 
 # Quest: RF2KU
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
@@ -2663,6 +2683,10 @@ betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
 # Quest: LU2EU
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
+
+# Quest: tfru.q302n
+betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.name=
+betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.desc=
 
 # Quest: tfru.q262n
 betterquesting.quest._2aFKsoFQRik7MMZed0O8Q.name=
@@ -2727,6 +2751,10 @@ betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=
 # Quest: tfru.q259n
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.name=
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=
+
+# Quest: tfru.q303n
+betterquesting.quest.yy3Nar60SSO5WK99b4B8og.name=
+betterquesting.quest.yy3Nar60SSO5WK99b4B8og.desc=
 
 
 ## Quest Line: tfr.line11.name
