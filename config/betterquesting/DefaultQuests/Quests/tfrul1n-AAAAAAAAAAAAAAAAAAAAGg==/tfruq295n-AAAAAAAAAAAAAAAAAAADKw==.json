@@ -1,262 +1,262 @@
 {
-  "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 164
     }
   },
-  "questIDLow:4": 811,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
-      "visibility:8": "ALWAYS",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfru.q295d",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "tfcaths:Blood_Lily",
         "Count:3": 1,
         "Damage:2": 1,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "tfcaths:Blood_Lily"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "tfru.q295n",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q295d"
+      "lockedProgress:1": 0,
+      "name:8": "tfru.q295n",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 811,
+  "rewards:9": {
+    "0:10": {
+      "amount:3": 840,
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "isLevels:1": 1,
+      "rewardID:8": "bq_standard:xp"
     }
   },
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "tfcaths:Indigo_Pinkgills",
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Indigo_Pinkgills"
         },
         "1:10": {
-          "id:8": "tfcaths:Pinedrops",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Pinedrops"
         },
         "2:10": {
-          "id:8": "tfcaths:Albanian_Spurge",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Albanian_Spurge"
         },
         "3:10": {
-          "id:8": "tfcaths:Coleus",
           "Count:3": 1,
           "Damage:2": 15,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Coleus"
         },
         "4:10": {
-          "id:8": "tfcaths:Amaranth",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Amaranth"
         },
         "5:10": {
-          "id:8": "tfcaths:Coleus",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Coleus"
         },
         "6:10": {
-          "id:8": "tfcaths:Jade_Plant",
           "Count:3": 1,
           "Damage:2": 2,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Jade_Plant"
         },
         "7:10": {
-          "id:8": "tfcaths:Jian_Chun_Luo",
           "Count:3": 1,
           "Damage:2": 2,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Jian_Chun_Luo"
         },
         "8:10": {
-          "id:8": "tfcaths:Iris",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Iris"
         },
         "9:10": {
-          "id:8": "tfcaths:Blazing_Star",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Blazing_Star"
         },
         "10:10": {
-          "id:8": "tfcaths:Azalea_Evergreen",
           "Count:3": 1,
           "Damage:2": 6,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Azalea_Evergreen"
         },
         "11:10": {
-          "id:8": "tfcaths:Azalea_Evergreen",
           "Count:3": 1,
           "Damage:2": 7,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Azalea_Evergreen"
         },
         "12:10": {
-          "id:8": "tfcaths:Royal_Catchfly",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Royal_Catchfly"
         },
         "13:10": {
-          "id:8": "tfcaths:Fireweed",
           "Count:3": 1,
           "Damage:2": 4,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Fireweed"
         },
         "14:10": {
-          "id:8": "tfcaths:Wisteria_Tree",
           "Count:3": 1,
           "Damage:2": 4,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Wisteria_Tree"
         },
         "15:10": {
-          "id:8": "tfcaths:Gladiolus",
           "Count:3": 1,
           "Damage:2": 15,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Gladiolus"
         },
         "16:10": {
-          "id:8": "tfcaths:Hydrangea",
           "Count:3": 1,
           "Damage:2": 15,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Hydrangea"
         },
         "17:10": {
-          "id:8": "tfcaths:Martagon_Lily",
           "Count:3": 1,
           "Damage:2": 15,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Martagon_Lily"
         },
         "18:10": {
-          "id:8": "tfcaths:Cobra_Lily",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Cobra_Lily"
         },
         "19:10": {
-          "id:8": "tfcaths:Desert_Rose",
           "Count:3": 1,
           "Damage:2": 5,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Desert_Rose"
         },
         "20:10": {
-          "id:8": "tfcaths:Loose_Flowered_Orchid",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Loose_Flowered_Orchid"
         },
         "21:10": {
-          "id:8": "tfcaths:Camas_Flower",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Camas_Flower"
         },
         "22:10": {
-          "id:8": "tfcaths:Heather",
           "Count:3": 1,
           "Damage:2": 4,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Heather"
         },
         "23:10": {
-          "id:8": "tfcaths:Aster",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Aster"
         },
         "24:10": {
-          "id:8": "tfcaths:Quaqua",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Quaqua"
         },
         "25:10": {
-          "id:8": "tfcaths:Anemone",
           "Count:3": 1,
           "Damage:2": 13,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Anemone"
         },
         "26:10": {
-          "id:8": "tfcaths:Splendid_Waxcap",
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Splendid_Waxcap"
         },
         "27:10": {
-          "id:8": "tfcaths:Blood_Lily",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Blood_Lily"
         },
         "28:10": {
-          "id:8": "tfcaths:Black_Eyed_Susan",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Black_Eyed_Susan"
         },
         "29:10": {
-          "id:8": "tfcaths:Saxifrage",
           "Count:3": 1,
           "Damage:2": 8,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Saxifrage"
         },
         "30:10": {
-          "id:8": "tfcaths:Aloe_Vera",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Aloe_Vera"
         },
         "31:10": {
-          "id:8": "tfcaths:Sundew",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Sundew"
         },
         "32:10": {
-          "id:8": "tfcaths:Bleeding_Hearts",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Bleeding_Hearts"
         },
         "33:10": {
-          "id:8": "tfcaths:Siberian_Squill",
           "Count:3": 1,
           "Damage:2": 3,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfcaths:Siberian_Squill"
         }
       },
       "taskID:8": "bq_standard:retrieval"
-    }
-  },
-  "rewards:9": {
-    "0:10": {
-      "amount:3": 840,
-      "rewardID:8": "bq_standard:xp",
-      "isLevels:1": 1,
-      "index:3": 0,
-      "ignoreDisabled:1": 0
     }
   }
 }

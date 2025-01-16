@@ -1,5 +1,4 @@
 {
-  "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
@@ -10,109 +9,110 @@
       "questIDLow:4": 746
     }
   },
-  "questIDLow:4": 747,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfru.q10d",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "DraconicEvolution:draconicPickaxe",
         "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "DraconicEvolution:draconicPickaxe",
         "tag:10": {
           "Energy:3": 0
-        },
-        "Damage:2": 0,
-        "OreDict:8": ""
+        }
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "tfru.q10n",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q10d"
+      "lockedProgress:1": 0,
+      "name:8": "tfru.q10n",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 747,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "DraconicEvolution:draconicSword",
           "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicSword",
           "tag:10": {
             "Energy:3": 0
-          },
-          "Damage:2": 0,
-          "OreDict:8": ""
+          }
         },
         "1:10": {
-          "id:8": "DraconicEvolution:draconicBow",
           "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicBow",
           "tag:10": {
             "Energy:3": 0
-          },
-          "Damage:2": 0,
-          "OreDict:8": ""
+          }
         },
         "2:10": {
-          "id:8": "DraconicEvolution:draconicPickaxe",
           "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicPickaxe",
           "tag:10": {
             "Energy:3": 0
-          },
-          "Damage:2": 0,
-          "OreDict:8": ""
+          }
         },
         "3:10": {
-          "id:8": "DraconicEvolution:draconicAxe",
           "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicAxe",
           "tag:10": {
-            "Energy:3": 0,
             "ConfigProfiles:9": {
               "0:10": {},
               "1:10": {},
               "2:10": {},
               "3:10": {},
               "4:10": {}
-            }
-          },
-          "Damage:2": 0,
-          "OreDict:8": ""
+            },
+            "Energy:3": 0
+          }
         },
         "4:10": {
-          "id:8": "DraconicEvolution:draconicHoe",
           "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicHoe",
           "tag:10": {
             "Energy:3": 0
-          },
-          "Damage:2": 0,
-          "OreDict:8": ""
+          }
         },
         "5:10": {
-          "id:8": "DraconicEvolution:draconicShovel",
           "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "DraconicEvolution:draconicShovel",
           "tag:10": {
             "Energy:3": 0
-          },
-          "Damage:2": 0,
-          "OreDict:8": ""
+          }
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
-  },
-  "rewards:9": {}
+  }
 }

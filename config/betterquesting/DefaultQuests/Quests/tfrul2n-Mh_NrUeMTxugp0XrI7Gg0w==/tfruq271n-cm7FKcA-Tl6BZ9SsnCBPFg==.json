@@ -1,5 +1,4 @@
 {
-  "questIDHigh:4": 8245744750871596638,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 2444449955720740895,
@@ -19,32 +18,33 @@
       "questIDLow:4": -8187506337467131460
     }
   },
-  "questIDLow:4": -9122088682396823786,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfru.q271d",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "ThermalFoundation:material",
         "Count:3": 1,
         "Damage:2": 513,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "ThermalFoundation:material"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "OR",
-      "repeat_relative:1": 1,
-      "name:8": "tfru.q271n",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q271d"
+      "lockedProgress:1": 0,
+      "name:8": "tfru.q271n",
+      "questLogic:8": "OR",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
-  "tasks:9": {},
-  "rewards:9": {}
+  "questIDHigh:4": 8245744750871596638,
+  "questIDLow:4": -9122088682396823786,
+  "rewards:9": {},
+  "tasks:9": {}
 }

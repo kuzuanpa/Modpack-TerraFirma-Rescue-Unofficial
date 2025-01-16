@@ -1,43 +1,71 @@
 {
-  "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 97
     }
   },
-  "questIDLow:4": 475,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfr.quest475.desc",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "minecraft:skull",
         "Count:3": 1,
         "Damage:2": 1,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "minecraft:skull"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "tfr.quest475.name",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfr.quest475.desc"
+      "lockedProgress:1": 0,
+      "name:8": "tfr.quest475.name",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 475,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.item.compact"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "enhancedlootbags:lootbag"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
     }
   },
   "tasks:9": {
     "0:10": {
+      "damageType:8": "",
       "ignoreNBT:1": 1,
       "index:3": 0,
+      "required:3": 1,
+      "subtypes:1": 1,
+      "target:8": "WitherBoss",
       "targetNBT:10": {
+        "AbsorptionAmount:5": 0.0,
+        "Air:2": 300,
+        "AttackTime:2": 0,
         "Attributes:9": {
           "0:10": {
             "Base:6": 300.0,
@@ -60,12 +88,11 @@
             "Name:8": "generic.attackDamage"
           }
         },
-        "Invulnerable:1": 0,
-        "PortalCooldown:3": 0,
-        "AbsorptionAmount:5": 0.0,
-        "Invul:3": 0,
-        "FallDistance:5": 0.0,
+        "CanPickUpLoot:1": 0,
+        "CustomName:8": "",
+        "CustomNameVisible:1": 0,
         "DeathTime:2": 0,
+        "Dimension:3": -1,
         "DropChances:9": {
           "0:5": 0.085,
           "1:5": 0.085,
@@ -73,25 +100,6 @@
           "3:5": 0.085,
           "4:5": 0.085
         },
-        "PersistenceRequired:1": 0,
-        "id:8": "WitherBoss",
-        "HealF:5": 300.0,
-        "Motion:9": {
-          "0:6": 0.0,
-          "1:6": 0.0,
-          "2:6": 0.0
-        },
-        "Leashed:1": 0,
-        "UUIDLeast:4": -8613920465144573149,
-        "Health:2": 300,
-        "Air:2": 300,
-        "OnGround:1": 0,
-        "Dimension:3": -1,
-        "Rotation:9": {
-          "0:5": 5.109243,
-          "1:5": 0.0
-        },
-        "UUIDMost:4": 42815376221253,
         "Equipment:9": {
           "0:10": {},
           "1:10": {},
@@ -99,44 +107,36 @@
           "3:10": {},
           "4:10": {}
         },
-        "CustomName:8": "",
+        "FallDistance:5": 0.0,
+        "Fire:2": 0,
+        "HealF:5": 300.0,
+        "Health:2": 300,
+        "HurtTime:2": 0,
+        "Invul:3": 0,
+        "Invulnerable:1": 0,
+        "Leashed:1": 0,
+        "Motion:9": {
+          "0:6": 0.0,
+          "1:6": 0.0,
+          "2:6": 0.0
+        },
+        "OnGround:1": 0,
+        "PersistenceRequired:1": 0,
+        "PortalCooldown:3": 0,
         "Pos:9": {
           "0:6": 0.0,
           "1:6": 0.0,
           "2:6": 0.0
         },
-        "Fire:2": 0,
-        "CanPickUpLoot:1": 0,
-        "HurtTime:2": 0,
-        "AttackTime:2": 0,
-        "CustomNameVisible:1": 0
-      },
-      "damageType:8": "",
-      "required:3": 1,
-      "taskID:8": "bq_standard:hunt",
-      "target:8": "WitherBoss",
-      "subtypes:1": 1
-    }
-  },
-  "rewards:9": {
-    "0:10": {
-      "rewardID:8": "bq_standard:choice",
-      "index:3": 0,
-      "ignoreDisabled:1": 0,
-      "choices:9": {
-        "0:10": {
-          "id:8": "ktfruaddon:ktfru.item.compact",
-          "Count:3": 1,
-          "Damage:2": 6,
-          "OreDict:8": ""
+        "Rotation:9": {
+          "0:5": 5.109243,
+          "1:5": 0.0
         },
-        "1:10": {
-          "id:8": "enhancedlootbags:lootbag",
-          "Count:3": 1,
-          "Damage:2": 6,
-          "OreDict:8": ""
-        }
-      }
+        "UUIDLeast:4": -8613920465144573149,
+        "UUIDMost:4": 42815376221253,
+        "id:8": "WitherBoss"
+      },
+      "taskID:8": "bq_standard:hunt"
     }
   }
 }

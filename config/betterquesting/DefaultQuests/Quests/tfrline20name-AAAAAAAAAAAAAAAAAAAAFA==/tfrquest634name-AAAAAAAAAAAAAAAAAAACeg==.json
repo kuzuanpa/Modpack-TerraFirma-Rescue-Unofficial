@@ -1,24 +1,25 @@
 {
-  "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 50
     }
   },
-  "questIDLow:4": 634,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfr.quest634.desc",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "minecraft:written_book",
         "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:written_book",
         "tag:10": {
+          "Count:1": 1,
+          "Damage:2": 0,
+          "author:8": "亚历山大·史蒂夫·二世",
+          "id:2": 386,
           "pages:9": {
             "0:8": "August 10, 21X1\n\nIt\u0027s been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.",
             "1:8": "But I won\u0027t live that long. I haven\u0027t forgotten my first and always wish: to return to Earth.\n",
@@ -31,27 +32,26 @@
             "8:8": "July 16, 21X2.\n\nWhoever is reading this diary, I want you to know that I\u0027m off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.\n",
             "9:8": "Earth\u0027s coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.\nBeginning the... the homeward journey."
           },
-          "author:8": "亚历山大·史蒂夫·二世",
-          "Count:1": 1,
-          "id:2": 386,
-          "title:8": "最后的日记",
-          "Damage:2": 0
-        },
-        "Damage:2": 0,
-        "OreDict:8": ""
+          "title:8": "最后的日记"
+        }
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "tfr.quest634.name",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfr.quest634.desc"
+      "lockedProgress:1": 0,
+      "name:8": "tfr.quest634.name",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
-  "tasks:9": {},
-  "rewards:9": {}
+  "questIDHigh:4": 0,
+  "questIDLow:4": 634,
+  "rewards:9": {},
+  "tasks:9": {}
 }

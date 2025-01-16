@@ -1,43 +1,51 @@
 {
-  "questIDHigh:4": 0,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 467
     }
   },
-  "questIDLow:4": 519,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "partySingleReward:1": 0,
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfr.quest519.desc",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "DraconicEvolution:chaosShard",
         "Count:3": 1,
         "Damage:2": 0,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "DraconicEvolution:chaosShard"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "tfr.quest519.name",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfr.quest519.desc"
+      "lockedProgress:1": 0,
+      "name:8": "tfr.quest519.name",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 519,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
+      "damageType:8": "",
       "ignoreNBT:1": 1,
       "index:3": 0,
+      "required:3": 1,
+      "subtypes:1": 1,
+      "target:8": "DraconicEvolution.ChaosGuardian",
       "targetNBT:10": {
+        "AbsorptionAmount:5": 0.0,
+        "Air:2": 300,
+        "AttackTime:2": 0,
         "Attributes:9": {
           "0:10": {
             "Base:6": 2000.0,
@@ -56,12 +64,12 @@
             "Name:8": "generic.followRange"
           }
         },
-        "Invulnerable:1": 0,
-        "PortalCooldown:3": 0,
-        "AbsorptionAmount:5": 0.0,
-        "FallDistance:5": 0.0,
+        "Behaviour:8": "ROAMING",
+        "CanPickUpLoot:1": 0,
+        "CustomName:8": "",
+        "CustomNameVisible:1": 0,
         "DeathTime:2": 0,
-        "HomeYCoord:3": -1,
+        "Dimension:3": 0,
         "DropChances:9": {
           "0:5": 0.085,
           "1:5": 0.085,
@@ -69,27 +77,6 @@
           "3:5": 0.085,
           "4:5": 0.085
         },
-        "PersistenceRequired:1": 0,
-        "id:8": "DraconicEvolution.ChaosGuardian",
-        "HealF:5": 2000.0,
-        "Motion:9": {
-          "0:6": 0.0,
-          "1:6": 0.0,
-          "2:6": 0.0
-        },
-        "Leashed:1": 0,
-        "HomeXCoord:3": 0,
-        "Behaviour:8": "ROAMING",
-        "UUIDLeast:4": -895685371874786370,
-        "Health:2": 2000,
-        "Air:2": 300,
-        "OnGround:1": 0,
-        "Dimension:3": 0,
-        "Rotation:9": {
-          "0:5": 4.234399,
-          "1:5": 0.0
-        },
-        "UUIDMost:4": 47312489722399,
         "Equipment:9": {
           "0:10": {},
           "1:10": {},
@@ -97,26 +84,39 @@
           "3:10": {},
           "4:10": {}
         },
-        "CustomName:8": "",
+        "FallDistance:5": 0.0,
+        "Fire:2": 0,
+        "HealF:5": 2000.0,
+        "Health:2": 2000,
+        "HomeSet:1": 0,
+        "HomeXCoord:3": 0,
+        "HomeYCoord:3": -1,
+        "HomeZCoord:3": 0,
+        "HurtTime:2": 0,
+        "Invulnerable:1": 0,
+        "Leashed:1": 0,
+        "Motion:9": {
+          "0:6": 0.0,
+          "1:6": 0.0,
+          "2:6": 0.0
+        },
+        "OnGround:1": 0,
+        "PersistenceRequired:1": 0,
+        "PortalCooldown:3": 0,
         "Pos:9": {
           "0:6": 0.0,
           "1:6": 0.0,
           "2:6": 0.0
         },
-        "Fire:2": 0,
-        "CanPickUpLoot:1": 0,
-        "HomeSet:1": 0,
-        "HomeZCoord:3": 0,
-        "HurtTime:2": 0,
-        "AttackTime:2": 0,
-        "CustomNameVisible:1": 0
+        "Rotation:9": {
+          "0:5": 4.234399,
+          "1:5": 0.0
+        },
+        "UUIDLeast:4": -895685371874786370,
+        "UUIDMost:4": 47312489722399,
+        "id:8": "DraconicEvolution.ChaosGuardian"
       },
-      "damageType:8": "",
-      "required:3": 1,
-      "taskID:8": "bq_standard:hunt",
-      "target:8": "DraconicEvolution.ChaosGuardian",
-      "subtypes:1": 1
+      "taskID:8": "bq_standard:hunt"
     }
-  },
-  "rewards:9": {}
+  }
 }

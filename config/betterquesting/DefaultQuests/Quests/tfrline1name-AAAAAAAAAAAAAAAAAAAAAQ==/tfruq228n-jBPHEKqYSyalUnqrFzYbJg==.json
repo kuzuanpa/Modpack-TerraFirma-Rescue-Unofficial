@@ -1,145 +1,145 @@
 {
-  "questIDHigh:4": -8353114009446626522,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 13
     }
   },
-  "questIDLow:4": -6534025234113750234,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "OR",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "tfru.q228d",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "tfctech:item.Steel Gear",
         "Count:3": 1,
         "Damage:2": 0,
-        "OreDict:8": "gearSteel"
+        "OreDict:8": "gearSteel",
+        "id:8": "tfctech:item.Steel Gear"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "tfru.q228n",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "tfru.q228d"
+      "lockedProgress:1": 0,
+      "name:8": "tfru.q228n",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "OR",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": -8353114009446626522,
+  "questIDLow:4": -6534025234113750234,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "tfctech:item.Steel Gear",
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfctech:item.Steel Gear"
         }
       },
       "taskID:8": "bq_standard:retrieval"
     },
     "1:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 1,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "tfctech:item.Brass Sleeve",
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfctech:item.Brass Sleeve"
         },
         "1:10": {
-          "id:8": "tfctech:item.Steel Rackwheel",
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfctech:item.Steel Rackwheel"
         },
         "2:10": {
-          "id:8": "tfctech:item.Steel Gear Piece",
           "Count:3": 4,
           "Damage:2": 0,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfctech:item.Steel Gear Piece"
         },
         "3:10": {
-          "id:8": "terrafirmacraft:item.Steel Unshaped",
           "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Steel Unshaped",
           "tag:10": {
             "temperature:5": 2000.0
-          },
-          "Damage:2": 1,
-          "OreDict:8": ""
+          }
         },
         "4:10": {
-          "id:8": "tfctech:item.Sleeve Mold",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfctech:item.Sleeve Mold"
         },
         "5:10": {
-          "id:8": "tfctech:item.Gear Piece Mold",
           "Count:3": 1,
           "Damage:2": 1,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "tfctech:item.Gear Piece Mold"
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"
     },
     "2:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 2,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "libVulpes:libVulpesproductgear",
           "Count:3": 1,
           "Damage:2": 6,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "libVulpes:libVulpesproductgear"
         }
       },
       "taskID:8": "bq_standard:retrieval"
     },
     "3:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 3,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.meta.plateQuadruple",
           "Count:3": 1,
           "Damage:2": 8630,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.meta.plateQuadruple"
         },
         "1:10": {
-          "id:8": "gregtech:gt.meta.stickLong",
           "Count:3": 1,
           "Damage:2": 8630,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.meta.stickLong"
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"
     }
-  },
-  "rewards:9": {}
+  }
 }
