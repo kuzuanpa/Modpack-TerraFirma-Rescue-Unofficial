@@ -270,9 +270,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=石灰染料一次能做八個,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=耐火礦物質
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=高嶺石和石墨是製作耐高溫粘土的重要原料！%n這些礦物質沒有地表指示物：試試在山上找找他們, 或者在他們生成的岩層中使用斟礦鎬都是不錯的選擇！%n高嶺石和石墨在所有沉積岩和變質岩中生成。%n忘了沉積岩和變質岩都是什麼了？去看看第一章的地質介紹任務！
 
-# Quest: tfru.q301n
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
+# Quest: tfru.q309n
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.name=
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.desc=
 
 
 ## Quest Line: tfr.line1.name
@@ -475,6 +475,10 @@ betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=
 # Quest: tfr.quest23.name
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=搞快點！
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=乾燥器不止有鋼這一個版本, 殷鋼、鈦、碳化鎢都能做乾燥器。當然, 更高級的乾燥器需要更多的HU。殷鋼的乾燥器算下來並不比鋼貴多少, 而且快很多。%n*我推薦用鉻燃燒室帶殷鋼乾燥器, 找到鉻鐵礦的話鉻並不算太貴。(你想用鈦燃燒室我不攔你)
+
+# Quest: tfru.q310n
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.name=
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.desc=
 
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=砂輪
@@ -2079,6 +2083,10 @@ betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
 # Quest: tfru.q290n
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=
+
+# Quest: tfru.q311n
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.name=
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.desc=
 
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
@@ -3793,6 +3801,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
+
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
 
 # Quest: tfru.q266n
 betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=

@@ -172,7 +172,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2g.desc=兽皮由猪、牛、鹿和剪�
 
 # Quest: tfr.quest219.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.name=§b§l§r§l§c§l氧气助燃
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=使用风箱的黑色孔对准锻造炉顶部空气, 坩锅, 或者高炉可以加快升温速度, 在炼钢时有奇效. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=使用风箱的黑色孔对准锻造炉顶部空气, 坩锅, 或者高炉可以加快升温速度, 在炼钢时有奇效. %n%n支持输入至少8KU/t能量来自动驱动风箱, 也可以使用灰铁时代的风箱驱动器, 到达那个时代后有任务介绍.
 
 # Quest: tfr.quest19.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=搅拌盆
@@ -224,7 +224,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=要想制作出玻璃, 你可�
 
 # Quest: tfr.quest289.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=各种工具的使用说明
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=你可能会觉得很复杂, 但是你其实不需要现在就知道下面的所有内容, 这个任务仅仅作为一个参考, 在你未来用到他们的时候. %n%n%n以下摘自GT内部书籍：%n%n这本书包含了各种工具的使用说明%n%n剑 - +攻击伤害 快速打掉叶子 蜘蛛网 羊毛%n小刀 - 食物切片 切木棍 切橡胶 树苗变木棍 树皮 和“类似”物品(比如蜡)前期可以用作武器 可以采集任何剑可以采集的方块%n屠刀 - 自带抢夺 攻速慢伤害低%n棒槌 - 有点贵 用途类似锤子 伤害高 攻速慢%n斧 - 适用于砍树 不适用于砍木板和其它木制品%n双刃斧 - 同样砍树 也可以做武器 耐久比斧多0.5倍 但制作材料多了2/3%n锯 - 和斧相反%n链锯 - 上面三种的结合物%n圆锯 - 作为合成工具 比链锯便宜 除了合成没有其它用途%n镐 - 就是个镐%n建筑镐 - 快速拆掉人工制作的建筑方块 慢速敲自然生成的方块%n镶钻镐 - 把有瑕疵的宝石镶在钢镐头毛坯上 以消耗大量耐久为代价 将镐子提升到宝石等级 琥珀 蓝宝石和钻石是不错的选择%n气锤 - 飞速挖石头%n电钻 - 挖矿+铲土 是完美的下矿工具%n铲 - 就是个铲%n尖头铲 - 条件性精准采集 比如dirt(当然指的不是泥土 应该是灰化土)草方块 菌丝 粘土 淤泥 雪 草径 但是比普通铲子慢而且根据玄学定律不能挖沙子%n犁 - 快速清雪和类似方块(不知道有什么)(3x3x3)%n万用铲 - 铲 锯 剑 撬棍的多功能结合产品 但是耐久和速度降低%n锤子 - 敲方块(前期看看黑/红花岗岩的岩层表面 觉着石头子不够你要的镐子数量的话尽量凑出一个锤子 敲岩石掉石子)和打铁 也能用来打架 没什么别的用途%n软锤 - 通常用来开关机器(例如引擎)可以强行开关红石灯和特定的铁轨%n扳手 - 调整机器正面 有时可以调整模式%n活动扳手 - 调整机器次要面 也可以调整模式%n电动扳手 - 扳手+活动扳手 潜行对着扳手不能作用的方块(就是地面)右键切换模式%n锉刀 - 磨尖 可以敲铁锭 速度比别的快得多%n凿子 - 制作模具 可以改变一些方块的纹理%n弯曲绕筒 - 做管道%n撬棍 - 开箱子 也可以用在铁轨和矿车上%n钳子 - 从模具和浇铸盆里夹热东西免伤%n搋子 - 清空管道 流体会消失 物体会掉出%n捕蜂网 - 抓蝴蝶 蜜蜂用来采集蜂巢%n锄 - 锄 没别的用%n修枝剪/剪枝器 - 剪树叶 掉苗%n镰刀 - 清理 3x3x3 范围内的作物 小花 高草丛%n擀面杖 - 擀面 擀粘土做粘土杯%n剪刀 - 右键拆半线(不触发红石信号)剪羊毛 采集类羊毛/布料方块%n螺丝刀 - 拧螺丝 最常用的功能是调整方块和覆盖板的模式 可以转向中继器和比较器%n剪线钳 - 采集线缆 调整线缆 调整某些覆盖板%n搅拌器 - 操作搅拌盆时不消耗饥饿%n手钻 - 给树钻洞 如果身上带着铁杆可以强化砖块和混凝土 如果身上带着炸药可以放置%n打火石 - 就是打火石(概率百分之30 不管任何材料)%n放大镜 - 可以看到各种格雷物品的信息(例如储罐/管道内东西种类和储量 还有很多乱七八糟的东西 还可以用来做材料词典)%n万能工具 - 可以切换成几种常用工具 可以看成瑞士军刀
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=你可能会觉得很复杂, 但是你其实不需要现在就知道下面的所有内容, 这个任务仅仅作为一个参考, 在你未来用到他们的时候. §9此任务完成后会解锁装备任务线中的所有gt工具任务.§r %n%n%n以下摘自GT内部书籍：%n%n这本书包含了各种工具的使用说明%n%n剑 - +攻击伤害 快速打掉叶子 蜘蛛网 羊毛%n小刀 - 食物切片 切木棍 切橡胶 树苗变木棍 树皮 和“类似”物品(比如蜡)前期可以用作武器 可以采集任何剑可以采集的方块%n屠刀 - 自带抢夺 攻速慢伤害低%n棒槌 - 有点贵 用途类似锤子 伤害高 攻速慢%n斧 - 适用于砍树 不适用于砍木板和其它木制品%n双刃斧 - 同样砍树 也可以做武器 耐久比斧多0.5倍 但制作材料多了2/3%n锯 - 和斧相反%n链锯 - 上面三种的结合物%n圆锯 - 作为合成工具 比链锯便宜 除了合成没有其它用途%n镐 - 就是个镐%n建筑镐 - 快速拆掉人工制作的建筑方块 慢速敲自然生成的方块%n镶钻镐 - 把有瑕疵的宝石镶在钢镐头毛坯上 以消耗大量耐久为代价 将镐子提升到宝石等级 琥珀 蓝宝石和钻石是不错的选择%n气锤 - 飞速挖石头%n电钻 - 挖矿+铲土 是完美的下矿工具%n铲 - 就是个铲%n尖头铲 - 条件性精准采集 比如dirt(当然指的不是泥土 应该是灰化土)草方块 菌丝 粘土 淤泥 雪 草径 但是比普通铲子慢而且根据玄学定律不能挖沙子%n犁 - 快速清雪和类似方块(不知道有什么)(3x3x3)%n万用铲 - 铲 锯 剑 撬棍的多功能结合产品 但是耐久和速度降低%n锤子 - 敲方块(前期看看黑/红花岗岩的岩层表面 觉着石头子不够你要的镐子数量的话尽量凑出一个锤子 敲岩石掉石子)和打铁 也能用来打架 没什么别的用途%n软锤 - 通常用来开关机器(例如引擎)可以强行开关红石灯和特定的铁轨%n扳手 - 调整机器正面 有时可以调整模式%n活动扳手 - 调整机器次要面 也可以调整模式%n电动扳手 - 扳手+活动扳手 潜行对着扳手不能作用的方块(就是地面)右键切换模式%n锉刀 - 磨尖 可以敲铁锭 速度比别的快得多%n凿子 - 制作模具 可以改变一些方块的纹理%n弯曲绕筒 - 做管道%n撬棍 - 开箱子 也可以用在铁轨和矿车上%n钳子 - 从模具和浇铸盆里夹热东西免伤%n搋子 - 清空管道 流体会消失 物体会掉出%n捕蜂网 - 抓蝴蝶 蜜蜂用来采集蜂巢%n锄 - 锄 没别的用%n修枝剪/剪枝器 - 剪树叶 掉苗%n镰刀 - 清理 3x3x3 范围内的作物 小花 高草丛%n擀面杖 - 擀面 擀粘土做粘土杯%n剪刀 - 右键拆半线(不触发红石信号)剪羊毛 采集类羊毛/布料方块%n螺丝刀 - 拧螺丝 最常用的功能是调整方块和覆盖板的模式 可以转向中继器和比较器%n剪线钳 - 采集线缆 调整线缆 调整某些覆盖板%n搅拌器 - 操作搅拌盆时不消耗饥饿%n手钻 - 给树钻洞 如果身上带着铁杆可以强化砖块和混凝土 如果身上带着炸药可以放置%n打火石 - 就是打火石(概率百分之30 不管任何材料)%n放大镜 - 可以看到各种格雷物品的信息(例如储罐/管道内东西种类和储量 还有很多乱七八糟的东西 还可以用来做材料词典)%n万能工具 - 可以切换成几种常用工具 可以看成瑞士军刀
 
 # Quest: tfr.quest291.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIw.name=原始的造纸工艺
@@ -248,7 +248,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABcw.desc=这也是一种桶, 但是能�
 
 # Quest: tfr.quest372.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdA.name=石磨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdA.desc=可以将谷物磨成粉, 也可以将高龄石, 石墨等矿物磨成粉. %n%n怎么制作光滑石头？将锤子放在快捷栏中, 手持凿子右键任意岩石方块就可以变成光滑石头, 然后用镐挖下来即可. 可以在控制中调整快捷键. %n%n§c*磨制需要右键顶部把手的位置.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdA.desc=可以将谷物磨成粉, 也可以将高龄石, 石墨等矿物磨成粉. %n%n怎么制作光滑石头？将锤子放在快捷栏中, 手持凿子右键任意岩石方块就可以变成光滑石头, 然后用镐挖下来即可. 可以在控制中调整快捷键. %n%n§c*磨制需要右键顶部把手的位置. %n%n可以从顶部输入最高16RU/t转速的能量自动化驱动石磨. 石磨每t消耗16RU旋转能.
 
 # Quest: tfr.quest438.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtg.name=更快, 更方便
@@ -270,9 +270,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=石灰染料一次能做八个,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=耐火矿物质
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=高岭石和石墨是制作耐高温粘土的重要原料！%n这些矿物质没有地表指示物：试试在山上找找他们, 或者在他们生成的岩层中使用斟矿镐都是不错的选择！%n高岭石和石墨在所有沉积岩和变质岩中生成. %n忘了沉积岩和变质岩都是什么了？去看看第一章的地质介绍任务！
 
-# Quest: tfru.q301n
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=早期机械
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=你观察到水流总是会推动其中的任何物体, 你或许可以利用它来解放双手. %n%n水车在有正确的水流冲击下会产出旋转能, 一般简称为RU, 水车产出的RU转速仅为2, 扭矩为1或2(见下文), 请转到能源任务线查看如何提高转速. %n%n水车需要由合理的水流推动才会产出能量, 具体来说, 它会检测上下左右的方块, 如果不是水流也不是空气, 则水车会被阻挡而不产出任何能量. 如果是水流, 会计算水流对叶片的推动力, 一格垂直冲击叶片的水流推动力为1, 推动力有正负, 有冲突的水流产生的推动力会相互抵消. 当推动力大于(不包含)0时扭矩为1, 大于(不包含)2时产出扭矩为2.
+# Quest: tfru.q309n
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.name=原始辊压机
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.desc=这个辊压机可以帮助你敲板, 你需要向它输入至少16RU/t的能量才可以抬起辊压锤. 可以右键将物品放置上去/拿下来, 使用放大镜可以查看运行状态和内容物. 这个方块支持使用漏斗输入, 向它输入(而非向砧本身)双层锭即可敲成板, 产出的板会自动放置在砧下面的容器.
 
 
 ## Quest Line: tfr.line1.name
@@ -361,7 +361,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=焊接双层钢, 锻造钢锭�
 
 # Quest: tfr.quest167.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.name=虽然也很原始, 但是至少不用风箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=%n用碎石机将任何铁矿石变为小型后, 和助焊剂制作成冶钢预制铁矿%n%n你可以把他们丢进高炉, 放入木炭或煤炭, 将其烧为锻铁粒. %n%n锻铁粒可以再次在高炉中烧为钢粒. 他们可以通过工作台合成为锭. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=%n用碎石机将任何铁矿石变为小型后, 和助焊剂制作成冶钢预制铁矿%n%n你可以把他们丢进高炉, 放入木炭或煤炭, 将其烧为锻铁粒. %n%n锻铁粒可以再次在高炉中烧为钢粒. 他们可以通过工作台合成为锭. %n效率比原TFR提升了一些
 
 # Quest: tfr.quest260.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=伏特加发电
@@ -475,6 +475,10 @@ betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=gt6与gt5不同, 不能通过�
 # Quest: tfr.quest23.name
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=多样化
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=GT的一大特点就是拥有很多的选择. 对现在的你来说, 可以在下面几种能源产生方式中选择一个: %n%n§7蒸汽: 最经典的方式. §r你需要使用木炭/煤炭/杂酚油等你已有的燃料, 放入燃烧室提供HU给锅炉, 为锅炉添水后即可产生SU. SU提供给引擎或涡轮产生KU或RU驱动机器.%n%n§a内燃机/燃气涡轮: 先进而方便的能源. §r这两种能源比起蒸汽方便的多, 你可以找天然气直接驱动燃气涡轮, 也可以通过酿造伏特加驱动内燃机, 均产出RU. 但对于目前的你来说, 燃气涡轮的造价较为昂贵, 而酿造伏特加又很难持续. 你需要自行权衡. %n%n§6手摇: §r这似乎不太可持续, 但如果你只是为了做内燃机的那一个曲柄, 选择它也无可厚非. %n%n§b注: 两种KU引擎不是必须做的, 你可以使用RU转换为KU.
+
+# Quest: tfru.q310n
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.name=高压釜
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.desc=使用高压釜可以制作许多需要高压的物品, 主要用于将部分宝石粉结晶为各种大小的宝石.
 
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=砂轮
@@ -706,7 +710,7 @@ betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=既然原始人能用淘金盘�
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=计压瓶
-betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.desc=这个瓶子相当于一个精确设定容量的储罐, 把它放地上后在不同位置右键可以设定容量. %n%n可用于处理部分精确流体配方, 注意耐腐蚀性和温度上限.
+betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.desc=这个瓶子相当于一个可精确设定容量的储罐, 把它放地上后在不同位置右键可以设定容量. %n%n可用于处理部分精确流体配方, 注意耐腐蚀性和温度上限.
 
 # Quest: tfru.q203n
 betterquesting.quest.XqyuwBIgSZO-KFmlBt9qUA.name=铬从哪来?
@@ -860,7 +864,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=格雷6的进阶材料之一, �
 
 # Quest: tfr.quest61.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=§b§l铝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=格雷6的进阶材料之一. %n格雷5用电力高炉一烧就能得到的东西竟然变成了制作流程最复杂的材料之一…%n初期使用铝土矿与氢氧化钠浸洗, 之后与苏打水搅拌, 获得的氢氧化铝放入坩埚加热即可获得氧化铝, 之后与氟化铝和冰晶石一同电解即可.%n同样建议自动化. %n*氟化铝和冰晶石用量很小, 可以一次做一堆, 屯着用一年. %n你或许可以试着寻找冰晶石矿石.%n%n铝可以用来做无限水井和液体过滤器, 很重要的材料！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=格雷6的进阶材料之一. %n格雷5原版用电力高炉一烧就能得到的东西竟然变成了制作流程最复杂的材料之一…%n初期使用铝土矿与氢氧化钠浸洗, 之后与苏打水搅拌, 获得的氢氧化铝放入坩埚加热即可获得氧化铝, 之后与氟化铝和冰晶石一同电解即可.%n同样建议自动化. %n*氟化铝和冰晶石用量很小, 可以一次做一堆, 屯着用一年. %n你或许可以试着寻找冰晶石矿石.%n%n铝可以用来做无限水井和液体过滤器, 很重要的材料！
 
 # Quest: tfr.quest62.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name=§l钨
@@ -1105,7 +1109,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=在外星能找到的铀矿, �
 
 # Quest: tfru.q305n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=简单入门
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=看晕了? 看一看这本小书的内容. 尽管前言看起来不太靠谱, 但是其中的内容还是有助于你理解这个复杂而危险的方块.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=看晕了? 看一看这本小书的内容. 尽管前言看起来不太靠谱, 但是其他的内容还是有助于你理解这个复杂而危险的方块.
 
 # Quest: tfru.q200n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=正在制作..
@@ -1495,7 +1499,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=有时你会在遗迹箱子中�
 
 # Quest: tfru.q295n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=乐矿花
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=这34种花分别喜爱栖息于某种特定矿脉的上方, 通常指示了较深的地层中有那种矿物. %n%n那个黑色的蘑菇指示的是煤炭, 其他的花就需要你自行探索了哦. %n%n注: 植物的生命力十分顽强, 即使某地没有那种矿也可能会出现在那. 在钻洞前先用探矿镐的深层探矿等其他手段确认下哦
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.desc=这34种花分别喜爱栖息于某种特定矿脉的上方, 通常指示了较深的地层中有那种矿物. %n%n那个黑色的蘑菇指示的是煤炭, 其他的花就需要你自行探索了哦. %n%n注: 地下矿物对植物仅有促进生长的作用, 植物下面不一定有矿. 在钻洞前先用探矿镐的深层探矿等其他手段确认下哦
 
 # Quest: tfru.q227n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADLA.name=GT矿脉
@@ -1757,7 +1761,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=关于你作为一个碳基
 
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=农业
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你开局有1000滴血, 你估计已经发现上限正在下降了. 如果不好好发展农业, 上限会很快下降的. %n%n世界里有许多野生作物, 去收集一些作物种子吧！%n%n§l§o再三强调, 这个章节十分重要. 如果主线推累了, 就来发展发展这里吧. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你开局有1000滴血, 你估计已经发现上限正在下降了. 如果不好好发展农业, 上限会很快下降的. %n%n世界里有许多野生作物, 去收集一些作物种子吧！%n%n§l§o再三强调, 这个章节十分重要. 如果主线推累了, 就来发展发展这里吧.
 
 # Quest: tfr.quest225.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=多喝热水
@@ -2079,6 +2083,10 @@ betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=借助精灵的力量, 你能�
 # Quest: tfru.q290n
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=窥魔之镜
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=使用它可以看到花的工作范围和透过墙体看到魔力的痕迹. 窥魔之镜可以与其他饰品组合, 两者的功能都会保留. %n%n§a由于整合包中许多非魔法的指示也使用了魔力, 推荐制作.§r
+
+# Quest: tfru.q311n
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.name=这片大地...需要...净化...
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.desc=你隐约从魔力钢中感受到了一丝纯净的气息, 这股气息使你内心安宁...你不禁开始思考这究竟预示着什么...
 
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=封印之布
@@ -2581,7 +2589,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjg.desc=
 
 # Quest: tfru.q306n
 betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.name=物流基础
-betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.desc=一个方块具有6个面, 每个面都可能具有单独的(物品/流体)(输入/输出)(物流状态)组合, 这个组合决定了这个面的物流情况. 物流状态有三种: 禁用, 被动和主动.  禁用: 该面无法输入或输出, 被动: 该面可以接受输入或被抽出. 主动: 该面会主动抽入或推出.%n%n举例: %n原版箱子六个面均可以被动输入输出物品, 无法与流体交互. %n原版漏斗的顶面可以主动输入物品, 漏斗下面颈部的指向面会主动输出物品, 其他面可以被动输入输出物品, 六个面均无法与流体交互. %ngt的物品/流体管道: 未连接的面为禁用输入输出, 已连接的面是主动输出, 被动输入. %n%n约定俗成的习惯: 没有提到的面一般为禁用, 仅提到"可以输入/输出"的一般是被动输入/输出.  %n%n注意: gt的许多方块主动输出物品时不都会检测对应位置有没有容器. 没有容器时会扔到地上, 可能造成损失.
+betterquesting.quest.iDadcjd-SNqPXMHEpBK-8w.desc=一个方块具有6个面, 每个面都可能具有单独的(§6物品§r/§9流体§r)(§a输入§r/§c输出§r)(§d物流状态§r)组合, 这个组合决定了这个面的物流情况. §d物流状态§r有三种: §c禁用§r, §9被动§r和§a主动§r. §c禁用§r: 该面无法输入或输出, §9被动§r: 该面可以§9接受§r输入或被抽出. §a主动§r: 该面会§a主动§r抽入或推出.%n%n举例: %n原版箱子六个面均可以§9被动§r输入输出物品, 无法与流体交互. %n原版漏斗的顶面可以§a主动§r抽入物品, 漏斗下面颈部的指向面会§a主动§r输出物品, 其他面可以§9被动§r输入输出物品, 六个面均§c无法§r与流体交互. %ngt的物品/流体管道: 未连接的面为§c禁用§r输入输出, 已连接的面是§a主动§r输出, §9被动§r输入. %n%n约定俗成的习惯: 没有提到的面一般为§c禁用§r, 仅提到"可以输入/输出"的一般是§9被动§r输入/输出.  %n%n§6注意: gt的许多方块主动输出物品时不都会检测对应位置有没有容器. 没有容器时会扔到地上, 可能造成损失.§r
 
 
 ## Quest Line: tfru.l2n
@@ -3788,11 +3796,15 @@ betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.desc=尽管不推荐, 石化燃料�
 
 # Quest: tfru.q256n
 betterquesting.quest.NdfPD5zOTQef23TNim7dOw.name=燃料电池
-betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=使用质子交换膜和特制电极可以使得部分燃料自然反应产生电能, 这样生产电能更加方便而高效. %n这款是8单元合并的, 效率根据使用的配方组合而不同, 总体在35%%-65%%之间. %n%nNEI搜索任意电极查看用途来查看燃料电池的配方表, 建议提前确定要使用的电极、电解质和燃料组合. %n使用活动扳手切换内容更换模式, 开启内容更换模式后用电极点击即可插入电极, 用漏斗或管道输入电解质后即可切换回正常模式, 从上面输出电能, 从左右两侧输入燃料, 前后面输出产物. %n尽管电解质不消耗, 但是至少需要1000L才能开始反应哦.
+betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=使用质子交换膜和特制电极可以使得部分燃料自然反应产生电能, 这样生产电能更加方便而高效. %n效率根据使用的配方组合而不同, 使用氧气可以进一步提升效率, 最终在35%%-65%%之间. %n%nNEI搜索任意电极查看用途来查看燃料电池的配方表, 建议提前确定要使用的电极、电解质和燃料组合. %n使用活动扳手切换内容更换模式, 开启内容更换模式后用电极点击即可插入电极, 用漏斗或管道输入电解质后即可切换回正常模式, 从上面输出电能, 从左右两侧输入燃料, 前后面输出产物. %n尽管电解质不消耗, 但是需要一定量才能开始反应哦.
 
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=手动KU源
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=使用生物化学能转化为KU的机器, 百KU消耗四oz面包!
+
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=解放双手
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=你观察到水流总是会推动其中的任何物体, 你或许可以利用它来解放双手. %n%n水车在有正确的水流冲击下会产出旋转能, 一般简称为RU, 水车产出的RU转速仅为2, 扭矩为1或2(见下文), 请转到能源任务线查看如何提高转速. %n%n水车需要由合理的水流推动才会产出能量, 具体来说, 它会检测上下左右的方块, 如果不是水流也不是空气, 则水车会被阻挡而不产出任何能量. 如果是水流, 会计算水流对叶片的推动力, 一格垂直冲击叶片的水流推动力为10, 推动力有正负, 有冲突的水流产生的推动力会相互抵消. 当推动力大于(不包含)0时扭矩为1, 大于(不包含)20时产出扭矩为2.
 
 # Quest: tfru.q266n
 betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=§8SU

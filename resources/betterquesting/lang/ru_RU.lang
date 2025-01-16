@@ -270,9 +270,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=Краситель для ла�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=Огнеупорные минералы
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=Каолин и графит-важные ингредиенты для изготовления высокотемпературной глины! % этих минералов не имеют указателей поверхности: попробуйте найти их в горах или в созданных ими слоях породы, и это хороший выбор! % каолина и графит образуются во всех осадочных и метаморфных породах. % забыл, что такое осадочные породы и метаморфозы? Проверь первую главу геологической миссии!
 
-# Quest: tfru.q301n
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
+# Quest: tfru.q309n
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.name=
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.desc=
 
 
 ## Quest Line: tfr.line1.name
@@ -475,6 +475,10 @@ betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=
 # Quest: tfr.quest23.name
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=Давай!
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=Сушилка имеет не только эту версию стали, но и ингалятор, Титан, карбид вольфрама, который делает сушилку. Конечно, более продвинутые сушилки требуют больше HU. Сушилки из ингалятной стали не намного дороже и намного быстрее стали. % * я рекомендую использовать хромированную камеру сгорания с ингаляционной сталью, и хромирование не будет слишком дорогим, если мы найдем хромированную железную руду. Если ты хочешь использовать титановую камеру сгорания, я не буду тебя останавливать.
+
+# Quest: tfru.q310n
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.name=
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.desc=
 
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Шлифовальн круг
@@ -2079,6 +2083,10 @@ betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
 # Quest: tfru.q290n
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=
+
+# Quest: tfru.q311n
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.name=
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.desc=
 
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
@@ -3793,6 +3801,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
+
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
 
 # Quest: tfru.q266n
 betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=

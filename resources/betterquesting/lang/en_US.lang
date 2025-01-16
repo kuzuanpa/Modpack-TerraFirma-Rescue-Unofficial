@@ -270,9 +270,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABuQ.desc=Lime dyes can be made up to eig
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.name=Refractory mineral
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChA.desc=Kaolinite and graphite are important raw materials for making high-temperature clay! These minerals have no surface indicators: try looking for them in the TFCs or using a pick in the rock formations they produce! %n Kaolinite and graphite are produced in all sedimentary rocks and metamorphic rocks. What are sedimentary rocks and metamorphic rocks? Check out the first chapter of the geological introduction mission!
 
-# Quest: tfru.q301n
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
-betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
+# Quest: tfru.q309n
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.name=
+betterquesting.quest._z1OBywoQOW-bq1j8c1DEg.desc=
 
 
 ## Quest Line: tfr.line1.name
@@ -475,6 +475,10 @@ betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.desc=
 # Quest: tfr.quest23.name
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.name=GOTTA GO FASTTTTTTTTTT!
 betterquesting.quest.4c8xbI3bQuS6Iewxx8M2SA.desc=The dryer has multiple versions: steel, Invar, titanium, tungsten carbide. Of course, more advanced dryers require more HU. The Invar dryers are not much more expensive than steel, but they are much faster. %n* I recommend a chrome combustion chamber with a steel dryer, chromium is not too expensive if you can find chromite. If you want to use a titanium chamber, I won't stop you.
+
+# Quest: tfru.q310n
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.name=
+betterquesting.quest.6ptDj_jaSs6BFa6_uzyabA.desc=
 
 # Quest: tfr.quest209.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Grinding wheel
@@ -2079,6 +2083,10 @@ betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
 # Quest: tfru.q290n
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.desc=
+
+# Quest: tfru.q311n
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.name=
+betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.desc=
 
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
@@ -3793,6 +3801,10 @@ betterquesting.quest.NdfPD5zOTQef23TNim7dOw.desc=
 # Quest: tfru.q186n
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.name=
 betterquesting.quest.O7MJUjOBT3mTdvPmrHhxrA.desc=
+
+# Quest: tfru.q301n
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.name=
+betterquesting.quest.OWHgZ3YsRRKcI0AAgxjzVA.desc=
 
 # Quest: tfru.q266n
 betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.name=

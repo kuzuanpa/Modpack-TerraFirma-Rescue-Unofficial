@@ -62,7 +62,6 @@ val fw = <liquid:freshwater>;
 recipes.remove(<minecraft:paper>);
 
 // Remove Glasses
-recipes.remove(<terrafirmacraft:item.Glass Bottle>);
 MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<minecraft:glass>);
 
 mods.forestry.ThermionicFabricator.removeCast(<minecraft:glass>);

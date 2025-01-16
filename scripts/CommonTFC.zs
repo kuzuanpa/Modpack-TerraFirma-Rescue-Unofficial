@@ -55,7 +55,7 @@ val fw = <liquid:freshwater>;
 val tag0 = <gregapi:gt.integrated_circuit>;
 
 /* Remove Recipes */
-
+recipes.remove(<tfcautomatedbellows:WaterFilter>);
 //tfc nuggets
 recipes.remove(<terrafirmacraft:item.MetalNugget>);
 recipes.remove(<terrafirmacraft:item.MetalNugget:2>);recipes.remove(<terrafirmacraft:item.MetalNugget:1>);recipes.remove(<terrafirmacraft:item.MetalNugget:3>);
