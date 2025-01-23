@@ -13,6 +13,8 @@ EOF space.bilibili.com/348709887
 银心 space.bilibili.com/39663463
 - 美工: 多个mod中的多种机器、物品的材质
 VK8040 github.com/Pactivsa
-- 程序: 太阳光热站的反射镜算法
+- 程序: 太阳光热站的反射镜算法, TFC完美锻造的判定算法, Thinker的公式解析器.
+RossaRosa space.bilibili.com/513240645
+- 文案: 修改部分任务文本, 提高文本可读性
 
 苦钻怕非常感谢以上每位贡献者的付出qwq
