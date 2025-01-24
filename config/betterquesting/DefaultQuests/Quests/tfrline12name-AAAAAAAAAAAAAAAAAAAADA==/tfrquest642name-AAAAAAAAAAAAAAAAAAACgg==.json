@@ -43,7 +43,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "minecraft:flowing_lava"
+          "id:8": "terrafirmacraft:item.Blue Steel Bucket Lava"
         }
       }
     }
@@ -62,6 +62,12 @@
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "terrafirmacraft:item.Copper Ingot"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Blue Steel Bucket Empty"
         }
       },
       "taskID:8": "bq_standard:retrieval"
