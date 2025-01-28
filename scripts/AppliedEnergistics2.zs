@@ -151,7 +151,7 @@ recipes.remove(<ae2stuff:Inscriber>);
 recipes.remove(<appliedenergistics2:tile.BlockController>);
 recipes.addShaped(<appliedenergistics2:tile.BlockController>,
 [[<appliedenergistics2:tile.BlockSkyStone:1>,<ktfruaddon:ktfru.item.compact:100>,<appliedenergistics2:tile.BlockSkyStone:1>],
-[<appliedenergistics2:item.ItemMultiMaterial:12>,<ore:ktfruModerateComputer>,<appliedenergistics2:item.ItemMultiMaterial:12>],
+[<appliedenergistics2:item.ItemMultiMaterial:12>,<ore:ktfruNoviceComputer>,<appliedenergistics2:item.ItemMultiMaterial:12>],
 [<appliedenergistics2:tile.BlockSkyStone:1>,Wrench,<appliedenergistics2:tile.BlockSkyStone:1>]]);
 
 // Drive

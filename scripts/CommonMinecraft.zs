@@ -86,7 +86,7 @@ recipes.addShapeless(<terrafirmacraft:item.Glass Bottle>,[<minecraft:glass_bottl
 recipes.addShapeless(<minecraft:coal:1>,[<terrafirmacraft:item.coal:1>]);
 recipes.addShapeless(<minecraft:coal>,[<terrafirmacraft:item.coal>]);
 
-recipes.addShaped(<minecraft:sand>,[[<ore:sand>,<ore:sand>],[<ore:sand>,<ore:sand>]]);
+recipes.addShaped(<minecraft:sand>*2,[[<terrafirmacraft:sand>,<terrafirmacraft:sand>]]);
 
 recipes.addShapeless(<minecraft:string>,[<terrafirmacraft:item.WoolYarn>]);
 
@@ -683,3 +683,8 @@ recipes.addShaped(<waystones:warpStone>,
 [[n,<ore:dustEnderPearl>,n],
 [<ore:dyePurple>,<ore:gemNormal>,<ore:dyePurple>],
 [n,<ore:dustEnderPearl>,n]]);
+
+recipes.addShaped(<waystones:waystone>,
+[[null,<ore:stoneBricks>, null],
+[<ore:stoneBricks>,<waystones:warpStone>,<ore:stoneBricks>],
+[<minecraft:obsidian>,<minecraft:obsidian>,<minecraft:obsidian>]]);

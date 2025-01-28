@@ -37,10 +37,10 @@
     "0:10": {
       "choices:9": {
         "0:10": {
-          "Count:3": 24,
-          "Damage:2": 1,
+          "Count:3": 16,
+          "Damage:2": 11,
           "OreDict:8": "",
-          "id:8": "terrafirmacraft:item.Clay"
+          "id:8": "terrafirmacraft:item.Ore"
         },
         "1:10": {
           "Count:3": 160,
