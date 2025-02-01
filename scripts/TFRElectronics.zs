@@ -73,12 +73,12 @@ mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:
 //tui huo tong
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
-[n,   <advancedRocketry:circuitIC>, n],
+[n,   <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:8640>, n]], 100, n);
 
 mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
 [n, <gregtech:gt.meta.wireFine:8660>, n],
-[n,   <advancedRocketry:circuitIC>, n],
+[n,   <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:8640>, n]], 100, n);
 
 /**Assembler recipes for t1-t2 circuit part*/

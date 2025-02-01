@@ -50,6 +50,6 @@ Fork and Modified mods in TFRU:
 - TFRUPrimitiveTech under GPLv3 ,[repo](https://github.com/kuzuanpa/TFRUPrimitiveTech)
 - TFRUTech under GPLv3 ,[repo](https://github.com/kuzuanpa/TFRUTech)
 - TwilightForestRescue under LGPLv2.1 ,[repo](https://github.com/kuzuanpa/twilightforestRescue)
-
+- Waystone under MIT, [repo](https://github.com/kuzuanpa/WaystonesFork)
 Resource Pack:
 resourcepacks/TFR BlueLine UI.zip is made by [TFR](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/) under [TFR License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE_zh_CN)

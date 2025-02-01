@@ -2,25 +2,24 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 30
+      "questIDLow:4": 77
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "tfr.quest86.desc",
+      "desc:8": "tfru.q312d",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 19,
+        "Damage:2": 1254,
         "OreDict:8": "",
-        "id:8": "terrafirmacraft:item.Ore"
+        "id:8": "gregtech:gt.multitileentity"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "tfr.quest86.name",
-      "partySingleReward:1": 0,
+      "name:8": "tfru.q312n",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -31,43 +30,23 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 86,
-  "rewards:9": {
-    "0:10": {
-      "choices:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        },
-        "1:10": {
-          "Count:3": 1,
-          "Damage:2": 4,
-          "OreDict:8": "",
-          "id:8": "ktfruaddon:ktfru.item.compact"
-        }
-      },
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:choice"
-    }
-  },
+  "questIDHigh:4": 5958723762173725708,
+  "questIDLow:4": -7179008511172440494,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 16,
-          "Damage:2": 19,
+          "Count:3": 1,
+          "Damage:2": 1254,
           "OreDict:8": "",
-          "id:8": "terrafirmacraft:item.Ore"
+          "id:8": "gregtech:gt.multitileentity"
         }
       },
       "taskID:8": "bq_standard:retrieval"

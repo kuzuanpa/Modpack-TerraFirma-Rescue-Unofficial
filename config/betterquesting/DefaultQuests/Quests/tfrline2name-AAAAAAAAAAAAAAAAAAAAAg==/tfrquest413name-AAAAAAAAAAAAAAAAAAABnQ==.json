@@ -6,11 +6,15 @@
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 24
+      "questIDLow:4": 294
     },
     "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 284
+    },
+    "3:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 559
     }
   },
   "properties:10": {

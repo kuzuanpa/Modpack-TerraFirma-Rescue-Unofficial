@@ -592,17 +592,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUA.desc=Efficient production of foil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Combustion chamber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=Titanium tetrachloride can be produced in it by adding molten calcite rutile powder in combustion reaction chamber, which is an important raw material for titanium production. Molten calcite can be made from crucible ( or a liquid furnace)%n%n§4§ § § N § N § O remember, it must be lit to run!
 
-# Quest: tfr.quest86.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.name=chromite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.desc=At this stage you need these
-
 # Quest: tfr.quest88.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Centrifuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=A multifunctional machine that can be used for mineral processing or for rubber production.
-
-# Quest: tfr.quest89.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.name=Pyrolusite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.desc=If you find pyrolusite, this will help you get manganese quickly. But if you can't find it, you can also get manganese by treating byproducts of other minerals.
 
 # Quest: tfr.quest139.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=The Loom
@@ -707,6 +699,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
+
+# Quest: tfru.q312n
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.name=
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.desc=
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=

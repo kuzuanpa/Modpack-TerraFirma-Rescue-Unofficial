@@ -437,7 +437,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMw.desc=炼药锅的主要功能并非�
 
 # Quest: tfr.quest631.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdw.name=快速起火
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdw.desc=使用锻铁粒或者钢粒制作一个打火石, 或者用别的打火工具也可以.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACdw.desc=使用锻铁粒或者钢粒制作一个打火石, 或者用别的打火工具也可以. %n%n小提示: 身上有火的时候无法与任何方块交互, 同时空手右键会点燃右键的方块. 如果在地狱陷入困境不妨尝试一下
 
 # Quest: tfr.quest632.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeA.name=下界之旅
@@ -457,7 +457,7 @@ betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.desc=群峦原始人终于掌握了�
 
 # Quest: tfru.q228n
 betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.name=齿轮制造
-betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.desc=当前阶段齿轮即有两种方法制作, 使用tfctech物品制作的合金齿轮和使用砧敲的纯金属齿轮, 在当前阶段前者更节省材料, 但获得gt坩埚后便应使用gt坩埚浇筑, 效率最高.
+betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.desc=当前阶段齿轮即有两种方法制作, 使用tfctech物品制作的合金齿轮和使用砧敲的纯金属齿轮, 在当前阶段前者更节省材料, 但获得gt坩埚后便应使用gt坩埚浇筑, 效率最高. %n%n由于TFCTech的神奇喵喵代码, 你无法使用坩埚制作齿片. 使用装满未成形金属的锭模具, 右键打开GUI后将齿片模具或轴模具放进去即可.
 
 
 ## Quest Line: tfr.line2.name
@@ -466,7 +466,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在锻造的时�
 
 # Quest: tfru.q308n
 betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.name=机器工具
-betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=大部分gt普通机器可以使用类似的工具切换一些属性: %n%n使用螺丝刀切换是否仅在所有输出槽为空时启动工作/某个输入槽是否仅在为空时接受输入 %n使用活动扳手对着自动输入输出面右键可以切换是否自动输入输出 %n使用软锤中止当前处理的配方, 不会返还原料. %n使用剪线钳右键可以切换是否在配方结束时一并输出催化剂.
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=大部分gt普通机器可以使用类似的工具切换一些属性: %n%n使用螺丝刀切换是否仅在所有输出槽为空时启动工作/某个输入槽是否仅在为空时接受输入 %n%n使用活动扳手对着自动输入输出面右键可以切换是否自动输入输出 %n%n使用软锤中止当前处理的配方, 不会返还原料. %n%n使用剪线钳右键可以切换是否在配方结束时一并输出催化剂.
 
 # Quest: tfru.q296n
 betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=小漏斗, 龙头, 喷嘴
@@ -592,17 +592,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUA.desc=高效生产箔
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=燃烧反应室
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=燃烧反应室内加入熔融方解石 金红石 碳粉, 可以生产四氯化钛, 制备钛的重要原料. 你问我熔融方解石怎么做？当然是坩锅出(如果你嫌麻烦还是用液化炉吧)%n%n§4§l§n§o记住, 放入原料后必须点火才能运行！
 
-# Quest: tfr.quest86.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.name=铬铁矿
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.desc=这个阶段你需要的矿物
-
 # Quest: tfr.quest88.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=离心机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=一台多功能机器, 可以用作矿物处理, 也可以投入橡胶生产. 
-
-# Quest: tfr.quest89.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.name=软锰矿
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.desc=如果你找到软锰矿了, 这将帮助您快速获得锰金属. 但是如果找不到, 您也可以通过处理其他矿物的副产物获得锰. 
 
 # Quest: tfr.quest139.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=织布机
@@ -707,6 +699,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=这个巨大的钢块块可以�
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=还是不想挖矿?
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=既然原始人能用淘金盘找到矿物, 蒸汽人就应该用更蒸汽的方式找到更多的矿! %n%n使用破碎机破碎石头, 再用筛选机找到砂砾,沙子中隐藏的矿石! 等到你有能力制作电路板的时候, 还可以自动挖掘大量的石头用于供给这一过程. %n%n筛选配方出矿的种类和概率是根据筛选的砂砾或沙子所属的岩层中矿物的种类和丰度确定的.
+
+# Quest: tfru.q312n
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.name=动力加速
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.desc=拥有了制造致密板的能力后, 你可以制作更高功率输出的锅炉和燃烧室, 为你的工厂提供更强大的动力.
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=计压瓶
@@ -1793,7 +1789,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA5w.desc=乳制品有两种获得方式:
 
 # Quest: tfr.quest233.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.name=动物袋
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=用这玩意可以把动物装起来背在身上, 有的动物需要加强的动物袋.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA6Q.desc=用这玩意可以把动物装起来背在身上, 非常方便远距离搬运动物, 可惜是一次性的.
 
 # Quest: tfr.quest105.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaQ.name=陌生的树苗
@@ -3660,7 +3656,7 @@ betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=拥有探伤仪后你可以构�
 
 # Quest: tfr.quest216.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHH
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=这是模组名为Minecraft的工作台, 可以放置. %n%n经历千辛万苦, 你终于制作了这个原版生存里一分钟就能做出的物品. 恭喜! 这是你在群峦星上立足的伟大一步!你应当制作一个原版工作台，享受稳定的，原汁原味的3x3合成！工作台需要2块石头和2个木材合成. 当然，群峦mod提供了背包工作台升级用以随时进行3x3合成! 详见右侧任务%n%n§l你问如何获取石头？用稿子挖掉一个岩石相邻的六个方块, 他就自己掉下来了. 坚如磐石也害怕孤立无援吗...%n%n你应该前往下一章继续你的旅途了，祝你好运!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=这是模组名为Minecraft的工作台, 可以放置. %n%n经历千辛万苦, 你终于制作了这个原版生存里一分钟就能做出的物品. 恭喜! 这是你在群峦星上立足的伟大一步!你应当制作一个原版工作台，享受稳定的，原汁原味的3x3合成！工作台需要2块石头和2个木材合成. 当然，群峦mod提供了背包工作台升级用以随时进行3x3合成! 详见右侧任务%n%n你问如何获取石头？用稿子挖掉一个岩石相邻的六个方块, 他就自己掉下来了. 坚如磐石也害怕孤立无援吗...%n%n§l你应该前往下一章继续你的旅途了，祝你好运!
 
 # Quest: tfr.quest221.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=§b§lRF
@@ -3672,7 +3668,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=使用石砧, 你可以开始�
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§b烧开水！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了! %n%n锅炉内需要有水, 输入HU可以加热锅炉, 产出蒸汽会先存在内部加压, 压力达到25%时开始输出, 达到50%时会开始逐渐提高输出, 到75%时会达到最大(2倍面板)输出. 到达90%时会有粒子溢出提示你锅炉即将爆炸. 注意锅炉干烧会提高温度, 如果温度过高锅炉会熔化. 可以通过及时少量加水快速降温, 注意水加入过多可能导致蒸汽储量瞬间存满引发爆炸. 熔化时若内部仍存有蒸汽会发生爆炸.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=你这趟旅途中的第一台蒸汽生产设备.该是提高生产力的时候了! %n%n锅炉内需要有水, 输入HU可以加热锅炉, 产出蒸汽会先存在内部加压, 压力达到25%%时开始输出, 达到50%%时会开始逐渐提高输出, 到75%%时会达到最大(2倍面板功率)输出. 到达90%%时会有粒子溢出提示你锅炉即将爆炸. §e注意锅炉干烧会提高温度, 如果温度过高锅炉会§6熔化§r. §c熔化时若内部仍存有蒸汽会发生爆炸. §r可以通过及时少量加水快速降温, §e注意一次加入过多水可能导致蒸汽储量瞬间存满而引发爆炸§r, 注意实时监控蒸汽储量即可避免.
 
 # Quest: tfr.quest17.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=§b§l蒸汽引擎

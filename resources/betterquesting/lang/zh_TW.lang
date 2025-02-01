@@ -592,17 +592,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUA.desc=高效生產箔
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=燃燒反應室
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=燃燒反應室內加入熔融方解石 金紅石 碳粉, 可以生產四氯化鈦, 製備鈦的重要原料。你問我熔融方解石怎麼做？當然是坩鍋出(如果你嫌麻煩還是用液化爐吧)%n%n§4§l§n§o記住, 放入原料後必須點火才能運行！
 
-# Quest: tfr.quest86.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.name=鉻鐵礦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.desc=這個階段你需要的礦物
-
 # Quest: tfr.quest88.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=離心機
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=一台多功能機器, 可以用作礦物處理, 也可以投入橡膠生產。
-
-# Quest: tfr.quest89.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.name=軟錳礦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.desc=如果你找到軟錳礦了, 這將幫助您快速獲得錳金屬。但是如果找不到, 您也可以通過處理其他礦物的副產物獲得錳。
 
 # Quest: tfr.quest139.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=織布機
@@ -707,6 +699,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
+
+# Quest: tfru.q312n
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.name=
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.desc=
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=

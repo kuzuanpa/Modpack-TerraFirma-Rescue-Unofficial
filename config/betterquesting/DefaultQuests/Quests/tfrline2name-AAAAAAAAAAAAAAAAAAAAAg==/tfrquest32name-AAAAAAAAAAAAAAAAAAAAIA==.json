@@ -1,12 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 86
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 89
+      "questIDHigh:4": 6822019675520518547,
+      "questIDLow:4": -4744443642115036592
     }
   },
   "properties:10": {
@@ -76,6 +72,35 @@
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 8,
+          "Damage:2": 25,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Ore"
+        },
+        "1:10": {
+          "Count:3": 8,
+          "Damage:2": 19,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Ore"
+        },
+        "2:10": {
+          "Count:3": 8,
+          "Damage:2": 8,
+          "OreDict:8": "",
+          "id:8": "terrafirmacraft:item.Small Ore"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

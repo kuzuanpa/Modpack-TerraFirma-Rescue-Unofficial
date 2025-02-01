@@ -592,17 +592,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUA.desc=Эффективное прои
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Камера реакции сгорания
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=Внутри камеры реакции сгорания добавляется расплавленный кварцевый карбонат углерода, который позволяет производить четыреххлористый Титан, важные ингредиенты для изготовления титана. Вы спрашиваете меня, что делать с расплавленным кальцитом? Конечно, тигель.
 
-# Quest: tfr.quest86.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.name=Хромистый железняк
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVg.desc=Полезные ископаемые для этой стадии
-
 # Quest: tfr.quest88.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Центрифуга.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=Многофункциональная машина, которая может использоваться как обработка минералов или может быть использована в производстве каучука.
-
-# Quest: tfr.quest89.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.name=Мягкая марганцевая руда
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWQ.desc=Полезные ископаемые для этой стадии
 
 # Quest: tfr.quest139.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Ткацкий станок.
@@ -707,6 +699,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
+
+# Quest: tfru.q312n
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.name=
+betterquesting.quest.UrGjsOcLTAycXwnLjA-OUg.desc=
 
 # Quest: tfru.q297n
 betterquesting.quest.UwtRvLUHTRuELDGjMg8xog.name=
