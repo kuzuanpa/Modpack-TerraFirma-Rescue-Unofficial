@@ -177,27 +177,6 @@ recipes.addShaped(<Railcraft:machine.alpha:14>*6,
 [<tfctech:item.Glue>,<ore:screwAnyIronOrSteel>,<tfctech:item.Glue>],
 [<ore:woodLumber>,<ore:plateAnyIronOrSteel>,<ore:woodLumber>]]);
 
-//remove other ways of rails
-recipes.remove(<Railcraft:part.rail>);
-recipes.remove(<minecraft:rail>);
-recipes.remove(<minecraft:golden_rail>);
-mods.railcraft.Rolling.removeRecipe(<Railcraft:part.rail>);
-mods.railcraft.Rolling.removeRecipe(<Railcraft:part.rail:1>);
-
-MTUtilsGT.removeAllRecipes("gt.recipe.welder",<minecraft:rail>);
-MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 16, 64, 0, [10000],
-[<Railcraft:part.rail>*6,<Railcraft:part.railbed>],
-[n],
-[n],
-[<minecraft:rail>*32]);
-
-MTUtilsGT.removeAllRecipes("gt.recipe.welder",<minecraft:golden_rail>);
-MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 16, 64, 0, [10000],
-[<Railcraft:part.rail:1>*6,<Railcraft:part.railbed>,<gregtech:gt.meta.stick:8660>],
-[n],
-[n],
-[<minecraft:golden_rail>*16]);
-
 // remove recycling of some parts
 mods.railcraft.RockCrusher.removeRecipe(<Railcraft:machine.alpha:7>);
 mods.railcraft.RockCrusher.removeRecipe(<Railcraft:machine.alpha:12>);
@@ -257,4 +236,10 @@ recipes.addShaped(<Railcraft:machine.beta:15>,
 
 // Boiler cart
 recipes.addShapeless(<minecraft:furnace_minecart>,[<minecraft:minecart>,<gregtech:gt.multitileentity:1104>]);
+
+recipes.remove(<Railcraft:machine.alpha:1>);
+recipes.addShaped(<Railcraft:machine.alpha:1>*3,
+[[<ore:blockSolidAnyIronSteel>, <mo:isolinear_circuit>, <ore:blockSolidAnyIronSteel>],
+[<ore:wireGt02Copper>, <ore:stickIronMagnetic>, <ore:wireGt02Copper>],
+[<ore:blockSolidAnyIronSteel>,<gregtech:gt.multitileentity:24820>,<ore:blockSolidAnyIronSteel>]]);
 

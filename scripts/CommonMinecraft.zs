@@ -688,3 +688,8 @@ recipes.addShaped(<waystones:waystone>,
 [[null,<ore:stoneBricks>, null],
 [<ore:stoneBricks>,<waystones:warpStone>,<ore:stoneBricks>],
 [<minecraft:obsidian>,<minecraft:obsidian>,<minecraft:obsidian>]]);
+
+recipes.addShaped(<OpenComputers:wrench>,
+[[null, <ore:plateAnyIronSteel>, null],
+[<ore:plateAnyIronSteel>, <ore:plateAnyIronSteel>, HHammer],
+[null,null,<ore:toolHeadScrewdriverAnyIronSteel>]]);

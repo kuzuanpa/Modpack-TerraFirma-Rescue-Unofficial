@@ -739,7 +739,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=一种古老的能量, 蕴�
 
 # Quest: tfru.q205n
 betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.name=更多管道
-betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.desc=这些来自ThermalDynamics的管道可以传输能量, 同时有过滤, 红石控制等功能, 比gt管道更智能, 详见"管道附件"任务. 使用来自林业的扳手可以断开管道连接
+betterquesting.quest.7G-TSHx0TVyTKoCXHT2CCQ.desc=这些来自ThermalDynamics的管道可以传输能量, 同时有过滤, 红石控制等功能, 比gt管道更智能, 详见"管道附件"任务. 使用来自oc的"螺丝刀扳手"可以断开管道连接
 
 # Quest: tfr.quest25.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=发电机控制板
@@ -1491,7 +1491,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=你来到了世界的尽头
 
 # Quest: tfru.q202n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.name=锈蚀青铜机械方块
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=有时你会在遗迹箱子中找到它, 这是古人的智慧...实际只是一大块青铜, 使用锉右击六面除锈, 之后焊接铜板即可使用
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADKg.desc=有时你会在遗迹箱子中找到它, 这是古人的智慧...? %n实际只是一大块青铜, 似乎是某种祭祀用具. 使用锉右击六面除锈, 之后焊接铜板即可使用
 
 # Quest: tfru.q295n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKw.name=乐矿花
@@ -3748,7 +3748,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.desc=电磁铁产生MU磁场能, 用
 
 # Quest: tfr.quest567.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.name=电驴
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.desc=和蒸汽引擎的功能一样, 不过使用的是EU作为能源
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACNw.desc=和蒸汽引擎的功能一样, 不过使用的是EU作为能源. §a使用螺丝刀右键可以灵活地调整输出功率, 范围: 输出上限/64 ~ 输出上限
 
 # Quest: tfr.quest571.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACOw.name=打电动
@@ -3764,7 +3764,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=和燃烧室功能一样, 不�
 
 # Quest: tfr.quest593.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=存储电力
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=电池盒里可以放四个电池, 每个电池可输出1A的电流, 但是不能高于电池盒的电压. 放进电池盒里的电池可以被充电, 也可以被放电. 一些需要电力的工具和装备也可以在这里充电, 比如电动扳手, 电钻, 喷气背包等. 但是充电之前, 注意电压等级哦. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=电池盒里可以放四个电池, 每个电池可输出1A的电流, 但是不能高于电池盒的电压. 放进电池盒里的电池可以被充电, 也可以被放电. 电力工具和装备可以充电但不能放电, 比如电动扳手, 电钻, 喷气背包等. 充电之前, 注意电压等级哦. %n%n有塑料之前你只能制作铅酸电池, 碱性电池和镍镉电池的容量相同, 取决于你有哪种矿物. 电池单元可以右键装有合适流体的储罐上的龙头来罐装, 并不一定要灌装机.
 
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=天翼族之冠

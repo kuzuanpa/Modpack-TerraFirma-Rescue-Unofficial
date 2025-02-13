@@ -1,0 +1,16 @@
+    S:gt.lang.formed=已成型
+    S:gt.lang.content=内容物
+    S:gt.lang.state=工作状态
+    S:gt.lang.state.stopped.force=
+    S:gt.lang.state.stopped=停机
+    S:gt.lang.state.ready=就绪
+    S:gt.lang.state.passive=待机
+    S:gt.lang.state.active=工作中
+    S:gt.lang.parallel=批处理数: %s
+    S:gt.lang.remain=剩余
+    S:gt.lang.energy.charged.require=需要充能
+    S:gt.lang.energy.required=需求功率
+    S:gt.lang.progress=进度
+    S:gt.lang.weight=质量
+    S:gt.lang.producing=制作
+    S:gt.lang.temperature=温度

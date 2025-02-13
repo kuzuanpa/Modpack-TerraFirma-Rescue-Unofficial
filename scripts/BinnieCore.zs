@@ -69,7 +69,7 @@ recipes.addShaped(<BinnieCore:storage:1>,
 
 recipes.addShaped(<BinnieCore:storage:2>,
 [[<ore:plateDoubleBronze>,<advancedRocketry:circuitIC>,<ore:plateDoubleBronze>],
-[n,<BinnieCore:storage:2>,n],
+[n,<BinnieCore:storage:1>,n],
 [<ore:plateDoubleBronze>,<advancedRocketry:circuitIC>,<ore:plateDoubleBronze>]]);
 
 recipes.addShaped(<BinnieCore:storage:3>,
