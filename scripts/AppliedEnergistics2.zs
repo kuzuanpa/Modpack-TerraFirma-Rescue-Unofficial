@@ -206,7 +206,7 @@ MTUtilsGT.removeAllRecipes("gt.recipe.press",SiC);
 
 // Si Chip
 MTUtilsGT.addCustomRecipe("ktfru.recipe.maskaligner", false, 256, 100, 0, [10000],
-[<ktfruaddon:ktfru.item.it:9830>,SiM*0],
+[<gregtech:gt.meta.plateGem:140>,SiM*0],
 [<liquid:helium>*50],
 [n],
 [SiC]);
@@ -523,24 +523,24 @@ MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
 [i,<appliedenergistics2:item.ItemMultiMaterial:8>,logic],
 [n],
 [n],
-[<appliedenergistics2:item.ItemMultiMaterial:43>]);
+[<appliedenergistics2:item.ItemMultiMaterial:43>*2]);
 }
 
 MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
 [<appliedenergistics2:item.ItemMultiMaterial:11>,<appliedenergistics2:item.ItemMultiMaterial:8>,logic],
 [n],
 [n],
-[<appliedenergistics2:item.ItemMultiMaterial:44>]);
+[<appliedenergistics2:item.ItemMultiMaterial:44>*2]);
 MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
 [<minecraft:quartz>,<appliedenergistics2:item.ItemMultiMaterial:8>,logic],
 [n],
 [n],
-[<appliedenergistics2:item.ItemMultiMaterial:44>]);
+[<appliedenergistics2:item.ItemMultiMaterial:44>*2]);
 MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 32, 100, 0, [10000],
 [<tfctech:item.Quartz>,<appliedenergistics2:item.ItemMultiMaterial:8>,logic],
 [n],
 [n],
-[<appliedenergistics2:item.ItemMultiMaterial:44>]);
+[<appliedenergistics2:item.ItemMultiMaterial:44>*2]);
 
 // Dense energy cell
 recipes.remove(<appliedenergistics2:tile.BlockDenseEnergyCell>);
@@ -633,3 +633,8 @@ recipes.addShaped(<ae2fc:part_fluid_import>,
 recipes.remove(<ae2fc:fluid_buffer>);
 recipes.addShapeless(<ae2fc:fluid_buffer>,
 [<ae2fc:large_ingredient_buffer>,f1k,<ktfruaddon:ktfru.item.compact:100>]);
+
+//Fluid Terminal
+recipes.remove(<ae2fc:part_fluid_terminal>);
+recipes.addShapeless(<ae2fc:part_fluid_terminal>,
+[<appliedenergistics2:item.ItemMultiPart:380>,<ore:gemLapis>]);

@@ -28,24 +28,27 @@ OpenComputers-1.8.5:
 
 
 GTNH (Download from Github Release):
-  ae2fc-1.3.45:
+  ae2fc-1.4.28:
     https://github.com/GTNewHorizons/AE2FluidCraft-Rework
 
-  AppliedEnergistics2-rv3-beta-472:
+  AppliedEnergistics2-rv3-beta-538:
     https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial
 
-  NotEnoughItems-2.6.38:
+  NotEnoughItems-2.7.29:
     https://github.com/GTNewHorizons/NotEnoughItems
-    #Stale: current use 2.6.8 because Broken NEICharacters Capability
 
-  CodeChickenCore-1.3.7:
+  CodeChickenCore-1.4.1:
     https://github.com/GTNewHorizons/CodeChickenCore
 
-  WirelessCraftingTerminal-1.11.7:
+  WirelessCraftingTerminal-1.12.0:
    https://github.com/GTNewHorizons/WirelessCraftingTerminal
 
-  angelica-1.0.0-beta18:
+  angelica-1.0.0-beta33:
    https://github.com/GTNewHorizons/Angelica
 
-  BetterQuesting-3.6.20-GTNH:
-   https://github.com/GTNewHorizons/BetterQuesting/
+  BetterQuesting-3.7.0-TFRU:
+   https://github.com/GTNewHorizons/BetterQuesting
+   Forked
+
+  gtnhlib-0.6.10:
+   https://github.com/GTNewHorizons/GTNHLib

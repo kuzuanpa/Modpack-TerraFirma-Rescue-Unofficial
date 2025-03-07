@@ -10,3 +10,7 @@
     S:gt.lang.cheap.overclocking=在消耗额外能量时可以超频
 改为
     S:gt.lang.cheap.overclocking=此机器可无损超频
+
+    S:gt.lang.energy.contained=存储的能量
+改为
+    S:gt.lang.energy.contained=存储能量
