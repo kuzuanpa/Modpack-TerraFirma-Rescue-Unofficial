@@ -63,7 +63,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 27501,
+          "Damage:2": 27500,
           "OreDict:8": "",
           "id:8": "ktfruaddon:ktfru.multitileentity"
         }
@@ -80,7 +80,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 27502,
+          "Damage:2": 27501,
           "OreDict:8": "",
           "id:8": "ktfruaddon:ktfru.multitileentity"
         }
