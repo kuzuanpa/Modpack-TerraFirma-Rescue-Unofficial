@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 39
+      "questIDHigh:4": -3031091928289295687,
+      "questIDLow:4": -6126685010001122589
     }
   },
   "properties:10": {
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "gregtech:gt.metatool.01"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "tfr.quest710.name",

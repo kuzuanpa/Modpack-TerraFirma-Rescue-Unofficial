@@ -1,8 +1,12 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -5305858406153304958,
-      "questIDLow:4": -5299170630415773732
+      "questIDHigh:4": -4340422549428219954,
+      "questIDLow:4": -6310918235572264759
+    },
+    "1:10": {
+      "questIDHigh:4": -3463258557863998568,
+      "questIDLow:4": -6952906696132525220
     }
   },
   "properties:10": {
@@ -16,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "minecraft:name_tag"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "tfru.q292n",

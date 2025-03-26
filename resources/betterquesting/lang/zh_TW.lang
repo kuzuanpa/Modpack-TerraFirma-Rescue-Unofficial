@@ -133,6 +133,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能無序�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=任務組隊
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=組隊系統可以在任務書打開時的選擇界面找到.%n由於任務書的限制, 組隊系統並不能跨任務組隊, 組隊系統是同步完成任務.%n%n§f§c*換句話說, 你們組隊時一開始的任務起點必須一樣.
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
+
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社區
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
@@ -152,6 +156,10 @@ betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
+
+# Quest: tfru.q313n
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.name=
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.desc=
 
 
 ## Quest Line: tfr.line13.name
@@ -696,6 +704,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q314n
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.name=
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.desc=
+
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
@@ -723,10 +739,6 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
-# Quest: tfru.q107n
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
@@ -1273,10 +1285,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鳴謝%n%n所有TeamMoeg的支�
 # Quest: tfr.quest634.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾聲
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=沒有人知道亞歷山大·史蒂夫·二世最後是否安全抵達了地球。如果他成功了, 我想他會很失望的。這時的地球已經變成了一個荒蕪人煙的, 被沙塵暴和酸雨肆虐的地獄。%n%n感謝相對論, 亞光速航行的亞歷山大經歷的時間比地球上的人們, 至少在他們離開那裡之前, 要少得多。經過計算, 地球在他離開這段時間裡, 至少經歷了400年的歷史。誰也不知道地球上發生了什麼, 人類去了哪裡。%n%n亞歷山大的空間站上存有地球基因庫樣本以及20萬顆人類受精卵。希望, 這似乎已經熄滅的火焰, 依舊在寂靜的宇宙中存在著。亞歷山大的故事------%n%n§l將會由後人繼續書寫。
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
 
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=關於我們

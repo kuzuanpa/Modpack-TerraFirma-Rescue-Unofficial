@@ -133,6 +133,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能无序�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=多人模式
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联机存在bug, 本整合包禁用了局域网联机. 请按照整合包目录下docs/tfru/server.txt搭建服务端. %n%n组队系统可以在任务书打开时的选择界面找到, 可以让一个队伍的玩家同步完成任务.
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
+
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社区
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
@@ -152,6 +156,10 @@ betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=使用洗矿槽自动淘金! �
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=狼牙棒
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=用原木和石头做的大棒,可用于前期防身
+
+# Quest: tfru.q313n
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.name=友情链接: GTQT
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.desc=GTQT拥有令人惊艳的巨量多方块结构和多种独特而有趣的新机制, 虽然可游玩内容仅到ZPM, 但每阶段的内容量均是其他整合包的2-4倍, 使得总内容量实际上多于GTNH, 更新也非常勤快. %n拥有包含石油化工, 算力系统, 生物系统等内容的主要科技线的同时, 还有以po为主的高度和谐而发达的魔法融合科技线, 来自drtech深度修改的林业养蜂机制, 来自GTMaid的高科技女仆, 以及移植自新星工程的大分子, 大CPU等ae2扩展. %n%ngtqt是第一个尝试在1.12版本移植gt6内容的整合包, 可以让你在1.12也体验到旋转能, 热能等能源机制. %n%nTFRU的储能变电塔和大量对gt6"原始而刻板的机制"的优化均借鉴了gtqt.
 
 
 ## Quest Line: tfr.line13.name
@@ -646,7 +654,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABig.desc=
 
 # Quest: tfru.q292n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.name=机器ABC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=你可能第一次接触GT机器, 请将鼠标指针放在任意机器物品上查看它的tooltip. tooltip是gt中最重要的提示之一. %n%n §b配方§r一行指示了该机器运行的是哪种配方, §a能量输入§r一行表明它需要的功率范围和输入的面, §a物品/流体 输入§c输出§r表明了它将会从哪个面输入输出物体. 标有(auto)的面是自动输入输出面, 可以向对应面的容器主动抽取/推入物体. %n%ngt的机器无法通过加入某些模块或安装某个部件升级, 你需要用更高级的材料重新做一个. 部分配方只能运行在高等级的机器上，请查看配方时一定确定好配方所需的功率. %n%n右键可以打开机器UI, 浅色格子是放置物品的, 深色格子是放置流体的. 中间的是进度条, 点击进度条可以查看该机器可运行的所有配方. 流体格不能直接输入输出, 需要用小漏斗, 龙头, 喷嘴等手动输入输出(详见小漏斗任务), 或者使用物品、流体管道进行自动输入输出.%n%n关闭任务ui后按H可以打开思索界面, 查看更直观的教程.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABiw.desc=§a你即将步入科技的时代!§r 如果你是第一次接触GT机器, 请认真阅读此任务. %n%n请将鼠标指针放在任意机器物品上查看它的描述. §6这个描述是gt中最重要的提示之一§r. %n%n §b配方§r一行指示了该机器运行的是哪种配方, §a能量输入§r一行表明它需要的功率范围和输入的面, §a物品/流体 输入§c输出§r表明了它将会从哪个面输入输出物体. 标有(auto)的面是自动输入输出面, 可以向对应面的容器主动抽取/推入物体. %n%ngt的机器无法通过加入某些模块或安装某个部件升级, 你需要用更高级的材料重新做一个. §e部分配方只能运行在高等级的机器上，请查看配方时一定确定好配方所需的功率§r. %n%n右键可以打开机器UI, 浅色格子是放置物品的, 深色格子是放置流体的. 中间的是进度条, 点击进度条可以查看该机器可运行的所有配方. §e流体格不能直接输入输出§r, 需要用小漏斗, 龙头, 喷嘴等手动输入输出(详见本章开头的小漏斗任务), 或者使用物品、流体管道进行自动输入输出.%n%n关闭任务ui后按H可以打开思索界面, 查看更直观的教程.
 
 # Quest: tfr.quest400.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABkA.name=圆锯+
@@ -696,6 +704,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=当你准备进行第一次机�
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=大型坩埚
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=这个巨大的钢块块可以一次为你熔炼400余单位的物质, 极大方便你进行大量加工. %n%n大型坩埚本身的质量非常大, 导致它升温很慢. 建议配合温度计控温和流化床燃烧室使用.
 
+# Quest: tfru.q314n
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=迈向电力时代的阶梯
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=这里是蒸汽时代必做的产线，完成它们之后你将拥有合格的矿处能力, 同时可以制作出芯片, 进入红石时代.
+
+# Quest: tfru.q107n
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.name=均衡发展
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.desc=这里是蒸汽时代选做的机器，可用于批量收集资源, 自动化批量制作部件, 更高效率的处理材料等. 制作它们有利于你的游戏进程, 但并不是最高优先级, 请自行权衡.
+
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=还是不想挖矿?
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=既然原始人能用淘金盘找到矿物, 蒸汽人就应该用更蒸汽的方式找到更多的矿! %n%n使用破碎机破碎石头, 再用筛选机找到砂砾,沙子中隐藏的矿石! 等到你有能力制作电路板的时候, 还可以自动挖掘大量的石头用于供给这一过程. %n%n筛选配方出矿的种类和概率是根据筛选的砂砾或沙子所属的岩层中矿物的种类和丰度确定的.
@@ -723,10 +739,6 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=使用gt的橡胶树可以更�
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
-# Quest: tfru.q107n
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=机械纪元
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=拥有了RU和KU的产生源, 便可以使用各种机器增加矿物产率和工作效率了%n%n下方是一些必做的产线, 右侧是其他可以将资源进一步处理的机器, 使用的方法差不多. %n%n你也可以选择暂时不做, 但你迟早会需要它们的qxq
 
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=压缩气体储罐
@@ -791,7 +803,7 @@ betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=这些附件可以连接到管�
 
 # Quest: tfru.q294n
 betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=测井探矿
-betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=这台机器可以消耗很高的能量探测一定范围内在它下方的每个方块, 需要一组管道(tooltip中有写具体类型)用于打洞放置设备. %n%n该机器需要消耗少量魔力标记矿物, 戴上窥魔之镜即可看到矿物标记. 机器遇到疑似矿物的信号会发送粉色的魔力标记. 可以提前用已知矿物的小撮/小堆粉右键该机器以扫描矿物数据, 经过扫描的矿物在被探测到后即会标记为矿物的颜色. %n%n可以使用USB潜行右键将已扫描列表写入USB, 右键读取USB数据.%n%n来自流体泉的信号会标记产出流体的颜色.%n%n使用螺丝刀右键开启, 成功开机会有声音和提示, 使用软锤右键清除魔力标记, 使用放大镜右键刷新扫描结果.
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=这台机器可以消耗很高的能量探测一定范围内在它下方的每个方块, 需要一组管道(描述中有写具体类型)用于打洞放置设备. %n%n该机器需要消耗少量魔力标记矿物, 戴上窥魔之镜即可看到矿物标记. 机器遇到疑似矿物的信号会发送粉色的魔力标记. 可以提前用已知矿物的小撮/小堆粉右键该机器以扫描矿物数据, 经过扫描的矿物在被探测到后即会标记为矿物的颜色. %n%n可以使用USB潜行右键将已扫描列表写入USB, 右键读取USB数据.%n%n来自流体泉的信号会标记产出流体的颜色.%n%n使用螺丝刀右键开启, 成功开机会有声音和提示, 使用软锤右键清除魔力标记, 使用放大镜右键刷新扫描结果.
 
 
 ## Quest Line: tfr.line3.name
@@ -1273,10 +1285,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鸣谢%n%n所有TeamMoeg的支�
 # Quest: tfr.quest634.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾声
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=没有人知道亚历山大·史蒂夫·二世最后是否安全抵达了地球. 如果他成功了, 我想他会很失望的. 这时的地球已经变成了一个荒芜人烟的, 被沙尘暴和酸雨肆虐的地狱. %n%n感谢相对论, 亚光速航行的亚历山大经历的时间比地球上的人们, 至少在他们离开那里之前, 要少得多. 经过计算, 地球在他离开这段时间里, 至少经历了400年的历史. 谁也不知道地球上发生了什么, 人类去了哪里. %n%n亚历山大的空间站上存有地球基因库样本以及20万颗人类受精卵. 希望, 这似乎已经熄灭的火焰, 依旧在寂静的宇宙中存在着. 亚历山大的故事------%n%n§l将会由后人继续书写. 
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念设计:%nYueSha%n%n故事设计:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n脚本调整:%nYueSha%nduck_egg%ndashuabia%n%nUI设计:%nMangoHi%n%n像素艺术:%nduck_egg%nTian_Mi%n%n社区管理:%nEvan%nHD_%nlei_yu%nGBL%n%n网站:%nEvan%n%n服务器包:%nEvan%n%n下载管理:%nEvan
 
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们

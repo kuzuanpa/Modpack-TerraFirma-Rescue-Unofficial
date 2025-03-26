@@ -133,6 +133,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=Most vanilla items can be shape
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=Task team
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=The team forming system can be found in the selection interface when the task book is opened.%n Due to the limitation of the task book, the team forming system cannot team across tasks, and the team forming system is to complete tasks synchronously.%n%n§f§ C * In other words, you must start with the same task starting point when you team up.
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
+
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=Join a community
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
@@ -152,6 +156,10 @@ betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
+
+# Quest: tfru.q313n
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.name=
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.desc=
 
 
 ## Quest Line: tfr.line13.name
@@ -696,6 +704,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q314n
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.name=
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.desc=
+
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
@@ -723,10 +739,6 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
-# Quest: tfru.q107n
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
@@ -1273,10 +1285,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Thanks to %n%n all TeamMoeg sup
 # Quest: tfr.quest634.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=The end of the
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=No one knows whether Alexander Steve II made it to Earth safely or not. If he succeeds, I think he will be very disappointed. Earth had become a desolate, desolate hell, ravaged by dust storms and acid rain. Thanks to relativity, Alexander of sublight-speed travel experienced much less time than people on Earth, at least before they left there. By rough calculation, Earth has experienced at least 400 years of history during the time of his departure. No one knows what has happened to Earth or where the human race has gone. Alexander's space station holds samples of the Earth's gene bank and 200,000 fertilized human eggs. Hope, the flame that seems to have gone out, still exists in the silent universe. The story of Alexander -- n%n§l will be continued by future generations.
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
 
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us

@@ -133,6 +133,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=Большинство ориг
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=Группа по заданию
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=* % из-за ограничений, связанных с распределением задач, командная система не может быть разделена между командами, а командная система должна быть выполнена синхронным образом.% % % %n%n 'f' c* другими словами, вы должны начать свою работу с того же самого начала.
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Продюсеры.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=Дизайн TeamMoeg%n%n концепц:%nYueSha%n%n истор разработа:%nYueSha%ndashuabia%n%n модификац:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n сценар:%nYueSha%nduck_egg % дизайн ndashuabia%n % ну:%nMangoHi%n%n пиксел искусств:%nduck_egg%nTian_Mi%n%n управлен сообществ:%nEvan%n Hd__yu % %nGBL% % %nGBL :% %nGBL :% %nGBL; % %nGBL; % %nGBL; % % %nGBL; % % %nGBL; % %nGBL; % % %nGBL
+
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=Присоединяйтесь к общине.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=Мы очен добр пожалова игрок присоедин к нам QQ обм групп ил Discord группов чат:%nQQ1 групп: 1046723658%nQQ2 групп: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n ил вы могут такж через официальн сайт/форум/Wiki посет нам:%n официальн сайт: www.teammoeg.com%n форум forum.teammoeg.com%nWiki: Wiki.teammoeg.com (%n%) или присылает нам электронную почту :%n-e-mail: support@teammoeg.com
@@ -152,6 +156,10 @@ betterquesting.quest.ZonLFLpZQ-6XmhZHEoaYPw.desc=
 # Quest: tfru.q187n
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.name=
 betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=
+
+# Quest: tfru.q313n
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.name=
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.desc=
 
 
 ## Quest Line: tfr.line13.name
@@ -696,6 +704,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q314n
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=
+betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=
+
+# Quest: tfru.q107n
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.name=
+betterquesting.quest.KhweLwFxQtiJKqHDy4POtg.desc=
+
 # Quest: tfru.q299n
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.name=
 betterquesting.quest.L0zLWS2gTj6-4_XLA8gcsw.desc=
@@ -723,10 +739,6 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
-# Quest: tfru.q107n
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
@@ -1273,10 +1285,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Спасибо всем, кто
 # Quest: tfr.quest634.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=конц
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=Никто не знает, добрался ли Александр Стив ii до земли в безопасности. Если у него получится, думаю, он будет разочарован. К тому времени земля стала пустынным адом, охваченным пыльными бурями и кислотными дождями. Благодаря теории относительности, Александр, путешествуя со скоростью света, пережил гораздо меньше времени, чем люди на земле, по крайней мере, до тех пор, пока они не ушли оттуда. По подсчетам, земля прошла по меньшей мере 400 лет истории за то время, пока он отсутствовал. Никто не знает, что происходит на земле, куда уходят люди. На космической станции в александрии хранятся образцы генофонда земли, а также 200 000 оплодотворённых человеческих яйцеклеток. Надежда, казалось бы потушенный огонь, все еще существует в безмолвной вселенной. История александра -----% --% -- n-n-" l "будет продолжена потомками.
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Продюсеры.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=Дизайн TeamMoeg%n%n концепц:%nYueSha%n%n истор разработа:%nYueSha%ndashuabia%n%n модификац:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n сценар:%nYueSha%nduck_egg % дизайн ndashuabia%n % ну:%nMangoHi%n%n пиксел искусств:%nduck_egg%nTian_Mi%n%n управлен сообществ:%nEvan%n Hd__yu % %nGBL% % %nGBL :% %nGBL :% %nGBL; % %nGBL; % %nGBL; % % %nGBL; % % %nGBL; % %nGBL; % % %nGBL
 
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=О нас.
