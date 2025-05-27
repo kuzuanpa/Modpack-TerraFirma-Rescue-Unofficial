@@ -88,10 +88,9 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 [null]);
 
 //clay
-recipes.remove(<terrafirmacraft:item.Clay:1>);
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 16, 0, [10000],
-[<terrafirmacraft:item.Clay>,<terrafirmacraft:item.Powder:1>*4,<terrafirmacraft:item.Powder:2>*4],
-[<terrafirmacraft:item.Clay:1>*2]);
+[<minecraft:clay_ball>,<terrafirmacraft:item.Powder:1>*4,<terrafirmacraft:item.Powder:2>*4],
+[<terrafirmacraft:item.Clay>*2]);
 
 recipes.remove(<minecraft:furnace>);
 
@@ -178,9 +177,6 @@ recipes.addShapeless(<terrafirmacraft:item.Blue Steel Hoe Head>,[<gregtech:gt.me
 recipes.addShapeless(<terrafirmacraft:item.Blue Steel Hammer Head>,[<gregtech:gt.meta.toolHeadHammer:8633>]);
 recipes.addShapeless(<terrafirmacraft:item.Blue Steel Saw Blade>,[<gregtech:gt.meta.toolHeadSaw:8633>]);
 
-recipes.addShapeless(<terrafirmacraft:item.coal:1>,[<minecraft:coal:1>]);
-//charcoal->TFCcharcoal
-
 //Shajiang
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 32, 32, 1000,[10000],
 [<minecraft:sand>*4,<gregtech:gt.meta.dust:9189>],
@@ -205,7 +201,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 16, 400, 1000,[10000],
 
 //bellows
 //wooden round
-recipes.addShapeless(<gregtech:gt.meta.round:8221>*3,[<terrafirmacraft:item.stick>,File]);
+recipes.addShapeless(<gregtech:gt.meta.round:8221>*3,[<minecraft:stick>,File]);
 recipes.remove(<terrafirmacraft:Bellows>);
 recipes.addShaped(<terrafirmacraft:Bellows>,
 [[<gregtech:gt.block.planks:10>,<gregtech:gt.block.planks:10>,<gregtech:gt.block.planks:10>],

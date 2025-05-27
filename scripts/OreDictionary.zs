@@ -150,9 +150,6 @@ val fw = <liquid:freshwater>;
 <ore:rockGtAnyCalcite>.add(<terrafirmacraft:item.LooseRock:8>);
 <ore:rockGtAnyCalcite>.add(<terrafirmacraft:item.LooseRock:6>);
 
-//tfc clay
-<ore:itemClay>.add(<terrafirmacraft:item.Clay>);
-
 //tfc silicon rock
 <ore:stoneQuartzite>.add(<terrafirmacraft:StoneMMCobble>);
 <ore:stoneAnySiliconDioxide>.add(<terrafirmacraft:StoneMMCobble>);

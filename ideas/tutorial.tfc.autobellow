@@ -255,7 +255,7 @@
      "posX":0.5,
      "posY":5.5,
      "posZ":0.5,
-     "item":"terrafirmacraft:item.coal:1",
+     "item":"minecraft:coal:1",
      "animes":[{
       "type":"world.graphic.moveLinear",
       "startTime":8300,
@@ -272,7 +272,7 @@
      "posX":0.5,
      "posY":5.5,
      "posZ":0.5,
-     "item":"terrafirmacraft:item.coal:1",
+     "item":"minecraft:coal:1",
      "animes":[{
       "type":"world.graphic.moveLinear",
       "startTime":8100,

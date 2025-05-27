@@ -29,7 +29,7 @@
         <Loot Identifier="50817d0e-d1d9-472b-b034-2cde100003b1" ItemName="minecraft:heavy_weighted_pressure_plate" Amount="1" NBTTag="" Chance="15" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="ac6c8fee-9d0c-472e-8674-107252eb5303" ItemName="terrafirmacraft:Cactus" Amount="1" NBTTag="" Chance="15" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="ebcc9720-6f6f-491b-bfbc-a5793d5159eb" ItemName="terrafirmacraft:item.helmetCloth" Amount="1" NBTTag="" Chance="15" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
-        <Loot Identifier="3e5182d5-b44c-4a08-a5bf-9b62dab2c1db" ItemName="terrafirmacraft:item.coal" Amount="8" NBTTag="" Chance="45" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="3e5182d5-b44c-4a08-a5bf-9b62dab2c1db" ItemName="minecraft:coal" Amount="8" NBTTag="" Chance="45" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="7f38c3dd-5522-4a5e-a5ad-f63c1c3cca1b" ItemName="terrafirmacraft:Fence" Amount="8" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="148bbcdd-3527-4396-bf58-580d25446dcc" ItemName="minecraft:rail" Amount="8" NBTTag="" Chance="35" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="c7886a3c-eb79-4f80-b1ae-c9bdef2080f0" ItemName="minecraft:gold_block" Amount="1" NBTTag="" Chance="10" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
@@ -51,7 +51,7 @@
         <Loot Identifier="a33d072c-19ff-4f14-a503-4e8ec39d9aef" ItemName="minecraft:leather" Amount="4" NBTTag="" Chance="50" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="a0c1d59c-0a76-477d-9251-c99d60c407a8" ItemName="minecraft:dye:15" Amount="8" NBTTag="" Chance="20" ItemGroup="" LimitedDropCount="0" RandomAmount="true"/>
         <Loot Identifier="0a96830a-a4b1-4327-af9f-951a9c84fd7d" ItemName="minecraft:bone" Amount="8" NBTTag="" Chance="20" ItemGroup="" LimitedDropCount="0" RandomAmount="true"/>
-        <Loot Identifier="8e9a8ca2-fd35-41b2-b2b5-458ae99947f4" ItemName="terrafirmacraft:item.coal:1" Amount="8" NBTTag="" Chance="55" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
+        <Loot Identifier="8e9a8ca2-fd35-41b2-b2b5-458ae99947f4" ItemName="minecraft:coal:1" Amount="8" NBTTag="" Chance="55" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="f776e50c-39f5-4535-ab72-95ebf21cbe6b" ItemName="minecraft:light_weighted_pressure_plate" Amount="1" NBTTag="" Chance="15" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="9d418fe6-4b8c-4dac-b980-0b0053a88438" ItemName="minecraft:redstone_block" Amount="1" NBTTag="" Chance="20" ItemGroup="" LimitedDropCount="0" RandomAmount="false"/>
         <Loot Identifier="0cdbaa2e-7e1f-457c-a258-19ca364af149" ItemName="minecraft:slime_ball" Amount="8" NBTTag="" Chance="20" ItemGroup="" LimitedDropCount="0" RandomAmount="true"/>

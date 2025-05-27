@@ -83,18 +83,9 @@ recipes.remove(<minecraft:tnt>);
 recipes.addShapeless(<minecraft:glass_bottle>,[<terrafirmacraft:item.Glass Bottle>]);
 recipes.addShapeless(<terrafirmacraft:item.Glass Bottle>,[<minecraft:glass_bottle>]);
 
-recipes.addShapeless(<minecraft:coal:1>,[<terrafirmacraft:item.coal:1>]);
-recipes.addShapeless(<minecraft:coal>,[<terrafirmacraft:item.coal>]);
-
-recipes.addShaped(<minecraft:sand>*2,[[<terrafirmacraft:sand>,<terrafirmacraft:sand>]]);
+recipes.addShaped(<minecraft:sand>*2,[[<ore:sand>,<ore:sand>]]);
 
 recipes.addShapeless(<minecraft:string>,[<terrafirmacraft:item.WoolYarn>]);
-
-recipes.addShapeless(<minecraft:clay_ball>,[<terrafirmacraft:item.Clay>]);
-
-recipes.addShapeless(<terrafirmacraft:item.Clay>,[<minecraft:clay_ball>]);
-
-recipes.addShapeless(<minecraft:coal>,[<terrafirmacraft:item.coal>]);
 
 recipes.addShapeless(<minecraft:stone>,[<ore:stone>]);
 
@@ -169,20 +160,18 @@ for i, plank in singlePlanks {
     recipes.remove(door);
     recipes.addShaped(door,
     [[<gregtech:gt.meta.screw:8221>,<gregtech:gt.meta.ring:8221>,plank],
-    [<terrafirmacraft:item.stick>,plank,plank],
+    [<minecraft:stick>,plank,plank],
     [Screwdriver,plank,plank]]);
 
 }
 
-recipes.addShapeless(<minecraft:stick>,[<terrafirmacraft:item.stick>]); 
-//recipes.addShapeless(<terrafirmacraft:item.stick>,[<minecraft:stick>]); moved to TFCtech.zs for debug
 recipes.addShapeless(<gregtech:gt.meta.ring:8221>,
 [<ore:woodLumber>,<ore:itemSaw>]);
 
 recipes.remove(<tfccellars:CellarDoorItem>);
 recipes.addShaped(<tfccellars:CellarDoorItem>,
 [[n,<terrafirmacraft:item.Straw>,n],
-[<terrafirmacraft:item.Clay>,<ore:tfcDoor>,<terrafirmacraft:item.Clay>],
+[<minecraft:clay_ball>,<ore:tfcDoor>,<minecraft:clay_ball>],
 [n,<terrafirmacraft:item.Straw>,n]]);
 
 recipes.remove(<minecraft:wooden_door>);
@@ -400,8 +389,8 @@ recipes.addShapeless(<minecraft:gravel>,[<ore:blockGravel>]);
 
 // clay block
 recipes.addShaped(<minecraft:clay>,
-[[<terrafirmacraft:item.Clay>,<terrafirmacraft:item.Clay>,null],
-[<terrafirmacraft:item.Clay>,<terrafirmacraft:item.Clay>,null],
+[[<minecraft:clay_ball>,<minecraft:clay_ball>,null],
+[<minecraft:clay_ball>,<minecraft:clay_ball>,null],
 [null,null,null]]);
 
 // Cauldron welding

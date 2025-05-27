@@ -14,7 +14,7 @@
         "Count:3": 2,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "terrafirmacraft:item.Clay"
+        "id:8": "minecraft:clay_ball"
       },
       "isMain:1": 1,
       "isSilent:1": 0,
@@ -84,7 +84,7 @@
           "Count:3": 20,
           "Damage:2": 0,
           "OreDict:8": "lumpClay",
-          "id:8": "terrafirmacraft:item.Clay"
+          "id:8": "minecraft:clay_ball"
         }
       },
       "taskID:8": "bq_standard:retrieval"

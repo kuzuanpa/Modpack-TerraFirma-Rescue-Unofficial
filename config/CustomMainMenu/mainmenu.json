@@ -208,7 +208,7 @@
          "alignment": "bottomleft",
          "action": {
             "type": "openLink",
-            "link": "https://terrafirmarescue.wordpress.com/international/"
+            "link": "https://modrinth.com/modpack/tfru/"
          }
       },
       "Wiki": {
@@ -262,7 +262,7 @@
          "alignment": "bottomleft",
          "action": {
             "type": "openLink",
-            "link": "https://afdian.net/@teammoeg"
+            "link": "https://afdian.com/a/kuzuanpa"
          }
       },
       "Forum": {
@@ -305,7 +305,7 @@
          "alignment": "topleft",
          "action": {
             "type": "openLink",
-            "link": "https://forum.teammoeg.com/d/30-terrafirma-rescue-downloadupdate-links"
+            "link": "https://modrinth.com/modpack/tfru/versions"
          }
       }
    },

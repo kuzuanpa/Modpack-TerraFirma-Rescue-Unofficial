@@ -152,12 +152,6 @@ val platePb  = <terrafirmacraft:item.Lead Sheet>;
 //mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:nugget:1>);
 //mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:cube:2>);
 
-furnace.setFuel(<terrafirmacraft:item.coal>, 1600);
-furnace.setFuel(<terrafirmacraft:item.coal:1>, 1600);
-
-mods.railcraft.BlastFurnace.addFuel(<terrafirmacraft:item.coal>);
-mods.railcraft.BlastFurnace.addFuel(<terrafirmacraft:item.coal:1>);
-
 recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:11>,<terrafirmacraft:item.Powder>]);
 recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:10>,<terrafirmacraft:item.Powder>]);
 recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:3>,<terrafirmacraft:item.Powder>]);

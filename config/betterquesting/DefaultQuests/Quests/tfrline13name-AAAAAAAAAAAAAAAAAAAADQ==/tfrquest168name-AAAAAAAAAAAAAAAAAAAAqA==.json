@@ -105,7 +105,7 @@
           "Count:3": 5,
           "Damage:2": 1,
           "OreDict:8": "",
-          "id:8": "terrafirmacraft:item.Clay"
+          "id:8": "minecraft:clay_ball"
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"

@@ -2980,7 +2980,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stickLong;1;8221</itemStack>
 		</input>
 		<output>
-			<itemStack>terrafirmacraft:item.stick;2;0</itemStack>
+			<itemStack>minecraft:stick;2;0</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="44" power ="1">
@@ -8625,7 +8625,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="170" power ="13">
 		<input>
-			<itemStack>terrafirmacraft:item.coal;1;0</itemStack>
+			<itemStack>minecraft:coal;1;0</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;1;8334</itemStack>
@@ -8633,7 +8633,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="170" power ="13">
 		<input>
-			<itemStack>terrafirmacraft:item.coal;1;1</itemStack>
+			<itemStack>minecraft:coal;1;1</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;1;8336</itemStack>
@@ -11721,7 +11721,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="32" power ="1">
 		<input>
-			<itemStack>terrafirmacraft:item.stick;1;0</itemStack>
+			<itemStack>minecraft:stick;1;0</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8221</itemStack>
