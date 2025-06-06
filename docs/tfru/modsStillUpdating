@@ -10,7 +10,7 @@ UniMixins-0.1.17:
   https://github.com/LegacyModdingMC/UniMixins
   https://modrinth.com/mod/unimixins
 
-ArchaicFix-0.7.4:
+ArchaicFix-0.7.6:
   https://github.com/embeddedt/ArchaicFix
   https://modrinth.com/mod/archaicfix
 
@@ -22,33 +22,33 @@ FalsePatternLib-0.12.5:
   https://github.com/FalsePattern/FalsePatternLib
   https://modrinth.com/mod/fplib
 
-OpenComputers-1.8.5:
+OpenComputers-1.8.8:
   https://github.com/MightyPirates/OpenComputers
   Github Release
 
 
 GTNH (Download from Github Release):
-  ae2fc-1.4.28:
+  ae2fc-1.4.80:
     https://github.com/GTNewHorizons/AE2FluidCraft-Rework
 
-  AppliedEnergistics2-rv3-beta-538:
+  AppliedEnergistics2-rv3-beta-629:
     https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial
 
-  NotEnoughItems-2.7.29:
+  NotEnoughItems-2.7.52:
     https://github.com/GTNewHorizons/NotEnoughItems
 
-  CodeChickenCore-1.4.1:
+  CodeChickenCore-1.4.3:
     https://github.com/GTNewHorizons/CodeChickenCore
 
-  WirelessCraftingTerminal-1.12.0:
+  WirelessCraftingTerminal-1.12.3:
    https://github.com/GTNewHorizons/WirelessCraftingTerminal
 
-  angelica-1.0.0-beta33:
+  angelica-1.0.0-beta45:
    https://github.com/GTNewHorizons/Angelica
 
   BetterQuesting-3.7.0-TFRU:
    https://github.com/GTNewHorizons/BetterQuesting
    Forked
 
-  gtnhlib-0.6.10:
+  gtnhlib-0.6.30:
    https://github.com/GTNewHorizons/GTNHLib
