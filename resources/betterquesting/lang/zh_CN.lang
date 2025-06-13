@@ -133,10 +133,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能无序�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=多人模式
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联机存在bug, 本整合包禁用了局域网联机. 请按照整合包目录下docs/tfru/server.txt搭建服务端. %n%n组队系统可以在任务书打开时的选择界面找到, 可以让一个队伍的玩家同步完成任务.
 
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
-
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社区
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
@@ -159,7 +155,7 @@ betterquesting.quest.offYKZN_T62YIgmx2xQiPQ.desc=用原木和石头做的大棒,
 
 # Quest: tfru.q313n
 betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.name=友情链接: GTQT
-betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.desc=GTQT拥有令人惊艳的巨量多方块结构和多种独特而有趣的新机制, 虽然可游玩内容仅到ZPM, 但每阶段的内容量均是其他整合包的2-4倍, 使得总内容量实际上多于GTNH, 更新也非常勤快. %n拥有包含石油化工, 算力系统, 生物系统等内容的主要科技线的同时, 还有以po为主的高度和谐而发达的魔法融合科技线, 来自drtech深度修改的林业养蜂机制, 来自GTMaid的高科技女仆, 以及移植自新星工程的大分子, 大CPU等ae2扩展. %n%ngtqt是第一个尝试在1.12版本移植gt6内容的整合包, 可以让你在1.12也体验到旋转能, 热能等能源机制. %n%nTFRU的储能变电塔和大量对gt6"原始而刻板的机制"的优化均借鉴了gtqt.
+betterquesting.quest.xvh9CHmrTTGDY2x-f151fA.desc=GTQT拥有令人惊艳的巨量多方块结构和多种独特而有趣的新机制, 虽然可游玩内容仅到ZPM, 但每阶段的内容量均是其他整合包的2-4倍, 使得总内容量实际上多于GTNH, 更新也非常勤快. %n拥有包含石油化工, 算力系统, 生物系统等内容的主要科技线的同时, 还有以po为主的高度和谐而发达的魔法融合科技线, 来自drtech深度修改的林业养蜂机制, 来自GTMaid的高科技女仆, 以及移植自新星工程的大分子, 大CPU等ae2扩展. %n%ngtqt是第一个尝试在非1.7版本移植gt6内容的整合包, 可以让你在1.12也体验到旋转能, 热能等能源机制. %n%nTFRU的储能变电塔和大量对gt6的优化均借鉴了gtqt.
 
 
 ## Quest Line: tfr.line13.name
@@ -740,6 +736,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=使用gt的橡胶树可以更�
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=均衡发展
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=这里是蒸汽时代选做的机器，可用于批量收集资源, 自动化批量制作部件, 更高效率的处理材料等. 制作它们有利于你的游戏进程, 但并不是最高优先级, 请自行权衡.
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=压缩气体储罐
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=这种储罐可以以液态存储大量气体, 但需要使用气体压缩机输入. %n%n该储罐也有多方块版本的, 具有恐怖的气体储量
@@ -1026,6 +1026,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.desc=这种开关可以启停机器/
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.desc=
 
+# Quest: tfru.q157n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=不只是无尽仓库
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=在研究台前忙碌半周，你发现新材料铝可以很好地激发出赛特斯石英的潜力…利用赛特斯石英似乎可以存储大量物品, 但似乎还有更多隐藏在其中等待你发掘…
+
 # Quest: tfru.q164n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.name=铌钛
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=铌钛合金拥有更高的耐热度, 可以用于制作铌钛坩埚, 它看起来很黑, 建议只做板模具进而直接制作钼坩埚.%n%n从软锰矿石中可以获得铌.
@@ -1033,6 +1037,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=铌钛合金拥有更高的耐�
 # Quest: tfru.q165n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=钼坩埚
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=利用从地狱挖掘到的辉钼矿可以制作钼坩埚, 更高的溶化温度意味着更多能制作的合金和更高的容错度. %n%n下一次升级在上天之后.
+
+# Quest: New Quest
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=
 
 # Quest: tfru.q223n
 betterquesting.quest.H5JZmUBiTHShvne-FAc2zw.name=数控车床
@@ -2231,7 +2239,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADSA.desc=主要用于合成.
 
 # Quest: tfru.q104n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.name=建筑之杖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=主要用于快速放置方块.%n不同材料所制作的建筑之杖每次放置的方块数不同, 耐久也不同.%n建筑之杖仅支持建筑类方块的快速放置, 壁板等非建筑方块不支持快速放置. %n还有一种建筑之杖由单独mod提供, 请在NEI自行搜索"建筑之杖".
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADSQ.desc=主要用于快速建造gt多方块结构, 放置方块建议用单独mod的建筑之杖, 请在NEI自行搜索"建筑之杖".%n不同材料所制作的建筑之杖每次放置的方块数不同, 耐久也不同.
 
 # Quest: tfru.q78n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADSg.name=扳手
@@ -2276,6 +2284,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=主要用于合成、调整机�
 # Quest: tfru.q141n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=精炼火石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=经过处理的火石成为了非常好的点火工具, 并且不会到处点火.%n处理远古残骸可获得火石矿, 按Q将精炼火石扔到岩浆上, 精炼火石便会吸收周围的岩浆的能量为自己充能, 岩浆将转换为黑曜石.
+
+# Quest: tfru.q316n
+betterquesting.quest._R4HZbcEST25jdNWIsqiFQ.name=防火服
+betterquesting.quest._R4HZbcEST25jdNWIsqiFQ.desc=你肯定早已厌倦了轻轻触碰坩埚，模具，热管道等事物便夺走半条命的体验，这套衣服可以隔绝热量，让你不会再被烫到. %n%n注意: 穿齐一套才有效果，注意耐久损耗
+
+# Quest: tfru.q315n
+betterquesting.quest.pyGw6GmRS3OcksnaQkzwJA.name=镰刀
+betterquesting.quest.pyGw6GmRS3OcksnaQkzwJA.desc=大镰刀，可以批量收割作物或者砍下生物的头颅
 
 
 ## Quest Line: tfr.line0.name
@@ -2616,17 +2632,17 @@ betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=激光能, 用处很多且很�
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=RF蒸汽引擎
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=使用这些引擎可以将蒸汽转化为RF, GT锅炉产生的蒸汽也可以正常使用.
 
-# Quest: LU2QU
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
+# Quest: tfru.q325n
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=走向微观
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=使用高能激光，你终于获得了直接操作微观粒子的能力. 尽管转化效率很低，但直接操作量子还是能给你带来很多的方便.
 
 # Quest: tfru.q264n
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=管道
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=蒸汽使用不漏气的管道即可传输, 很合理吧
 
-# Quest: RF2HU
-betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.name=
-betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.desc=
+# Quest: tfru.q317n
+betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.name=RF加热器
+betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.desc=使用RF的加热器
 
 # Quest: tfru.q263n
 betterquesting.quest.896HigGUTLa8Op2wBJiHqA.name=科技x魔法
@@ -2668,17 +2684,17 @@ betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=电力使用导线传输, 使�
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.name=大型发电机
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=巨大的发电机, 可以提供很高的EU输出, 效率也高于小发电机.
 
-# Quest: RF2CU
-betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
-betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
+# Quest: tfru.q320d
+betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=使用RF制冷
+betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=RF半导体制冷器
 
 # Quest: tfru.q300n
 betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.name=地热能源
 betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.desc=这个机器可以向很深的地下钻洞，从中获取热能. 中心的地热钻杆需要一直向下延伸，接触到基岩并直接连接到虚空, 结构成型后输入128RU/t以上的旋转能来钻深, 钻深进度到达一半时开始产热，进度满时功率最大. 主方块温度越低产热越高, 最高1024HU/t, 但HU直接输出模式需要预热才能以最大功率输出, 热流体输出模式不受该限制.
 
-# Quest: RF2KU
-betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
-betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.desc=
+# Quest: tfru.q318n
+betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=RF引擎
+betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.desc=使用RF的引擎，也拥有使用螺丝刀调整目标功率的功能
 
 # Quest: tfru.q273n
 betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.name=§8MU
@@ -2688,13 +2704,17 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=磁场能, 一般用于驱动�
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=ZPM放电器
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=在部分古老的建筑结构里你可能会找到§e极度稀有§r的零点能模块, 该模块具有巨大的能量, 可以通过零点放电器将这些能量输出为EU或QU. 该模块不可二次充电.%n%n§8这才是古人的智慧.
 
-# Quest: LiquidBattery
-betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
-betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
+# Quest: tfru.q321n
+betterquesting.quest.W6XdqzhPSMOOcR1ch_vQFg.name=潮汐波浪产能站
+betterquesting.quest.W6XdqzhPSMOOcR1ch_vQFg.desc=利用潮汐和波浪能生产RU, 功率有很大波动，建议使用飞轮组稳压. 允许并排共用部件放置多个, 机器主体附近相邻的方块有特殊需求，详见投影
 
-# Quest: LU2EU
-betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
-betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
+# Quest: tfru.q322n
+betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=抽水蓄能站
+betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=利用流体的重力势能进行储能的装置，水槽可以搭成任意形状，支持输入任意流体，三种水槽壁板可以混用，水槽越大，高度越高，流体密度越大，可以存储的能量越多
+
+# Quest: tfru.q324n
+betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=光能发电
+betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=利用光束轰击电子可以产生电流，进而可以制作出LU转换EU的装置. 转化效率较低
 
 # Quest: tfru.q302n
 betterquesting.quest.Y75doMrTQQK9BeNF_urFRw.name=热流体
@@ -2720,9 +2740,9 @@ betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=红石通量, 一种原始而�
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=远距离输电
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=可以使用远距离变压器将电力在很低线损且无限电流的远距离导线上运输. 输入端变压器正面连接普通导线输入电流, 背面连接远距导线输出电流, 输出端变压器正面连接远距导线输入电流, 背面连接普通导线输出电流.
 
-# Quest: RF2MU
-betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.name=
-betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.desc=
+# Quest: tfru.q319n
+betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.name=RF磁铁
+betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.desc=使用RF生产MU
 
 # Quest: tfru.q280n
 betterquesting.quest.jIlwihErTqeYBsf8hmnxVQ.name=太阳能电池板
@@ -2752,9 +2772,9 @@ betterquesting.quest.qbxxuaAUQBy10Duu1cK3Kg.desc=避雷针可以将地表附近�
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.name=热流体
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=太阳能集热塔和核反应堆等高功率热能生产装置往往支持输出热流体, 这样可以使得热量更方便调配, 可以使用一个产热装置带动多个锅炉等. 热流体需要使用热交换器将HU输出, 并变回普通流体. 注意热流体被储罐存储时, 输出速率不会超过输入速率.
 
-# Quest: LUBattery
-betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=
-betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=
+# Quest: tfru.q323n
+betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=晶体储能
+betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=利用最新研究的能源型晶体处理器，可以利用能量晶体存储LU
 
 # Quest: tfru.q257n
 betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.name=本章说明
@@ -2894,6 +2914,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9更快的计算机可以
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=单晶硅
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=经过漫长的等待, 拥有规整原子排列的单晶硅非常适合制作高性能半导体电路.接下来将它切割为晶圆.
 
+# Quest: gt2000
+betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
+betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
+
 # Quest: tfru.q145n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=涂胶
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=初级的晶圆只需要涂上光刻胶, 以后的晶圆会有更复杂的工艺.
@@ -2934,10 +2958,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=将检测后的晶圆切割, �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=组装内存
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=将刚刚经过复杂工艺做成的内存晶片组装为内存条, 它将成为计算机的存储仓库.
 
-# Quest: tfru.q2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
-
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
@@ -2977,10 +2997,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=向电路沟槽中掺杂其他�
 # Quest: tfru.q152n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=组装CPU
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=将刚刚经过复杂工艺做成的CPU晶片组装为CPU, 它与你曾制作的任何电路板都不同. 光刻技术使得计算机体积大幅缩小, 更快的计算速度也可以做更多的事…
-
-# Quest: tfru.q157n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=不只是无尽仓库
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=在第一台计算机面前忙碌半周, 你初步掌握了赛特斯石英的用法…你发现利用它似乎可以存储大量物品, 但冥冥中似乎还有更多隐藏在其中等待你发掘…
 
 # Quest: tfru.q146n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=第一步: 光刻
@@ -3212,9 +3228,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=陨石不再生成：你只能�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=光刻模板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=你需要光刻机与压力成型机来将原材料制作成相对应的板子, 然后将其压制成型. 
 
-# Quest: tfr.quest522.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=核心终端
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=相当于主脑%n%n%n每个ME控制器有着32个频道, 意味着它可以供给总共32个端口/机器%n注意：普通线缆限制最高输出八个频道, 也就是你需要接四个面的线缆才能利用完全%n%n将数个ME控制器连在一起, 他们将会变为一个整体, §a线程总数共享%n但连接有着形态上的限制, 例如只能搭§a线性, 长方形§r或者§a长方体§r%n同时每个方向上最多连7个, 也就是最大为7*7*7的立方体%n%n注：其自带“能源接收器”的能量转换功能%n致密线缆可以拥有32个频道%n§9它也可以给相邻方块提供频道, 不需要线缆那种
+# Quest: tfr.quest523.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=存储中心
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=驱动器+存储元件=只占一个格子的超大箱子%n%n需要说一下的是, 这个普通的存储元件只能存储物品, 存储液体或者气体需要特殊的存储元件
 
 # Quest: tfr.quest524.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=摩多摩多
@@ -3299,10 +3315,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=二合一me接口可以与机�
 # Quest: tfru.q139n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=海量存储
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=存储一整片海!
-
-# Quest: tfru.q214n
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=无限水元件
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=彻底解决你的水资源焦虑, 该元件可以无限取出水. %n%n你问无限中子物质元件? 门都没有!
 
 # Quest: tfru.q209n
 betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=无限访问
@@ -3718,7 +3730,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=电力时代的开始
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=自动化农场
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=这个结构虽然看起来略贵, 但绝对物有所值. 它可以帮你完全自动化种植和收获树木, 作物, 仙人掌等, 可用于获取大量木炭/投喂彼方兰等. %n%n首先, 将这36个方块组成一个3(宽)x4(高)x3(长)的长方体. %n%n在这个长方体周围铺满最远7格的石砖(原版), 农场将在它们之上铺设泥土和管理作物%n%n从农场水闸输入水. %n%n从农场出货箱或者直接打开GUI输入肥料, 泥土, 和树苗或者作物种子(原版). %n%n从农场齿轮箱输入RF能量. %n%n从农场出货箱用漏斗或者其他方式输出产出的物品和沙子. 如果被堵塞会停止工作.  %n%n放入焊接有不同的电子管的电路板可以种植多种作物, 还可以把原版树苗转换为林业树苗用于杂交.%n%n注意保证农场顶部不要被遮挡. %n%n此外, 农场还可以进一步扩建, 高度只能为4, 长和宽可以在3/4/5之间变化, 但必须是完整的长方体, 按长宽中最长的一边计算, 周围延伸出去的石砖长度分别为7/9/11.
 
-# Quest: New Quest
+# Quest: gt1000
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
@@ -3746,9 +3758,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=存储单件5000个物品, 这�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=神龙反应堆
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=由巨量能量和混沌之力构建的它能完美的压制龙的暴虐.%n%n神龙之力在其中碰撞, 咆哮, 嘶喊, 湮灭, 释放出无穷的能量.%n投入许多能量产出许多能量的反应堆, 发电量可达1MRF/t以上.%n较难控制, 推荐观看教程或单人测试后再实战应用%n燃料是神龙粒/锭/块, 生成物是混沌碎片%n%n支持使用opencomputer控制, 传感器需要贴在反应堆稳定器上
 
-# Quest: tfr.quest523.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=存储中心
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=驱动器+存储元件=只占一个格子的超大箱子%n%n需要说一下的是, 这个普通的存储元件只能存储物品, 存储液体或者气体需要特殊的存储元件
+# Quest: tfr.quest522.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=核心终端
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=相当于主脑%n%n%n每个ME控制器有着32个频道, 意味着它可以供给总共32个端口/机器%n注意：普通线缆限制最高输出八个频道, 也就是你需要接四个面的线缆才能利用完全%n%n将数个ME控制器连在一起, 他们将会变为一个整体, §a线程总数共享%n但连接有着形态上的限制, 例如只能搭§a线性, 长方形§r或者§a长方体§r%n同时每个方向上最多连7个, 也就是最大为7*7*7的立方体%n%n注：其自带“能源接收器”的能量转换功能%n致密线缆可以拥有32个频道%n§9它也可以给相邻方块提供频道, 不需要线缆那种
 
 # Quest: tfr.quest565.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=吸吸吸！
@@ -3774,6 +3786,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=和燃烧室功能一样, 不�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=存储电力
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=电池盒里可以放四个电池, 每个电池可输出1A的电流, 但是不能高于电池盒的电压. 放进电池盒里的电池可以被充电, 也可以被放电. 电力工具和装备可以充电但不能放电, 比如电动扳手, 电钻, 喷气背包等. 充电之前, 注意电压等级哦. %n%n有塑料之前你只能制作铅酸电池, 碱性电池和镍镉电池的容量相同, 取决于你有哪种矿物. 电池单元可以右键装有合适流体的储罐上的龙头来罐装, 并不一定要灌装机.
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
+
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=天翼族之冠
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=来自盖亚的强大力量可以让你消耗魔力自由飞行, 但只能维持一段时间. %n%n获得天翼族之眼可以让你无限时间飞行. %n除此之外, 也可以潜行+右键天翼族之眼绑定一个坐标, 长按右键以回到绑定的坐标
@@ -3793,6 +3809,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=在第一代计算机强大算�
 # Quest: tfru.q173n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=裂变核心
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=这是核裂变反应堆的核心, 用于启动核裂变反应, 产出热冷却液, 具体教程见下:%n%n可控核裂变反应, 即为燃料棒中的重原子核因受到中子, 转为高能态后分裂变成其他原子并放出热能和更多中子的过程. 这个过程中涉及的重要概念包括以下内容：%n%n§l燃料棒§r：即核燃料, 核裂变反应的主要消耗物质. 在GT6中有以下几个参数：%n- 1.§a§on§r：中子数, 当前（燃料、控制）棒上的中子数. GT6中, 核燃料棒的数据每隔一定时间更新一次, 其中棒上最重要的属性就是当前时刻棒上含有的中子数, 这个中子数涉及到后续的热量产生与向外释放的数量. %n- 2.§a§oSelf§r：核燃料棒自身反应发送给自己的中子数, 维持了核反应的基础运行. %n- 3.§a§oEmission§r：燃料棒向四周其他（燃料、控制）棒发送的中子, 这与上面的Self是互不相干的属性. %n- 4.§a§oFactor§r：增殖比率, 当燃料棒除去向自己发送的的中子数外, 剩余数量的中子会按这个比率进行缩放并释放. %n- 5.§a§oMaximum§r：最大稳定中子数, 一个燃料棒如果接受过量的中子, 它的反应会加快, 同时对棒本身的耐久会非线性的增大. 这个过量的边界值就是这个§aMaximum§r值. %n%n§l控制棒§r：对核反应进行调控的棒, 包括以下4种：%n- 1.§o中子吸收棒§r：吸收中子热量, 并高效率转化为热能的控制棒, 产热量有：§aQ §r= §an §r* §b2 其中§aQ§r单位为§cHU/t§r, §an§r为中子数%n- 2.§o中子反射棒§r：将某个方向发射来的中子完整地原路反射回去. %n- 3.§o慢化剂棒§r：对射入的 中子减速并反射, 这会导致有效反应的中子数增加. 在标准情况下, 它会反射某个射来的中子, 如果多个方向, 那么根据射来的方向数, 每一个方向反射的中子数将会乘上这个方向数量, 如东方向射来§aa§r个中子, 西方向射来§ab§r个中子, 北方向射来§ac§r个中子, 则慢化棒向东反射§a3a§r个中子, 向西方反射§a3b§r个, 向北方反射§a3c§r个. 同时, 慢化剂棒会对相邻的燃料棒附加慢化的属性, 加快燃料棒的消耗. %n- 4.§o增殖棒§r：接收中子转化为含有另外一种元素燃料棒的控制棒, 接收中子并转化, 并且速度会越来越快, 慢化的中子不能用于进行转化. %n%n§l反应堆核心§r：核反应发生的环境, 存储冷却液, 热冷却液, 反应棒. 可以通过红石以类似控制机器的方式控制核心的运行与否, 也可以通过软锤敲击的方式禁止或开启某个（燃料、控制）棒工作. %n冷却液：与棒直接接触的液体, 起到承受核反应堆热量和中子辐照的介质. 不仅仅是传递能量的媒介, 还会影响到燃料棒的各项属性, 同时不同的冷却液在被加热和被中子辐照后会有不同的效果, 核燃料棒与冷却液的配套选择是核反应设计的高阶技巧, 常用的冷却液通常会是IC工业冷却液和二氧化碳. %n%n§l中子增殖判定与计算§r%n%n核裂变反应的核心在于利用不断增长的中子进行产热和再利用, 所以计算每个燃料棒获得和发射的中子是必要的. 在GT6中, 一个棒只能和相邻的棒交换中子. 如图中在同一红圈内的棒都视为相邻%n%n每一个棒会向相邻的棒发射中子, 发射量的数值为：%n%n    §aE_n §r= §aEmission §r+ §c( §an§r-§aSelf §c) §r* §aFactor§r%n若§c( §an§r-§aSelf §c)§r<0, 则视为0 %n参数含义见上方的解释. 注意燃料棒的各项数值会根据冷却液变化而不同. %n%n而某一个棒上的中子量为棒向自身发射的中子数与周围向自己发射的中子数之和：%n%n    §an §r= §aSelf§r + §aE_1 §r+ §aE_2 §r+ ⋯%n%n注意, 中子数不是一个存量, 它不是你电池盒里面的电, 而是一个累计的接收值, 这个值同时也是你的棒产生热量的标准值, 在燃料棒中, 中子数就是你产热量的数值, 在吸收棒中, 产热量会变成这个数值的2倍, 反射棒不会产热. %n%n但很明显, 这个中子数在某种情况下会不断不断地增加, 比如在某一种燃料棒的§aFactor§r为§b1/3§r, §aEmission§r是§b2048§r, §aSelf§r是§b512§r, 有5个棒以十字排列, 中间是燃料棒, 四周是反射棒. %n%n刚刚开机时. 这个棒发射的中子数是：%n%n    §aE_0 = §b2048§r%n%n由于四周都是反射棒, 向四周发射的中子全部反射回来了, 所以下一刻的中子数将从0变为%n%n    §an_1 §r= §b512 §r+ §b2048 §r* §b4 §r= §b8704§r%n%n发射量变为%n%n    §aE_1 §r= (§b8704§r - §b512 §r)* §b1/3 §r+ §b2048 §r= §b4778§r%n%n而下一个时刻的中子数%n%n    §an_2 §r= §b512 §r+ §b4778 §r* §b4 §r= §b19642§r%n%n如果你一直计算下去, 你会发现中子数越来越多. 事实上, 如果我们列一个递推公式：%n%n    §an_i §r= §aself §r+( §an_{i-1} §r- §aself §r)* §afactor §r* §b4 §r+ §b4 §r* §aEmission §r= §an_{i-1} §r*§b 4 §r* §afactor §r+( §b1 §r- §b4 §r* §afactor §r)* §aself §r+ §b4 §r* §aEmission§r%n%n如果要让上面的 §an_i§r 比 §an_{i-1}§r 大, 只需要%n%n    §an_{i-1} §r>= §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)%n%n注意启动时是没有中子的, 即如果 §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)< §b0 §r, 那么就能顺利实现中子从开机就一直不断增长增长增长增长, 直到你的冷却液全部耗尽, 你的燃料和控制棒全部溶解. %n%n但是以上的情况可以通过强行关机来制止, 所以无限增长往往是高功率的关键, 不能无限增加的反应堆我们称为稳定反应堆, 通过红石控制, 保证反应堆工作在无限增长状态但中子数不至于过多的反应堆我们称为超临界反应堆. 一般来说超临界反应堆具有更高的应用价值.
+
+# Quest: tfru.q214n
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=无限水元件
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=彻底解决你的水资源焦虑, 该元件可以无限取出水. %n%n你问无限中子物质元件? 门都没有!
 
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=大燃气涡轮

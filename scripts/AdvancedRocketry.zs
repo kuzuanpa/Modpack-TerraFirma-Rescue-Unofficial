@@ -225,13 +225,25 @@ recipes.addShaped(<advancedRocketry:utilBlock>*2,
 [[null,<ore:plateInvar>,null],
 [<ore:plateInvar>,<terrafirmacraft:FireBrick>,<ore:plateInvar>],
 [null,<ore:plateInvar>,null]]);
+recipes.remove(<advancedRocketry:observatory>);
 
 // Electric Arc Furnace
 recipes.remove(<advancedRocketry:tile.electricArcFurnace>);
 recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
-[[<gregtech:gt.meta.stick:9175>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9175>],
+[[<gregtech:gt.meta.stick:9174>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9174>],
 [<ore:plateInvar>,<gregtech:gt.meta.machine.double:220>,<ore:plateInvar>],
-[<gregtech:gt.multiitem.technological:30304>,<ore:plateInvar>,<gregtech:gt.multiitem.technological:30304>]]);
+[<ktfruaddon:ktfru.item.it.computer:2>,<ore:plateInvar>,<ktfruaddon:ktfru.item.it.computer:2>]]);
+
+recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
+[[<gregtech:gt.meta.stick:9174>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9174>],
+[<ore:plateInvar>,<gregtech:gt.meta.machine.double:220>,<ore:plateInvar>],
+[<ktfruaddon:ktfru.item.it.computer:3>,<ore:plateInvar>,<ktfruaddon:ktfru.item.it.computer:3>]]);
+
+
+recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
+[[<gregtech:gt.meta.stick:9174>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9174>],
+[<ore:plateInvar>,<gregtech:gt.meta.machine.double:220>,<ore:plateInvar>],
+[<ktfruaddon:ktfru.item.it.computer:25>,<ore:plateInvar>,<ktfruaddon:ktfru.item.it.computer:25>]]);
 
 // Moon Turf processing
 MTUtilsGT.removeAllRecipes("gt.recipe.centrifuge",<gregtech:gt.meta.dust:8514>);

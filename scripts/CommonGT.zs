@@ -823,38 +823,6 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 640, 0, [10000],
 [null],
 [<gregtech:gt.multitileentity:29950>*12]);
 
-// Nanofab
-recipes.remove(<gregtech:gt.multitileentity:20441>);
-recipes.remove(<gregtech:gt.multitileentity:20442>);
-recipes.remove(<gregtech:gt.multitileentity:20443>);
-recipes.remove(<gregtech:gt.multitileentity:20444>);
-recipes.remove(<gregtech:gt.multitileentity:20445>);
-
-recipes.addShaped(<gregtech:gt.multitileentity:20441>,
-[[<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:11003>,<gregtech:gt.multiitem.technological:11005>],
-[<gregtech:gt.multiitem.technological:12141>,<gregtech:gt.meta.machine:8651>,<gregtech:gt.multiitem.technological:12121>],
-[<gregtech:gt.multiitem.technological:30306>,<ore:ktfruBasicComputer>,<gregtech:gt.multiitem.technological:30306>]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:20442>,
-[[<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:11003>,<gregtech:gt.multiitem.technological:11005>],
-[<gregtech:gt.multiitem.technological:12142>,<gregtech:gt.meta.machine:130>,<gregtech:gt.multiitem.technological:12122>],
-[<gregtech:gt.multiitem.technological:30306>,<ore:ktfruNoviceComputer>,<gregtech:gt.multiitem.technological:30306>]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:20443>,
-[[<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:11003>,<gregtech:gt.multiitem.technological:11005>],
-[<gregtech:gt.multiitem.technological:12143>,<gregtech:gt.meta.machine:8636>,<gregtech:gt.multiitem.technological:12123>],
-[<gregtech:gt.multiitem.technological:30306>,<ore:ktfruModerateComputer>,<gregtech:gt.multiitem.technological:30306>]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:20444>,
-[[<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:11003>,<gregtech:gt.multiitem.technological:11005>],
-[<gregtech:gt.multiitem.technological:12144>,<gregtech:gt.meta.machine:240>,<gregtech:gt.multiitem.technological:12124>],
-[<gregtech:gt.multiitem.technological:30306>,<ore:ktfruAdvancedComputer>,<gregtech:gt.multiitem.technological:30306>]]);
-
-recipes.addShaped(<gregtech:gt.multitileentity:20445>,
-[[<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:11003>,<gregtech:gt.multiitem.technological:11005>],
-[<gregtech:gt.multiitem.technological:12145>,<gregtech:gt.meta.machine:220>,<gregtech:gt.multiitem.technological:12125>],
-[<gregtech:gt.multiitem.technological:30306>,<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:30306>]]);
-
 // downgrading lower tier circuits
 recipes.addShapeless(<gregtech:gt.multiitem.technological:30301>,[<gregtech:gt.multiitem.technological:30302>]);
 recipes.addShapeless(<gregtech:gt.multiitem.technological:30302>,[<gregtech:gt.multiitem.technological:30303>]);
@@ -1036,20 +1004,6 @@ recipes.addShaped(<gregtech:gt.multitileentity:17199>,
 [[<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12106>,<ore:ktfruEliteComputer>],
 [<gregtech:gt.multiitem.technological:12106>,<gregtech:gt.multitileentity:18117>,<gregtech:gt.multiitem.technological:12106>],
 [<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12106>,<ore:ktfruEliteComputer>]]);
-
-// Large replicator
-recipes.remove(<gregtech:gt.multitileentity:17118>);
-recipes.addShaped(<gregtech:gt.multitileentity:17118>,
-[[<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12106>,<ore:ktfruEliteComputer>],
-[<gregtech:gt.multiitem.technological:12126>,<gregtech:gt.multitileentity:18117>,<gregtech:gt.multiitem.technological:12126>],
-[<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12106>,<ore:ktfruEliteComputer>]]);
-
-// Large molecular scanner
-recipes.remove(<gregtech:gt.multitileentity:17117>);
-recipes.addShaped(<gregtech:gt.multitileentity:17117>,
-[[<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>],
-[<gregtech:gt.multiitem.technological:12146>,<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12146>],
-[<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>,<gregtech:gt.multiitem.technological:12146>]]);
 
 // Distillation tower
 recipes.remove(<gregtech:gt.multitileentity:17101>);

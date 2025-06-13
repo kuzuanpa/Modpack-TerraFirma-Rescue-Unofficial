@@ -2,17 +2,25 @@
 	<asteroid name="顽石" distance="10" mass="18000" massVariability="0.5" minLevel="0" probability="0.5" richness="0.005" richnessVariability="0.003">
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="20" />
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
+		<ore itemStack="gregtech:gt.meta.ore.normal.default 260" chance="35" />
+		<ore itemStack="gregtech:gt.meta.ore.normal.default 8649" chance="55" />
 		<ore itemStack="libVulpes:libVulpesore0 4" chance="25" />
 	</asteroid>
-	<asteroid name="锡弗里星" distance="10" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.36">
+	<asteroid name="锡弗里星" distance="30" mass="8000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.36">
 		<ore itemStack="libVulpes:libVulpesore0 5" chance="20" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>
-	<asteroid name="镍古伯星" distance="10" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.3" richnessVariability="0.29">
+	<asteroid name="铁朱罗星" distance="40" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.3" richnessVariability="0.49">
+		<ore itemStack="gregtech:gt.meta.ore.normal.default 260" chance="35" />
+		<ore itemStack="gregtech:gt.meta.ore.normal.default 8649" chance="55" />
+		<ore itemStack="gregtech:gt.meta.ore.normal.default 9104" chance="15" />
+		<ore itemStack="advancedRocketry:tile.geode" chance="25" />
+	</asteroid>
+	<asteroid name="镍古伯星" distance="40" mass="6000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.3" richnessVariability="0.29">
 		<ore itemStack="gregtech:gt.meta.ore.normal.default 280" chance="15" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="25" />
 	</asteroid>
-	<asteroid name="铜瑟冉星" distance="10" mass="12000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.32">
+	<asteroid name="铜瑟冉星" distance="20" mass="12000" massVariability="0.5" minLevel="0" probability="0.05" richness="0.4" richnessVariability="0.32">
 		<ore itemStack="libVulpes:libVulpesore0 4" chance="25" />
 		<ore itemStack="advancedRocketry:tile.geode" chance="20" />
 	</asteroid>

@@ -87,7 +87,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.", false, 16, 64, 0, [10000],
 recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:55>,[<appliedenergistics2:item.ItemMultiMaterial:28>,<gregtech:gt.multiitem.technological:1023>,<gregtech:gt.multiitem.technological:1023>]);
 
 // Super Boost Card
-recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:56>,[<appliedenergistics2:item.ItemMultiMaterial:30>,<appliedenergistics2:item.ItemMultiMaterial:30>,<gregtech:gt.multiitem.technological:12>,<gregtech:gt.multiitem.technological:12>]);
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:56>,[<appliedenergistics2:item.ItemMultiMaterial:30>,<gregtech:gt.multiitem.technological:30198>,<appliedenergistics2:item.ItemMultiMaterial:30>,<gregtech:gt.multiitem.technological:30198>]);
 
 // Quartz Wrench
 recipes.addShaped(<appliedenergistics2:item.ToolCertusQuartzWrench>,
@@ -156,13 +156,13 @@ recipes.addShaped(<appliedenergistics2:tile.BlockController>,
 [<appliedenergistics2:tile.BlockSkyStone:1>,Wrench,<appliedenergistics2:tile.BlockSkyStone:1>]]);
 recipes.addShaped(<appliedenergistics2:tile.BlockController>,
 [[<appliedenergistics2:tile.BlockSkyStone:1>,<appliedenergistics2:item.ItemMultiMaterial:12>,<appliedenergistics2:tile.BlockSkyStone:1>],
-[<appliedenergistics2:item.ItemMultiMaterial:12>,<ore:gt:circuit5>,<appliedenergistics2:item.ItemMultiMaterial:12>],
+[<appliedenergistics2:item.ItemMultiMaterial:12>,<ore:gt:circuit4>,<appliedenergistics2:item.ItemMultiMaterial:12>],
 [<appliedenergistics2:tile.BlockSkyStone:1>,Wrench,<appliedenergistics2:tile.BlockSkyStone:1>]]);
 
 // Drive
 recipes.remove(<appliedenergistics2:tile.BlockDrive>);
 recipes.addShaped(<appliedenergistics2:tile.BlockDrive>,
-[[<ore:gt:circuit1>,<appliedenergistics2:item.ItemMultiMaterial:44>, <appliedenergistics2:item.ItemMultiPart:16>],
+[[<ore:gt:circuit2>,<appliedenergistics2:item.ItemMultiMaterial:44>, <appliedenergistics2:item.ItemMultiPart:16>],
 [<appliedenergistics2:item.ItemMultiMaterial:43>,<ore:plateAluminum>,<ore:plateAluminum>],
 [<appliedenergistics2:item.ItemMultiPart:16>,<ore:plateAluminum>,<ore:plateAluminum>]]);
 
@@ -189,7 +189,29 @@ recipes.addShaped(<appliedenergistics2:tile.BlockMolecularAssembler>,
 recipes.addShaped(<appliedenergistics2:tile.BlockMolecularAssembler>,
 [[<appliedenergistics2:tile.BlockQuartzGlass>,<gregtech:gt.multiitem.technological:12082>,<appliedenergistics2:tile.BlockQuartzGlass>],
 [<appliedenergistics2:item.ItemMultiMaterial:44>,<gregtech:gt.meta.machine:8636>,<appliedenergistics2:item.ItemMultiMaterial:43>],
-[<ore:gt:circuit5>,<ktfruaddon:ktfru.item.compact:100>,null]]);
+[<ore:gt:circuit4>,<ktfruaddon:ktfru.item.compact:100>,null]]);
+
+recipes.remove(<ae2fc:fluid_storage.infinity.water>);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 100, 0, [10000],
+[<ae2fc:fluid_storage_housing:1>,<appliedenergistics2:tile.BlockCondenser>, <ktfruaddon:ktfru.item.it.computer:2>, <ae2fc:fluid_part:3>, <appliedenergistics2:item.ItemMultiMaterial:44>*2, <appliedenergistics2:item.ItemMultiMaterial:43>*2],
+[<liquid:ic2distilledwater>*4000],
+[n],
+[<ae2fc:fluid_storage.infinity.water>]);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 100, 0, [10000],
+[<ae2fc:fluid_storage_housing:1>,<appliedenergistics2:tile.BlockCondenser>, <ktfruaddon:ktfru.item.it.computer:3>, <ae2fc:fluid_part:3>, <appliedenergistics2:item.ItemMultiMaterial:44>*2, <appliedenergistics2:item.ItemMultiMaterial:43>*2],
+[<liquid:ic2distilledwater>*4000],
+[n],
+[<ae2fc:fluid_storage.infinity.water>]);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 100, 0, [10000],
+[<ae2fc:fluid_storage_housing:1>,<appliedenergistics2:tile.BlockCondenser>, <ktfruaddon:ktfru.item.it.computer:25>, <ae2fc:fluid_part:3>, <appliedenergistics2:item.ItemMultiMaterial:44>*2, <appliedenergistics2:item.ItemMultiMaterial:43>*2],
+[<liquid:ic2distilledwater>*4000],
+[n],
+[<ae2fc:fluid_storage.infinity.water>]);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 100, 0, [10000],
+[<ae2fc:fluid_storage_housing:1>,<appliedenergistics2:tile.BlockCondenser>, <ktfruaddon:ktfru.item.it.computer:30>, <ae2fc:fluid_part:3>, <appliedenergistics2:item.ItemMultiMaterial:44>*2, <appliedenergistics2:item.ItemMultiMaterial:43>*2],
+[<liquid:ic2distilledwater>*4000],
+[n],
+[<ae2fc:fluid_storage.infinity.water>]);
 
 // Output Bus
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:260>);
@@ -643,7 +665,7 @@ recipes.addShapeless(<ae2fc:fluid_buffer>,
 //Terminal
 recipes.remove(<appliedenergistics2:item.ItemMultiPart:380>);
 recipes.addShapeless(<appliedenergistics2:item.ItemMultiPart:380>,
-[<ore:itemIlluminatedPanel>,<ore:plateGemDiamond>, <ore:gt:circuit1>, ]);
+[<ore:itemIlluminatedPanel>,<ore:plateGemDiamond>, <ore:gt:circuit2>]);
 
 //Fluid Terminal
 recipes.remove(<ae2fc:part_fluid_terminal>);

@@ -133,10 +133,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能無序�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=任務組隊
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=組隊系統可以在任務書打開時的選擇界面找到.%n由於任務書的限制, 組隊系統並不能跨任務組隊, 組隊系統是同步完成任務.%n%n§f§c*換句話說, 你們組隊時一開始的任務起點必須一樣.
 
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
-
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社區
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
@@ -740,6 +736,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
@@ -1026,6 +1026,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.desc=
 
+# Quest: tfru.q157n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
+
 # Quest: tfru.q164n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
@@ -1033,6 +1037,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 # Quest: tfru.q165n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=
 
 # Quest: tfru.q223n
 betterquesting.quest.H5JZmUBiTHShvne-FAc2zw.name=
@@ -2277,6 +2285,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
+# Quest: tfru.q316n
+betterquesting.quest._R4HZbcEST25jdNWIsqiFQ.name=
+betterquesting.quest._R4HZbcEST25jdNWIsqiFQ.desc=
+
+# Quest: tfru.q315n
+betterquesting.quest.pyGw6GmRS3OcksnaQkzwJA.name=
+betterquesting.quest.pyGw6GmRS3OcksnaQkzwJA.desc=
+
 
 ## Quest Line: tfr.line0.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=養蜂人的日常
@@ -2616,7 +2632,7 @@ betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=
 
-# Quest: LU2QU
+# Quest: tfru.q325n
 betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
 betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
 
@@ -2624,7 +2640,7 @@ betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=
 
-# Quest: RF2HU
+# Quest: tfru.q317n
 betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.name=
 betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.desc=
 
@@ -2668,7 +2684,7 @@ betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.name=
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=
 
-# Quest: RF2CU
+# Quest: tfru.q320d
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
 
@@ -2676,7 +2692,7 @@ betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
 betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.name=
 betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.desc=
 
-# Quest: RF2KU
+# Quest: tfru.q318n
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.desc=
 
@@ -2688,11 +2704,15 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=
 
-# Quest: LiquidBattery
+# Quest: tfru.q321n
+betterquesting.quest.W6XdqzhPSMOOcR1ch_vQFg.name=
+betterquesting.quest.W6XdqzhPSMOOcR1ch_vQFg.desc=
+
+# Quest: tfru.q322n
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
 
-# Quest: LU2EU
+# Quest: tfru.q324n
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
 
@@ -2720,7 +2740,7 @@ betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=
 
-# Quest: RF2MU
+# Quest: tfru.q319n
 betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.name=
 betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.desc=
 
@@ -2752,7 +2772,7 @@ betterquesting.quest.qbxxuaAUQBy10Duu1cK3Kg.desc=
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.name=
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=
 
-# Quest: LUBattery
+# Quest: tfru.q323n
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=
 
@@ -2894,6 +2914,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9屬於電路板的工業
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 
+# Quest: gt2000
+betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
+betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
+
 # Quest: tfru.q145n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=
@@ -2934,10 +2958,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
 
-# Quest: tfru.q2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
-
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
@@ -2977,10 +2997,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=
 # Quest: tfru.q152n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=
-
-# Quest: tfru.q157n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
 
 # Quest: tfru.q146n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=
@@ -3212,9 +3228,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=隕石不再生成：你只能�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=光刻模板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=你需要光刻機與壓力成型機來將原材料製作成相對應的板子, 然後將其壓製成型。
 
-# Quest: tfr.quest522.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=核心終端
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=相當於主腦%n%n%n每個ME控制器有著32個頻道, 意味著它可以供給總共32個埠/機器%n注意：普通線纜限制最高輸出八個頻道, 也就是你需要接四個面的線纜才能利用完全%n%n將數個ME控制器連在一起, 他們將會變為一個整體, §a線程總數共享%n但連接有著形態上的限制, 例如只能搭§4§0§1§2§3§5§6§7§8§9§a線性, 長方形§r或者§a長方體§r%n同時每個方向上最多連7個, 也就是最大為7*7*7的立方體%n%n註：其自帶「能源接收器」的能量轉換功能%n緻密線纜可以擁有32個頻道%n§9它也可以給相鄰方塊提供頻道, 不需要線纜那種
+# Quest: tfr.quest523.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=存儲中心
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=驅動器+存儲元件=只占一個格子的超大箱子%n%n需要說一下的是, 這個普通的存儲元件只能存儲物品, 存儲液體或者氣體需要特殊的存儲元件
 
 # Quest: tfr.quest524.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=摩多摩多
@@ -3299,10 +3315,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
 # Quest: tfru.q139n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
-
-# Quest: tfru.q214n
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
 
 # Quest: tfru.q209n
 betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=
@@ -3718,7 +3730,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=電力時代的開始
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=自動化農場
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=首先, 將這36個方塊組成一個3（寬）x3（長）x4（高）的長方體。%n%n在這個長方體周圍鋪滿最遠7格的石磚（原版）%n%n從農場水閘輸入水。%n%n從農場出貨箱或者直接打開GUI輸入肥料, 泥土, 和樹苗或者作物種子（原版）。%n%n從農場齒輪箱輸入RF能量。%n%n從農場出貨箱用漏斗或者其他方式輸出產出的物品和沙子。如果被堵塞會停止工作。%n%n注意保證農場頂部不要被遮擋。
 
-# Quest: New Quest
+# Quest: gt1000
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
@@ -3746,9 +3758,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=存儲單件5000個物品
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=
 
-# Quest: tfr.quest523.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=存儲中心
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=驅動器+存儲元件=只占一個格子的超大箱子%n%n需要說一下的是, 這個普通的存儲元件只能存儲物品, 存儲液體或者氣體需要特殊的存儲元件
+# Quest: tfr.quest522.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=核心終端
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=相當於主腦%n%n%n每個ME控制器有著32個頻道, 意味著它可以供給總共32個埠/機器%n注意：普通線纜限制最高輸出八個頻道, 也就是你需要接四個面的線纜才能利用完全%n%n將數個ME控制器連在一起, 他們將會變為一個整體, §a線程總數共享%n但連接有著形態上的限制, 例如只能搭§4§0§1§2§3§5§6§7§8§9§a線性, 長方形§r或者§a長方體§r%n同時每個方向上最多連7個, 也就是最大為7*7*7的立方體%n%n註：其自帶「能源接收器」的能量轉換功能%n緻密線纜可以擁有32個頻道%n§9它也可以給相鄰方塊提供頻道, 不需要線纜那種
 
 # Quest: tfr.quest565.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=吸吸吸！
@@ -3774,6 +3786,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=和燃燒室功能一樣, 不�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=存儲電力
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=電池盒裡可以放四個電池, 輸出4A的電流, 但是不能高於電池盒的電壓。放進電池盒裡的電池可以被充電, 也可以被放電。一些需要電力的工具和裝備也可以在這裡充電, 比如電動扳手, 電鑽, 噴氣背包等。但是充電之前, 注意電壓等級哦。
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
+
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
@@ -3793,6 +3809,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 # Quest: tfru.q173n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
+
+# Quest: tfru.q214n
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
 
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=

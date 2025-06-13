@@ -133,10 +133,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=Most vanilla items can be shape
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=Task team
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=The team forming system can be found in the selection interface when the task book is opened.%n Due to the limitation of the task book, the team forming system cannot team across tasks, and the team forming system is to complete tasks synchronously.%n%n§f§ C * In other words, you must start with the same task starting point when you team up.
 
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
-
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=Join a community
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
@@ -740,6 +736,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
@@ -1026,6 +1026,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADOA.desc=
 
+# Quest: tfru.q157n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
+
 # Quest: tfru.q164n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
@@ -1033,6 +1037,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 # Quest: tfru.q165n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
+
+# Quest: New Quest
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=
 
 # Quest: tfru.q223n
 betterquesting.quest.H5JZmUBiTHShvne-FAc2zw.name=
@@ -2277,6 +2285,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADVA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeQ.desc=
 
+# Quest: tfru.q316n
+betterquesting.quest._R4HZbcEST25jdNWIsqiFQ.name=
+betterquesting.quest._R4HZbcEST25jdNWIsqiFQ.desc=
+
+# Quest: tfru.q315n
+betterquesting.quest.pyGw6GmRS3OcksnaQkzwJA.name=
+betterquesting.quest.pyGw6GmRS3OcksnaQkzwJA.desc=
+
 
 ## Quest Line: tfr.line0.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=Beekeeper
@@ -2616,7 +2632,7 @@ betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=
 
-# Quest: LU2QU
+# Quest: tfru.q325n
 betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
 betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
 
@@ -2624,7 +2640,7 @@ betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=
 
-# Quest: RF2HU
+# Quest: tfru.q317n
 betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.name=
 betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.desc=
 
@@ -2668,7 +2684,7 @@ betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.name=
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.desc=
 
-# Quest: RF2CU
+# Quest: tfru.q320d
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.name=
 betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
 
@@ -2676,7 +2692,7 @@ betterquesting.quest.IexuSJH0QB-8a6AxSnyRWA.desc=
 betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.name=
 betterquesting.quest.MGmtiT9JRsOX7FJr0FrY8Q.desc=
 
-# Quest: RF2KU
+# Quest: tfru.q318n
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.name=
 betterquesting.quest.OLC4hGh-RvqtKvKm9weHYw.desc=
 
@@ -2688,11 +2704,15 @@ betterquesting.quest.OUinxG1OQVGjXvSU41fkvA.desc=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.name=
 betterquesting.quest.R-zyn3KiTp68q0FP0JQJKA.desc=
 
-# Quest: LiquidBattery
+# Quest: tfru.q321n
+betterquesting.quest.W6XdqzhPSMOOcR1ch_vQFg.name=
+betterquesting.quest.W6XdqzhPSMOOcR1ch_vQFg.desc=
+
+# Quest: tfru.q322n
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.name=
 betterquesting.quest.WezOU4k7SOOme6ytLxuP5Q.desc=
 
-# Quest: LU2EU
+# Quest: tfru.q324n
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.name=
 betterquesting.quest.XqGVvb9mRv2QDBEqyfaZsw.desc=
 
@@ -2720,7 +2740,7 @@ betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.desc=
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.name=
 betterquesting.quest.hE1faNqBTMKDS3zRRYn1fg.desc=
 
-# Quest: RF2MU
+# Quest: tfru.q319n
 betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.name=
 betterquesting.quest.iDRkLN1VRuGfm7KWi_C6Dg.desc=
 
@@ -2752,7 +2772,7 @@ betterquesting.quest.qbxxuaAUQBy10Duu1cK3Kg.desc=
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.name=
 betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=
 
-# Quest: LUBattery
+# Quest: tfru.q323n
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=
 
@@ -2894,6 +2914,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9 of the circuit board in
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 
+# Quest: gt2000
+betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
+betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
+
 # Quest: tfru.q145n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-Q.desc=
@@ -2934,10 +2958,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
 
-# Quest: tfru.q2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjA.desc=
-
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
@@ -2977,10 +2997,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXQ.desc=
 # Quest: tfru.q152n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADXg.desc=
-
-# Quest: tfru.q157n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADYA.desc=
 
 # Quest: tfru.q146n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADYQ.name=
@@ -3212,9 +3228,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABVw.desc=Meteorites no longer form: you 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.name=Lithography template
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCQ.desc=You need a photolithographer and a pressure molding machine to make the raw material into a corresponding board and then press it into shape.
 
-# Quest: tfr.quest522.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
+# Quest: tfr.quest523.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
 
 # Quest: tfr.quest524.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACDA.name=The more the more
@@ -3299,10 +3315,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADMg.desc=
 # Quest: tfru.q139n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADNA.desc=
-
-# Quest: tfru.q214n
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
-betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
 
 # Quest: tfru.q209n
 betterquesting.quest.EDr-0jV0QEes2JKXY42ZWg.name=
@@ -3718,7 +3730,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=The beginning of the electric a
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=Automated farm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=First, make the 36 cubes into a cuboid of 3 (width) x3 (length) x4 (height). Cover the cuboid with the furthest 7 tiles (original) %n%n feed water from the farm lock. %n%n import fertilizer, soil, and saplings or crop seeds from the farm box or directly open GUI. %n%n inputs RF energy from the farm gearbox. %n%n the goods and sand that come out of the farm boxes are funnelled or otherwise. It stops working if it gets blocked. %n%n Take care that the top of the farm is not obscured.
 
-# Quest: New Quest
+# Quest: gt1000
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
@@ -3746,9 +3758,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABxw.desc=Store 5000 items per piece
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=
 
-# Quest: tfr.quest523.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.name=Storage center
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACCw.desc=Drive + storage element  equal  very large box %n%n which only takes up one cell. It should be said that this common storage element can only store items, and special storage elements are required to store liquids or gases
+# Quest: tfr.quest522.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
 
 # Quest: tfr.quest565.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=Draw breath!
@@ -3774,6 +3786,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=Same function as combustion cha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=Storage power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=Four batteries can be placed in the battery box, which can output 4A current, but not higher than the voltage of the battery box. The batteries that go into the battery box can be charged or discharged. Tools and equipment that require power can also be charged here, such as electric wrenches, drills, jetpacks, etc. But before charging, pay attention to the voltage level.
 
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
+
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.desc=
@@ -3793,6 +3809,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 # Quest: tfru.q173n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
+
+# Quest: tfru.q214n
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
+betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.desc=
 
 # Quest: tfru.q252n
 betterquesting.quest.Fpe4WqBbQpuSHkgUGWE8sA.name=

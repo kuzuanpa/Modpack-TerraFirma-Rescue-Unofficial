@@ -1,0 +1,118 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3463258557863998568,
+      "questIDLow:4": -6952906696132525220
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "tfru.q322d",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 30024,
+        "OreDict:8": "",
+        "id:8": "ktfruaddon:ktfru.multitileentity"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "tfru.q322n",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "OR",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6479780822059272419,
+  "questIDLow:4": -6450372181458448411,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30024,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30025,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30026,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 3,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 128,
+          "Damage:2": 31034,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        },
+        "1:10": {
+          "Count:3": 128,
+          "Damage:2": 31035,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        },
+        "2:10": {
+          "Count:3": 128,
+          "Damage:2": 31036,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}
