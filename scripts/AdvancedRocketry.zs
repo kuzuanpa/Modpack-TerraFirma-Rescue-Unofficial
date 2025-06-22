@@ -223,25 +223,25 @@ recipes.addShaped(<libVulpes:libVulpescoil0:4>,
 recipes.remove(<advancedRocketry:utilBlock>);
 recipes.addShaped(<advancedRocketry:utilBlock>*2,
 [[null,<ore:plateInvar>,null],
-[<ore:plateInvar>,<terrafirmacraft:FireBrick>,<ore:plateInvar>],
+[<ore:plateInvar>,<ore:blockGemDiamond>,<ore:plateInvar>],
 [null,<ore:plateInvar>,null]]);
 recipes.remove(<advancedRocketry:observatory>);
 
 // Electric Arc Furnace
 recipes.remove(<advancedRocketry:tile.electricArcFurnace>);
 recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
-[[<gregtech:gt.meta.stick:9174>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9174>],
-[<ore:plateInvar>,<gregtech:gt.meta.machine.double:220>,<ore:plateInvar>],
-[<ktfruaddon:ktfru.item.it.computer:2>,<ore:plateInvar>,<ktfruaddon:ktfru.item.it.computer:2>]]);
+[[<gregtech:gt.meta.stick:60>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:60>],
+[<gregtech:gt.multiitem.technological:12023>,<ore:blockGemDiamond>,<gregtech:gt.multiitem.technological:12023>],
+[<ktfruaddon:ktfru.item.it.computer:2>,<gregtech:gt.multiitem.technological:12023>,<ktfruaddon:ktfru.item.it.computer:2>]]);
 
 recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
-[[<gregtech:gt.meta.stick:9174>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9174>],
+[[<gregtech:gt.meta.stick:60>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:60>],
 [<ore:plateInvar>,<gregtech:gt.meta.machine.double:220>,<ore:plateInvar>],
 [<ktfruaddon:ktfru.item.it.computer:3>,<ore:plateInvar>,<ktfruaddon:ktfru.item.it.computer:3>]]);
 
 
 recipes.addShaped(<advancedRocketry:tile.electricArcFurnace>,
-[[<gregtech:gt.meta.stick:9174>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:9174>],
+[[<gregtech:gt.meta.stick:60>,<advancedRocketry:miscpart>,<gregtech:gt.meta.stick:60>],
 [<ore:plateInvar>,<gregtech:gt.meta.machine.double:220>,<ore:plateInvar>],
 [<ktfruaddon:ktfru.item.it.computer:25>,<ore:plateInvar>,<ktfruaddon:ktfru.item.it.computer:25>]]);
 

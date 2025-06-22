@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "No Description",
+      "desc:8": "tfru.q327d",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -19,7 +19,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "New Quest",
+      "name:8": "tfru.q327n",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -50,6 +50,47 @@
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 80,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "advancedRocketry:utilBlock"
+        },
+        "1:10": {
+          "Count:3": 3,
+          "Damage:2": 7,
+          "OreDict:8": "blockCoil",
+          "id:8": "libVulpes:libVulpescoil0"
+        },
+        "2:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "libVulpes:rfBattery"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "libVulpes:blockHatch"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "libVulpes:blockHatch"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

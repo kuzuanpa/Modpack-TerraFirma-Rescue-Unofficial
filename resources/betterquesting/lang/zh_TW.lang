@@ -1002,10 +1002,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.desc=產生電弧處理一些配方
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.name=自動點火！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.desc=非常實用的設備, 對準燃燒室, 燃燒反應室之類的機器, 就可以自動打火, 自動化必備！
 
-# Quest: tfr.quest594.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=更大, 存的更多
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=可以放16個電池, 輸出16A的電流, 其餘功能和小型電池盒相同。
-
 # Quest: tfr.quest595.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.name=雷射切割
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.desc=很不錯的一台機器, 在切割晶元和晶片的時候更加有效率
@@ -1038,7 +1034,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q327n
 betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=
 betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=
 
@@ -1061,6 +1057,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=
 # Quest: tfr.quest40.name
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=不想洗礦了就學化學吧
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=你需要將鉻鐵礦粉製成鉻酸鈉, 再製成重鉻酸鈉, 再製成氧化鉻, 以便進行下一步的操作。%n製作一條產線和鋁相配合是一個很好的選擇。
+
+# Quest: tfru.q326n
+betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=
+betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=
 
 # Quest: tfru.q236n
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=
@@ -3785,6 +3785,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=和燃燒室功能一樣, 不�
 # Quest: tfr.quest593.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=存儲電力
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=電池盒裡可以放四個電池, 輸出4A的電流, 但是不能高於電池盒的電壓。放進電池盒裡的電池可以被充電, 也可以被放電。一些需要電力的工具和裝備也可以在這裡充電, 比如電動扳手, 電鑽, 噴氣背包等。但是充電之前, 注意電壓等級哦。
+
+# Quest: tfr.quest594.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=更大, 存的更多
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=可以放16個電池, 輸出16A的電流, 其餘功能和小型電池盒相同。
 
 # Quest: tfr.quest635.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員

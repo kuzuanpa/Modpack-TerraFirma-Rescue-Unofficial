@@ -1002,10 +1002,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.desc=Generate arc treatment for some
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.name=Automatic ignition!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.desc=Very practical equipment, aligned with the combustion chamber, combustion reaction chamber and other machines, can be automatic ignition, automation must!
 
-# Quest: tfr.quest594.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=Bigger, save more
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=It can hold 16 batteries and output 16A current. The other functions are the same as the small battery box.
-
 # Quest: tfr.quest595.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.name=Laser cutting
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.desc=A nice machine, more efficient at cutting crystals and chips
@@ -1038,7 +1034,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q327n
 betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=
 betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=
 
@@ -1061,6 +1057,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=
 # Quest: tfr.quest40.name
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=I don't want to wash ores!
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=You need to make the chromite powder into sodium chromate, then into sodium dichromate, then into chromium oxide for the next step.%n It is a good choice to make a production line with aluminum.
+
+# Quest: tfru.q326n
+betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=
+betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=
 
 # Quest: tfru.q236n
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=
@@ -3785,6 +3785,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=Same function as combustion cha
 # Quest: tfr.quest593.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=Storage power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=Four batteries can be placed in the battery box, which can output 4A current, but not higher than the voltage of the battery box. The batteries that go into the battery box can be charged or discharged. Tools and equipment that require power can also be charged here, such as electric wrenches, drills, jetpacks, etc. But before charging, pay attention to the voltage level.
+
+# Quest: tfr.quest594.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=Bigger, save more
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=It can hold 16 batteries and output 16A current. The other functions are the same as the small battery box.
 
 # Quest: tfr.quest635.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel

@@ -51,7 +51,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=你注意到了你现在有水�
 
 # Quest: tfr.quest37.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=金属烧烤
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=火堆可以烤熟食物，但要处理金属, 你需要更专业的工具. %n%n用5个石质方块(包括但不限于圆石、石头、石砖、光滑石头等)围在一格空气的下方与四周, 在中间手持木炭右键7次放置7个木炭。在这堆木炭的顶面使用起火器点火就可以生成一个锻造炉。右键可以打开锻造炉的操作界面。下方显示煤炭图标的5格可以用来放置木炭等燃料，上方的5格用于放置待加热的金属。右侧的4格可以用于暂存物品或放置陶瓷模具.%n%n投入燃料并点燃锻造炉，就可以加热金属用于锻造。随着温度的升高，金属的温度会以颜色属性标注在物品信息中(不会表现于贴图的变化), 温度达标后会显示"§c可加工§r"状态, 然后变成"§6可焊接§r"状态, 再然后变成"§l**危险**§r"状态. %n%n§c当金属变为"危险"状态的时候要小心, 继续加热你的金属就会熔化. %n%n金属熔化时, 若右侧的4个栏中有锭模具, 熔化的金属将进入模具中, 若没有模具, 金属直接消失.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=火堆可以烤熟食物，但要烤熟金属, 你需要更专业的工具. %n%n用5个石质方块(包括但不限于圆石、石头、石砖、光滑石头等)围在一格空气的下方与四周, 在中间手持木炭潜行+右键7次放置7个木炭。在这堆木炭的顶面使用起火器点火就可以生成一个锻造炉。右键可以打开锻造炉的操作界面。下方显示煤炭图标的5格可以用来放置木炭等燃料，上方的5格用于放置待加热的金属。右侧的4格可以用于暂存物品或放置陶瓷模具.%n%n投入燃料并点燃锻造炉，就可以加热金属用于锻造。随着温度的升高，金属的温度会以颜色属性标注在物品信息中(不会表现于贴图的变化), 温度达标后会显示"§c可加工§r"状态, 然后变成"§6可焊接§r"状态, 再然后变成"§l**危险**§r"状态. %n%n§c当金属变为"危险"状态的时候要小心, 继续加热你的金属就会熔化. %n%n金属熔化时, 若右侧的4个栏中有锭模具, 熔化的金属将进入模具中, 若没有模具, 金属直接消失.
 
 # Quest: tfr.quest78.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=金属焊接
@@ -1002,10 +1002,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACTw.desc=产生电弧处理一些配方
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.name=自动点火！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUA.desc=非常实用的设备, 对准燃烧室, 燃烧反应室之类的机器, 就可以自动打火, 自动化必备！
 
-# Quest: tfr.quest594.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=更大, 存的更多
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=可以放16个电池, 输出16A的电流, 其余功能和小型电池盒相同. 
-
 # Quest: tfr.quest595.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.name=激光切割
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUw.desc=很不错的一台机器, 在切割晶元和芯片的时候更加有效率
@@ -1038,9 +1034,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADjA.desc=铌钛合金拥有更高的耐�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.name=钼坩埚
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADjQ.desc=利用从地狱挖掘到的辉钼矿可以制作钼坩埚, 更高的溶化温度意味着更多能制作的合金和更高的容错度. %n%n下一次升级在上天之后.
 
-# Quest: New Quest
-betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=
-betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=
+# Quest: tfru.q327n
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.name=电弧高炉
+betterquesting.quest.FxJEWODJSHaLqSyXYhj-qw.desc=利用金刚石作为耐热材料, 在真空中使用电弧对高熔点物质进行加工. 这是你加工钨的最早途径
 
 # Quest: tfru.q223n
 betterquesting.quest.H5JZmUBiTHShvne-FAc2zw.name=数控车床
@@ -1061,6 +1057,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=上天后你将会找到智金,
 # Quest: tfr.quest40.name
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=不想洗矿了就学化学吧
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=请查看nei了解具体配方,当前阶段铬处理会剩下一种较难处理的含铬产物, 当你进入HV后可以将铬铁矿彻底处理为铬. 注意铬铁矿处理中的副产物并不是完全自循环的,你需要额外补充少量硫酸和许多氧气.
+
+# Quest: tfru.q326n
+betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=电磁坩埚
+betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=利用线圈对金属进行隔空加热，可以达到极高的温度. 但与此同时, 它的耗电量相当高, 而且效率很低. 它无法处理完全由非金属组成的物品, 不能用于制作合金, 输入功率低于下限时内部所有物质都会损毁. %n%n电磁坩埚屏幕是操控坩埚内部物质流向内部磁控模具的, 空手右键可以以当前形状导出物质, 不会检测坩埚内剩余物质是否足够, 使用其他形状的物品右键可以将成型目标设置为该形状, 点击蓝条开启红石控制的自动导出(有红石充能时不导出), 点击红条销毁模具内物质.
 
 # Quest: tfru.q236n
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=发电,变压,输电,耗电
@@ -3785,6 +3785,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACPQ.desc=和燃烧室功能一样, 不�
 # Quest: tfr.quest593.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.name=存储电力
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=电池盒里可以放四个电池, 每个电池可输出1A的电流, 但是不能高于电池盒的电压. 放进电池盒里的电池可以被充电, 也可以被放电. 电力工具和装备可以充电但不能放电, 比如电动扳手, 电钻, 喷气背包等. 充电之前, 注意电压等级哦. %n%n有塑料之前你只能制作铅酸电池, 碱性电池和镍镉电池的容量相同, 取决于你有哪种矿物. 电池单元可以右键装有合适流体的储罐上的龙头来罐装, 并不一定要灌装机.
+
+# Quest: tfr.quest594.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=更大, 存的更多
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=可以放16个电池, 输出16A的电流, 其余功能和小型电池盒相同. 
 
 # Quest: tfr.quest635.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员

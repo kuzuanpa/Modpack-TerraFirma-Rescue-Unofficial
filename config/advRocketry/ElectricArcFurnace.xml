@@ -40,7 +40,7 @@
 	The "useDefault" attribute will prevent loading of recipes if set to "false"
 <!-->
 <Recipes useDefault="false">
-	<Recipe timeRequired="12000" power ="1">
+	<Recipe timeRequired="2000" power ="64">
 		<input>
 			<oreDict>dustAnySiliconDioxide;1</oreDict>
 			<oreDict>dustAnyCoalCarbon;2</oreDict>
@@ -49,15 +49,15 @@
 			<itemStack>libVulpes:libVulpesproductingot;1;3</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="200" power ="64">
+	<Recipe timeRequired="2000" power ="256">
 		<input>
-			<itemStack>gregtech:gt.meta.dust;1;8014</itemStack>
+			<itemStack>gregtech:gt.meta.dust;2;8014</itemStack>
 		</input>
 		<output>
-			<itemStack>gregtech:gt.meta.ingot;2;8008</itemStack>
+			<itemStack>gregtech:gt.meta.ingot;1;8008</itemStack>
 		</output>
 	</Recipe>
-		<Recipe timeRequired="2400" power ="256">
+	<Recipe timeRequired="4000" power ="1536">
 		<input>
 			<oreDict>dustTungsten;1</oreDict>
 			<oreDict>dustCarbon;1</oreDict>
@@ -66,7 +66,7 @@
 			<itemStack>gregtech:gt.meta.ingot;2;8638</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="2400" power ="256">
+	<Recipe timeRequired="4000" power ="2560">
 		<input>
 			<oreDict>dustTungsten;1</oreDict>
 		</input>
@@ -74,7 +74,7 @@
 			<itemStack>gregtech:gt.meta.ingot;1;740</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="400" power ="128">
+	<Recipe timeRequired="1000" power ="34">
 		<input>
 			<oreDict>dustAluminum;1</oreDict>
 			<oreDict>dustCopper;1</oreDict>
