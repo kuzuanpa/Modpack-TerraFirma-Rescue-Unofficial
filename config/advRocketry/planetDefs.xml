@@ -339,16 +339,6 @@
 			<seaLevel>64</seaLevel>
 			<biomeIds>146</biomeIds>
 		</planet>
-		<planet name="Ch-24-2" DIMID="-13" dimMapping="" customIcon="EarthLike">
-			<isKnown>true</isKnown>
-			<gravitationalMultiplier>140</gravitationalMultiplier>
-			<orbitalDistance>600</orbitalDistance>
-			<orbitalTheta>0</orbitalTheta>
-			<avgTemperature>246</avgTemperature>
-			<orbitalPhi>-20</orbitalPhi>
-			<rotationalPeriod>24000</rotationalPeriod>
-			<atmosphereDensity>80</atmosphereDensity>
-		</planet>
 	</star>
 	<star name="Ch-22" id="109" temp="250" x="617" y="612" size="1.8" numPlanets="0" numGasGiants="0">
 		<planet name="Dracona" DIMID="-12" customIcon="Moon">
@@ -407,17 +397,6 @@
 			<rotationalPeriod>24000</rotationalPeriod>
 			<atmosphereDensity>110</atmosphereDensity>
 		</planet>
-		<planet name="Cookies" DIMID="-123" dimMapping="" customIcon="EarthLike">
-			<isKnown>true</isKnown>
-			<gravitationalMultiplier>140</gravitationalMultiplier>
-			<orbitalDistance>600</orbitalDistance>
-			<orbitalTheta>0</orbitalTheta>
-			<avgTemperature>246</avgTemperature>
-			<orbitalPhi>-20</orbitalPhi>
-			<rotationalPeriod>24000</rotationalPeriod>
-			<atmosphereDensity>80</atmosphereDensity>
-		</planet>
-
 	</star>
 	<star name="Na-51" id="114" temp="50" x="-617" y="-912" size="0.8" numPlanets="0" numGasGiants="0">
 		<planet name="Twilight Forest" DIMID="-122" dimMapping="" customIcon="EarthLike">

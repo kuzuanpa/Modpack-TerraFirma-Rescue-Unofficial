@@ -89,6 +89,10 @@ MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000],
 [<terrafirmacraft:item.Ore:20>],
 [<gregtech:gt.meta.crushed:9174>*8,<gregtech:gt.meta.dust:8500>]);
 
+MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000],
+[<terrafirmacraft:item.Ore:16>],
+[<gregtech:gt.meta.crushed:9167>*8,<gregtech:gt.meta.dust:8500>]);
+
 // xianan remove
 MTUtilsGT.removeAllRecipes("gt.recipe.crusher",<gregtech:gt.meta.crushed:8753>);
 

@@ -700,6 +700,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADNQ.desc=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.name=
 betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 
+# Quest: tfru.q329n
+betterquesting.quest.BjiAoZ1bS0eo_G5S2e_Jag.name=
+betterquesting.quest.BjiAoZ1bS0eo_G5S2e_Jag.desc=
+
 # Quest: tfru.q314n
 betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=
 betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=
@@ -735,10 +739,6 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 # Quest: jinxi
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
-# Quest: tfru.q107n
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
@@ -1191,6 +1191,18 @@ betterquesting.quest.hJzaNKdXToizIObp7zP1-g.desc=
 ## Quest Line: tfru.q200n
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
+
+# Quest: tfru.q333n
+betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=
+betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
+
+# Quest: tfru.q332n
+betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
+betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: tfru.q334n
+betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=
+betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.desc=
 
 
 ## Quest Line: tfr.line7.name
@@ -2648,6 +2660,10 @@ betterquesting.quest.5YcpqhVXRoKB80hnT5LkUA.desc=
 betterquesting.quest.896HigGUTLa8Op2wBJiHqA.name=
 betterquesting.quest.896HigGUTLa8Op2wBJiHqA.desc=
 
+# Quest: tfru.q328n
+betterquesting.quest.A9h2sGQ5RuiNOcdziPDbFQ.name=
+betterquesting.quest.A9h2sGQ5RuiNOcdziPDbFQ.desc=
+
 # Quest: tfr.quest74.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.name=全反射(TIR)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASg.desc=光可以在折射率不同的兩種介質中發生全反射。光纖就是此發現的運用之一, 他可以傳輸雷射能(LU)。用法和電線類似
@@ -2679,6 +2695,10 @@ betterquesting.quest.FulK7Fk_Qei9JiI2k_YUIQ.desc=
 # Quest: tfru.q283n
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.name=
 betterquesting.quest.H0SdQjDqQWeDMpBR92EXcA.desc=
+
+# Quest: tfru.q328n
+betterquesting.quest.IDUNtUN-RT67NpxyqCr70g.name=
+betterquesting.quest.IDUNtUN-RT67NpxyqCr70g.desc=
 
 # Quest: tfru.q278n
 betterquesting.quest.IalEVQJOSzmZbt7vO7bHXQ.name=
@@ -2731,6 +2751,10 @@ betterquesting.quest.ceSPniAwRjOGQsX46MVslg.desc=
 # Quest: tfru.q271n
 betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.name=
 betterquesting.quest.cm7FKcA-Tl6BZ9SsnCBPFg.desc=
+
+# Quest: tfru.q328n
+betterquesting.quest.cq2JVv09S_-vFk3KbC4xzQ.name=
+betterquesting.quest.cq2JVv09S_-vFk3KbC4xzQ.desc=
 
 # Quest: tfru.q270n
 betterquesting.quest.dtwQqEAuTrWWnDqwvgVFLg.name=

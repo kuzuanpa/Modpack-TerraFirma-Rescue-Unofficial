@@ -40,13 +40,13 @@
 	The "useDefault" attribute will prevent loading of recipes if set to "false"
 <!-->
 <Recipes useDefault="true">
-	<Recipe timeRequired="100" power ="20">
+	<Recipe timeRequired="16" power ="64">
 		<input>
-			<fluidStack>water;10</fluidStack>
+			<fluidStack>water;15</fluidStack>
 		</input>
 		<output>
-			<fluidStack>oxygen;100</fluidStack>
-			<fluidStack>hydrogen;100</fluidStack>
+			<fluidStack>oxygen;5</fluidStack>
+			<fluidStack>hydrogen;10</fluidStack>
 		</output>
 	</Recipe>
 </Recipes>
