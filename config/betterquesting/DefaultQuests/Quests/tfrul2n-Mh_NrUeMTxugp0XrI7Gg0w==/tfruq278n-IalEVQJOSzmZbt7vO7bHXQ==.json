@@ -12,9 +12,9 @@
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 17221,
+        "Damage:2": 30037,
         "OreDict:8": "",
-        "id:8": "gregtech:gt.multitileentity"
+        "id:8": "ktfruaddon:ktfru.multitileentity"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
@@ -44,9 +44,9 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 17221,
+          "Damage:2": 30037,
           "OreDict:8": "",
-          "id:8": "gregtech:gt.multitileentity"
+          "id:8": "ktfruaddon:ktfru.multitileentity"
         }
       },
       "taskID:8": "bq_standard:retrieval"
@@ -84,9 +84,9 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 17222,
+          "Damage:2": 30038,
           "OreDict:8": "",
-          "id:8": "gregtech:gt.multitileentity"
+          "id:8": "ktfruaddon:ktfru.multitileentity"
         }
       },
       "taskID:8": "bq_standard:retrieval"

@@ -10,6 +10,8 @@
 
 加入ktfruaddon.txt内的所有内容
 
+加入gregtech.txt内的所有内容
+
 将gt的书部分替换为books.txt中的内容
 
 使用autoLang分支的gt6-TFRU启动游戏, 生成的文件即可作为稳定版语言文件使用.
