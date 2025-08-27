@@ -740,6 +740,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
@@ -1199,6 +1203,26 @@ betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: tfru.q339n
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=
+
+# Quest: tfru.q340n
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
+
+# Quest: tfru.q335n
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.desc=
+
+# Quest: tfru.q341n
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.name=
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
+
+# Quest: tfru.q338n
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
 # Quest: tfru.q334n
 betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=
@@ -2938,6 +2962,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9 of the circuit board in
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 
+# Quest: tfru.q336n
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=
+
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
@@ -3094,6 +3122,10 @@ betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
 
+# Quest: tfru.q337n
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.name=
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.desc=
+
 # Quest: tfru.q169n
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
@@ -3111,7 +3143,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Manned spaceflight, asteroi
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Liquid rocket!!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=It takes a lot of push to send you up into the sky
 
-# Quest: New Quest
+# Quest: tfru.q344n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
 
@@ -3123,61 +3155,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Dream of the stars and sea
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=The beginning of space travel %n%n%n How to use it: Place it in an open area %n and then place the launch pad and the structure tower next to it. The bottom of the structure tower should be the same as the Y axis of the launch pad.%n %n The width of the launch tower, the height of the structure tower, as big as you can DIY the rocket.%n
 
-# Quest: New Quest
+# Quest: tfru.q346n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
 
-# Quest: tfr.quest191.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=Artificial satellite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=%n Artificial satellites are used to collect various kinds of data.%n It is needed to assemble the satellite and put it into orbit in the satellite capsule. %n%n Optical sensors are used to collect distance data
-
-# Quest: tfr.quest192.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=Satellite assembly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=%n This machine is a multi-block %n, put an energy input bin %n%n on the bottom, you need the left side, you need the orbiter and the satellite chip put the satellite chip in the middle %n%n on the top right, you need the sensor %n on the top, you need the solar panel in the middle, you can make it a generating satellite, %n%n, put the data chip at the bottom, you have to put the data chip to collect the data
-
-# Quest: tfr.quest193.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=Collection of satellite data
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n It requires RF to use the satellite chip. %n In the upper right corner click Connect to receive data
-
-# Quest: tfr.quest194.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=Observe celestial objects
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=Multiblock block. %n It needs a data bus inside. Out 100 point distance data inside to work. It works only at night. %n%n Spend 100 point distance data scanning asteroids. %n Put at the bottom of the asteroids selection list asteroids chip%n selected you want an asteroid and then click the gear icon next to the chip for writing%n%n available object data processor to strengthen asteroid chips
-
-# Quest: tfr.quest195.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Mining rocket assembly
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=Assembling a mining rocket. %n%n Requires a drill to mine and requires vanilla chest as storage
-
-# Quest: tfr.quest196.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=Mining rocket launch!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=Assemble a mining rocket %n%n You need to pair a rocket monitor to it.
-
-# Quest: tfr.quest197.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Process the data
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Multiblock. %n It is used to enhance the asteroid chip data to make the benefits greater
-
-# Quest: tfr.quest334.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Everything is ready
+# Quest: tfru.q347n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
 
 # Quest: tfr.quest335.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Get the oxygen ready!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
 
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Liquid rocket!!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=It takes a lot of push to send you up into the sky
-
-# Quest: New Quest
+# Quest: tfru.q342n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
 
-# Quest: New Quest
+# Quest: tfru.q348n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
@@ -3191,9 +3187,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
-# Quest: tfr.quest626.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=Brain of a rocket
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=The navigation computer is the key to controlling the flight of a rocket. It is needed in any rocket, whether manned or unmanned.
+# Quest: tfru.q345n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=
 
 # Quest: tfr.quest627.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=Reach Duck Egg C
@@ -3203,7 +3199,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=You should also head to Duck Eg
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q349n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
 
@@ -3230,6 +3226,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 # Quest: tfru.q142n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
+
+# Quest: tfru.q343n
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.name=
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.desc=
 
 
 ## Quest Line: tfr.line15.name

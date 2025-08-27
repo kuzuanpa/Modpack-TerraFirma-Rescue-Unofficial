@@ -740,6 +740,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=使用gt的橡胶树可以更�
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=均衡发展
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=这里是蒸汽时代选做的机器, 可用于批量收集资源, 自动化批量制作部件, 更高效率的处理材料等. 制作它们有利于你的游戏进程, 但并不是最高优先级, 请自行权衡.
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=压缩气体储罐
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=这种储罐可以以液态存储大量气体, 但需要使用气体压缩机输入. %n%n该储罐也有多方块版本的, 具有恐怖的气体储量
@@ -1200,6 +1204,26 @@ betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=使用它进行小行星勘测�
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=小行星采矿火箭
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=获取资源的全新方式！使用该机器构建小行星采矿火箭，等级越高的火箭可以挖掘的矿物越硬，运行速度越快的火箭挖掘和往返的速度越高
 
+# Quest: tfru.q339n
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=石墨烯
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=通过改变原子排布制作的石墨烯与原来的石墨区别很大，它具有良好的导热和导电性，可以用于制作许多ev,iv的部件
+
+# Quest: tfru.q340n
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=高新电路
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=你终于能制作高新科技电子电路, 用它制作新一批机器吧
+
+# Quest: tfru.q335n
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=高能发电
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.desc=获得了大型涡轮后，你应该有足够的能力产生IV等级的旋转能了，使用这些发电机可以将它们转换为更加通用的电能. 大型发电机的电压可能看起来不高，但它们具有16A的吞吐量，这是消化超频模式下的涡轮的最好方法. %n%n同时，推荐你使用储能变电站来对你的工厂电力进行管理，详见能源任务线
+
+# Quest: tfru.q341n
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.name=纳米钛酸钡
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=纳米钛酸钡陶瓷，具有优良的介电常数和低介电损耗，可以进一步提高不同部分的绝缘性能，后面你会经常见到它的
+
+# Quest: tfru.q338n
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=超声震荡
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=利用压电陶瓷产生超声波，具有许多独特的用途，是你制作石墨烯的必经之路
+
 # Quest: tfru.q334n
 betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=火箭，发射！
 betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.desc=你需要火箭发射塔才能发射火箭，将勘测塔获得的U盘右键发射塔，或通过物流方块放入发射塔均可，等读取完毕后用放大镜右键可以看到当前目标小行星，之后放入采矿火箭即可发射. 火箭任务期间需要保持供电，否则火箭可能找不到目标或者丢失. 等火箭执行任务完毕后，火箭将以用过的形式返还，同时输出挖掘到的物品，你可以使用任意物流手段将这些物品提取出来. %n%n记得找个合适的观众席观看火箭发射!
@@ -1259,7 +1283,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=跃迁技术基于时空曲率�
 
 # Quest: tfr.quest625.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=新金星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=新金星是一个一个酷似太阳系金星的星球, 值得去探索一番. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=新金星是一个一个酷似太阳系金星的星球, 值得去探索一番.
 
 # Quest: tfr.quest628.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.name=终末星
@@ -2938,6 +2962,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9更快的计算机可以
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=单晶硅
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=经过漫长的等待, 拥有规整原子排列的单晶硅非常适合制作高性能半导体电路.接下来将它切割为晶圆.
 
+# Quest: tfru.q336n
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=高级电子电路
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=第4级的电子电路，可以用于很多设备的制作
+
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
@@ -3094,6 +3122,10 @@ betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=这台机器可通过电路控�
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=晶圆检测器
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=由于晶圆杂质, 光刻不均匀等原因, 光刻后的晶圆往往品质不一. 这台机器可以检测出晶圆的品质并标记, 以供稍后切割并分类.
 
+# Quest: tfru.q337n
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.name=电路升级...?
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.desc=新一代高纯晶圆和先进光刻设备可以让你成功做出新一代电子电路的部件，但你需要足够先进的电容和电阻才能让它们正常运作，请参考T6主线任务线
+
 # Quest: tfru.q169n
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=激光切割机
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=你可能之前已经做过这台机器了, 用它将单晶硅切割为晶圆.
@@ -3111,9 +3143,9 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=载人航天, 小行星采�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=液体燃料火箭！！！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=十足的推力才能将你送上天空
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
+# Quest: tfru.q344n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=§9燃料罐
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=你需要燃料罐来存储火箭燃料，一般推荐3-4个燃料罐搭配一个普通引擎，如果考虑往返的话可以加到5-6个，或者随身携带一套rf发电机组，燃料站和一桶燃料
 
 # Quest: tfru.q143n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=走向星辰大海
@@ -3123,61 +3155,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=人类总是向往着那些遥�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=建造火箭
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=不同于隔壁, 这里的火箭是完全可自定义的. 首先建造一个场地来实现你的幻想.%n%n%n使用方法:在一个无遮拦的地方放置它%n然后在旁边放置发射台与结构塔  结构塔最底层要与发射台Y轴要一样 (相连)%n%n发射塔多宽, 结构塔多高, 你能DIY火箭就有多大.%n
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
+# Quest: tfru.q346n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=§c座位
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=让你坐上去的地方. 无人火箭可能未来有用，但目前最重要的目标是让火箭带着你上天
 
-# Quest: tfr.quest191.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=人造卫星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=%n人造卫星 用于收集各种数据, 为采矿火箭做准备.%n需要组装卫星后放入卫星舱送入轨道%n%n光学传感器用于收集距离数据
-
-# Quest: tfr.quest192.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=组装卫星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=%n此机器属于多方块%n在底部放一个能源输入仓%n%n里面需要左侧需要人造卫星和卫星芯片 把卫星芯片放中间%n%n右侧最上方放你需要的传感器%n中间放太阳能板 可以使他成为发电卫星%n%n最下方放数据芯片 若要收集数据一定要放
-
-# Quest: tfr.quest193.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=收集卫星数据
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n需要RF来使用%n右上角放卫星芯片%n点击Connect接受数据
-
-# Quest: tfr.quest194.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=观察天体
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=多方块%n需要一个数据总线 里面放100点距离数据 %n%n在夜间才能工作%n%n花费100点距离数据扫描小行星%n在小行星选择列表下方放小行星芯片%n选中你想要的小行星后点击芯片旁的齿轮图标进行写入%n%n可用天体数据处理器来强化小行星芯片
-
-# Quest: tfr.quest195.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=挖矿火箭组装
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=%n组装一个采矿火箭%n%n需要 钻头来开采%n%n需要原版箱子当存储
-
-# Quest: tfr.quest196.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=挖矿火箭发射！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=%n组装好一个采矿火箭%n%n连接一个火箭监控
-
-# Quest: tfr.quest197.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=处理数据
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=多方块%n用于强化小行星芯片的数据%n来使利益更大化
-
-# Quest: tfr.quest334.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=一切就绪
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
+# Quest: tfru.q347n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=太空安全
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=制作宇航服，来抵抗致命的宇宙辐射，并且提供氧气。%n%n首先制作出一套宇航服，然后利用宇航服工作站加装你需要的氧气罐。
 
 # Quest: tfr.quest335.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=准备好氧气！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
 
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=液体燃料火箭！！！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=十足的推力才能将你送上天空
+# Quest: tfru.q342n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=燃料站
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=用于加注燃料，将它和结构塔类似地摆在发射台边上。记得要比结构塔高一层，不然检测不到。%n%n先使用连接器潜行右键加注站，然后右键火箭实体即可绑定, 如果供电充足，你登上火箭后应该就能看见左侧面板最下面一条燃料槽开始增多.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
+# Quest: tfru.q348n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=建造空间站
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=火箭能到达的范围是有限的，你需要建造空间站来跃迁前往更远的星球。%n%n1.按照火箭的发射台相同的构型建造空间站建筑台。%n2.在平台上随便放置你想要的空间站结构（到达空间站后你可以直接用身上的材料继续建造）。%n3.将空间站id芯片和卫星仓放入组装机，之后点击空间站建造机的建造按键即可。%n%n将获得的空间站容器放入你火箭上的卫星仓，将空间站id芯片放入火箭的导航电脑中即可发射空间站并同时前往空间站.
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
@@ -3191,9 +3187,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
-# Quest: tfr.quest626.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=火箭的大脑
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=导航电脑是控制火箭飞行的关键, 任何火箭都需要它, 不管是载人还是无人的. 
+# Quest: tfru.q345n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=§6导航电脑
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=你不可能口算所有参数让火箭上天! 使用导航计算机可以帮你计算路径，避免你迷失在太空中.
 
 # Quest: tfr.quest627.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=抵达Duck Egg C
@@ -3203,9 +3199,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=你也应该前往Duck Egg C%n�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
+# Quest: tfru.q349n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=量子跃迁(?)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=火箭苦弱，跃迁飞升！按照ar自带的投影仪搭建跃迁核心。%n%n结构无误的话右键即可成型，向输入口放入足够的双锂，就可以看见核心有充能。在核心面前放置跃迁控制器，点击选择目标，选择好星球之后确认燃料充足并且有方法达到目标，即可点击曲速跳跃前往任意你想去的星球。%n%n普通行星使用火箭即可从空间站下到行星表面，气态行星不能着陆，但你可以在空间站抽取气态行星大气的气体。
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
@@ -3230,6 +3226,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 # Quest: tfru.q142n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=不上天挑战
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=有时候你在想, 我对那些星星不感兴趣, 也不想制作这些火箭, 地球的拥挤也让我难受, 我只想安心地留在群峦星… %n%n没问题!即使不上天, 你依然有机会体验到本整合包大部分的内容.但这是一段艰辛的旅程…你将需要挖掘成千上万的沥青铀矿, 冷馏数十万L的空气, 在没有ae自动化的协助下度过整个核子时代……祝你好运! %n%n注: 提交的储罐要装满氦, 提交本任务视为开始不上天挑战, 整条航天时代任务线不会解锁, 同时会解锁下一代计算机的任务线
+
+# Quest: tfru.q343n
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.name=与火箭交互
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.desc=构建完成后可以看到你的火箭变成实体了，右键可以坐上去（如果你装座位了的话）潜行右键可以打开火箭界面，可以在这里向导航计算机放入芯片，向卫星仓放入卫星等，你需要放置好芯片再选择目标。选择好目标后即可加注燃油，登上火箭按下空格准备发射了
 
 
 ## Quest Line: tfr.line15.name

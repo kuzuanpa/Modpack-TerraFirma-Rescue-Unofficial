@@ -740,6 +740,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
@@ -1199,6 +1203,26 @@ betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: tfru.q339n
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=
+
+# Quest: tfru.q340n
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
+
+# Quest: tfru.q335n
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.desc=
+
+# Quest: tfru.q341n
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.name=
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
+
+# Quest: tfru.q338n
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
 # Quest: tfru.q334n
 betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=
@@ -2938,6 +2962,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=§9屬於電路板的工業
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 
+# Quest: tfru.q336n
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=
+
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
@@ -3094,6 +3122,10 @@ betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
 
+# Quest: tfru.q337n
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.name=
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.desc=
+
 # Quest: tfru.q169n
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
@@ -3111,7 +3143,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=載人航天, 小行星採�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=液體燃料火箭！！！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=十足的推力才能將你送上天空
 
-# Quest: New Quest
+# Quest: tfru.q344n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
 
@@ -3123,61 +3155,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=屬於星辰大海的夢
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=太空旅行的開端%n%n%n使用方法:在一個無遮攔的地方放置它%n然後在旁邊放置發射台與結構塔  結構塔最底層要與發射台Y軸要一樣 (相連)%n%n發射塔多寬, 結構塔多高, 你能DIY火箭就有多大.%n
 
-# Quest: New Quest
+# Quest: tfru.q346n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
 
-# Quest: tfr.quest191.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=人造衛星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=%n人造衛星 用於收集各種數據, 為採礦火箭做準備.%n需要組裝衛星後放入衛星艙送入軌道%n%n光學傳感器用於收集距離數據
-
-# Quest: tfr.quest192.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=組裝衛星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=%n此機器屬於多方塊%n在底部放一個能源輸入倉%n%n裡面需要左側需要人造衛星和衛星晶片 把衛星晶片放中間%n%n右側最上方放你需要的傳感器%n中間放太陽能板 可以使他成為發電衛星%n%n最下方放數據晶片 若要收集數據一定要放
-
-# Quest: tfr.quest193.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=收集衛星數據
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n需要RF來使用%n右上角放衛星晶片%n點擊Connect接受數據
-
-# Quest: tfr.quest194.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=觀察天體
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=多方塊%n需要一個數據總線 裡面放100點距離數據 %n%n在夜間才能工作%n%n花費100點距離數據掃描小行星%n在小行星選擇列表下方放小行星晶片%n選中你想要的小行星後點擊晶片旁的齒輪圖標進行寫入%n%n可用天體數據處理器來強化小行星晶片
-
-# Quest: tfr.quest195.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=挖礦火箭組裝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=%n組裝一個採礦火箭%n%n需要 鑽頭來開採%n%n需要原版箱子當存儲
-
-# Quest: tfr.quest196.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=挖礦火箭發射！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=%n組裝好一個採礦火箭%n%n連接一個火箭監控
-
-# Quest: tfr.quest197.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=處理數據
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=多方塊%n用於強化小行星晶片的數據%n來使利益更大化
-
-# Quest: tfr.quest334.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=一切就緒
+# Quest: tfru.q347n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
 
 # Quest: tfr.quest335.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=準備好氧氣！
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
 
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=液體燃料火箭！！！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=十足的推力才能將你送上天空
-
-# Quest: New Quest
+# Quest: tfru.q342n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
 
-# Quest: New Quest
+# Quest: tfru.q348n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
@@ -3191,9 +3187,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
-# Quest: tfr.quest626.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=火箭的大腦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=導航電腦是控制火箭飛行的關鍵, 任何火箭都需要它, 不管是載人還是無人的。
+# Quest: tfru.q345n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=
 
 # Quest: tfr.quest627.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=抵達Duck Egg C
@@ -3203,7 +3199,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=你也應該前往Duck Egg C%n�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q349n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
 
@@ -3230,6 +3226,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 # Quest: tfru.q142n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
+
+# Quest: tfru.q343n
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.name=
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.desc=
 
 
 ## Quest Line: tfr.line15.name

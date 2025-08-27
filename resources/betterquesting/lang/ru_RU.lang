@@ -740,6 +740,10 @@ betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
+
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
@@ -1199,6 +1203,26 @@ betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: tfru.q339n
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
+betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=
+
+# Quest: tfru.q340n
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
+betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
+
+# Quest: tfru.q335n
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=
+betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.desc=
+
+# Quest: tfru.q341n
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.name=
+betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
+
+# Quest: tfru.q338n
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
+betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
 # Quest: tfru.q334n
 betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=
@@ -2938,6 +2962,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABA.desc=9 принадлежит и
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.name=
 betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 
+# Quest: tfru.q336n
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=
+betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=
+
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.desc=
@@ -3094,6 +3122,10 @@ betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.desc=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.name=
 betterquesting.quest.Z6pgMNHvRXeKf6dOe-We5g.desc=
 
+# Quest: tfru.q337n
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.name=
+betterquesting.quest.nNn7idmjT1qzdH1wWKtnig.desc=
+
 # Quest: tfru.q169n
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.name=
 betterquesting.quest.yC1qenasQtW2i3EZMZbYpQ.desc=
@@ -3111,7 +3143,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABg.desc=Пилотируемые к
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.name=Ракеты с жидким топливом!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA-A.desc=Полный толчок, чтобы поднять тебя в небо
 
-# Quest: New Quest
+# Quest: tfru.q344n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=
 
@@ -3123,61 +3155,25 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.name=Мечта, принадлежащая звездам и морю
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvQ.desc=Метод старта в 1 % %n% %n% используется в начале космических полётов: % % в безлимитном месте, % % в непосредственной связи со структурой башни, а затем в непосредственной связи с нижней частью башни, которая должна быть такой же (связанной) шириной (связанной) с осями Y-вышки, как у платформы Y), % и насколько высокой должна быть ракета DIY
 
-# Quest: New Quest
+# Quest: tfru.q346n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvg.desc=
 
-# Quest: tfr.quest191.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.name=Искусственный спутник
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAvw.desc=% искусственный спутник используется для сбора различных данных и подготовки к горным ракетам.%n-n-n оптические сенсоры для сбора данных на расстоянии
-
-# Quest: tfr.quest192.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.name=Спутник.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwA.desc=Эта машина принадлежит к мультипликационному блоку % % от ввода энергии в нижнюю часть, и для этого требуется, чтобы на левой стороне были установлены спутниковые и спутниковые чипы, а на правой стороне — спутниковые и спутниковые чипы
-
-# Quest: tfr.quest193.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.name=Сбор данных со спутника
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwQ.desc=%n нуждается в RF для того, чтобы использовать % % - ный верхний правый угловой спутниковый чип % - n для запуска данных Connect
-
-# Quest: tfr.quest194.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.name=Наблюдение за небесными телами
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAwg.desc=Мног бакс%n нуж полож на 100 пункт расстоян шин Дан % н % н работа ночн чтоб % н%n трат на 100 пункт расстоян сканирован Дан астероид%n на под астероид выбор список астероид чип%n избра ты хочеш посл астероид кликн на иконк чип бел кален ряд с для записыва%n%n доступн небесн тел Дан процессор чтоб интенсивн астероид чип
-
-# Quest: tfr.quest195.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.name=Копаем шахту для сборки ракет
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=%n (%) для сборки горной ракеты %n% (% %) требуются буры, чтобы добывать % % % % % % (% %), а % % % — для хранения оригинальных коробок
-
-# Quest: tfr.quest196.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.name=Запуск ракеты!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxA.desc=% % собрали горнодобывающую ракету % % % соединены с ракетным наблюдением
-
-# Quest: tfr.quest197.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.name=Обработка данных
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAxQ.desc=Данные %, используемые для усиления чипа астероидов, % %, чтобы увеличить прибыль
-
-# Quest: tfr.quest334.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=Все готово.
+# Quest: tfru.q347n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTg.desc=
 
 # Quest: tfr.quest335.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.name=Приготовьте кислород!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
 
-# Quest: tfr.quest336.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.name=Ракеты с жидким топливом!
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABUA.desc=Полный толчок, чтобы поднять тебя в небо
-
-# Quest: New Quest
+# Quest: tfru.q342n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
 
-# Quest: New Quest
+# Quest: tfru.q348n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbg.desc=
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
@@ -3191,9 +3187,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
-# Quest: tfr.quest626.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=Мозг ракеты
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=Навигационный компьютер-ключ к управлению полетом ракеты, которая нужна любой ракете, будь то человек или беспилотник.
+# Quest: tfru.q345n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACcg.desc=
 
 # Quest: tfr.quest627.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.name=Прибытие на Duck Egg C
@@ -3203,7 +3199,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=Вам также следуе�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q349n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
 
@@ -3230,6 +3226,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 # Quest: tfru.q142n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.desc=
+
+# Quest: tfru.q343n
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.name=
+betterquesting.quest.AEecyB62SbOxyy5kphSdlg.desc=
 
 
 ## Quest Line: tfr.line15.name
