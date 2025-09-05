@@ -13,10 +13,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3w.desc=Once it is evening, it is time 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.name=Panning for gold (copper)
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4A.desc=Find a beach near the water, right-click the sand with a panning pan, and then keep right-clicking on the flowing water, and you have a good chance of getting some good stuff, including copper. %n%nNote that the sand will disappear if you use it too much.
 
-# Quest: tfr.quest0.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=The Stone Age
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=Oh, I have a terrible headache. I must have not recovered from the high frequency oscillation of the atmospheric brake. By the way, I think I should make the most basic tools, now I only have the stones.
-
 # Quest: tfr.quest1.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=Clay
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=Unlike vanilla, the clay blocks are covered by grass in this pack. But you can spot them with the goldenrod growing on top, a pretty yellow flower. Go get a ton of them! (not the flower, of course)
@@ -40,10 +36,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABw.desc=With stones, you can enter the 
 # Quest: tfr.quest8.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Stone Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=The stone anvil is obtained by right clicking on an igneous intrusive or igneous extrusive rock with a hammer. It will have a dent when compared to other stones. Right-click the anvil to open the GUI and place the hammer inside so that the anvil won't revert to a regular stone. %n%nIntrusive rocks: diorite, gabbro, granite %nIgneous rocks: andesite, basalt, dacite, rhyolite
-
-# Quest: tfr.quest10.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=Smelting Ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=Ceramic vessels (also known as pottery jars) can be used to refine primary copper, tetrahedrite or malachite to produce pure copper. To do this, store the ore in a pot (different minerals can be put in the same pot to make alloy) and then heat it in a clay kiln. %n%nAfter firing, retrieve the jar from the kiln and right-click it to open its GUI. Now you'll see that instead of the usual four slots, the jar has only one slot and contains info about the amount of metal it contains. Be careful though, the metal will remain in liquid form for only about 10 minutes. If the metal inside solidifies, you have to put it back into a kiln to melt it down again. %n%nNote: cans with molten metal inside will have a white "liquid" tooltip. %n%nRight click with the vase in hand when you are ready to pour the metal into formms. Put the pickaxe mold or other molds into the GUI that opens, and you can get your first metal pickaxe!%n%n=============================   %n%nCeramic vessels also can be used to make bronze, black bronze, and bismuth bronze. %n%nPlace the necessary ore in a ceramic vessel with proper ratio to make the desired copper alloy. For example, if you want to make ordinary bronze, you can put copper ore (any native copper, malachite or tetrahedrite) and cassiterite in ceramic vessels. For each alloy, there is a range of ratios you can meet to produce the desired alloy, so as long as you are within the range, you don't have to reach the exact ratio.
 
 # Quest: tfr.quest15.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=One cup of water a day keeps doctor away
@@ -339,10 +331,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWg.desc=You may have noticed that the v
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Temperature matters
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=Different crucibles have different melting temperatures, as you can see at Tooltip. This determines the maximum melting point of the metal they can smelt. Ceramic crucible, for example, could not be used to make iridium, but chrome crucible could. It's important to make a crucible with a high melting point, which allows you to make stronger metals. In general, ideal crucible tier progression is ceramic - chrome - iridium. For now, the highest level you can get is iridium. To keep the crucible from melting down, you need to make a thermometer to see the cauldron's temperature in real time. %n%n First prepare a glass bottle, then you need three cinnabar powder, drop it into the crucible, fill it with 144L liquid mercury from the crucible. Drop two planks into the combustion chamber and ignite (you can't drop too much fuel, as mercury evaporates easily), just enough to turn cinnabar into mercury, which is liquid at room temperature, so you don't have to worry about solidifying. You can obtain the mercury bottle by right-clicking the glass bottle directly at the liquid inside the crucible. Now that we've got the thermometer we can monitor the temperature of the cauldron all the time. No more melt downs!
 
-# Quest: tfr.quest107.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=The Might of Red and Blue
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=You have made the last anvil. Congratulations, you are a good blacksmith.
-
 # Quest: tfr.quest134.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.name=Breaking down Big Ores
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.desc=This 2x2x3 sized crusher USES RF energy to crush barren, ordinary, and enriched minerals into small minerals with a certain yield increase. § §lWithout a small ore, it cannot be processed further for the crushing ore you will need in the future, so this machine must be made. %n%n§renergy words. Why not use a civilian steam engine? After finding the Kimberlite, this is a machine well worth making! Kimberlite is formed in basalt, diorite, or gabbro. Sometimes they're not in the surface layers, but in the middle layers. So you need to dig a little deeper. You'll need at least two diamonds to make it. If you can't find the Kimberlite, check out the other quest rewards or the Multipurpose store.%n%n
@@ -378,10 +366,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABDQ.desc=Can only process some metals be
 # Quest: tfr.quest278.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=Automatic air blast
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=By putting charcoal and fresh water in a steam furnace, firing it, and giving a red stone signal, he was able to provide kinetic energy to adjacent bellows drives.   %n%n bellows drive may drive the bellows if adjacent to the bellows. %n%n The blast frequency can be adjusted by right-clicking the hammer on the steam furnace. There is a constant blast of air to make steel.
-
-# Quest: tfr.quest279.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.name=Smelting iron ore
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=Open the opening of the forge and place eight pieces of charcoal at the bottom of the chimney. %n%n climb to the top of the forge and drop 24 iron ore (depending on its size) into the chimney. %n%n throw equal or more charcoal over the lump of charcoal. Both the ore and the charcoal should disappear into the lump of charcoal. %n%n Note: if the player throws more ore than the forge can hold, the extra ore floats on the charcoal instead of melting. %n%n Activate the forge by right clicking on the forge block with the starter or flint. The tops of forge iron stoves and chimneys should begin to glow. %n%n When it's done, the glow disappears, and the process takes about 15 game hours. Open the forge iron furnace to obtain the iron billet. %n%n use a pick to break the iron. This item will automatically move to the nearest forge box for easy pickup. %n%n%n billet is a porous mixture of iron and slag produced by smelting iron ore in a forge iron furnace. The product of a forge iron furnace is a cast iron billet. The iron content of a cast iron billet will have a percentage value, of which 1 percent is equal to one metal unit (100 units of ore will produce 100 percent of the billet, corresponding to a wrought iron ingot). Note: If not enough ore is added to the forge, its iron percentage will be less than 100 percent, then it cannot be refined and must be put back into the forge to add more ore. Next, you need to refine, shard, and beat the cast iron billets with an anvil of bronze grade or higher.   you will get your first wrought iron. Please cool the forging iron ingot in the bucket in order to submit the task
 
 # Quest: tfr.quest284.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHA.name=Glue and tanks
@@ -515,10 +499,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=The second machine in mineral p
 # Quest: tfr.quest30.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.name=Grinding machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.desc=The third machine for mineral processing. A must have. %n It will grind your washed ores into powder, better than a mortar. The product powder is 1/72 of a full powder. It is recommended to fill a wooden storage barrels with one unit of powder, and then use a hopper or logistics itempipe to input 1/72  powder, which can then be automatically sorted into 1 unit of the powder. %n if it's too slow, you can make better ones with steel. %n%n Diamond plates can be made by cutting a flawless diamond with a saw or a circular saw
-
-# Quest: tfr.quest31.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Siever
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=§9 Sift salt, coal, and gemstone to gain more fine gems byproducts
 
 # Quest: tfr.quest32.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.name=§ §bl stainless steel
@@ -736,13 +716,9 @@ betterquesting.quest._uhgx_QUTbCDSw32pU5tAA.desc=
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.name=
 betterquesting.quest.dUhtgFPPTtum9Bx-e1kk4g.desc=
 
-# Quest: jinxi
+# Quest: tfru.q370n
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.name=
 betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
-
-# Quest: tfru.q107n
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
-betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=
 
 # Quest: tfru.q250n
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
@@ -797,17 +773,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABng.desc=It's actually not very advanced
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.name=Woodworking machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=A very practical machine, the most key is to be able to make the original book seedling
 
-# Quest: tfru.q293n
-betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.name=
-betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.desc=
-
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
-
-# Quest: tfru.q294n
-betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=
-betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -857,10 +825,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=We're dealing with chemical rea
 # Quest: tfr.quest43.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=Welder T1
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=Weld metals that you can't make on anvil, such as chromium and tungsten. And, also it can craft anvil recipe. You've finally got rid of the anvil.
-
-# Quest: tfr.quest45.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Generator (HV)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=An HV class generator
 
 # Quest: tfr.quest55.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=Cables
@@ -913,10 +877,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=With aluminum, it's not that di
 # Quest: tfr.quest96.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=I love Automation!
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=Filters have a wide range of USES in automation because they allow only certain types of items/fluids to pass through. One of its raw materials is aluminum, so it's hard to get until you get aluminum. %n%n holding an OB water tank or GT tank with desired liquid, right click on the liquid filter to mark the fluid, while the item filter USES the item, right click with the screwdriver to set the black and white list. %n%n since you already have a filter, go and automate titanium, aluminum, chromium and tungsten!
-
-# Quest: tfr.quest98.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Generator (MV)- I want more electricity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=You are weak, your liver is not perfect(a chinese idiom meaning you aren't a grinding god), your materials are loose, your power is slow, none of the machines are decent, but you still want to jump from LV to HV to generate electricity? DON"T EVEN THINK ABOUT IT!
 
 # Quest: tfr.quest103.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZw.name=Element Sixth
@@ -1070,10 +1030,6 @@ betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.name=
 betterquesting.quest.ebL6rnt9Tdie--ANgC0sAw.desc=
 
-# Quest: New Quest
-betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.name=
-betterquesting.quest.gVx3Rn-1T76yeMeLRO6fNA.desc=
-
 # Quest: tfru.q244n
 betterquesting.quest.iiBWGawQQS-Lxd_EkIUekg.name=
 betterquesting.quest.iiBWGawQQS-Lxd_EkIUekg.desc=
@@ -1127,11 +1083,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=
 
-# Quest: tfru.q305n
+# Quest: tfru.q173n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q372n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.desc=
 
@@ -1167,10 +1123,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhg.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=
 
-# Quest: tfru.q222n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
-
 # Quest: tfru.q221n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=
@@ -1192,7 +1144,7 @@ betterquesting.quest.hJzaNKdXToizIObp7zP1-g.name=
 betterquesting.quest.hJzaNKdXToizIObp7zP1-g.desc=
 
 
-## Quest Line: tfru.q200n
+## Quest Line: tfru.l4n
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
 
@@ -1207,6 +1159,10 @@ betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=
+
+# Quest: tfru.q373n
+betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
+betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
 
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
@@ -1223,10 +1179,6 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 # Quest: tfru.q338n
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
-
-# Quest: tfru.q334n
-betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=
-betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.desc=
 
 
 ## Quest Line: tfr.line7.name
@@ -1333,6 +1285,91 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=No one knows whether Alexander 
 # Quest: tfr.quest636.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
+
+
+## Quest Line: tfru.l3n
+betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.name=
+betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.desc=
+
+# Quest: tfru.q361n
+betterquesting.quest.0KtpxmK8T-CFzDGjby6Nyw.name=
+betterquesting.quest.0KtpxmK8T-CFzDGjby6Nyw.desc=
+
+# Quest: tfru.q353n
+betterquesting.quest.1lZHM4C6QXaWd-bdgdKz1g.name=
+betterquesting.quest.1lZHM4C6QXaWd-bdgdKz1g.desc=
+
+# Quest: tfru.q367n
+betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.name=
+betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.desc=
+
+# Quest: tfru.q354n
+betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.name=
+betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=
+
+# Quest: tfru.q366n
+betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.name=
+betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.desc=
+
+# Quest: tfru.q
+betterquesting.quest.Bgg54knMTe-aTfD437lN3A.name=
+betterquesting.quest.Bgg54knMTe-aTfD437lN3A.desc=
+
+# Quest: tfru.q358n
+betterquesting.quest.D4i_AJphT2ywbJAC17Ypaw.name=
+betterquesting.quest.D4i_AJphT2ywbJAC17Ypaw.desc=
+
+# Quest: tfru.q365n
+betterquesting.quest.IByg3-T9SBuj6OYjwEKUXw.name=
+betterquesting.quest.IByg3-T9SBuj6OYjwEKUXw.desc=
+
+# Quest: tfru.q350n
+betterquesting.quest.Kae8LHTjQ8GuWAisnezB6g.name=
+betterquesting.quest.Kae8LHTjQ8GuWAisnezB6g.desc=
+
+# Quest: tfru.q363n
+betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.name=
+betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.desc=
+
+# Quest: tfru.q368n
+betterquesting.quest.SljR672_TFuPdwL4O9PNew.name=
+betterquesting.quest.SljR672_TFuPdwL4O9PNew.desc=
+
+# Quest: tfru.q356n
+betterquesting.quest.V8yr0GdBQyexR-y5rt25dw.name=
+betterquesting.quest.V8yr0GdBQyexR-y5rt25dw.desc=
+
+# Quest: tfru.q359n
+betterquesting.quest.VNXXe0UAS1u5FtJSJaRSXw.name=
+betterquesting.quest.VNXXe0UAS1u5FtJSJaRSXw.desc=
+
+# Quest: tfru.q362n
+betterquesting.quest.a_dA8qVzTuS0JAOJPBBh2Q.name=
+betterquesting.quest.a_dA8qVzTuS0JAOJPBBh2Q.desc=
+
+# Quest: tfru.q351n
+betterquesting.quest.bdVMCgQmTZGObIT86y7azg.name=
+betterquesting.quest.bdVMCgQmTZGObIT86y7azg.desc=
+
+# Quest: tfru.q355n
+betterquesting.quest.ca-3-H4XQIGYBwikTL4KYg.name=
+betterquesting.quest.ca-3-H4XQIGYBwikTL4KYg.desc=
+
+# Quest: tfru.q357n
+betterquesting.quest.esmvKEkmQ_ih8Cj30z1O8A.name=
+betterquesting.quest.esmvKEkmQ_ih8Cj30z1O8A.desc=
+
+# Quest: tfru.q360n
+betterquesting.quest.f3prUnDHT1uQyElnI7PWqw.name=
+betterquesting.quest.f3prUnDHT1uQyElnI7PWqw.desc=
+
+# Quest: tfru.q352n
+betterquesting.quest.v6fP1NxwR1W_enVZ44Utzw.name=
+betterquesting.quest.v6fP1NxwR1W_enVZ44Utzw.desc=
+
+# Quest: tfru.q369n
+betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.name=
+betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.desc=
 
 
 ## Quest Line: tfr.line12.name
@@ -1537,7 +1574,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADFw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHg.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q371n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADKA.desc=
 
@@ -3171,10 +3208,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABTw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABbA.desc=
 
-# Quest: tfru.q348n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
-
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
@@ -3275,10 +3308,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACDw.desc=Throw one charging Flux crystal
 # Quest: tfr.quest528.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.name=cable
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEA.desc=Connect %n has the transmission function of energy, goods and fluid at the same time
-
-# Quest: tfr.quest529.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=The communication of matter and information
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=A panel that communicates matter and information, %n, that can turn a virtual reality into a real reality, %n, %n is a bit of a waste of electricity
 
 # Quest: tfr.quest530.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACEg.name=Ae start
@@ -3706,9 +3735,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=It's finally time to make a wor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.name=Redstone Flux Production
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3Q.desc=It can generate 16RF/ T of energy, which can be used to power bending machines and stone crushers. %n%n Remember to turn on with redstone signal!!
 
+# Quest: tfr.quest0.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.name=The Stone Age
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=Oh, I have a terrible headache. I must have not recovered from the high frequency oscillation of the atmospheric brake. By the way, I think I should make the most basic tools, now I only have the stones.
+
 # Quest: tfr.quest5.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§ § §lThe lost art
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=With the stone anvil, you can begin to forge metal. %n%n The metal anvil can be automatically carried on the back of the player.%n%n Lower grade anvils can work very little metal, so weld the copper ingots with the stone anvil and make the copper anvil. %n%n There are many different anvil, divided into different grades. Each grade is capable of more complex metalworking than previous grades. The anvil can weld high grade ingots together to form double ingots. All other forging must be done on an anvil of equal or higher quality. For example, stone anvil can only weld copper ingots. Copper anvil can weld copper ingot and copper alloy ingot. %n%n You can recycle the metal anvil in the crucible.%n%n In the next task you only need to make any bronze anvil to unlock the next task
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=
+
+# Quest: tfr.quest10.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=Smelting Ore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.desc=Ceramic vessels (also known as pottery jars) can be used to refine primary copper, tetrahedrite or malachite to produce pure copper. To do this, store the ore in a pot (different minerals can be put in the same pot to make alloy) and then heat it in a clay kiln. %n%nAfter firing, retrieve the jar from the kiln and right-click it to open its GUI. Now you'll see that instead of the usual four slots, the jar has only one slot and contains info about the amount of metal it contains. Be careful though, the metal will remain in liquid form for only about 10 minutes. If the metal inside solidifies, you have to put it back into a kiln to melt it down again. %n%nNote: cans with molten metal inside will have a white "liquid" tooltip. %n%nRight click with the vase in hand when you are ready to pour the metal into formms. Put the pickaxe mold or other molds into the GUI that opens, and you can get your first metal pickaxe!%n%n=============================   %n%nCeramic vessels also can be used to make bronze, black bronze, and bismuth bronze. %n%nPlace the necessary ore in a ceramic vessel with proper ratio to make the desired copper alloy. For example, if you want to make ordinary bronze, you can put copper ore (any native copper, malachite or tetrahedrite) and cassiterite in ceramic vessels. For each alloy, there is a range of ratios you can meet to produce the desired alloy, so as long as you are within the range, you don't have to reach the exact ratio.
 
 # Quest: tfr.quest12.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=§ § §lBoiling water!
@@ -3726,6 +3763,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=§ §bl turbines
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=Consumes SU(steam) to produces RU%n it outputs distilled water from the side. If no fluid storage or pipe is available, distilled water will be destroyed automatically. %n If the output is up, the entities on it will rotate %n%n not that only the crown shape task is the main task, in other words you can skip the other machines.
 
+# Quest: tfr.quest31.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Siever
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=§9 Sift salt, coal, and gemstone to gain more fine gems byproducts
+
 # Quest: tfr.quest33.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Serious RF power generation
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=Isn't it scientific that RU can produce RF in this turbine? Use it like the ordinary generator. Even with  16RU/t, its output is equivalent to nearly three hobbyist steam engines
@@ -3734,9 +3775,21 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=Isn't it scientific that RU can
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=And God said there is light
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=When an electric current passes through a carbon dioxide laser tube, it releases concentrated light energy, which can be used to produce LU, an important form of energy. Many machines require an LU to run.
 
+# Quest: tfr.quest45.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.name=Generator (HV)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALQ.desc=An HV class generator
+
+# Quest: tfr.quest98.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Generator (MV)- I want more electricity
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=You are weak, your liver is not perfect(a chinese idiom meaning you aren't a grinding god), your materials are loose, your power is slow, none of the machines are decent, but you still want to jump from LV to HV to generate electricity? DON"T EVEN THINK ABOUT IT!
+
 # Quest: tfr.quest106.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.name=Burning!!!! ~ ~
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.desc=The combustion chamber. The most direct way you can get heat, or HU, is also the source of heat for a steam boiler, but not just. Many of GregTech Tech's machines use heat. Until you make an electric heater, you'll need them. The heat output from the top (HU)%n%n combustion chamber is divided into solid, liquid and gas. The advantages and disadvantages of the three combustors are analyzed here. §4§lsolid combustor, using solid fuel, all fuel that can be used in a furnace (except magma) can be stuffed into a solid combustor and used as fuel. When you want to stop heating, you need to plug the front of the combustion chamber and wait for the current burning fuel to burn out. When using a solid combustion chamber for mineral smelting, be sure to wait for the fire to shut off before pouring. Because the less the contents of the crucible, the faster it heats up, if the crucible is left empty or near empty without being extinguished, the temperature will rise so rapidly that it will explode (in effect, melt). Suitable for equipment that requires long-term heating and high fault tolerance, but because of the need to manually add fuel and the need to periodically clean the ash after combustion, solid combustion Chambers are not recommended after the distillation column has been built. §2§lliquid combustor, the safest and most stable combustor, using combustible liquids: the best you can get right now is creosote (wines, creosote, and petroleum distillates are good for combustion, other oils have too low calorimetric values). Since the flammable liquid burns 1L/1ticks, when you want to stop heating, you just plug the front and stop heating immediately. When a mineral is smelted in a liquid combustion chamber, the heating can be stopped at a higher standard temperature to prevent solidification during the pouring process. %n%n§9§lgas combustor, long - acting combustor. The calorific value of propane butane is slightly higher than the calorific value of gasoline and other petroleum distilling oil, and each combustion USES 5~7L to burn 30~42ticks, so the shutdown will be delayed by about one second. Suitable for distillation column, steam boiler and other long-term heating sources. Note: depending on the oil found, a liquid or gas combustor may be used. The heavier the oil, the less the gas, and the more the oil and solid products, and vice versa.
+
+# Quest: tfr.quest107.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=The Might of Red and Blue
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=You have made the last anvil. Congratulations, you are a good blacksmith.
 
 # Quest: tfr.quest126.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.name=Annihilation reactor
@@ -3750,6 +3803,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=Two kinds of AR chips are used 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.name=§b§lGenerator (LV)- EU, not RF
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzw.desc=The beginning of the electric age
 
+# Quest: tfr.quest279.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.name=Smelting iron ore
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=Open the opening of the forge and place eight pieces of charcoal at the bottom of the chimney. %n%n climb to the top of the forge and drop 24 iron ore (depending on its size) into the chimney. %n%n throw equal or more charcoal over the lump of charcoal. Both the ore and the charcoal should disappear into the lump of charcoal. %n%n Note: if the player throws more ore than the forge can hold, the extra ore floats on the charcoal instead of melting. %n%n Activate the forge by right clicking on the forge block with the starter or flint. The tops of forge iron stoves and chimneys should begin to glow. %n%n When it's done, the glow disappears, and the process takes about 15 game hours. Open the forge iron furnace to obtain the iron billet. %n%n use a pick to break the iron. This item will automatically move to the nearest forge box for easy pickup. %n%n%n billet is a porous mixture of iron and slag produced by smelting iron ore in a forge iron furnace. The product of a forge iron furnace is a cast iron billet. The iron content of a cast iron billet will have a percentage value, of which 1 percent is equal to one metal unit (100 units of ore will produce 100 percent of the billet, corresponding to a wrought iron ingot). Note: If not enough ore is added to the forge, its iron percentage will be less than 100 percent, then it cannot be refined and must be put back into the forge to add more ore. Next, you need to refine, shard, and beat the cast iron billets with an anvil of bronze grade or higher.   you will get your first wrought iron. Please cool the forging iron ingot in the bucket in order to submit the task
+
 # Quest: tfr.quest299.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=Automated farm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=First, make the 36 cubes into a cuboid of 3 (width) x3 (length) x4 (height). Cover the cuboid with the furthest 7 tiles (original) %n%n feed water from the farm lock. %n%n import fertilizer, soil, and saplings or crop seeds from the farm box or directly open GUI. %n%n inputs RF energy from the farm gearbox. %n%n the goods and sand that come out of the farm boxes are funnelled or otherwise. It stops working if it gets blocked. %n%n Take care that the top of the farm is not obscured.
@@ -3761,6 +3818,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 # Quest: tfr.quest337.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.name=Reach Duck Egg B
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABUQ.desc=The first planet you should go to is Duck Egg B. You can obtain rare ores on Terrafirma like Certus Quartz and Tungsten.
+
+# Quest: tfru.q348n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABbQ.desc=
 
 # Quest: tfru.q74n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABjA.name=
@@ -3785,6 +3846,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAC7w.desc=
 # Quest: tfr.quest522.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.name=The core terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACCg.desc=Equivalent to %n%n%nEach ME controller has 32 channels, meaning it can feed a total of 32 ports/machine %n Note: Eight ordinary cable limit the highest output channel, also is you need to pick up four of the cable to use%n%n will completely several ME controller together, they will be turned into a whole, § a total number of threads share%n but connected with configuration constraints, such as only a § § 4 0 1 2 3 § § § § 5 6 7 8 9 § § § § § a linear, rectangular or § §ra cuboid § r%n most even seven on each direction at the same time, also is the maximum 7 * 7 * 7 cube%n%n note: Its "energy receiver" energy conversion function %n compact cable can have 32 channels %n§9 it can also provide channels to adjacent squares without the need for cable
+
+# Quest: tfr.quest529.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.name=The communication of matter and information
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACEQ.desc=A panel that communicates matter and information, %n, that can turn a virtual reality into a real reality, %n, %n is a bit of a waste of electricity
 
 # Quest: tfr.quest565.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACNQ.name=Draw breath!
@@ -3834,9 +3899,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADXw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=
 
-# Quest: tfru.q173n
+# Quest: tfru.q305n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=
+
+# Quest: tfru.q222n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.desc=
 
 # Quest: tfru.q214n
 betterquesting.quest.C6MzlH35TdCL_wL4_v9EXg.name=
@@ -3866,9 +3935,21 @@ betterquesting.quest.Uk0NvPWUQS2mqzIR0WXCMQ.desc=
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.name=
 betterquesting.quest.XLbdorFkSje-w3L-i5PtLg.desc=
 
+# Quest: tfru.q293n
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.name=
+betterquesting.quest.bw2Z5d8EQWWvRyeDlfRuIg.desc=
+
 # Quest: tfru.q285n
 betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.name=
 betterquesting.quest.ikKXtshCTaqFGjDJNXtoBg.desc=
+
+# Quest: tfru.q334n
+betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.name=
+betterquesting.quest.j7PnI1rISTWVsWXK-LeaUQ.desc=
+
+# Quest: tfru.q294n
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.name=
+betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=
 
 # Quest: tfru.q168n
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=
@@ -3884,3 +3965,7 @@ betterquesting.quest.z_AIsNUvS5ifglAyrJYDXA.desc=
 
 
 ### Quests in no quest lines ###
+
+# Quest: tfru.q107n
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.name=
+betterquesting.quest.tl3N5Ci2RIK2dZBjSeKP3A.desc=

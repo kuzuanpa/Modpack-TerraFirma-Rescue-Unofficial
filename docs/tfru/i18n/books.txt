@@ -280,7 +280,7 @@
     S:written.book.Manual_Reactors.page.43=增殖棒¶===================¶每次更新，这个棒的中子所需数量会减去棒上的中子数。如果所需中子数达到零，棒将变成富集棒。
     S:written.book.Manual_Reactors.page.44=增殖棒不会接受来自慢化燃料棒的中子。每次发射到此棒上的中子数会先扣除loss值，
     S:written.book.Manual_Reactors.page.45=即任何一个面发射到增殖棒上的中子都会损失一次loss值，而不仅仅是针对增殖棒整体的一次损失。
-    S:written.book.Manual_Reactors.page.46=¶¶===================¶Guide to Reactor Coolants¶===================¶
+    S:written.book.Manual_Reactors.page.46=¶¶===================¶冷却剂指南¶===================¶
     S:written.book.Manual_Reactors.page.47=蒸馏水¶===================¶直接转化为蒸汽，不需要热交换器。消耗80 HU将1升蒸馏水转换成160升蒸汽。慢化内部的所有燃料棒。不会改变燃料棒的属性。
     S:written.book.Manual_Reactors.page.48=半重水¶===================¶消耗40 HU将1升半重水转换成1升热半重水。慢化任何内部的燃料棒。不会改变燃料棒的属性。
     S:written.book.Manual_Reactors.page.49=重水¶===================¶消耗50 HU将1升重水转换成1升热重水。慢化任何内部的燃料棒。将燃料棒的最大中子值除以8。

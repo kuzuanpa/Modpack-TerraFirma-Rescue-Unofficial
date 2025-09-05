@@ -1,0 +1,67 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 890
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "tfru.q372d",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 2,
+        "Damage:2": 32005,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.multiitem.books",
+        "tag:10": {
+          "author:8": "Apature Atomics",
+          "book:8": "Manual_Reactors",
+          "title:8": "Fission Reactor Manual"
+        }
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "tfru.q372n",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 894,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 2,
+          "Damage:2": 32005,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multiitem.books",
+          "tag:10": {
+            "author:8": "Apature Atomics",
+            "book:8": "Manual_Reactors",
+            "title:8": "Fission Reactor Manual"
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

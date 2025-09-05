@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "tfr.quest5.desc",
+      "desc:8": "§ttfr.quest5.desc",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

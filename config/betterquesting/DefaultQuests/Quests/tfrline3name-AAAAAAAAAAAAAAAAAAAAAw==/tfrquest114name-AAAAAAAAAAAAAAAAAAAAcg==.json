@@ -86,6 +86,12 @@
           "Damage:2": 18102,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
+        },
+        "1:10": {
+          "Count:3": 9,
+          "Damage:2": 18101,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity"
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"
