@@ -22,8 +22,31 @@
  read
  mkdir mods
  cd ../..
+ 
+ declare -A prefix_files
+ found_duplicate=false
+
+ while IFS= read -r -d '' file; do
+     filename=$(basename "$file")
+     if [[ "$filename" =~ ^([^-]*)- ]]; then
+         prefix="${BASH_REMATCH[1]}"
+         prefix_files["$prefix"]+="$filename"$'\n'
+     fi
+ done < <(find "modsClient" -maxdepth 1 -type f -print0)
+
+ for prefix in "${!prefix_files[@]}"; do
+     count=$(echo -n "${prefix_files[$prefix]}" | grep -c '^')
+     if [ $count -gt 1 ]; then
+         echo "发现重复mod: '$prefix'"
+         found_duplicate=true
+     fi
+ done
+ if [ "$found_duplicate" = true ]; then exit;fi
+ echo "已检测mod重复情况"
+
  cp modsClient/* release/zh/mods -r
  echo "已复制mods"
+
  cp release/TFR\ BlueLine\ UI.zip release/zh/resourcepacks
  echo "已复制TFR蓝线UI材质包"
  cp release/zh/options-default-zhcn.txt release/zh/options.txt
