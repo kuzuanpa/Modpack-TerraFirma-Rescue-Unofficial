@@ -684,6 +684,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=
 betterquesting.quest.BjiAoZ1bS0eo_G5S2e_Jag.name=
 betterquesting.quest.BjiAoZ1bS0eo_G5S2e_Jag.desc=
 
+# Quest: tfru.q376n
+betterquesting.quest.Bs7UGsj5QAaEACRfu0d02A.name=
+betterquesting.quest.Bs7UGsj5QAaEACRfu0d02A.desc=
+
 # Quest: tfru.q314n
 betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=
 betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=
@@ -1046,13 +1050,13 @@ betterquesting.quest.muCPdktcSkiRlRUN7Hj3qw.desc=
 betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.name=
 betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=
 
+# Quest: tfru.q374n
+betterquesting.quest.q-ciLTrGScO7ESytMQub2g.name=
+betterquesting.quest.q-ciLTrGScO7ESytMQub2g.desc=
+
 # Quest: tfru.q246n
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=
-
-# Quest: tfru.q249n
-betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.name=
-betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.desc=
 
 # Quest: New Quest
 betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
@@ -1156,13 +1160,49 @@ betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
 
+# Quest: tfru.q
+betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
+betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
+
+# Quest: tfru.q
+betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=
+betterquesting.quest.EyH4aIARTpGquIhw34uFng.desc=
+
+# Quest: tfru.q
+betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=
+betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
+
+# Quest: tfru.q
+betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
+betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
+
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=
 
+# Quest: tfru.q
+betterquesting.quest.V7b2Kj2dQqSWI8_AEoT-tQ.name=
+betterquesting.quest.V7b2Kj2dQqSWI8_AEoT-tQ.desc=
+
+# Quest: tfru.q
+betterquesting.quest.VnRXXgkKSk-ianG__nL6sg.name=
+betterquesting.quest.VnRXXgkKSk-ianG__nL6sg.desc=
+
+# Quest: tfru.q
+betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.name=
+betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=
+
 # Quest: tfru.q373n
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
+
+# Quest: tfru.q
+betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=
+betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=
+
+# Quest: tfru.q
+betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.name=
+betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=
 
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
@@ -1179,6 +1219,26 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 # Quest: tfru.q338n
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
+
+# Quest: tfru.q
+betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=
+betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=
+
+# Quest: tfru.q
+betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.name=
+betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=
+
+# Quest: tfru.q
+betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=
+betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
+
+# Quest: tfru.q
+betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=
+betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.desc=
+
+# Quest: tfru.q
+betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
+betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
 
 
 ## Quest Line: tfr.line7.name
@@ -1362,6 +1422,10 @@ betterquesting.quest.esmvKEkmQ_ih8Cj30z1O8A.desc=
 # Quest: tfru.q360n
 betterquesting.quest.f3prUnDHT1uQyElnI7PWqw.name=
 betterquesting.quest.f3prUnDHT1uQyElnI7PWqw.desc=
+
+# Quest: tfru.q375n
+betterquesting.quest.gySttGGwQlWpG1hdQ2wjQA.name=
+betterquesting.quest.gySttGGwQlWpG1hdQ2wjQA.desc=
 
 # Quest: tfru.q352n
 betterquesting.quest.v6fP1NxwR1W_enVZ44Utzw.name=
@@ -3954,6 +4018,10 @@ betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=
 # Quest: tfru.q168n
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.desc=
+
+# Quest: tfru.q249n
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.name=
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.desc=
 
 # Quest: tfru.q268n
 betterquesting.quest.w8O4sBY8T86oax1NKi4gyQ.name=

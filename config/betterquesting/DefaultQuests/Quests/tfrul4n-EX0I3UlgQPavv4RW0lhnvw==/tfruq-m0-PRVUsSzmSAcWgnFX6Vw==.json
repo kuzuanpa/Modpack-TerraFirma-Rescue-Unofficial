@@ -1,38 +1,52 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 280
+      "questIDHigh:4": 7157829700761436301,
+      "questIDLow:4": -8173447054627196757
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "tfru.q297d",
+      "desc:8": "tfru.q",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 32055,
+        "Damage:2": 17100,
         "OreDict:8": "",
         "id:8": "gregtech:gt.multitileentity"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "tfru.q297n",
+      "name:8": "tfru.q",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
-      "taskLogic:8": "OR",
+      "taskLogic:8": "AND",
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 5983966400824691995,
-  "questIDLow:4": -8922702184738508382,
-  "rewards:9": {},
+  "questIDHigh:4": -7255422946726098119,
+  "questIDLow:4": -7925836575587042729,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.item.compact"
+        }
+      }
+    }
+  },
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
@@ -44,7 +58,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 32055,
+          "Damage:2": 17100,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
         }
@@ -60,13 +74,13 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 1,
-          "Damage:2": 32056,
+          "Count:3": 17,
+          "Damage:2": 18100,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
         }
       },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

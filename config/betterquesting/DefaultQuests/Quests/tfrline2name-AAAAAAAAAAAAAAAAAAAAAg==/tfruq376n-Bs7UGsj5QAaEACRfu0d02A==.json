@@ -8,18 +8,18 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "tfru.q297d",
+      "desc:8": "tfru.q376d",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 32055,
+        "Damage:2": 32723,
         "OreDict:8": "",
         "id:8": "gregtech:gt.multitileentity"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "tfru.q297n",
+      "name:8": "tfru.q376n",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -30,8 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 5983966400824691995,
-  "questIDLow:4": -8922702184738508382,
+  "questIDHigh:4": 490562620935979014,
+  "questIDLow:4": -8935101667120548648,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -44,7 +44,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 32055,
+          "Damage:2": 26147,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
         }
@@ -61,7 +61,41 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 32056,
+          "Damage:2": 26127,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 26107,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 3,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 26527,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
         }

@@ -2,36 +2,40 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 280
+      "questIDLow:4": 884
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 93
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "tfru.q297d",
+      "desc:8": "tfru.q249d",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 32055,
+        "Damage:2": 17999,
         "OreDict:8": "",
         "id:8": "gregtech:gt.multitileentity"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "tfru.q297n",
+      "name:8": "tfru.q249n",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
-      "taskLogic:8": "OR",
+      "taskLogic:8": "AND",
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 5983966400824691995,
-  "questIDLow:4": -8922702184738508382,
+  "questIDHigh:4": -5718602949101797248,
+  "questIDLow:4": -8743298337039139953,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -44,7 +48,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 32055,
+          "Damage:2": 17999,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
         }
@@ -60,13 +64,19 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 1,
-          "Damage:2": 32056,
+          "Count:3": 35,
+          "Damage:2": 18026,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity"
+        },
+        "1:10": {
+          "Count:3": 9,
+          "Damage:2": 18103,
           "OreDict:8": "",
           "id:8": "gregtech:gt.multitileentity"
         }
       },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

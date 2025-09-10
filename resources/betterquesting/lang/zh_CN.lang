@@ -684,6 +684,10 @@ betterquesting.quest.BUw-V13KRDml_NDs2fWYbA.desc=这个巨大的钢块块可以�
 betterquesting.quest.BjiAoZ1bS0eo_G5S2e_Jag.name=丢弃废料
 betterquesting.quest.BjiAoZ1bS0eo_G5S2e_Jag.desc=如果你有一些物质卡住了坩埚出口, 无法导入模具也无法用储罐取出, 你可以选择在浇注口下方放置垃圾桶, 这样卡住的物质会§c立刻§6全部§r销毁, §l§e使用此功能时要谨慎!垃圾桶不会检测吞下的物质是否有价值, 也不会检测物质的数量
 
+# Quest: tfru.q376n
+betterquesting.quest.Bs7UGsj5QAaEACRfu0d02A.name=阀门
+betterquesting.quest.Bs7UGsj5QAaEACRfu0d02A.desc=橡胶的密封度足够你制作控制液体流量的阀门了. 阀门初始状态为关闭, 流量为0, 使用活动扳手右键拧开阀门以提高流量, 潜行右键关闭阀门以降低流量.
+
 # Quest: tfru.q314n
 betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.name=迈向电力时代的阶梯
 betterquesting.quest.HaeZPnjrQ6e4eSGDQAzFdQ.desc=这里是蒸汽时代必做的产线, 完成它们之后你将拥有合格的矿处能力, 同时可以制作出芯片, 进入红石时代.
@@ -1046,13 +1050,13 @@ betterquesting.quest.muCPdktcSkiRlRUN7Hj3qw.desc=制作电容, 线圈, 电阻等
 betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.name=初始计算机
 betterquesting.quest.pEiDZLDWTBWKHq3B6qfy9Q.desc=你终于获得了一台高性能计算机! 你可以开始建设ae系统, 制作oc自动化或者借助崭新的计算机计算更好的芯片设计.
 
+# Quest: tfru.q374n
+betterquesting.quest.q-ciLTrGScO7ESytMQub2g.name=大钨钢坩埚
+betterquesting.quest.q-ciLTrGScO7ESytMQub2g.desc=集耐高温和大容量于一身, 两个愿望一次满足!
+
 # Quest: tfru.q246n
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.name=保持绝对纯洁
 betterquesting.quest.r3YHZN7ITya3xcGsPBcghQ.desc=不管怎样, 你应该获得了足够数量的稀有气体, 使用它们保护你的单晶硅尽可能的纯净, 这可以进一步提高晶体管的密度, 提升算力. %n前往计算机线构建下一种计算机, 你需要从头开始, 制作极度纯净的单晶硅.
-
-# Quest: tfru.q249n
-betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.name=基岩钻
-betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.desc=你应该找到过很多基岩矿脉了(还没有?参考探索的时光一章右下角的任务寻找), 基岩上方的石头矿可以轻松开采, 但基岩矿本身需要基岩钻. %n这台机器就是为你准备的, 他可以消耗润滑油开采基岩矿, 产出无限的矿物.
 
 # Quest: New Quest
 betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.name=
@@ -1156,13 +1160,49 @@ betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=使用它进行小行星勘测,
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=小行星采矿火箭
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=获取资源的全新方式！使用该机器构建小行星采矿火箭, 等级越高的火箭可以挖掘的矿物越硬, 运行速度越快的火箭挖掘和往返的速度越高
 
+# Quest: tfru.q
+betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=模板任务
+betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=模板任务
+betterquesting.quest.EyH4aIARTpGquIhw34uFng.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=模板任务
+betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=模板任务
+betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=模板任务
+
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=石墨烯
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.desc=通过改变原子排布制作的石墨烯与原来的石墨区别很大, 它具有良好的导热和导电性, 可以用于制作许多ev,iv的部件
 
+# Quest: tfru.q
+betterquesting.quest.V7b2Kj2dQqSWI8_AEoT-tQ.name=模板任务
+betterquesting.quest.V7b2Kj2dQqSWI8_AEoT-tQ.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.VnRXXgkKSk-ianG__nL6sg.name=模板任务
+betterquesting.quest.VnRXXgkKSk-ianG__nL6sg.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.name=模板任务
+betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=模板任务
+
 # Quest: tfru.q373n
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=大型机器
-betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=获得T5电路板之后，你就可以制作iv传感器，进而制作大型机器的控制器了. 它们将极大提高你的工作效率.
+betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=获得T5电路板之后, 你就可以制作iv传感器, 进而制作大型机器的控制器了. 它们将极大提高你的工作效率.
+
+# Quest: tfru.q
+betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=模板任务
+betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.name=模板任务
+betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=模板任务
 
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=高新电路
@@ -1179,6 +1219,26 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=纳米钛酸钡陶瓷, 具有�
 # Quest: tfru.q338n
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=超声震荡
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=利用压电陶瓷产生超声波, 具有许多独特的用途, 是你制作石墨烯的必经之路
+
+# Quest: tfru.q
+betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=模板任务
+betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.name=模板任务
+betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=模板任务
+betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=模板任务
+betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.desc=模板任务
+
+# Quest: tfru.q
+betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=模板任务
+betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=模板任务
 
 
 ## Quest Line: tfr.line7.name
@@ -1301,7 +1361,7 @@ betterquesting.quest.1lZHM4C6QXaWd-bdgdKz1g.desc=终于, 你靠自己的双手§
 
 # Quest: tfru.q367n
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.name=§e时代节点-资源: 采石场
-betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.desc=使用机器挖掘岩层, 不仅可以将石头供给产线, 也可以直接用于挖掘矿脉. %n%n下一次采矿方式升级在星际时代(EV), 你将可以发射火箭获取飞过我们头顶的小行星中的矿物, 并且完全自动化这个过程.
+betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.desc=使用机器挖掘岩层, 不仅可以将石头供给产线, 也可以直接用于挖掘矿脉. %n%n下一次采矿方式升级在高压时代(HV), 你将可以利用大量的RU和润滑油开采基岩矿脉, 获得无限的矿物.
 
 # Quest: tfru.q354n
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.name=§a时代节点: 蒸汽
@@ -1329,11 +1389,11 @@ betterquesting.quest.Kae8LHTjQ8GuWAisnezB6g.desc=与原版不同, 你并不能�
 
 # Quest: tfru.q363n
 betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.name=§a时代节点: 空间站
-betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.desc=经过一系列复杂的计算，你成功构建出了运行在轨道上的空间站。它所提供的微重力，真空环境和宇宙射线具有大量用途。%n%n接下来你需要
+betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.desc=经过一系列复杂的计算, 你成功构建出了运行在轨道上的空间站。它所提供的微重力, 真空环境和宇宙射线具有大量用途。%n%n接下来你需要
 
 # Quest: tfru.q368n
 betterquesting.quest.SljR672_TFuPdwL4O9PNew.name=§e时代节点-资源: 探矿仪
-betterquesting.quest.SljR672_TFuPdwL4O9PNew.desc=探矿仪使用电力探测, 使用魔力标记矿物. 它可以扫描群峦矿, gt矿和gt流体泉, 可以大幅度方便你寻找矿脉. %n%n下一次采矿方式升级在星际时代(EV), 你将可以发射火箭获取飞过我们头顶的小行星中的矿物, 并且完全自动化这个过程.
+betterquesting.quest.SljR672_TFuPdwL4O9PNew.desc=探矿仪使用电力探测, 使用魔力标记矿物. 它可以扫描群峦矿, gt矿和gt流体泉, 可以大幅度方便你寻找矿脉.%n%n下一次采矿方式升级在高压时代(HV), 你将可以利用大量的RU和润滑油开采基岩矿脉, 获得无限的矿物.
 
 # Quest: tfru.q356n
 betterquesting.quest.V8yr0GdBQyexR-y5rt25dw.name=§a时代节点: 电力
@@ -1362,6 +1422,10 @@ betterquesting.quest.esmvKEkmQ_ih8Cj30z1O8A.desc=经过LV时代, 你应该已经
 # Quest: tfru.q360n
 betterquesting.quest.f3prUnDHT1uQyElnI7PWqw.name=§a时代节点: 计算机
 betterquesting.quest.f3prUnDHT1uQyElnI7PWqw.desc=你终于制作出了第一台计算机, §a他可以胜任比电路板高的多的计算任务, 可以驱动更复杂的机器. §r%n%n接下来你需要利用现有的计算机对之前电路设计中的缺点进行修正, 制作出§b下一代计算机§r, 新一代计算机将足够胜任计算火箭轨道的任务, 之后用它们§b登上其他星球§r! %n同时你也可以制作数控车床, 以精确制造强度更高, 负载更强大的各种部件
+
+# Quest: tfru.q375n
+betterquesting.quest.gySttGGwQlWpG1hdQ2wjQA.name=时代节点-资源: 基岩钻
+betterquesting.quest.gySttGGwQlWpG1hdQ2wjQA.desc=使用基岩钻消耗润滑油和能源, 开采基岩以下的矿脉, 可以长期稳定的产出大量的矿物. %n%n下一次采矿方式升级在星际时代(EV), 你将可以发射火箭获取飞过我们头顶的小行星中的矿物, 并且完全自动化这个过程.
 
 # Quest: tfru.q352n
 betterquesting.quest.v6fP1NxwR1W_enVZ44Utzw.name=§a时代节点: 铁器
@@ -3954,6 +4018,10 @@ betterquesting.quest.kkJOWk9OT4eAh8SqofZtig.desc=这台机器可以消耗很高�
 # Quest: tfru.q168n
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.name=结晶器
 betterquesting.quest.pLUtgipnRZ2Xawg9X8ycsg.desc=通过缓慢的操作将液体结晶, 产出的单晶硅具有规整的原子排列, 这种微观层面的独特性质具有无限潜力…
+
+# Quest: tfru.q249n
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.name=基岩钻
+betterquesting.quest.sKNw6o9JQICGqZB8h4S7jw.desc=你应该找到过很多基岩矿脉了(还没有?参考探索的时光一章右下角的任务寻找), 基岩上方的石头矿可以轻松开采, 但基岩矿本身需要基岩钻. %n这台机器就是为你准备的, 他可以消耗润滑油开采基岩矿, 产出无限的矿物.
 
 # Quest: tfru.q268n
 betterquesting.quest.w8O4sBY8T86oax1NKi4gyQ.name=§2KU
