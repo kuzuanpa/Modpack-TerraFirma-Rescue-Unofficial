@@ -22,7 +22,7 @@
       "name:8": "tfr.quest290.name",
       "partySingleReward:1": 1,
       "questLogic:8": "AND",
-      "repeatTime:3": 432000,
+      "repeatTime:3": 216000,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",

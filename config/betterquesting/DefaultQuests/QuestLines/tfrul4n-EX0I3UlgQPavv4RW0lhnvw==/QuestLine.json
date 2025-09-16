@@ -6,9 +6,9 @@
       "desc:8": "tfru.l4d",
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 0,
+        "Damage:2": 12145,
         "OreDict:8": "",
-        "id:8": "minecraft:book"
+        "id:8": "gregtech:gt.multiitem.technological"
       },
       "name:8": "tfru.l4n",
       "visibility:8": "NORMAL"

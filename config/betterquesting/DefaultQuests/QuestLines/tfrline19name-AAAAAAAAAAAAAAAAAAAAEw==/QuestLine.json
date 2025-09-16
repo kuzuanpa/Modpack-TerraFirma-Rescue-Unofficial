@@ -5,10 +5,10 @@
       "bg_size:3": 256,
       "desc:8": "tfr.line19.desc",
       "icon:10": {
-        "Count:3": 1,
-        "Damage:2": 0,
+        "Count:3": 2,
+        "Damage:2": 6,
         "OreDict:8": "",
-        "id:8": "moegadd:point100"
+        "id:8": "ktfruaddon:ktfru.item.compact"
       },
       "name:8": "tfr.line19.name",
       "visibility:8": "NORMAL"

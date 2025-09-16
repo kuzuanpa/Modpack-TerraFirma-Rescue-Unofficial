@@ -1436,9 +1436,49 @@ betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.name=
 betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.desc=
 
 
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=Евангелие от неэмиратов
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=Бриллианты не могут быть найдены.
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Универсальный магазин
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Покупайте, что хотите
+
+# Quest: tfru.q399n
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.name=
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.name=
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.name=
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.name=
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.name=
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.name=
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest431.name
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=хром
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.name=
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.name=
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest283.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Алмаз 1.
@@ -1448,31 +1488,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=Гравий не может н
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Поменяйся со мной бриллиантами
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=Если вы найдете рудники кимберли, а раскопки принесут в основном разбитые алмазы, вы сможете обменять некоторые из них на более качественные в этой главе. Или можешь поменяться со мной.
 
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Алмаз 2.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Без бриллиантов? Ничего, утиные яйца помогут
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Алмаз 3.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=Без бриллиантов? Ничего, утиные яйца помогут
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Карбонат кальция
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Не смог найти электросварочный камень? Не бойся, лунное убийство тебе поможет
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Купить магму
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Сера будет продолжать накапливаться в блоках вокруг магмы, и если вы не сможете найти бассейн магмы, приходите обменять его.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Поменять каолин и графит
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Каолин и графит являются важными минералами, но поскольку нет инструкций, найти их будет труднее. Мы можем обменять их здесь, если их не найдут в ближайшее время.
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Универсальный магазин
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Покупайте, что хотите
-
 # Quest: tfr.quest290.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Ремонт дома
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Мой дом нуждается в ремонте в последнее время, и я был бы признателен, если бы вы предоставили мне материалы.
@@ -1481,37 +1496,45 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=Мой дом нуждаетс�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Совершенствовать других
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ах, прекрасный металл, я хочу купить несколько золотых и серебряных ниток для моей невесты
 
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Алмаз 2.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=Без бриллиантов? Ничего, утиные яйца помогут
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Алмаз 3.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=Без бриллиантов? Ничего, утиные яйца помогут
+
 # Quest: tfr.quest420.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Слиток бронзы
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest421.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Кован желез
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest422.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=оловя
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest423.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=серебрян
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest425.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=медн
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest426.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=вольфр
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest427.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=титанов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest428.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=алюмин
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest429.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Купи крабсбургер
@@ -1519,15 +1542,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Эксклюзивный рец
 
 # Quest: tfr.quest430.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=никел
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest431.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=хром
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest432.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=марганц
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=Этот обмен обновляется каждые 3 часа
 
 # Quest: tfr.quest433.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Продажа стали
@@ -1545,6 +1568,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC большая курица
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Суперкрабовый желтый замок
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Эксклюзивный рецепт от владельца краба.
 
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Карбонат кальция
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Не смог найти электросварочный камень? Не бойся, лунное убийство тебе поможет
+
 # Quest: tfr.quest554.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=Охранять деревню.
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Наша деревня под прицелом! Помоги нам сделать шлемы, и я отплачу тебе тем же!
@@ -1561,6 +1588,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=У меня не так мно�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=бриллиант
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=No Description
 
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Купить магму
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Сера будет продолжать накапливаться в блоках вокруг магмы, и если вы не сможете найти бассейн магмы, приходите обменять его.
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Поменять каолин и графит
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Каолин и графит являются важными минералами, но поскольку нет инструкций, найти их будет труднее. Мы можем обменять их здесь, если их не найдут в ближайшее время.
+
 # Quest: tfr.quest645.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=оловя
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=Этот обмен обновляется каждые 3 часа
@@ -1573,9 +1608,113 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=Этот обмен обнов�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=оловя
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=Этот обмен обновляется каждые 3 часа
 
+# Quest: tfru.q399n
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.name=
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.name=
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.name=
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest431.name
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.name=хром
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.name=
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.name=
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfr.quest431.name
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=хром
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.name=
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.name=
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.name=
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.name=
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.name=
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.name=
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.name=
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.name=
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.name=
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.name=
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.name=
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.name=
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.name=
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.name=
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.name=
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.name=
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.name=
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.desc=Этот обмен обновляется каждые 3 часа
+
+# Quest: tfru.q399n
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.name=
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.desc=Этот обмен обновляется каждые 3 часа
+
 # Quest: tfr.quest424.name
 betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=ким
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=Этот обмен обновляется каждые 3 часа
 
 
 ## Quest Line: tfru.l1n

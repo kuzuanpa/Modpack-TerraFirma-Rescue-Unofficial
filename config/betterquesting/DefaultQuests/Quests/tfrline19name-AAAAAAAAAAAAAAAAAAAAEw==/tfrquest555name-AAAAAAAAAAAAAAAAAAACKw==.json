@@ -22,7 +22,7 @@
       "name:8": "tfr.quest555.name",
       "partySingleReward:1": 1,
       "questLogic:8": "AND",
-      "repeatTime:3": 432000,
+      "repeatTime:3": 216000,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",
@@ -58,7 +58,7 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 128,
+          "Count:3": 256,
           "Damage:2": 8610,
           "OreDict:8": "",
           "id:8": "gregtech:gt.meta.railGt"

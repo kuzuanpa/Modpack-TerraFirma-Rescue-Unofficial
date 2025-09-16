@@ -1436,9 +1436,49 @@ betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.name=
 betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.desc=
 
 
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=非酋福音
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=鑽石找不到, 來看看這裡？
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=萬用商店
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=購買你想要的
+
+# Quest: tfru.q399n
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.name=
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.name=
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.name=
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.name=
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.name=
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.name=
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest431.name
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=鉻
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.name=
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.name=
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest283.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=鑽石1
@@ -1448,31 +1488,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=做碎石機挖不出鑽石？�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=和我交易一些鑽石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=如果你找到金伯利岩礦了, 挖掘大部分獲得的都是破裂鑽石, 你可以在這章兌換一些更好的鑽石。或者也可以和我交易。
 
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=鑽石2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎機沒鑽石？沒關係, 鴨蛋幫你忙
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=鑽石3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨機沒鑽石？沒關係, 鴨蛋幫你忙
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸鈣
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊劑石頭？不要怕, 月殺幫你忙
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=購買岩漿
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺會在岩漿周遭的方塊上不斷生成, 如果你找不到岩漿池的話, 就來兌換一個吧。
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兌換高嶺石和石墨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高嶺石和石墨是重要的礦物, 但是因為沒有指示物所以比較難找到。如果暫時找不到的話, 可以在這裡兌換一些。
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=萬用商店
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=購買你想要的
-
 # Quest: tfr.quest290.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=房屋修繕
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修繕, 你能給我提供一些材料嗎, 我會很感激的。
@@ -1481,37 +1496,45 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修繕,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=成全他人
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=啊, 美麗的金屬, 我想買一些金銀線送給我的未婚妻
 
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=鑽石2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎機沒鑽石？沒關係, 鴨蛋幫你忙
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=鑽石3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨機沒鑽石？沒關係, 鴨蛋幫你忙
+
 # Quest: tfr.quest420.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=青銅錠
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest421.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=鍛鐵
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest422.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=錫
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest423.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=銀
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest425.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=銅
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest426.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=鎢
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest427.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=鈦
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest428.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=鋁
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest429.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=購買蟹黃堡
@@ -1519,15 +1542,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=來自蟹老闆的獨家配方.
 
 # Quest: tfr.quest430.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=鎳
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest431.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=鉻
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest432.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=錳
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=此兌換每3小時刷新一次
 
 # Quest: tfr.quest433.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=鋼材交易
@@ -1545,6 +1568,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC大雞肉!%n200oz
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=超級蟹黃堡
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=來自蟹老闆的獨家配方.%n巨無霸！
 
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸鈣
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊劑石頭？不要怕, 月殺幫你忙
+
 # Quest: tfr.quest554.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守衛村莊
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我們的村莊被盯上了！幫我們製造幾個頭盔吧, 我會報答你的！
@@ -1561,6 +1588,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=最近我的顏料不太夠了,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=鑽石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=此兌換每3小時刷新一次
 
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=購買岩漿
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺會在岩漿周遭的方塊上不斷生成, 如果你找不到岩漿池的話, 就來兌換一個吧。
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兌換高嶺石和石墨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高嶺石和石墨是重要的礦物, 但是因為沒有指示物所以比較難找到。如果暫時找不到的話, 可以在這裡兌換一些。
+
 # Quest: tfr.quest645.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=高嶺石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=此兌換每3小時刷新一次
@@ -1573,9 +1608,113 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=此兌換每3小時刷新一次
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兌換每3小時刷新一次
 
+# Quest: tfru.q399n
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.name=
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.name=
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.name=
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest431.name
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.name=鉻
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.name=
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.name=
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfr.quest431.name
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=鉻
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.name=
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.name=
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.name=
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.name=
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.name=
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.name=
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.name=
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.name=
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.name=
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.name=
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.name=
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.name=
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.name=
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.name=
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.name=
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.name=
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.name=
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.desc=此兌換每3小時刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.name=
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.desc=此兌換每3小時刷新一次
+
 # Quest: tfr.quest424.name
 betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=金
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=此兌換每3小時刷新一次
 
 
 ## Quest Line: tfru.l1n

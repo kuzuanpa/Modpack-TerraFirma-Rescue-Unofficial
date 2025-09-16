@@ -214,11 +214,11 @@ MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 16 ,0,[10000],
 
 // Silk
 MTUtilsGT.addCustomRecipe("gt.recipe.loom", false, 32, 100 ,0,[10000],
-[<gregapi:gt.integrated_circuit:6>, <terrafirmacraft:item.WoolYarn>*6],
+[<gregapi:gt.integrated_circuit:6>*0, <terrafirmacraft:item.WoolYarn>*6],
 [<Forestry:craftingMaterial:3>]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.loom", false, 16, 80, 0, [10000],
-[<gregapi:gt.integrated_circuit:6>, <minecraft:string>*8],
+[<gregapi:gt.integrated_circuit:6>*0, <minecraft:string>*8],
 [<Forestry:craftingMaterial:3>]);
 
 recipes.addShapeless(<Forestry:sturdyMachine>,[<gregtech:gt.meta.machine:8610>]);

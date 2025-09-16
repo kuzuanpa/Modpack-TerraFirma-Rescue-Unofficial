@@ -1436,9 +1436,49 @@ betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.name=
 betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.desc=
 
 
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=The Gospel of Monsieur beaucaire
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=I can't find the diamond. Come here?
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
+
+# Quest: tfru.q399n
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.name=
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.name=
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.name=
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.name=
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.name=
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.name=
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest431.name
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=chromium
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.name=
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.name=
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest283.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=Diamond 1
@@ -1448,31 +1488,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=You can't get a diamond out of 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=Trade me some diamonds
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=If you find the Kimberlite mine and most of what you dig is broken diamonds, you can exchange some for better diamonds in this chapter. Or you can trade with me.
 
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=Universal store
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=Buy what you want
-
 # Quest: tfr.quest290.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=Home improvement
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair recently. Could you provide me with some materials? I would appreciate it.
@@ -1481,37 +1496,45 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=My house is in need of repair r
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=Help others
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=Ah, beautiful metal, I want to buy some gold and silver thread for my fiancee
 
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=Diamond 2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=No diamonds in a crusher? It doesn't matter. The duck egg will help you
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=Diamond 3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=No diamonds for a grinder? It doesn't matter. The duck egg will help you
+
 # Quest: tfr.quest420.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=Bronze ingot
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest421.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=Cast iron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest422.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=tin
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest423.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=silver
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest425.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=copper
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest426.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=tungsten
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest427.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=titanium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest428.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=aluminum
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest429.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=Buy crab Roe burgers
@@ -1519,15 +1542,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=Exclusive recipe from Krabo. De
 
 # Quest: tfr.quest430.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=nickel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest431.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=chromium
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest432.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=manganese
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=This exchange refreshes every 3 hours
 
 # Quest: tfr.quest433.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=Steel trading
@@ -1545,6 +1568,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC big chicken!%n200oz
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=Super Crab Burger
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=Exclusive recipe from Krabs.
 
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=Calcium carbonate
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=Can't find flux stone? Don't be afraid. Moonkill will help you
+
 # Quest: tfr.quest554.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=The guards village
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=Our village is being targeted! Help us make some helmets and I'll pay you back!
@@ -1561,6 +1588,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=I haven't had enough paints lat
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=Diamond
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=The trade refreshes every 3 hours.
 
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=Buy the magma
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=Sulfur builds up in squares around the magma, so if you can't find a magma pool, get one.
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=Exchange kaolinite and graphite
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=Kaolinite and graphite are important minerals, but are difficult to find because there are no indicators. If you can't find it at the moment, you can change some here.
+
 # Quest: tfr.quest645.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=Tin
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=This exchange refreshes every 3 hours
@@ -1573,9 +1608,113 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=This exchange refreshes every 3
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=Graphite
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=This exchange refreshes every 3 hours
 
+# Quest: tfru.q399n
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.name=
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.name=
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.name=
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest431.name
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.name=chromium
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.name=
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.name=
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfr.quest431.name
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=chromium
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.name=
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.name=
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.name=
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.name=
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.name=
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.name=
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.name=
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.name=
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.name=
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.name=
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.name=
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.name=
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.name=
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.name=
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.name=
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.name=
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.name=
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.desc=This exchange refreshes every 3 hours
+
+# Quest: tfru.q399n
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.name=
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.desc=This exchange refreshes every 3 hours
+
 # Quest: tfr.quest424.name
 betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=gold
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=This exchange refreshes every 3 hours
 
 
 ## Quest Line: tfru.l1n

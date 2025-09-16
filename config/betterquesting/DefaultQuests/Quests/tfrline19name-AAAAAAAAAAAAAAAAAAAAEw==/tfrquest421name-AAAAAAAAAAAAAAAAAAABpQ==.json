@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "ph.empty",
+      "desc:8": "tfr.quest647.desc",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -22,7 +22,7 @@
       "name:8": "tfr.quest421.name",
       "partySingleReward:1": 1,
       "questLogic:8": "AND",
-      "repeatTime:3": 432000,
+      "repeatTime:3": 216000,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",

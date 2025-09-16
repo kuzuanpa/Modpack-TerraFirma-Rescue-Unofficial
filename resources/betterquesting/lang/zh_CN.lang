@@ -91,7 +91,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGQ.desc=在不打开任何GUI的情况�
 
 # Quest: tfr.quest293.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.name=关于任务书
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.desc=这本任务书并不是线性的顺序解锁, 而更类似网状的结构, 不同章节之间彼此枝蔓和穿插. %n%n§a如果你只发展主线, 很可能会错过很实用的东西哦§r.%n%n§6此版本任务书中包含搜索和书签功能, 右键一个任务即可添加到书签, 左下角的按钮中分别有搜索和书签按钮, 当你找不到任务时记得使用哦. §r%n%n有许多任务会要求提交储罐, 请认真确认任务需求储罐内所含的流体. %n%n§6关于各章支线任务的实际内容§r: %n%n§a非酋福音§r: 当你找不到一些资源时可以前去兑换. %n§a万用商店§r: 使用TFRU币买卖物品. %n§a探索的时光§r: 关于快速旅行的方式和旅途中可能遇到的物品. %n§a征服新世界§r: 击杀各种怪物换取奖励. %n§a农业、畜牧业与渔业§r: 如题. %n§b[BOT]魔法觉醒§r: 植物魔法等魔法mod的主任务线. %n§b人类的能力没有极限§r: 关于各类工具、装备、盔甲的介绍. %n§b养蜂人的日常§r: 养蜂所需要知道的一切. %n§b存储与物流学§r: 介绍一些存储方式和运输方式. %n§b能量产生、转换和储存§r: 列出了本整合包所有的能量产生、转换和储存方式. %n§e石化革命§r: 介绍原油处理和石油制品(塑料等). %n§e计算学§r: 介绍光刻开始的高性能计算机的制作路线. %n§e航天时代§r: 介绍如何制作火箭上天. %n§e[AE]质量-信息转换技术§r: ae2的主任务线, 这是最通用和常见的自动化mod之一.  %n§e[OC]信息时代§r: oc的主任务线, 代码驱动的高级而复杂的自动化方式. %n§6[MO]人类的能力是有极限的§r: 超能物质的主任务线, 这是一个具有让人变成机器人等高度科幻内容的一个mod. %n§c[DE]龙之进化§r: 龙之进化的主任务线, 这里包含了最强大和危险的设备和装备.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABJQ.desc=这本任务书并不是线性的顺序解锁, 而更类似网状的结构, 不同章节之间彼此枝蔓和穿插. %n%n§a如果你只发展主线, 很可能会错过很实用的东西哦§r.%n%n§6此版本任务书中包含搜索和书签功能, 右键一个任务即可添加到书签, 左下角的按钮中分别有搜索和书签按钮, 当你找不到任务时记得使用哦. §r%n%n有许多任务会要求提交储罐, 请认真确认任务需求储罐内所含的流体. %n%n§6关于各章支线任务的实际内容§r: %n%n§d时代节点§r: 包含每个关键阶段的里程碑事件. %n§a万用商店§r: 当你找不到一些资源时可以前去兑换以及使用TFRU币买卖物品. %n§a探索的时光§r: 关于快速旅行的方式和旅途中可能遇到的物品. %n§a征服新世界§r: 击杀各种怪物换取奖励. %n§a农业、畜牧业与渔业§r: 如题. %n§b[BOT]魔法觉醒§r: 植物魔法等魔法mod的主任务线. %n§b人类的能力没有极限§r: 关于各类工具、装备、盔甲的介绍. %n§b养蜂人的日常§r: 养蜂所需要知道的一切. %n§b存储与物流学§r: 介绍一些存储方式和运输方式. %n§b能量产生、转换和储存§r: 列出了本整合包所有的能量产生、转换和储存方式. %n§e石化革命§r: 介绍原油处理和石油制品(塑料等). %n§e计算学§r: 介绍光刻开始的高性能计算机的制作路线. %n§e航天时代§r: 介绍如何制作火箭上天. %n§e[AE]质量-信息转换技术§r: ae2的主任务线, 这是最通用和常见的自动化mod之一.  %n§e[OC]信息时代§r: oc的主任务线, 代码驱动的高级而复杂的自动化方式. %n§6[MO]人类的能力是有极限的§r: 超能物质的主任务线, 这是一个具有让人变成机器人等高度科幻内容的一个mod. %n§c[DE]龙之进化§r: 龙之进化的主任务线, 这里包含了最强大和危险的设备和装备.
 
 # Quest: tfr.quest307.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMw.name=关于无法锻造问题(没配方)
@@ -1436,9 +1436,49 @@ betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.name=§e时代节点-资源: 小行�
 betterquesting.quest.w2IZJ1t7TiathSZzrKAGew.desc=随着火箭的轰鸣, 你将获取极大量的矿物. 这三个gt大机器完全支持自动化, 用它们彻底摆脱手动挖掘矿物的苦恼. %n%n注意集成矿物处理厂也在当前时期解锁, 你可以用它来快速处理这些矿物.
 
 
-## Quest Line: tfr.line12.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.name=§a非酋福音
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAADA.desc=钻石找不到, 来看看这里？
+## Quest Line: tfr.line19.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=§a万用商店
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=购买你想要的
+
+# Quest: tfru.q399n
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.name=
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.name=
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.name=
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.name=
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.name=
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.name=
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest431.name
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=铬
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.name=
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.name=
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest283.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.name=钻石1
@@ -1448,31 +1488,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABGw.desc=做碎石机挖不出钻石？�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.name=和我交易一些钻石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHQ.desc=如果你找到金伯利岩矿了, 挖掘大部分获得的都是破裂钻石, 你可以在这章兑换一些更好的钻石. 或者也可以和我交易. 
 
-# Quest: tfr.quest324.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=钻石2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎机没钻石？没关系, 鸭蛋帮你忙
-
-# Quest: tfr.quest377.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=钻石3
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨机没钻石？没关系, 鸭蛋帮你忙
-
-# Quest: tfr.quest459.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸钙
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊剂石头？不要怕, 月杀帮你忙
-
-# Quest: tfr.quest642.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=购买岩浆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺会在岩浆周遭的方块上不断生成, 如果你找不到岩浆池的话, 就来兑换一个吧. 
-
-# Quest: tfr.quest643.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兑换高岭石和石墨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高岭石和石墨是重要的矿物, 但是因为没有指示物所以比较难找到. 如果暂时找不到的话, 可以在这里兑换一些. 
-
-
-## Quest Line: tfr.line19.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=§a万用商店
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=购买你想要的
-
 # Quest: tfr.quest290.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.name=房屋修缮
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修缮, 你能给我提供一些材料吗, 我会很感激的. 
@@ -1481,37 +1496,45 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABIg.desc=我的房屋最近需要修缮,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.name=成全他人
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABJA.desc=啊, 美丽的金属, 我想买一些金银线送给我的未婚妻
 
+# Quest: tfr.quest324.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.name=钻石2
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABRA.desc=做破碎机没钻石？没关系, 鸭蛋帮你忙
+
+# Quest: tfr.quest377.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.name=钻石3
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABeQ.desc=做研磨机没钻石？没关系, 鸭蛋帮你忙
+
 # Quest: tfr.quest420.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.name=青铜锭
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpA.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest421.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.name=锻铁
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest422.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.name=锡
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpg.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest423.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.name=银
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABpw.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest425.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.name=铜
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest426.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.name=钨
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqg.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest427.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.name=钛
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABqw.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest428.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.name=铝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrA.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest429.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.name=购买蟹黄堡
@@ -1519,15 +1542,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABrQ.desc=来自蟹老板的独家配方.
 
 # Quest: tfr.quest430.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.name=镍
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrg.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest431.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.name=铬
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABrw.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest432.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.name=锰
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABsA.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest433.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABsQ.name=钢材交易
@@ -1545,6 +1568,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABsw.desc=KFC大鸡肉!%n200oz
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.name=超级蟹黄堡
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=来自蟹老板的独家配方.%n巨无霸！
 
+# Quest: tfr.quest459.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸钙
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊剂石头？不要怕, 月杀帮你忙
+
 # Quest: tfr.quest554.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守卫村庄
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.desc=我们的村庄被盯上了！帮我们制造几个头盔吧, 我会报答你的！
@@ -1561,6 +1588,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACLA.desc=最近我的颜料不太够了,
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.name=钻石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACLQ.desc=此兑换每3小时刷新一次
 
+# Quest: tfr.quest642.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.name=购买岩浆
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgg.desc=硫磺会在岩浆周遭的方块上不断生成, 如果你找不到岩浆池的话, 就来兑换一个吧. 
+
+# Quest: tfr.quest643.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.name=兑换高岭石和石墨
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACgw.desc=高岭石和石墨是重要的矿物, 但是因为没有指示物所以比较难找到. 如果暂时找不到的话, 可以在这里兑换一些. 
+
 # Quest: tfr.quest645.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.name=高岭石
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChQ.desc=此兑换每3小时刷新一次
@@ -1573,9 +1608,113 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChg.desc=此兑换每3小时刷新一次
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兑换每3小时刷新一次
 
+# Quest: tfru.q399n
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.name=
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.name=
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.name=
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest431.name
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.name=铬
+betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.name=
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.name=
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfr.quest431.name
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=铬
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.name=
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.name=
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.name=
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.name=
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.name=
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.name=
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.name=
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.name=
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.name=
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.name=
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.name=
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.name=
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.name=
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.name=
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.name=
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.name=
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.name=
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.desc=此兑换每3小时刷新一次
+
+# Quest: tfru.q399n
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.name=
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.desc=此兑换每3小时刷新一次
+
 # Quest: tfr.quest424.name
 betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.name=钢
-betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=
+betterquesting.quest.yylA26wXTgikCWWWVO6lhQ.desc=此兑换每3小时刷新一次
 
 
 ## Quest Line: tfru.l1n
