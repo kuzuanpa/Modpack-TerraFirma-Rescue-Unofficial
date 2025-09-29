@@ -121,10 +121,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.desc=你可能注意到了這裡的�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=轉換
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能無序合成轉換為相同的TFC物品, %n一些容易混淆的TFC物品被標記了。%n如果遇到某些物品無法使用的時候, 嘗試進行轉換。
 
-# Quest: tfr.quest619.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=任務組隊
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=組隊系統可以在任務書打開時的選擇界面找到.%n由於任務書的限制, 組隊系統並不能跨任務組隊, 組隊系統是同步完成任務.%n%n§f§c*換句話說, 你們組隊時一開始的任務起點必須一樣.
-
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社區
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
@@ -1164,17 +1160,37 @@ betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
+# Quest: tfru.q380n
+betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=
+betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=
+
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.desc=
+
+# Quest: tfru.q383n
+betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.name=
+betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=
 
 # Quest: tfru.q
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 
+# Quest: tfru.q381n
+betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=
+betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=
+
+# Quest: tfru.q379n
+betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.name=
+betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
+
 # Quest: tfru.q
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
+
+# Quest: tfru.q382n
+betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=
+betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
@@ -1236,9 +1252,38 @@ betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.desc=
 
+# Quest: tfru.q378n
+betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.name=
+betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
+
 # Quest: tfru.q
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - 目標地球
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=夢該醒了, 那個來自遙遠月亮的夢。
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目標地球
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距離核聚變反應堆開始穩定運行已經過去八年了, 我不再需要擔心能源耗盡——鴨蛋星有取之不盡的氦-3資源, 至少能夠供我使用20000年。%n但是我可活不了那麼久。我沒忘記我那最開始的祈望：回到地球上去。%n%n21X2年2月3日%n%n這段時間我一直在研究超遠躍遷技術的應用。躍遷技術已經能讓我前往臨近的星系, 但是前往地球那樣遠距離的星系——68光年以外的地方, 我依舊無法安心。%n我明白超遠距離的躍遷可能對我造成永久性的傷害。%n%n21X2年6月10日%n%n春天又過去了, 群巒星開始變得生機勃勃, 但我卻變得越發萎靡不振。%n直到昨天, 我才發現了一件令人害怕的事實：我患上了白血病。我想這很可能是鴨蛋星所釋放的高能粒子在這幾十年間對我持續的影響導致的。%n這件事就像一個響雷, 讓我不得不沉思我的對策。我沒有防輻射或治療癌症的藥物。即使我能研發, 我也可能撐不到那個時候。%n%n21X2年6月15日%n%n我決定冒險。我將我所能製造出的最堅硬的合金——無盡——打造成一身防護服。我希望這將能保護我免受超遠距離躍遷的傷害。%n%n21X2年7月16日%n%n不管是誰在閱讀這段日記, 我想告訴你：我出發了。我花費了一個月的時間將我需要攜帶的物品運送上空間站, 然而留在群巒星上的機械依舊很多。%n地球的坐標已經輸入躍遷控制器, 我身穿無盡防護服, 推下躍遷拉杆。%n開始了…返鄉之旅。
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鳴謝
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鳴謝%n%n所有TeamMoeg的支持者和黃金支持者, 感謝他們對我們的贊助。%n%n所有MoegCraft-3-Alpha的玩家。LebN,  woyun,  Sui_Fei,  Ruo_Fei,  031110,  Contrl_,  Gloa,  Xiao_JJ,  true,  65t7tyyu,  Melon_rinds,  2333_guizu,  ZinX,  xiaozhen,  MICU,  China12580,  Small_Mo, 等。%n%n所有MoegCraft玩家對我們的支持。%n%nMCBBS 整合包版版主。YPXiaoK, 沒糖的葫蘆, 梨木利亞, 感謝他們給了我們展示TFR的機會。%n%nMCMOD創始人：重生是希望, 感謝對我們的支持。%n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感謝他們為我們創造了精彩的Mod。%n%nMinecraftForge和Mojang, 感謝他們為TFR創造了如此美妙的平台。%n%nAllen Steele, Coyote三部曲的作者, 感謝他給予我靈感。%n%n我的物理、化學老師Mr.C、Mr.S、Mr.L和Ms.R, 感謝他們賦予我知識。
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾聲
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=沒有人知道亞歷山大·史蒂夫·二世最後是否安全抵達了地球。如果他成功了, 我想他會很失望的。這時的地球已經變成了一個荒蕪人煙的, 被沙塵暴和酸雨肆虐的地獄。%n%n感謝相對論, 亞光速航行的亞歷山大經歷的時間比地球上的人們, 至少在他們離開那裡之前, 要少得多。經過計算, 地球在他離開這段時間裡, 至少經歷了400年的歷史。誰也不知道地球上發生了什麼, 人類去了哪裡。%n%n亞歷山大的空間站上存有地球基因庫樣本以及20萬顆人類受精卵。希望, 這似乎已經熄滅的火焰, 依舊在寂靜的宇宙中存在著。亞歷山大的故事------%n%n§l將會由後人繼續書寫。
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=關於我們
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
 
 
 ## Quest Line: tfr.line7.name
@@ -1326,27 +1371,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=批量物質製造
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
 
 
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - 目標地球
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=夢該醒了, 那個來自遙遠月亮的夢。
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目標地球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距離核聚變反應堆開始穩定運行已經過去八年了, 我不再需要擔心能源耗盡——鴨蛋星有取之不盡的氦-3資源, 至少能夠供我使用20000年。%n但是我可活不了那麼久。我沒忘記我那最開始的祈望：回到地球上去。%n%n21X2年2月3日%n%n這段時間我一直在研究超遠躍遷技術的應用。躍遷技術已經能讓我前往臨近的星系, 但是前往地球那樣遠距離的星系——68光年以外的地方, 我依舊無法安心。%n我明白超遠距離的躍遷可能對我造成永久性的傷害。%n%n21X2年6月10日%n%n春天又過去了, 群巒星開始變得生機勃勃, 但我卻變得越發萎靡不振。%n直到昨天, 我才發現了一件令人害怕的事實：我患上了白血病。我想這很可能是鴨蛋星所釋放的高能粒子在這幾十年間對我持續的影響導致的。%n這件事就像一個響雷, 讓我不得不沉思我的對策。我沒有防輻射或治療癌症的藥物。即使我能研發, 我也可能撐不到那個時候。%n%n21X2年6月15日%n%n我決定冒險。我將我所能製造出的最堅硬的合金——無盡——打造成一身防護服。我希望這將能保護我免受超遠距離躍遷的傷害。%n%n21X2年7月16日%n%n不管是誰在閱讀這段日記, 我想告訴你：我出發了。我花費了一個月的時間將我需要攜帶的物品運送上空間站, 然而留在群巒星上的機械依舊很多。%n地球的坐標已經輸入躍遷控制器, 我身穿無盡防護服, 推下躍遷拉杆。%n開始了…返鄉之旅。
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鳴謝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鳴謝%n%n所有TeamMoeg的支持者和黃金支持者, 感謝他們對我們的贊助。%n%n所有MoegCraft-3-Alpha的玩家。LebN,  woyun,  Sui_Fei,  Ruo_Fei,  031110,  Contrl_,  Gloa,  Xiao_JJ,  true,  65t7tyyu,  Melon_rinds,  2333_guizu,  ZinX,  xiaozhen,  MICU,  China12580,  Small_Mo, 等。%n%n所有MoegCraft玩家對我們的支持。%n%nMCBBS 整合包版版主。YPXiaoK, 沒糖的葫蘆, 梨木利亞, 感謝他們給了我們展示TFR的機會。%n%nMCMOD創始人：重生是希望, 感謝對我們的支持。%n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感謝他們為我們創造了精彩的Mod。%n%nMinecraftForge和Mojang, 感謝他們為TFR創造了如此美妙的平台。%n%nAllen Steele, Coyote三部曲的作者, 感謝他給予我靈感。%n%n我的物理、化學老師Mr.C、Mr.S、Mr.L和Ms.R, 感謝他們賦予我知識。
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾聲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=沒有人知道亞歷山大·史蒂夫·二世最後是否安全抵達了地球。如果他成功了, 我想他會很失望的。這時的地球已經變成了一個荒蕪人煙的, 被沙塵暴和酸雨肆虐的地獄。%n%n感謝相對論, 亞光速航行的亞歷山大經歷的時間比地球上的人們, 至少在他們離開那裡之前, 要少得多。經過計算, 地球在他離開這段時間裡, 至少經歷了400年的歷史。誰也不知道地球上發生了什麼, 人類去了哪裡。%n%n亞歷山大的空間站上存有地球基因庫樣本以及20萬顆人類受精卵。希望, 這似乎已經熄滅的火焰, 依舊在寂靜的宇宙中存在著。亞歷山大的故事------%n%n§l將會由後人繼續書寫。
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=關於我們
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
-
-
 ## Quest Line: tfru.l3n
 betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.name=
 betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.desc=
@@ -1363,6 +1387,10 @@ betterquesting.quest.1lZHM4C6QXaWd-bdgdKz1g.desc=
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.name=
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.desc=
 
+# Quest: tfru.q
+betterquesting.quest.8wm5kRf3SAi4H_9YqCPt0Q.name=
+betterquesting.quest.8wm5kRf3SAi4H_9YqCPt0Q.desc=
+
 # Quest: tfru.q354n
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.name=
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=
@@ -1371,7 +1399,7 @@ betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=
 betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.name=
 betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q364n
 betterquesting.quest.Bgg54knMTe-aTfD437lN3A.name=
 betterquesting.quest.Bgg54knMTe-aTfD437lN3A.desc=
 
@@ -1752,10 +1780,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 # Quest: tfru.q195n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
-
-# Quest: tfru.q198n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 
 # Quest: tfru.q196n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
@@ -2908,10 +2932,6 @@ betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=
 
-# Quest: tfru.q325n
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
-
 # Quest: tfru.q264n
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=
@@ -3416,10 +3436,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
 
 # Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
-
-# Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
@@ -3435,11 +3451,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=你也應該前往Duck Egg C%n�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: tfru.q349n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
-
-# Quest: New Quest
+# Quest: tfru.q377n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
 
@@ -3455,7 +3467,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q384n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 
@@ -3930,6 +3942,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=
 
+# Quest: tfru.q325n
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
+
 # Quest: tfr.quest216.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHH
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=這是模組名為Minecraft的工作檯, 可以放置。%n%n經歷千辛萬苦, 你終於製作了這個原版生存里一分鐘就能做出的物品。恭喜！%n%n§l你問我石頭怎麼得到？用稿子挖掉一個岩石相鄰的六個方塊, 他就自己掉下來了。
@@ -4082,9 +4098,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=電池盒裡可以放四個電�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=更大, 存的更多
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=可以放16個電池, 輸出16A的電流, 其餘功能和小型電池盒相同。
 
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
+# Quest: tfru.q349n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
 
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=

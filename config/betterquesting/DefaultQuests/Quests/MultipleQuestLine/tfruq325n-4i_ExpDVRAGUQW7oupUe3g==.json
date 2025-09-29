@@ -1,6 +1,10 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": 2522774996148700851,
+      "questIDLow:4": -8214797929798788497
+    },
+    "1:10": {
       "questIDHigh:4": -2611619361175879130,
       "questIDLow:4": -8999110265138354978
     }
@@ -39,23 +43,6 @@
       "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 0,
-      "partialMatch:1": 1,
-      "requiredItems:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 10121,
-          "OreDict:8": "",
-          "id:8": "gregtech:gt.multitileentity"
-        }
-      },
-      "taskID:8": "bq_standard:retrieval"
-    },
-    "1:10": {
-      "autoConsume:1": 0,
-      "consume:1": 0,
-      "groupDetect:1": 0,
-      "ignoreNBT:1": 1,
       "index:3": 1,
       "partialMatch:1": 1,
       "requiredItems:9": {
@@ -68,7 +55,7 @@
       },
       "taskID:8": "bq_standard:retrieval"
     },
-    "2:10": {
+    "1:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
@@ -85,7 +72,7 @@
       },
       "taskID:8": "bq_standard:retrieval"
     },
-    "3:10": {
+    "2:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
@@ -102,7 +89,7 @@
       },
       "taskID:8": "bq_standard:retrieval"
     },
-    "4:10": {
+    "3:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,

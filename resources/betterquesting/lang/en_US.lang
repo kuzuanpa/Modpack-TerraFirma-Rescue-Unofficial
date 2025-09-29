@@ -121,10 +121,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.desc=You may have noticed that the s
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=Item Conversions
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=Most vanilla items can be shapeless crafted to or from the same TFC items. If something doesn't work, try to convert it.
 
-# Quest: tfr.quest619.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=Task team
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=The team forming system can be found in the selection interface when the task book is opened.%n Due to the limitation of the task book, the team forming system cannot team across tasks, and the team forming system is to complete tasks synchronously.%n%n§f§ C * In other words, you must start with the same task starting point when you team up.
-
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=Join a community
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
@@ -1164,17 +1160,37 @@ betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
+# Quest: tfru.q380n
+betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=
+betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=
+
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.desc=
+
+# Quest: tfru.q383n
+betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.name=
+betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=
 
 # Quest: tfru.q
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 
+# Quest: tfru.q381n
+betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=
+betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=
+
+# Quest: tfru.q379n
+betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.name=
+betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
+
 # Quest: tfru.q
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
+
+# Quest: tfru.q382n
+betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=
+betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
@@ -1236,9 +1252,38 @@ betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.desc=
 
+# Quest: tfru.q378n
+betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.name=
+betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
+
 # Quest: tfru.q
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - Objective Earth
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=It's time to wake up, the dream from the distant moon.
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=Objective the earth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=August 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.%n%nAugust 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=thanks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Thanks to %n%n all TeamMoeg supporters and gold supporters for their sponsorship of us. %n%n All players of MoegCraft 3-alpha. LebN, Woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, True, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, Xiaozhen, MICU, China12580, Small_Mo, etc. %n%n The support of all the MoegCraft players. %n%nTo MCBBS moderators YPXiaoK, Meitangdehulu, and Limuliya, for giving us a chance to show TFR. %n%nThanks to founder of MCMOD: RebirthIsHope. %n%nGregoriousT, TFC-Team, ZMASTER587, and all Mod authors in TFR, thank to them for creating wonderful Mods for us. %n%nMinecraftForge and Mojang for creating such a wonderful platform for TFR. %n%nAllen Steele, author of the Coyote trilogy, for inspiration. %n%n My physics and chemistry teachers Mr.C, Mr.S, Mr.L and Ms.R, thank them for granting me knowledge.
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=The end of the
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=No one knows whether Alexander Steve II made it to Earth safely or not. If he succeeds, I think he will be very disappointed. Earth had become a desolate, desolate hell, ravaged by dust storms and acid rain. Thanks to relativity, Alexander of sublight-speed travel experienced much less time than people on Earth, at least before they left there. By rough calculation, Earth has experienced at least 400 years of history during the time of his departure. No one knows what has happened to Earth or where the human race has gone. Alexander's space station holds samples of the Earth's gene bank and 200,000 fertilized human eggs. Hope, the flame that seems to have gone out, still exists in the silent universe. The story of Alexander -- n%n§l will be continued by future generations.
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
 
 
 ## Quest Line: tfr.line7.name
@@ -1326,27 +1371,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=Bulk material manufacturing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
 
 
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - Objective Earth
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=It's time to wake up, the dream from the distant moon.
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=Objective the earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=August 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.%n%nAugust 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=thanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Thanks to %n%n all TeamMoeg supporters and gold supporters for their sponsorship of us. %n%n All players of MoegCraft 3-alpha. LebN, Woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, True, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, Xiaozhen, MICU, China12580, Small_Mo, etc. %n%n The support of all the MoegCraft players. %n%nTo MCBBS moderators YPXiaoK, Meitangdehulu, and Limuliya, for giving us a chance to show TFR. %n%nThanks to founder of MCMOD: RebirthIsHope. %n%nGregoriousT, TFC-Team, ZMASTER587, and all Mod authors in TFR, thank to them for creating wonderful Mods for us. %n%nMinecraftForge and Mojang for creating such a wonderful platform for TFR. %n%nAllen Steele, author of the Coyote trilogy, for inspiration. %n%n My physics and chemistry teachers Mr.C, Mr.S, Mr.L and Ms.R, thank them for granting me knowledge.
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=The end of the
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=No one knows whether Alexander Steve II made it to Earth safely or not. If he succeeds, I think he will be very disappointed. Earth had become a desolate, desolate hell, ravaged by dust storms and acid rain. Thanks to relativity, Alexander of sublight-speed travel experienced much less time than people on Earth, at least before they left there. By rough calculation, Earth has experienced at least 400 years of history during the time of his departure. No one knows what has happened to Earth or where the human race has gone. Alexander's space station holds samples of the Earth's gene bank and 200,000 fertilized human eggs. Hope, the flame that seems to have gone out, still exists in the silent universe. The story of Alexander -- n%n§l will be continued by future generations.
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
-
-
 ## Quest Line: tfru.l3n
 betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.name=
 betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.desc=
@@ -1363,6 +1387,10 @@ betterquesting.quest.1lZHM4C6QXaWd-bdgdKz1g.desc=
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.name=
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.desc=
 
+# Quest: tfru.q
+betterquesting.quest.8wm5kRf3SAi4H_9YqCPt0Q.name=
+betterquesting.quest.8wm5kRf3SAi4H_9YqCPt0Q.desc=
+
 # Quest: tfru.q354n
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.name=
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=
@@ -1371,7 +1399,7 @@ betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=
 betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.name=
 betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.desc=
 
-# Quest: tfru.q
+# Quest: tfru.q364n
 betterquesting.quest.Bgg54knMTe-aTfD437lN3A.name=
 betterquesting.quest.Bgg54knMTe-aTfD437lN3A.desc=
 
@@ -1752,10 +1780,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=
 # Quest: tfru.q195n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=
-
-# Quest: tfru.q198n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=
 
 # Quest: tfru.q196n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=
@@ -2908,10 +2932,6 @@ betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=
 
-# Quest: tfru.q325n
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
-
 # Quest: tfru.q264n
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=
@@ -3416,10 +3436,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
 
 # Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
-
-# Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
@@ -3435,11 +3451,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=You should also head to Duck Eg
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: tfru.q349n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
-
-# Quest: New Quest
+# Quest: tfru.q377n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
 
@@ -3455,7 +3467,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q384n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
 
@@ -3930,6 +3942,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=
 
+# Quest: tfru.q325n
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=
+
 # Quest: tfr.quest216.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHHHHHHH
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=It's finally time to make a workbench. %n%nThrough a lot of hard work, you've finally made something that you could have made in a minute in the vanilla! Congratulations! %n%n§lYou may wonder how do you get the stone? Dig out the six blocks directly adjacent to a rock with your pickaxe, and the remaining floating stone will suddenly drop without being turned to cobble.
@@ -4082,9 +4098,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=Four batteries can be placed in
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=Bigger, save more
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=It can hold 16 batteries and output 16A current. The other functions are the same as the small battery box.
 
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
+# Quest: tfru.q349n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=
 
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=

@@ -63,7 +63,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=请记住, 本任务书和NEI�
 
 # Quest: tfr.quest137.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.name=多人游戏
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.desc=如果你想进行多人游戏, 请使用服务器开服, 局域网联机有许多bug且已被禁用. %n%n请参考./docs/tfru/server.txt搭建服务器. 注: 如果你联机的人不多, 就不需要租用专业的服务器. 直接在自己的电脑上运行服务器, 之后使用与局域网联机相同的方式(内网穿透, 端口映射等)将服务器提供给玩家即可. 服务器的端口默认为25565. %n%n如果你希望启用作弊, 请在世界创建时就启用作弊.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiQ.desc=如果你想进行多人游戏, 请使用服务器开服, 局域网联机有许多bug且已被禁用. %n%n请参考./docs/tfru/server.txt搭建服务器. 注: 如果你联机的人不多, 就不需要租用专业的服务器. 直接在自己的电脑上运行服务器, 之后使用与局域网联机相同的方式(内网穿透, 端口映射等)将服务器提供给玩家即可. 服务器的端口默认为25565. %n%n如果你希望启用作弊, 请在世界创建时就启用作弊. %n%n组队系统可以在任务书打开时的选择界面找到, 也可以点击左下角返回键, 可以让一个队伍的玩家同步完成任务.
 
 # Quest: tfr.quest157.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.name=你终于能做木板. . . 
@@ -120,10 +120,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABzQ.desc=你可能注意到了这里的�
 # Quest: tfr.quest561.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.name=转换
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACMQ.desc=大多原版物品都能无序合成转换为相同的TFC物品, %n一些容易混淆的TFC物品被标记了. %n如果遇到某些物品无法使用的时候, 尝试进行转换. 
-
-# Quest: tfr.quest619.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.name=多人模式
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACaw.desc=由于多个mod在局域网联机存在bug, 本整合包禁用了局域网联机. 请按照整合包目录下docs/tfru/server.txt搭建服务端. %n%n组队系统可以在任务书打开时的选择界面找到, 可以让一个队伍的玩家同步完成任务.
 
 # Quest: tfr.quest637.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACfQ.name=加入社区
@@ -196,7 +192,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmw.desc=将铜矿和锡矿以近似9单
 
 # Quest: tfr.quest164.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.name=气候-目前可以透露的情报
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=群峦星的气候十分有趣. z轴坐标为零的一条线是它的赤道, 常年干旱, 温度奇高, 食物迅速腐烂. %n%n环境温度指的是周围的温度, 环境温度在早上6点增加, 晚上6点减少. %n%n影响因素: 高度, 纬度(z坐标), 月份%n%n环境温度和其他气候计算是基于一个区域的给定纬度(Z坐标). Z = 0的线被认为相当于赤道, 而Z = - 30, 000的线被认为大致相当于北极圈. %n%n环境温度影响多种特性, 包括:%动物生成, 高炉效率, 作物生长, 坩埚效率, 树叶的颜色, 果树生长, 天气, 食物腐烂等. %n%n§b完成该任务后即可前往"探索的时光"任务线§r查看快速行进的方式(左半边)和旅程中可能遇到的有价值的物品(右半边).
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApA.desc=群峦星的气候十分有趣. z轴坐标为零的一条线是它的赤道, 常年干旱, 温度奇高, 食物迅速腐烂. %n%n环境温度指的是周围的温度, 环境温度在早上6点增加, 晚上6点减少. %n%n影响因素: 高度, 纬度(z坐标), 月份%n%n环境温度和其他气候计算是基于一个区域的给定纬度(Z坐标). Z = 0的线被认为相当于赤道, 而Z = - 30, 000的线被认为大致相当于北极圈. %n%n环境温度影响多种特性, 包括:%n动物生成, 高炉效率, 作物生长, 坩埚效率, 树叶的颜色, 果树生长, 天气, 食物腐烂等. %n%n§b完成该任务后即可前往"探索的时光"任务线§r查看快速行进的方式(左半边)和旅程中可能遇到的有价值的物品(右半边).
 
 # Quest: tfr.quest168.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.name=坩埚, 不太好用, 但是至少比花瓶好
@@ -454,7 +450,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=一天, 你在锻造的时�
 
 # Quest: tfru.q308n
 betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.name=机器工具
-betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=大部分gt普通机器可以使用类似的工具切换一些属性: %n%n使用螺丝刀切换是否仅在所有输出槽为空时启动工作/某个输入槽是否仅在为空时接受输入 %n%n使用活动扳手对着自动输入输出面右键可以切换是否自动输入输出 %n%n使用软锤中止当前处理的配方, 不会返还原料. %n%n使用剪线钳右键可以切换是否在配方结束时一并输出催化剂.
+betterquesting.quest.1e9l81zDQrmq-aRxqCwq4w.desc=大部分gt普通机器可以使用类似的工具切换一些属性: %n%n§a螺丝刀§r: 切换 仅在所有输出槽为空时工作或者某个输入槽是否仅在为空时接受输入 %n%n§a活动扳手§r: 对着自动输入输出面右键可以切换是否自动输入输出 %n%n§a软锤§r: 中止当前处理的配方, 不会返还原料. %n%n§a剪线钳§r: 可以切换是否在配方结束时一并输出催化剂, 用于方便ae自动化. 催化剂不会影响并行, 建议将该功能用于高并行机器时适当增大ae样板的倍数
 
 # Quest: tfru.q296n
 betterquesting.quest.3-dpLC-xSpSOYuR1qmnw0w.name=小漏斗, 龙头, 喷嘴
@@ -1164,17 +1160,37 @@ betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=获取资源的全新方式！�
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=模板任务
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=模板任务
 
+# Quest: tfru.q380n
+betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=晶体电路
+betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=使用激光精确加工出各种晶体独特的回路，可以引发它们产生普通电路无法产生的独特性质.
+
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=模板任务
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.desc=模板任务
+
+# Quest: tfru.q383n
+betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.name=纳米制造机
+betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=量子操作最简单的应用是直接改变原子间的微观结构. 利用它你可以制造出独特的新纳米材料, 也可以直接制作一些之前难以制作的纳米材料.
 
 # Quest: tfru.q
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=模板任务
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=模板任务
 
+# Quest: tfru.q381n
+betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=蓝宝石晶体处理器
+betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=蓝宝石制成的晶体处理器，可以助你走入量子的世界.
+
+# Quest: tfru.q379n
+betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.name=晶体处理器电路板
+betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=使用高算力精确控制晶体电路的工作，激发它们产生独特而实用的性质.
+
 # Quest: tfru.q
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=模板任务
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=模板任务
+
+# Quest: tfru.q382n
+betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=IV激光蚀刻机
+betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=你需要足够强大的机器才可以制作晶体电路的核心.
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=石墨烯
@@ -1236,9 +1252,38 @@ betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=模板任务
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=模板任务
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.desc=模板任务
 
+# Quest: tfru.q378n
+betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.name=究极电子电路
+betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=在体积很小的情况下拥有很高的算力, 可以用于制作晶体电路，这是原生gt6最终极的用途特化的电路，用于一些特殊的用途.
+
 # Quest: tfru.q
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=模板任务
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=模板任务
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - 目标地球
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=梦该醒了, 那个来自遥远月亮的梦.
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目标地球
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距离核聚变反应堆开始稳定运行已经过去八年了, 我不再需要担心能源耗尽——鸭蛋星有取之不尽的氦-3资源, 至少能够供我使用20000年. %n但是我可活不了那么久. 我没忘记我那最开始的祈望：回到地球上去. %n%n21X2年2月3日%n%n这段时间我一直在研究超远跃迁技术的应用. 跃迁技术已经能让我前往临近的星系, 但是前往地球那样远距离的星系——68光年以外的地方, 我依旧无法安心. %n我明白超远距离的跃迁可能对我造成永久性的伤害. %n%n21X2年6月10日%n%n春天又过去了, 群峦星开始变得生机勃勃, 但我却变得越发萎靡不振. %n直到昨天, 我才发现了一件令人害怕的事实：我患上了白血病. 我想这很可能是鸭蛋星所释放的高能粒子在这几十年间对我持续的影响导致的. %n这件事就像一个响雷, 让我不得不沉思我的对策. 我没有防辐射或治疗癌症的药物. 即使我能研发, 我也可能撑不到那个时候. %n%n21X2年6月15日%n%n我决定冒险. 我将我所能制造出的最坚硬的合金——无尽——打造成一身防护服. 我希望这将能保护我免受超远距离跃迁的伤害. %n%n21X2年7月16日%n%n不管是谁在阅读这段日记, 我想告诉你：我出发了. 我花费了一个月的时间将我需要携带的物品运送上空间站, 然而留在群峦星上的机械依旧很多. %n地球的坐标已经输入跃迁控制器, 我身穿无尽防护服, 推下跃迁拉杆. %n开始了…返乡之旅. 
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鸣谢
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鸣谢%n%n所有TeamMoeg的支持者和黄金支持者, 感谢他们对我们的赞助. %n%n所有MoegCraft-3-Alpha的玩家. LebN, woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, true, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, xiaozhen, MICU, China12580, Small_Mo, 等. %n%n所有MoegCraft玩家对我们的支持. %n%nMCBBS 整合包版版主. YPXiaoK, 没糖的葫芦, 梨木利亚, 感谢他们给了我们展示TFR的机会. %n%nMCMOD创始人：重生是希望, 感谢对我们的支持. %n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感谢他们为我们创造了精彩的Mod. %n%nMinecraftForge和Mojang, 感谢他们为TFR创造了如此美妙的平台. %n%nAllen Steele, Coyote三部曲的作者, 感谢他给予我灵感. %n%n我的物理、化学老师Mr.C、Mr.S、Mr.L和Ms.R, 感谢他们赋予我知识. 
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾声
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=没有人知道亚历山大·史蒂夫·二世最后是否安全抵达了地球. 如果他成功了, 我想他会很失望的. 这时的地球已经变成了一个荒芜人烟的, 被沙尘暴和酸雨肆虐的地狱. %n%n感谢相对论, 亚光速航行的亚历山大经历的时间比地球上的人们, 至少在他们离开那里之前, 要少得多. 经过计算, 地球在他离开这段时间里, 至少经历了400年的历史. 谁也不知道地球上发生了什么, 人类去了哪里. %n%n亚历山大的空间站上存有地球基因库样本以及20万颗人类受精卵. 希望, 这似乎已经熄灭的火焰, 依旧在寂静的宇宙中存在着. 亚历山大的故事------%n%n§l将会由后人继续书写. 你达成了TFRU4.3大版本的毕业目标! 请期待接下来的更新，如果你有兴趣，也可以参与开发或者提出建议.
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
 
 
 ## Quest Line: tfr.line7.name
@@ -1326,27 +1371,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
 
 
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 255 - 目标地球
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=梦该醒了, 那个来自遥远月亮的梦.
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目标地球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距离核聚变反应堆开始稳定运行已经过去八年了, 我不再需要担心能源耗尽——鸭蛋星有取之不尽的氦-3资源, 至少能够供我使用20000年. %n但是我可活不了那么久. 我没忘记我那最开始的祈望：回到地球上去. %n%n21X2年2月3日%n%n这段时间我一直在研究超远跃迁技术的应用. 跃迁技术已经能让我前往临近的星系, 但是前往地球那样远距离的星系——68光年以外的地方, 我依旧无法安心. %n我明白超远距离的跃迁可能对我造成永久性的伤害. %n%n21X2年6月10日%n%n春天又过去了, 群峦星开始变得生机勃勃, 但我却变得越发萎靡不振. %n直到昨天, 我才发现了一件令人害怕的事实：我患上了白血病. 我想这很可能是鸭蛋星所释放的高能粒子在这几十年间对我持续的影响导致的. %n这件事就像一个响雷, 让我不得不沉思我的对策. 我没有防辐射或治疗癌症的药物. 即使我能研发, 我也可能撑不到那个时候. %n%n21X2年6月15日%n%n我决定冒险. 我将我所能制造出的最坚硬的合金——无尽——打造成一身防护服. 我希望这将能保护我免受超远距离跃迁的伤害. %n%n21X2年7月16日%n%n不管是谁在阅读这段日记, 我想告诉你：我出发了. 我花费了一个月的时间将我需要携带的物品运送上空间站, 然而留在群峦星上的机械依旧很多. %n地球的坐标已经输入跃迁控制器, 我身穿无尽防护服, 推下跃迁拉杆. %n开始了…返乡之旅. 
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鸣谢
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鸣谢%n%n所有TeamMoeg的支持者和黄金支持者, 感谢他们对我们的赞助. %n%n所有MoegCraft-3-Alpha的玩家. LebN, woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, true, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, xiaozhen, MICU, China12580, Small_Mo, 等. %n%n所有MoegCraft玩家对我们的支持. %n%nMCBBS 整合包版版主. YPXiaoK, 没糖的葫芦, 梨木利亚, 感谢他们给了我们展示TFR的机会. %n%nMCMOD创始人：重生是希望, 感谢对我们的支持. %n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感谢他们为我们创造了精彩的Mod. %n%nMinecraftForge和Mojang, 感谢他们为TFR创造了如此美妙的平台. %n%nAllen Steele, Coyote三部曲的作者, 感谢他给予我灵感. %n%n我的物理、化学老师Mr.C、Mr.S、Mr.L和Ms.R, 感谢他们赋予我知识. 
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾声
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=没有人知道亚历山大·史蒂夫·二世最后是否安全抵达了地球. 如果他成功了, 我想他会很失望的. 这时的地球已经变成了一个荒芜人烟的, 被沙尘暴和酸雨肆虐的地狱. %n%n感谢相对论, 亚光速航行的亚历山大经历的时间比地球上的人们, 至少在他们离开那里之前, 要少得多. 经过计算, 地球在他离开这段时间里, 至少经历了400年的历史. 谁也不知道地球上发生了什么, 人类去了哪里. %n%n亚历山大的空间站上存有地球基因库样本以及20万颗人类受精卵. 希望, 这似乎已经熄灭的火焰, 依旧在寂静的宇宙中存在着. 亚历山大的故事------%n%n§l将会由后人继续书写. 
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
-
-
 ## Quest Line: tfru.l3n
 betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.name=§d时代节点
 betterquesting.questline.lpdKSc3MTo2-iUB7sxJhjQ.desc=§b讲述你从迫降到最终毕业的所有里程碑级的成就
@@ -1363,6 +1387,10 @@ betterquesting.quest.1lZHM4C6QXaWd-bdgdKz1g.desc=终于, 你靠自己的双手§
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.name=§e时代节点-资源: 采石场
 betterquesting.quest.46I4Sa2nQhm0S9IpWTf0AQ.desc=使用机器挖掘岩层, 不仅可以将石头供给产线, 也可以直接用于挖掘矿脉. %n%n下一次采矿方式升级在高压时代(HV), 你将可以利用大量的RU和润滑油开采基岩矿脉, 获得无限的矿物.
 
+# Quest: tfru.q
+betterquesting.quest.8wm5kRf3SAi4H_9YqCPt0Q.name=模板任务
+betterquesting.quest.8wm5kRf3SAi4H_9YqCPt0Q.desc=模板任务
+
 # Quest: tfru.q354n
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.name=§a时代节点: 蒸汽
 betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=你终于获得了§a第一个格雷科技的能源§r, 这将驱动你未来的机器, 为你提供更高效的加工处理和更尖端的科技. %n%n接下来你需要制作蒸汽时代的机器, 并做出§b基于红石的AR电路板§r, 以进入红石时代, 获得§d全自动的树场和采石场§r和具有§d大范围扫描矿物功能的探矿仪§r
@@ -1371,9 +1399,9 @@ betterquesting.quest.AF1RsPD3QJuZgbNn3VZRLg.desc=你终于获得了§a第一个�
 betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.name=§e时代节点-资源: 批量淘金
 betterquesting.quest.AK-ULA2SQUSKxO5sPrSfZA.desc=使用机器从大量岩石中获取隐含的矿物, 尽管单次几率不高, 但挂机处理大量的石头仍具有可观的收益. %n%n下一次采矿方式升级在红石时代, 你将可以用采石场大范围挖掘石头以供给批量淘金产线. %n%n还将可以用探矿仪搜索大范围内矿物的痕迹, 更方便地找到更多矿脉.
 
-# Quest: tfru.q
-betterquesting.quest.Bgg54knMTe-aTfD437lN3A.name=模板任务
-betterquesting.quest.Bgg54knMTe-aTfD437lN3A.desc=模板任务
+# Quest: tfru.q364n
+betterquesting.quest.Bgg54knMTe-aTfD437lN3A.name=§a时代节点: 跃迁
+betterquesting.quest.Bgg54knMTe-aTfD437lN3A.desc=在深入量子领域探索后, 你制造出了双锂晶体, 这可以让你跃迁前往地球. TFRU4.3版本的毕业目标. 接下来TFRU还会更新更多内容，敬请期待.
 
 # Quest: tfru.q358n
 betterquesting.quest.D4i_AJphT2ywbJAC17Ypaw.name=§a时代节点: ME网络
@@ -1389,7 +1417,7 @@ betterquesting.quest.Kae8LHTjQ8GuWAisnezB6g.desc=与原版不同, 你并不能�
 
 # Quest: tfru.q363n
 betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.name=§a时代节点: 空间站
-betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.desc=经过一系列复杂的计算, 你成功构建出了运行在轨道上的空间站。它所提供的微重力, 真空环境和宇宙射线具有大量用途。%n%n接下来你需要
+betterquesting.quest.S3SmvFP2RyaLE9vX59-Yhg.desc=经过一系列复杂的计算, 你成功构建出了运行在轨道上的空间站。它所提供的微重力, 真空环境和宇宙射线具有大量用途。%n%n接下来你需要制作大型机器和发电机, 制作晶体处理器, 深入量子领域, 搭建并启动带领空间站跃迁的跃迁引擎.
 
 # Quest: tfru.q368n
 betterquesting.quest.SljR672_TFuPdwL4O9PNew.name=§e时代节点-资源: 探矿仪
@@ -1752,10 +1780,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABmA.desc=在部分古老的建筑结构�
 # Quest: tfru.q195n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.name=加速腰带
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABmg.desc=植物魔法提供了两种可以加速的腰带, 有助于你跑的更快
-
-# Quest: tfru.q198n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.name=封印之布
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABmw.desc=使用这个可以去除任意物品上的附魔, 一块布可以使用36次.
 
 # Quest: tfru.q196n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVA.name=平原腰带
@@ -2908,10 +2932,6 @@ betterquesting.quest.28GqByiUQiaDHLzkp9tk3g.desc=激光能, 用处很多且很�
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.name=RF蒸汽引擎
 betterquesting.quest.4iGcz5GiT2ummVtWlDaM9A.desc=使用这些引擎可以将蒸汽转化为RF, GT锅炉产生的蒸汽也可以正常使用.
 
-# Quest: tfru.q325n
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=走向微观
-betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=使用高能激光, 你终于获得了直接操作微观粒子的能力. 尽管转化效率很低, 但直接操作量子还是能给你带来很多的方便.
-
 # Quest: tfru.q264n
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.name=管道
 betterquesting.quest.5D90DE8sScujIa_jLjqx3g.desc=蒸汽使用不漏气的管道即可传输, 很合理吧
@@ -3066,7 +3086,7 @@ betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=利用最新研究的能源型�
 
 # Quest: tfru.q257n
 betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.name=本章说明
-betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=这章任务讲述了本整合包中§a所有§r的能量生成,转换,存储,运输方式, 由于覆盖面广泛, §c你能看到的任务并不一定能在你目前所处的时代完成§r.%n由于大部分任务实际在其他任务线也有提到, 本章的任务大部分是引用而非本体. %n%n§e存在势差和通量概念的能量基本有着相似的逻辑, 为了方便理解, 任务书其他部分会统称其为电压/电流§r, 请勿在见到"RU电压"等表述时感到奇怪.%n%n能量本体的任务图标是最大的, 图标右下角是该能量的§a直接运输方式§r, 右上角是§e变压方式§r, 图标右侧是该能量的§b直接存储方式§r, 图标下方是该能量§d转换为其他能量§r所用到的机器, 图标左侧是从自然/化石燃料等§6直接产生该能量的生成器§r%n§r这意味着某种能量的产生方式§6不仅有左侧的直接产生方式, 还有上方由其他能量转换而来的方式§r. %n对应位置没有任务即为无法直接传输/储存/生产 %n%n其他图标里最小的是普通的单方块机器, 比小图标大一圈的任务图标表示这个任务提到的机器是多方块结构.
+betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=这章任务讲述了本整合包中§a所有§r的能量生成,转换,存储,运输方式, 由于覆盖面广泛, §c你能看到的任务并不一定能在你目前所处的时代完成§r. 每个任务组内是按照时代从上到下排序的, 越靠下的任务代表它的科技水平越高. %n由于大部分任务实际在其他任务线也有提到, 本章的任务大部分是引用而非本体. %n%n§e存在势差和通量概念的能量基本有着相似的逻辑, 为了方便理解, 任务书其他部分会统称其为电压/电流§r, 请勿在见到"RU电压"等表述时感到奇怪.%n%n能量本体的任务图标是最大的, 图标右下角是该能量的§a直接运输方式§r, 右上角是§e变压方式§r, 图标右侧是该能量的§b直接存储方式§r, 图标下方是该能量§d转换为其他能量§r所用到的机器, 图标左侧是从自然/化石燃料等§6直接产生该能量的生成器§r%n§r这意味着某种能量的产生方式§6不仅有左侧的直接产生方式, 还有上方由其他能量转换而来的方式§r. %n对应位置没有任务即为无法直接传输/储存/生产 %n%n其他图标里最小的是普通的单方块机器, 比小图标大一圈的任务图标表示这个任务提到的机器是多方块结构.
 
 # Quest: tfru.q259n
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.name=太阳能集热塔
@@ -3416,10 +3436,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABoA.desc=
 
 # Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABwQ.desc=
-
-# Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACVQ.desc=
 
@@ -3435,13 +3451,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACcw.desc=你也应该前往Duck Egg C%n�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACiQ.desc=
 
-# Quest: tfru.q349n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=量子跃迁(?)
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=火箭苦弱, 跃迁飞升！按照ar自带的投影仪搭建跃迁核心. %n%n结构无误的话右键即可成型, 向输入口放入足够的双锂, 就可以看见核心有充能. 在核心面前放置跃迁控制器, 点击选择目标, 选择好星球之后确认燃料充足并且有方法达到目标, 即可点击曲速跳跃前往任意你想去的星球. %n%n普通行星使用火箭即可从空间站下到行星表面, 气态行星不能着陆, 但你可以在空间站抽取气态行星大气的气体. 
-
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=
+# Quest: tfru.q377n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.name=前往地球...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClQ.desc=在获得了星际跃迁的能力后, 你终于能够前往那个梦中的故乡: 地球. 尽管星际望远镜观测的结果不容乐观, 你还是想亲眼回去看看...
 
 # Quest: New Quest
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADbg.name=
@@ -3455,9 +3467,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADbw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcg.desc=
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=
+# Quest: tfru.q384n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.name=双锂
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADcw.desc=跃迁所需的独特燃料. 做出它说明你距离全宇宙的自由航行不远了
 
 # Quest: tfru.q142n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADew.name=不上天挑战
@@ -3930,6 +3942,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=能量与龙力相融合, 可�
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=大蒸汽涡轮
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=拥有探伤仪后你可以构建安全稳定的涡轮机, 经过探伤的涡轮不会再突然损坏, 但放入涡轮机后开始运转即会受损, 只能回收重新制作. %n尽管标记了受损, 它仍会运转相当长的时间, 当涡轮即将损坏时会发出异常的声响和振动, 附着于主方块上的振动检测器可以检测这种振动并输出红石信号. %n%n涡轮运转中并不会明显损坏, 因此回收是没有损耗的%n%n普通模式下涡轮机会输出(基础输出)*涡轮功率系数 RU/A * 1A/t的功率, 但功率不会超过面板功率的两倍. %n%n可以使用螺丝刀开启超频模式, 此模式下涡轮耐久将会以8倍速损耗, 但会输出(功率系数整数部分)A的RU, 小数部分作为电压提升分散到电流中. %n%n涡轮耐久是使用n RU*h表示的, 代表涡轮在m RU功率下可以工作n/m小时. %n%n你可以灵活使用NEI的正则表达式搜索模式快速找到你需要的高功率或/且高耐久的涡轮.
 
+# Quest: tfru.q325n
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=走向微观
+betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.desc=使用高能激光, 你终于获得了直接操作微观粒子的能力. 尽管转化效率很低, 但直接操作量子还是能给你带来很多的方便. 注: T1的量子充能器功率过低，不建议使用.
+
 # Quest: tfr.quest216.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.name=§b§lOHHHHHHHH
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2A.desc=这是模组名为Minecraft的工作台, 可以放置. %n%n经历千辛万苦, 你终于制作了这个原版生存里一分钟就能做出的物品. 恭喜! 这是你在群峦星上立足的伟大一步!你应当制作一个原版工作台, 享受稳定的, 原汁原味的3x3合成！工作台需要2块石头和2个木材合成. 当然, 群峦mod提供了背包工作台升级用以随时进行3x3合成! 详见右侧任务%n%n你问如何获取石头？用稿子挖掉一个岩石相邻的六个方块, 他就自己掉下来了. 坚如磐石也害怕孤立无援吗...%n%n§l你应该前往下一章继续你的旅途了, 祝你好运!
@@ -4082,9 +4098,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACUQ.desc=电池盒里可以放四个电�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.name=更大, 存的更多
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACUg.desc=可以放16个电池, 输出16A的电流, 其余功能和小型电池盒相同. 
 
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
+# Quest: tfru.q349n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.name=量子跃迁(?)
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAClA.desc=火箭苦弱, 跃迁飞升！按照ar自带的投影仪搭建跃迁核心. %n%n结构无误的话右键即可成型, 向输入口放入足够的双锂, 就可以看见核心有充能. 在核心面前放置跃迁控制器, 点击选择目标, 选择好星球之后确认燃料充足并且有方法达到目标, 即可点击曲速跳跃前往任意你想去的星球. %n%n普通行星使用火箭即可从空间站下到行星表面, 气态行星不能着陆, 但你可以在空间站抽取气态行星大气的气体. 
 
 # Quest: tfru.q197n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADIA.name=天翼族之冠

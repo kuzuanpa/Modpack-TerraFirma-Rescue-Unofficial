@@ -52,6 +52,28 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 634,
-  "rewards:9": {},
-  "tasks:9": {}
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "minecraft:skull",
+          "tag:10": {
+            "SkullOwner:8": "kuzuanpa"
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
 }

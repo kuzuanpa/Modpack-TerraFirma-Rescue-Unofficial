@@ -2,7 +2,7 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 637
+      "questIDLow:4": 3
     }
   },
   "properties:10": {
@@ -12,9 +12,12 @@
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 7,
+        "Damage:2": 3,
         "OreDict:8": "",
-        "id:8": "minecraft:red_flower"
+        "id:8": "minecraft:skull",
+        "tag:10": {
+          "SkullOwner:8": "kuzuanpa"
+        }
       },
       "isMain:1": 0,
       "isSilent:1": 0,
