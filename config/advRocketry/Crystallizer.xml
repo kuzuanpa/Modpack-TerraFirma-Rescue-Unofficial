@@ -42,14 +42,6 @@
 <Recipes useDefault="false">
 	<Recipe timeRequired="300" power ="20">
 		<input>
-			<oreDict>dustDilithium</oreDict>
-		</input>
-		<output>
-			<itemStack>libVulpes:libVulpesproductcrystal</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="300" power ="20">
-		<input>
 			<oreDict>ingotSilicon</oreDict>
 			<oreDict>nuggetSilicon</oreDict>
 		</input>
