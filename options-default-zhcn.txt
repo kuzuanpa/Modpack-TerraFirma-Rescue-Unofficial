@@ -88,27 +88,28 @@ key_key.hotbar.9:10
 key_ae2wct.OpenTerminal:0
 key_ae2wct.OpenMagnetFilter:0
 key_ae2wct.SwitchMagnetMode:0
-key_key.ToolMode:50:SHIFT
-key_key.LockTool:38
 key_key.toggle_focus.desc:0
+key_key.search_connected_inventories.desc:0
 key_key.personalBackpack:0
 key_key.betterquesting.quests:41
+key_key.ToolMode:50:SHIFT
+key_key.LockTool:38
+key_DropOff:33
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
 key_HoloInventory:0
 key_ingameinfoxml.key.toggle:0
-key_key.zume.zoom:33
-key_key.zume.zoom_in:0
-key_key.zume.zoom_out:0
-key_Baubles Inventory:21
-key_key.OpenTerminal:34
+key_ae2fc.key.OpenTerminal:34
+key_ae2fc.key.Restock:0
 key_key.aether.accessory_menu:22
-key_Toggle HUDCaching:0
 key_Reload Shaders:0
 key_Toggle Shaders:0
 key_Shaderpack Selection Screen:0
 key_Print GLSM Debug:0
+key_Zoom:0
+key_key.aquaacrobatics.toggle_crawling:58
+key_饰品栏:48
 key_bbw.key.mode:50:ALT
 key_bbw.key.fluidmode:50:CONTROL
 key_key.placeItem:25
@@ -127,14 +128,13 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_Open Diary:0
-key_Open Summoning Gui:0
 key_key.Think:35
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
 key_开关喷气背包:45
 key_打开火箭界面:24
 key_key.fastBlockPlacing.desc:0
+key_key.carbon_config.key:0
 key_railcraft.keybind.loco.faster:52
 key_railcraft.keybind.loco.slower:51
 key_railcraft.keybind.loco.mode:37
@@ -143,7 +143,7 @@ key_key.eternalfrost_gui.desc:0
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
