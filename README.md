@@ -14,7 +14,31 @@
 
 <h1 align="center">TerrafirmaRescue Unofficial</h1>
 
-- This is a Minecraft 1.7.10 Modpack created by kuzuanpa and many contributors, based on [TFR](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack) and have huge modifications, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech6](https://mechaenetia.com/downloads/), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented.
+- Experiencing REAL world in TerraFirma Rescue Unofficial!
+  Featuring GregTech6, TerraFirmaCraft, along with Advanced Rocketry, Forestry and 100+ mods.
+  Start from stick and stone, struggle through TFC progression, build your own factory, upgrade your sizziling steam boilers eventually into futuristic TFRU-original multiblock machines?!
+
+  ✔1000+ Quests throught every steps of progression
+
+  ✔Overhauled worldgen featuring TerraFirmaCraft
+
+  ✔New GT6 styled machine added by kTFRUaddons
+
+  ✔Mixed progression staged energy-wised
+
+  ✔10+ Dimensions with unique resources
+
+  ✔Almost all recipes tweaked: juicy for REAL EXPERTS
+
+  ✔Modern tech and materials introduced which DO EXISTS in real life
+
+  ✔And more...
+
+- 😎Don't just play vanilla GT6! play this😎
+
+- TFRU Introduction vid here👉bilibili.com/video/BV13xmpY3EUQ
+
+- This Modpack created by kuzuanpa and many contributors, based on [TFR](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack) and have huge modifications, centered around [TerraFirmaCraft](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [GregTech6](https://mechaenetia.com/downloads/), and [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry). This Modpack is science-fiction and tech-oriented.
   You start an epic story of rescuing yourself on a miraculous life-sustainable moon - Terrafirma - of a gas giant 68.4 light years from Earth,
   starting with nothing, gathering natural resources, expanding a base, developing technology, exploring the expanse of the planetary system,
   and eventually building a warp engine to return to Earth, the sweet cozy home of mankind.
@@ -83,7 +107,17 @@ Other mods considered "Unknown" by Modrinth included in [Copyright Info](https:/
 	<a href="https://afdian.net/@teammoeg"><img src="https://img.shields.io/badge/爱发电-赞助我们-blueviolet.svg?style=flat-square" alt="Patreon"></a><br>
 -->
 
-- **这是一个基于 [群峦救援](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack) 进行了大量修改的 Minecraft 1.7.10 整合包, 由苦钻怕和多位贡献者制作。这款整合包以科技为主题，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6](https://mechaenetia.com/downloads/), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) ，从一无所有开始，在距离地球68.4光年的一颗气态巨行星的宜居卫星——群峦星上，展开一场史诗的旅程。你需要采集自然资源，扩展基地，发展科技，探索行星系统的广阔天地，并最终建造出跃迁引擎，重返人类温馨的家园——地球。**
+- 还在玩传统GT6？
+
+  TFRU是以群峦传说、格雷科技6为核心，汇集高级火箭、林业等100+优质mod组成的大型科技整合包。基于人类文明的真实发展进程，从原始生存开始，一步步走向未来科技文明，你能成功吗？
+
+  本整合包含有1000+个精心规划的任务，指导从群峦萌新到gt高手的各类玩家享受游戏流程！以kTFRUAddon为代表的核心mod增加了许多GT6风格的新机器（包括多方块机器！），这些部分依据现实科技的机器将帮助你解放双手，走向星辰大海！
+
+  本包大量引入基于现实的产线设计，拥有10余个可选前往的独特星球, 几乎所有配方都引入魔改，将GT6与TFC两大拟真mod生动结合，带给你全新的游戏体验，让1.7.10再次伟大！ 
+
+- TFRU介绍视频：BV13xmpY3EUQ
+
+- 本包基于 [群峦救援](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack) 进行了大量修改, 由苦钻怕和多位贡献者制作。你将在以科技为主题，围绕 [群峦传说](https://www.curseforge.com/minecraft/mc-mods/tfcraft), [格雷科技6](https://mechaenetia.com/downloads/), 和 [高级火箭](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry) ，从一无所有开始，在距离地球68.4光年的一颗气态巨行星的宜居卫星——群峦星上，展开一场史诗的旅程。你需要采集自然资源，扩展基地，发展科技，探索行星系统的广阔天地，并最终建造出跃迁引擎，重返人类温馨的家园——地球。
 
 - 本整合包根据 [Terrafirma: Rescue License](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE) 开源
 
