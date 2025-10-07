@@ -1067,7 +1067,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=
 betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.name=
 betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q387n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.desc=
 
@@ -1091,7 +1091,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q389n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.desc=
 
@@ -1496,8 +1496,8 @@ betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=This exchange refreshes every 3
 betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
 betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=This exchange refreshes every 3 hours
 
-# Quest: tfr.quest431.name
-betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=chromium
+# Quest: tfru.q385n
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=
 betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=This exchange refreshes every 3 hours
 
 # Quest: tfru.q399n
@@ -1664,8 +1664,8 @@ betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=This exchange refreshes every 3
 betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
 betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=This exchange refreshes every 3 hours
 
-# Quest: tfr.quest431.name
-betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=chromium
+# Quest: tfru.q386n
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=
 betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=This exchange refreshes every 3 hours
 
 # Quest: tfru.q399n
@@ -3246,11 +3246,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=Reasonable filter light, so tha
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=
 
-# Quest: New Quest
+# Quest: tfru.q388n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
 
-# Quest: New Quest
+# Quest: tfru.q390n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
 
@@ -3270,19 +3270,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q391n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
 
-# Quest: New Quest
+# Quest: tfru.q392n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q393n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q394n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
 
@@ -3370,7 +3370,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=
 
-# Quest: New Questasdasd
+# Quest: tfru.q396n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
 
@@ -4030,7 +4030,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=Open the opening of the forge a
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=Automated farm
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=First, make the 36 cubes into a cuboid of 3 (width) x3 (length) x4 (height). Cover the cuboid with the furthest 7 tiles (original) %n%n feed water from the farm lock. %n%n import fertilizer, soil, and saplings or crop seeds from the farm box or directly open GUI. %n%n inputs RF energy from the farm gearbox. %n%n the goods and sand that come out of the farm boxes are funnelled or otherwise. It stops working if it gets blocked. %n%n Take care that the top of the farm is not obscured.
 
-# Quest: gt1000
+# Quest: tfru.q395n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 

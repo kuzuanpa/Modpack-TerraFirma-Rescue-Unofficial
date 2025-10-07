@@ -74,6 +74,53 @@
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 9420,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity",
+          "tag:10": {
+            "gt.durability:3": 256000000
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 9430,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity",
+          "tag:10": {
+            "gt.durability:3": 640000
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 9410,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity",
+          "tag:10": {
+            "gt.durability:3": 64000000
+          }
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 9440,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.multitileentity",
+          "tag:10": {
+            "gt.durability:4": 4096000000
+          }
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

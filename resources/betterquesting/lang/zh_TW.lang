@@ -1067,7 +1067,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=
 betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.name=
 betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q387n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.desc=
 
@@ -1091,7 +1091,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.desc=
 
-# Quest: tfru.q200n
+# Quest: tfru.q389n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.desc=
 
@@ -1496,8 +1496,8 @@ betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=此兌換每3小時刷新一次
 betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
 betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=此兌換每3小時刷新一次
 
-# Quest: tfr.quest431.name
-betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=鉻
+# Quest: tfru.q385n
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=
 betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=此兌換每3小時刷新一次
 
 # Quest: tfru.q399n
@@ -1664,8 +1664,8 @@ betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=此兌換每3小時刷新一次
 betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
 betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=此兌換每3小時刷新一次
 
-# Quest: tfr.quest431.name
-betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=鉻
+# Quest: tfru.q386n
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=
 betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=此兌換每3小時刷新一次
 
 # Quest: tfru.q399n
@@ -3246,11 +3246,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=合理的過濾光線, 使圖�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=
 
-# Quest: New Quest
+# Quest: tfru.q388n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
 
-# Quest: New Quest
+# Quest: tfru.q390n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
 
@@ -3270,19 +3270,19 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q391n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
 
-# Quest: New Quest
+# Quest: tfru.q392n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
 
-# Quest: New Quest
+# Quest: tfru.q393n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
 
-# Quest: New Quest
+# Quest: tfru.q394n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
 
@@ -3370,7 +3370,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=
 
-# Quest: New Questasdasd
+# Quest: tfru.q396n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
 
@@ -4030,7 +4030,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=打開鍛鐵爐的開口, 在�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=自動化農場
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=首先, 將這36個方塊組成一個3（寬）x3（長）x4（高）的長方體。%n%n在這個長方體周圍鋪滿最遠7格的石磚（原版）%n%n從農場水閘輸入水。%n%n從農場出貨箱或者直接打開GUI輸入肥料, 泥土, 和樹苗或者作物種子（原版）。%n%n從農場齒輪箱輸入RF能量。%n%n從農場出貨箱用漏斗或者其他方式輸出產出的物品和沙子。如果被堵塞會停止工作。%n%n注意保證農場頂部不要被遮擋。
 
-# Quest: gt1000
+# Quest: tfru.q395n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 

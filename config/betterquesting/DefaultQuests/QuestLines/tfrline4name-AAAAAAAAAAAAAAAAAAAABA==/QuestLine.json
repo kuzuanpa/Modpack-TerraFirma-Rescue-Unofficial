@@ -6,9 +6,9 @@
       "desc:8": "tfr.line4.desc",
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 0,
+        "Damage:2": 30303,
         "OreDict:8": "",
-        "id:8": "moegadd:RawWafer"
+        "id:8": "gregtech:gt.multiitem.technological"
       },
       "name:8": "tfr.line4.name",
       "visibility:8": "NORMAL"

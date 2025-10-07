@@ -104,13 +104,18 @@ MTUtilsGT.addCustomRecipe("gt.recipe.bath", false, 16, 16, 0, [10000],
 //iron bloomery
 recipes.remove(<terrafirmacraft:EarlyBloomery>);
 recipes.addShaped(<terrafirmacraft:EarlyBloomery>,
-[[<gregtech:gt.meta.stick:8610>,<terrafirmacraft:item.Bronze Double Sheet>,<gregtech:gt.meta.stick:8610>],
-[<gregtech:gt.meta.stick:8610>,<terrafirmacraft:item.Bronze Double Sheet>,<gregtech:gt.meta.stick:8610>],
+[[<gregtech:gt.meta.stick:8610>,<terrafirmacraft:item.Bronze Sheet>,<gregtech:gt.meta.stick:8610>],
+[<gregtech:gt.meta.stick:8610>,<terrafirmacraft:item.Bronze Sheet>,<gregtech:gt.meta.stick:8610>],
 [HHammer,null,File]]);
 
 recipes.addShaped(<terrafirmacraft:EarlyBloomery>,
-[[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Bismuth Bronze Double Sheet>,<gregtech:gt.meta.stick:8612>],
-[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Bismuth Bronze Double Sheet>,<gregtech:gt.meta.stick:8612>],
+[[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Bismuth Bronze Sheet>,<gregtech:gt.meta.stick:8612>],
+[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Bismuth Bronze Sheet>,<gregtech:gt.meta.stick:8612>],
+[HHammer,null,File]]);
+
+recipes.addShaped(<terrafirmacraft:EarlyBloomery>,
+[[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Black Bronze Sheet>,<gregtech:gt.meta.stick:8612>],
+[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Black Bronze Sheet>,<gregtech:gt.meta.stick:8612>],
 [HHammer,null,File]]);
 
 //tfc blast furnace

@@ -549,10 +549,6 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 40 ,0,[10000],
 
 // Reactor cores
 recipes.remove(<gregtech:gt.multitileentity:9300>);
-recipes.addShaped(<gregtech:gt.multitileentity:9300>,
-[[<gregtech:gt.multiitem.technological:12024>,<ore:ktfruModerateComputer>,null],
-[<Railcraft:glass>,<gregtech:gt.meta.machine.dense:820>,<Railcraft:glass>],
-[null,Wrench,null]]);
 
 recipes.remove(<gregtech:gt.multitileentity:9200>);
 recipes.addShaped(<gregtech:gt.multitileentity:9200>,

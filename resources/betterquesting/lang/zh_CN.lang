@@ -176,7 +176,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=可以用原版桶将杂酚油�
 
 # Quest: tfr.quest99.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.name=§b§l灰铁时代的曙光
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.desc=使用你的锉刀做一些杆, 再锻造一些青铜/铋青铜板, 你就能制作锻铁炉了. %n%n§a锻铁炉使用TFC木炭%n%n§锻锻铁炉是一个多方块结构, 这是你的第一个多方块结构！%n%n锻铁炉的构造如下(俯视图)：%n%nX = 任意石砖/光滑石头%n%nB = 锻铁炉方块%n%nA = 空气%n%n第一层：%n%nX X X%n%nX X X%n%nX X X%n%n第二层：%n%nX X X%n%nX A X%n%nX B X%n%n第三层 - 第N层(锻铁炉的高度可以任意扩展, 不过最低三层)%n%nX X X%n%nX A X%n%nX X X%n%n通过在顶部再添加两层砖环, 可以将锻铁炉的矿石储藏量扩大到三倍. 每增加一层, 就可以冶炼8块额外的矿石. %n%n除了圆石, 任何一种石头都可以使用:原始的, 光滑的, 或砖块. 如果需要, 也可以混合石头的风格, 甚至是岩石的类型(例如光滑的玄武岩和花岗岩砖). %n%n使用起火器右键锻铁炉主方块点火. %n%n你即将进入灰铁时代! 你现在应该前往下一章继续查看具体如何炼铁, 并继续探索这个世界了, 祝你好运!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.desc=使用你的锉刀做一些杆, 再锻造一些青铜/铋青铜板, 你就能制作锻铁炉了. %n%n§a锻铁炉使用TFC木炭§r%n%n锻铁炉是一个多方块结构, 这是你的第一个多方块结构！%n%n锻铁炉的构造如下(俯视图)：%n%nX = 任意石砖/光滑石头%n%nB = 锻铁炉方块%n%nA = 空气%n%n第一层：%n%nX X X%n%nX X X%n%nX X X%n%n第二层：%n%nX X X%n%nX A X%n%nX B X%n%n第三层 - 第N层(锻铁炉的高度可以任意扩展, 不过最低三层)%n%nX X X%n%nX A X%n%nX X X%n%n通过在顶部再添加两层砖环, 可以将锻铁炉的矿石储藏量扩大到三倍. 每增加一层, 就可以冶炼8块额外的矿石. %n%n除了圆石, 任何一种石头都可以使用:原始的, 光滑的, 或砖块. 如果需要, 也可以混合石头的风格, 甚至是岩石的类型(例如光滑的玄武岩和花岗岩砖). %n%n使用起火器右键锻铁炉主方块点火. %n%n§a你即将进入灰铁时代! 你现在应该前往下一章继续查看具体如何炼铁, 并继续探索这个世界了, 祝你好运!§r
 
 # Quest: tfr.quest108.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.name=扳手
@@ -1067,9 +1067,9 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=发掘微小的原子核中
 betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.name=正在制作..
 betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.desc=你来到了世界的尽头
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.desc=你来到了世界的尽头
+# Quest: tfru.q387n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=燃料棒
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.desc=燃料棒, 用于产生最基础的中子. 查看燃料棒的tooltip即可了解燃料棒的机制. 右侧任务是你能获取的所有燃料棒.
 
 # Quest: tfru.q177n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADdg.name=沥青铀
@@ -1091,9 +1091,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=可控核裂变反应, 即为�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=裂变指南
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.desc=领取核裂变指南书, 尽管前言看起来不太靠谱, 但是正文部分还是有助于你理解这个复杂的方块.
 
-# Quest: tfru.q200n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.name=正在制作..
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.desc=你来到了世界的尽头
+# Quest: tfru.q389n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.name=控制棒
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfw.desc=三种控制棒, 本身不产热不产中子, 仅用于将发射来的中子进行处理.
 
 # Quest: tfru.q180n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADgQ.name=铀-235
@@ -1124,8 +1124,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.name=钍
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADhw.desc=沥青铀矿处理后剩下的矿渣离心可获得钍, 可制成燃料棒.
 
 # Quest: tfru.q221n
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=钴-60增殖
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=将钴增殖棒放入核反应堆, 其中的钴吸收中子后便会变为钴-60, 吸收足够的中子后增殖棒将转变为钴-60棒.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.name=增殖棒
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADkA.desc=用于吸收中子产出独特的材料. 查看tooltip即可了解机制. 使用时需要注意燃料棒的慢化情况. 慢化的燃料棒在右下角的waila上有一个橙色的M. 同时注意损耗值是每个输入都会减一次. 你需要钴-60棒来制作探伤仪, 以保证检测出高速涡轮等部件的隐藏弱点和裂纹, 不会在运行中突然爆炸.
 
 # Quest: tfru.q200n
 betterquesting.quest.Y_-MFufxRaG0G7MaVU8lbg.name=正在制作..
@@ -1469,43 +1469,43 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.name=§a万用商店
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAEw.desc=购买你想要的
 
 # Quest: tfru.q399n
-betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.name=
+betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.name=购买矿石
 betterquesting.quest.-AVlXddGRNCCv39MKUPQ-g.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.name=
+betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.name=购买矿石
 betterquesting.quest.-GfWoH6UScW0gtbrobpjXA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.name=
+betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.name=购买矿石
 betterquesting.quest.0Uo45bk2QZyTzr8Loht5vA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.name=
+betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.name=购买矿石
 betterquesting.quest.1F68Gv5dQf2nVNj4maQKfw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.name=
+betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.name=购买矿石
 betterquesting.quest.28QnZ9ioSwm35qmQoB3TDA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.name=
+betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.name=购买矿石
 betterquesting.quest.3GXXh7gaTbSKQ0JlHiK2MQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=
+betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.name=购买矿石
 betterquesting.quest.4_H1u9uiTJGcZtU48YHQWg.desc=此兑换每3小时刷新一次
 
-# Quest: tfr.quest431.name
-betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=铬
+# Quest: tfru.q385n
+betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.name=铌
 betterquesting.quest.5wWa5i7jQxqCugix6-QK4A.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.name=
+betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.name=购买矿石
 betterquesting.quest.7wszGUXySdyFpP1u7-0kfQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.9U0te5_pTsuQqybp_dV00g.name=
+betterquesting.quest.9U0te5_pTsuQqybp_dV00g.name=购买矿石
 betterquesting.quest.9U0te5_pTsuQqybp_dV00g.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest283.name
@@ -1637,15 +1637,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.name=硫磺
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAChw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.name=
+betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.name=购买矿石
 betterquesting.quest.AuW7uaLITDypP2IQQTv6Fw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.name=
+betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.name=购买矿石
 betterquesting.quest.CSlay1FrS_-x0GkYLoQWmQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.EQX003f4RAOZN7R1slCnFA.name=
+betterquesting.quest.EQX003f4RAOZN7R1slCnFA.name=购买矿石
 betterquesting.quest.EQX003f4RAOZN7R1slCnFA.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest431.name
@@ -1653,91 +1653,91 @@ betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.name=铬
 betterquesting.quest.KntY8oeCQxaL-MypUMOlHQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.name=
+betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.name=购买矿石
 betterquesting.quest.MDIMVhB5Srq0W1eHdGcS0A.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.name=
+betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.name=购买矿石
 betterquesting.quest.OIchDuIESgCwIlx1B0IxUg.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=
+betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.name=购买矿石
 betterquesting.quest.RcrdIOgaRRGhcQEITPZ1OQ.desc=此兑换每3小时刷新一次
 
-# Quest: tfr.quest431.name
-betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=铬
+# Quest: tfru.q386n
+betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.name=镁
 betterquesting.quest.SKXLEPz5QneMDUP_Hu60rQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.name=
+betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.name=购买矿石
 betterquesting.quest.SiC1IY8oRy6gw4DOfdn8yQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.name=
+betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.name=购买矿石
 betterquesting.quest.SsqdKn77TD2gACIAVt_oLw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.name=
+betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.name=购买矿石
 betterquesting.quest.T-Br_tuHQuGpVxuCnoGEyA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.name=
+betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.name=购买矿石
 betterquesting.quest.Wt6EYR1sRE2gOwrwtTkiZA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.name=
+betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.name=购买矿石
 betterquesting.quest.ZXAS58WRT8mLDe8Yk0e8vQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.name=
+betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.name=购买矿石
 betterquesting.quest.ZadM14lFTey5MZwp9Nfb1A.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.name=
+betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.name=购买矿石
 betterquesting.quest.ZmZEn0z-QDWkEUx7H29YTw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.name=
+betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.name=购买矿石
 betterquesting.quest.dK6TyMD1TAqHGbuhMeBDhg.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.name=
+betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.name=购买矿石
 betterquesting.quest.ePgMYSanRCq0s3bTseNTkw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.name=
+betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.name=购买矿石
 betterquesting.quest.h5_O1k9eQjeBCss2nYd_Ew.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.name=
+betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.name=购买矿石
 betterquesting.quest.hHZQWjJOS4mLEvX-gyJkTg.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.name=
+betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.name=购买矿石
 betterquesting.quest.hQT4P3zUTOK8WiTCznuJqw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.name=
+betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.name=购买矿石
 betterquesting.quest.mH4KhlSCQ6aDS27Ym4c-5g.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.name=
+betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.name=购买矿石
 betterquesting.quest.nStKrMU6SRWIbzNIoHKiyA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.nggaOdAyS4C6J09uxcSviA.name=
+betterquesting.quest.nggaOdAyS4C6J09uxcSviA.name=购买矿石
 betterquesting.quest.nggaOdAyS4C6J09uxcSviA.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.name=
+betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.name=购买矿石
 betterquesting.quest.p8kqbp6AQKiYX3RIlHnPiw.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.name=
+betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.name=购买矿石
 betterquesting.quest.rXeuds6NSmyYbUKbZX2lng.desc=此兑换每3小时刷新一次
 
 # Quest: tfru.q399n
-betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.name=
+betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.name=购买矿石
 betterquesting.quest.y0Wrh9YjRQONfthLOtv6oQ.desc=此兑换每3小时刷新一次
 
 # Quest: tfr.quest424.name
@@ -3246,13 +3246,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA7Q.desc=合理的过滤光线, 使图�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.name=飞向太空
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8w.desc=新计算机完全可以胜任火箭控制的任务, 终于要走出群峦星了, 现在只需要一个火箭, 便可以踏上其他星球!
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=
+# Quest: tfru.q388n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=高纯单晶硅
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=旧工艺的单晶硅含有太多的缺陷，已经无法满足良品率需求. 你需要制作新工艺下的高纯度单晶硅.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=
+# Quest: tfru.q390n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=第一步: 切割
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=将高纯度单晶硅切割为晶圆. 它还需要进一步处理才可以用于光刻.
 
 # Quest: tfru.q160n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=电路板计算机
@@ -3270,21 +3270,21 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdA.desc=将检测后的晶圆切割, �
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=组装内存
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=将刚刚经过复杂工艺做成的内存晶片组装为内存条, 它将成为计算机的存储仓库.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=
+# Quest: tfru.q391n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.name=第二步: 清洁
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAA.desc=使用蒸馏水静置清洗晶圆.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=
+# Quest: tfru.q392n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.name=第三步: 表面氧化
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAQ.desc=利用高压釜对晶圆进行表面氧化, 为光刻提供环境
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=
+# Quest: tfru.q393n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.name=第四步: 涂胶
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABAg.desc=利用专用的涂胶器对晶圆表面涂上均匀的光刻胶.
 
-# Quest: New Quest
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=
+# Quest: tfru.q394n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.name=第五步: 软烘
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQw.desc=使用中温略微烘干光刻胶, 使光刻胶成型. 接下来就可以继续进行光刻了.
 
 # Quest: tfru.q144n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADWQ.name=晶圆
@@ -3370,9 +3370,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADcA.desc=拥有了足够算力的计算�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.name=循序渐进
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADcQ.desc=在拥有第一个计算机后, 你很快制作了很多实用而有趣的物品, 并改进了现有的机器…你越发想知道算力的不断提升究竟能带来什么…%n%n下一代计算机需要很多HV机器, 不过光刻机不需要更换, 路线也与第一代计算机基本相同.
 
-# Quest: New Questasdasd
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=
+# Quest: tfru.q396n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.name=核电
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADdQ.desc=拥有第三代计算机后你便可以制作核反应堆的核心方块. 利用它获得大量的能量和独特的人造元素. %n%n你已解锁原子时代主线任务线!
 
 # Quest: tfru.q170n
 betterquesting.quest.PfkRf6SHQJG6zAjiRvVTdg.name=晶圆涂胶器
@@ -4004,7 +4004,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=你欧气无力, 肝度不精, 
 
 # Quest: tfr.quest106.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.name=燃烧吧!~~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.desc=燃烧室！你获取HU(热能)最直接的方法. 格雷科技的许多机器都需要HU, 它们将一直陪伴你到电力时代中后期. 燃烧室从顶部输出热量(HU), 从其他面被动接受燃料, 要停止加热时, 需将燃烧室正面堵住, 并且§c需要等待当前燃料燃烧完毕§r. %n%n燃烧室分为固体, 液体, 气体三种. %n%n固体燃烧室使用固体燃料, 所有可以用在熔炉中的燃料(除了桶装燃料)都可以塞进固体燃烧室中充当燃料. 可以使用料斗从侧面自动添加燃料, 从底面自动取出灰烬. 当正面堵住时, 燃烧§c持续到当前物品烧完§r. 这使得该种燃烧室关火延迟很高(除非使用1/72粉等热值很低的物品), 适合用于需要长期加热并且容错率高的设备, 比如大型坩埚或锅炉.%n%n液体/气体燃烧室, 相对安全的燃烧室, 使用可燃液体或气体(描述中带有§cBurning: §rn §eGU/L§r的). 堵住正面时会燃烧完1L当前燃料, 这使得它的关火延迟很低, 适合用于坩埚. %n%n注：根据找到的油的不同, 也可以决定使用液体还是气体燃烧室. 越重的油产气越少产油和固体产物越多.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAag.desc=燃烧室！你获取HU(热能)最直接的方法. 格雷科技的许多机器都需要HU, 它们将一直陪伴你到电力时代中后期. 燃烧室从顶部输出热量(HU), 从其他面被动接受燃料, 要停止加热时, 需将燃烧室正面堵住, 并且§c需要等待当前燃料燃烧完毕§r. %n%n燃烧室分为固体, 液体, 气体三种. %n%n固体燃烧室使用固体燃料, 所有可以用在熔炉中的燃料(除了桶装燃料)都可以塞进固体燃烧室中充当燃料. 可以使用料斗从侧面自动添加燃料, 从底面自动取出灰烬. 当正面堵住时, 燃烧§c持续到当前物品烧完§r. 这使得该种燃烧室关火延迟很高(除非使用1/72粉等热值很低的物品), 适合用于需要长期加热并且容错率高的设备, 比如大型坩埚或锅炉.%n%n液体/气体燃烧室, 相对安全的燃烧室, 使用可燃液体或气体(描述中带有§cBurning: §rn §eGU/L§r的). 堵住正面时会燃烧完1L当前燃料, 这使得它的关火延迟很低, 适合用于坩埚. %n%n注：根据找到的油的不同, 也可以决定使用液体还是气体燃烧室. 越重的油产气越少, 产油和固体产物越多.
 
 # Quest: tfr.quest107.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=红蓝力量
@@ -4030,8 +4030,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFw.desc=打开锻铁炉的开口, 在�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.name=自动化农场
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKw.desc=这个结构虽然看起来略贵, 但绝对物有所值. 它可以帮你完全自动化种植和收获树木, 作物, 仙人掌等, 可用于获取大量木炭/投喂彼方兰等. %n%n首先, 将这36个方块组成一个3(宽)x4(高)x3(长)的长方体. %n%n在这个长方体周围铺满最远7格的石砖(原版), 农场将在它们之上铺设泥土和管理作物%n%n从农场水闸输入水. %n%n从农场出货箱或者直接打开GUI输入肥料, 泥土, 和树苗或者作物种子(原版). %n%n从农场齿轮箱输入RF能量. %n%n从农场出货箱用漏斗或者其他方式输出产出的物品和沙子. 如果被堵塞会停止工作.  %n%n放入焊接有不同的电子管的电路板可以种植多种作物, 还可以把原版树苗转换为林业树苗用于杂交.%n%n注意保证农场顶部不要被遮挡. %n%n此外, 农场还可以进一步扩建, 高度只能为4, 长和宽可以在3/4/5之间变化, 但必须是完整的长方体, 按长宽中最长的一边计算, 周围延伸出去的石砖长度分别为7/9/11.
 
-# Quest: gt1000
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=
+# Quest: tfru.q395n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.name=第三代计算机
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABQg.desc=
 
 # Quest: tfr.quest337.name
@@ -4120,7 +4120,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADdA.desc=在第一代计算机强大算�
 
 # Quest: tfru.q305n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.name=核裂变入门
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=这是核裂变反应堆的核心, 用于启动核裂变反应, 产出热冷却液, 提供中子制作增殖棒. 具体教程可见模组自带的这本小书的内容(在下一个任务领取). 尽管前言看起来不太靠谱, 但是正文部分还是有助于你理解这个复杂的方块. %n%n由于文本是我们翻译的, 考虑到书的同屏字符量较小, 这里附上原文: %n%n反应堆基本操作指南%n%n核反应堆核心(2x2)有四个反应堆棒的插槽. 插入反应堆的棒只会直接与直接相邻的4个反应堆棒互动, 包括在其他反应堆核心块上的相邻棒. %n使用棒右键点击插槽可以手动将棒插入插槽. 用钳子右键点击插槽会拔出插槽内的反应堆棒. %n当反应堆块关闭时, 反应堆棒可以自动插入顶部. 同样, 当块关闭时, 可以从底部自动提取它们. %n可以用软锤手动切换反应堆的开启或关闭. 也可以用红石机器开关配合红石自动开关. 当反应堆关闭时, 反应堆的行为与它不包含任何棒相同. %n各个棒也可以被切换为开启或关闭状态, 以表现得如同插槽为空. 这可以通过红石或手动选择器完成. %n反应堆核心有两个内部储罐, 分别可以储存64,000升冷/热冷却液. 不同的冷却液对插入的反应堆棒有不同的效果. 冷冷却液可以从任意一侧输入. %n热冷却液将向红色面自动输出. 如果冷冷却液储罐超过半满, 冷冷却液将向蓝色面自动输出. 红色面可以用扳手更改, 蓝色面向可以用活动扳手更改. %n当反应堆运行时, 中子会在反应堆棒上进行多种工作. %n通常, 每个中子都会直接以HU的形式输出到反应堆. 中子仅持续一秒, 因此每秒才会更新一次. %n中子数可以用盖革计数器右键点击反应堆核心来手动测量. 盖革计数器传感器也可以连接到反应堆核心, 以测量4个反应堆棒上的中子总和. %n传感器百分比模式的100%%指的是反应堆核心内所有燃料棒的最大中子值之和. 反应堆还会根据所有反应堆棒上当前中子数的最高者发出辐射. %n强烈建议在远离任何定居点的地方建造反应堆, 并穿戴辐射防护服. 任何反应堆核心在没有冷却液的情况下加热都会爆炸. %n如果在反应堆冷却液用尽后再次吸收中子热能, 反应堆将会爆炸. %n如果反应堆内没有空间容纳产生的热冷却液, 反应堆将会爆炸. %n%n反应堆棒指南%n%n空反应堆棒:什么都不会发生, 也不接受中子. %n燃料棒:燃料棒向自身和相邻的反应堆棒发射中子. 它们有几个基本属性, 会根据棒的材料和反应堆中使用的冷却液而变化. %nSelf: 表示了棒向其自身插槽输出多少中子. Emission: 表示它会向每个相邻反应堆棒输出多少中子. %nfactor: 因子, 表示它会向相邻反应堆棒输出多少额外的中子, 输出数=因子*棒目前有的中子数. %n更大的因子意味着每当中子棒自身中子数提高时, 额外中子输出的更多. Maximum: 最大中子值, 表示在这个燃料棒上可以有多少中子, 大于此值时它的持续时间将会更快地降低. %n超过最大中子值时, 燃料棒的持续时间以四倍以上的速度降低, 降低速度随着超过最大中子值的中子数量线性增加. %n慢化燃料棒会使相邻的活动燃料棒也变为慢化. 慢化燃料棒消耗速度会快四倍, 并且增殖棒不会吸收慢中子. %n当燃料棒的剩余持续时间耗尽时, 它将转换为耗尽的燃料棒. %n耗尽的燃料棒:在反应堆内时什么都不做. 不接受中子. 可以通过离心获得一些燃料和一些更高级别的裂变燃料. %n吸收棒:吸收棒从相邻的燃料棒接受中子. 每个吸收棒上的中子会被转化为2HU而非1HU. %n反射棒:直接将任何放置在其上的中子返回给来源. 因此它们上面永远不会2HU而非1HU%n慢化棒:像反射棒一样, 它们将中子直接返回给来源, 但是它们返回的中子数量会乘以向它们发射中子的燃料棒的数量. %n它们最多可以反射回四倍数量的中子. 它们上面也不会有任何中子. 但它同时也会慢化相邻的燃料棒, %n使它们变为慢化状态, 即消耗速度快四倍, 增殖棒不吸收慢中子. 慢化燃料棒同时也会使相邻的激活燃料棒变为慢化. %n增殖棒:每次更新, 这个棒的中子所需数量会减去棒上的中子数. 如果所需中子数达到零, 棒将变成富集棒. %n增殖棒不会接受来自慢化燃料棒的中子. 每次发射到此棒上的中子数会先扣除loss值, %n即任何一个面发射到增殖棒上的中子都会损失一次loss值, 而不仅仅是针对增殖棒整体的一次损失. %n%n冷却剂指南%n%n蒸馏水:直接转化为蒸汽, 不需要热交换器. 消耗80 HU将1升蒸馏水转换成160升蒸汽. 慢化内部的所有燃料棒. 不会改变燃料棒的属性. %n半重水:消耗40 HU将1升半重水转换成1升热半重水. 慢化任何内部的燃料棒. 不会改变燃料棒的属性. %n重水:消耗50 HU将1升重水转换成1升热重水. 慢化任何内部的燃料棒. 将燃料棒的最大中子值除以8. %n氚化水:消耗60 HU将1升氚化水转换成1升热氚化水. 慢化任何内部的燃料棒. 将燃料棒的最大中子值除以16. %n工业冷却液:消耗20 HU将1升工业冷却液转换成1升热工业冷却液. 将燃料棒的Self值乘以4. %n将燃料棒的Emit值乘以4, Factor统计值乘以2. 将燃料棒因子的分母减1. %n二氧化碳:消耗20 HU将1升二氧化碳转换成1升热二氧化碳. 将燃料棒的Self值乘以3. %n氦气:消耗30 HU将1升氦气转换成1升热氦气. 将燃料棒的发射统计值除以2. %n熔融氯化锂:消耗15 HU将1升熔融氯化锂转换成1升热熔融氯化锂. 将燃料棒的Self值乘以5, 发射统计值除以2. 增加25%%的燃料棒最大中子值. %n熔融锡:消耗40 HU将1升熔融锡转换成1升热熔融锡. 中子只转换为三分之一的HU. 将燃料棒因子的分母减1. %n熔融钠:消耗30 HU将1升熔融钠转换成1升热熔融钠. 中子只转换为六分之一的HU. 将燃料棒因子的分母减1. %n熔融钍盐:消耗2,560,000 HU将1升熔融钍盐转换成1升熔融氯化锂. 将燃料棒的Self值设为0, Emit值除以2. 将燃料棒的最大中子值除以4. %n:稳定反应堆设计指南:%n稳定的核裂变反应堆, 通常也被称为次临界反应堆, 是一种没有临界燃料棒的裂变反应堆设计. 这意味着在反应堆运行时, 中子数量以及因此产生的热量输出不会持续增加. %n稳定反应堆的优点是：- 不需要外部控制- 稳定的中子/HU输出- 提高安全性- 设计简单- 可使用任何核燃料%n稳定反应堆的缺点是：- 燃料效率不高- 仅适用于发电反应堆- 通常比类似的临界反应堆更大%n当反射回燃料棒的中子数量乘以棒的因子大于或等于燃料棒的发射量时, 可以认为一根反应堆棒处于超临界状态. %n这意味着如果周围的反射棒数量乘以因子大于或等于1, 则该棒是超临界的. 所以一个因子为1/3的燃料棒需要至少3个相邻的反射棒才能达到临界. %n因此建议在稳定反应堆中使用工业冷却液作为冷却剂. 工业冷却液减少了燃料棒的因子, 使得没有任何燃料棒可以在没有慢化棒的情况下达到临界. %n它还增加了Self值和Emit值, 在稳定反应堆中这是非常有利的, 因为它中子更多, 从而提高效率. %n通常遵循以下四个规则可以使您的稳定反应堆达到最佳效率：如果使用的燃料因子小于1/8, 用吸收棒包围燃料棒可以获得最大的HU输出. %n如果使用的燃料因子为1/8, 用吸收棒、反射棒或其他燃料棒包围燃料棒都会产生相同的HU输出. %n如果使用的燃料因子大于1/8, 用反射棒或其他燃料棒包围燃料棒可以获得最大的HU输出. %n不要在稳定反应堆中使用基于水的冷却液或慢化棒, 因为它们会大大减少燃料棒的持续时间, 因此降低效率, 而在稳定反应堆设计中并无实际益处. %n%n超临界反应堆设计指南%n%n临界核裂变反应堆, 通常也被称为超临界反应堆, 是一种拥有临界燃料棒的裂变反应堆设计. 这意味着在反应堆运行时, 中子数量以及因此产生的热量输出会持续增加. %n超临界反应堆的优点是：- 更高的效率- 完全可配置的中子输出- 通常比类似的稳定反应堆更小- 可以作为燃烧或增殖反应堆工作%n超临界反应堆的缺点是：- 需要外部控制- HU输出不断波动- 设计难度更大- 安全性降低- 需要更高因子的燃料%n当反射回燃料棒的中子数量乘以棒的因子大于或等于燃料棒的发射量时, 可以认为一根反应堆棒处于超临界状态. %n这意味着如果周围的反射棒数量乘以因子大于或等于1, 则该棒是超临界的. 所以一个因子为1/3的燃料棒需要至少3个相邻的反射棒才能达到临界. %n由于燃料棒上的中子数量将无限期地增加, 您需要控制反应, 以确保不会输出超过处理能力的功率. %n盖革计数器传感器允许在与红石机器开关或选择器结合使用时自动实现这种控制. %n当中子数量过高时, 您需要关闭一根反应堆棒, 使燃料棒再次变为次临界, 从而使中子数量减少. %n为了获得最大的效率, 您需要使燃料棒上的中子数量始终低于该燃料棒的最大中子值, 同时尽可能接近它. %n您还需要在关闭反应堆时中子数量尽可能少地减少, 以保持HU输出相对平稳. %n因此, 您需要一种因子至少为1/4的燃料, 以便能够在不使用慢化棒的情况下建造临界反应堆. %n最容易获取的满足这一条件的燃料是铀235. 您可以通过加工铀矿石来获得它. 当使用慢化棒时, 燃料的因子可以低至1/16, 因此使用铀238也成为可能. %n%n燃烧反应堆设计指南%n%n燃烧反应堆是一种核裂变设计类型, 目的是尽可能快地消耗燃料棒, 从而允许对耗尽的燃料棒进行处理, 以获得更好的核燃料材料. %n有两种显著加快燃料棒消耗的方法：- 慢化燃料棒- 在最大中子值之上运行%n燃料棒可以通过将其放置在用蒸馏水、半重水、重水或氚化水冷却的反应堆中, 或者放在慢化棒或已经慢化的燃料棒旁边来慢化. 当被慢化时, 燃料棒的消耗速度会快四倍. %n当燃料棒上的中子数量大于燃料棒的最大中子值时, 它也会快四倍的速度消耗, 与慢化效果叠加后可达16倍速. %n超出最大中子值越多, 燃料棒消耗得越快；当中子数量是最大中子值的两倍时, 消耗速度将再次翻倍, 与慢化效果叠加后可达32倍速. %n因此, 当中子数量是最大中子值的17倍时, 燃料棒的消耗速度将是17倍再乘以4(因为超过了最大中子值), 即68倍速；如果棒被慢化, 则是272倍速, 相比未慢化且中子数量低于最大中子值的情况. %n除了大幅增加燃料棒上的中子数量外, 还可以通过降低最大中子值来利用这一效应. %n这可以通过使用重水或氚化水轻松完成, 它们分别将最大中子值降低8倍和16倍, 并且因为它们是水基的, 所以也能慢化所有燃料棒. %n为了实现极高的中子数量, 建议采用超临界反应堆设计, 尽管也可以将燃烧反应堆作为稳定设计来运行. %n钴60虽然作为反应堆燃料本身几乎无用, 但很容易燃烧成钍, 后者更为有用. %n%n增殖反应堆设计指南%n%n增殖反应堆的目标是将增殖棒转化为富集棒. 它们允许从较为丰富但质量较低的燃料, 如钍和铀238, 中获得更优质的核燃料. %n然而, 尽管与燃烧反应堆类似, 它们构建起来要困难得多, 需要非慢化的临界反应堆设计. 增殖棒有一个损失值, 表示从吸收的中子中减去多少. %n所以当您有一个损失为500的增殖棒, 并尝试从一个相邻的燃料棒向其发射300个中子时, 增殖棒不会接收到任何中子, 这意味着增殖过程不会进行. %n当从另一个相邻的燃料棒再次向同一根增殖棒发射300个中子时, 实际上相当于两次各发射300个中子到增殖棒上, 仍然不会有中子留在增殖棒上, 因为损失会应用于每次发射的中子数. %n这意味着单个燃料棒需要有较高的中子输出, 使得作为增殖反应堆运行的次临界反应堆设计变得不可行. %n向具有500损失的增殖棒发射900个中子意味着400个中子最终会留在增殖棒上, 这些中子会在每一次更新被用于转化成富集棒. %n另一根燃料棒也向同一根增殖棒发射900个中子, 即实际上两次各发射900个中子, 会有800个中子在增殖棒上. %n由于增殖棒需要紧邻一根临界的燃料棒, 燃料棒便只有三个面可以放置反射棒, 这意味着只有因子为1/3或更大的燃料棒才能达到超临界状态. %n显然不能使用慢化棒, 因为增殖棒不能接受来自慢化燃料棒的中子. 这意味着要么需要像钚这样的高因子燃料, 要么需要使用能提高因子的冷却液. %n因此熔融金属冷却液, 如熔融锡或熔融钠, 最适合用于增殖反应堆, 因为它们提高了内部燃料棒的因子, %n使增殖成为可能, 即使使用更常见的燃料材料如铀235, 或者使更好的燃料材料同时增殖更多的增殖棒. %n它们还有降低中子HU输出的优势, 这意味着可以用较少的冷却实现更高的中子数. %n向增殖棒发射更高的中子计数意味着更快且更高效的增殖过程, 因为计算中子损失的次数更少, 使得总的中子损失减少. %n%n钍盐反应堆设计指南%n%n钍盐是一种非常特殊的冷却剂. 事实上, 它甚至不能被认为是冷却剂, 因为它不会转化为携带能量的液体. %n相反, 它可以更多地被视为一种燃料本身, 因为它会变成熔融氯化锂, 意味着钍盐中的钍实际上作为燃料被消耗掉. %n钍盐缓慢地耗尽为熔融氯化锂, 每2,560,000个中子才会有一升钍盐转化为熔融氯化锂. %n使用钍盐的主要优势在于它对任何内部燃料棒数值的巨大提升. %n然而, 由于无法从钍盐中提取电力(因为它不转化为携带能量的液体), 你不能单独使用钍盐进行任何反应堆设计. %n利用钍盐的反应堆设计至少需要另外一种额外的冷却剂. %n装满钍盐的反应堆核心将容纳燃料棒, 而相邻装有其他冷却剂的反应堆核心则通过中子吸收棒捕捉该反应堆发出的中子. %n由于钍盐的主要优势在于大幅提高内部燃料棒的各种数值, 它通常只在临界反应堆设计中有意义. %n临界的钍盐反应堆是最高效的发电反应堆, 但也是最难建造的之一. %n%n高级裂变反应堆%n%n本章将为您提供一些提示和数学公式, 以帮助您构建最先进和高效的反应堆. %n计算中子发射:当燃料棒上的中子数量较高时, 它会向相邻棒发射更多的中子. %n任何燃料棒向一个相邻棒发射的中子数量e_n可以通过以下方式计算：e_n = e + ((n – s) * f)%ne_n: 发射的中子数e: 燃料棒的Emission值n: 燃料棒上的中子数s: 燃料棒的self值f: 燃料棒的因子%n计算燃料棒的消耗速率:燃料棒通常的消耗速率为1, 因此将持续时间如工具提示所建议的那样长. %n然而, 当燃料棒上的中子数量超过中子最大值时, 消耗速率会乘以这个数：f = 4 * n / m%nf: 消耗速率乘数n: 燃料棒上的中子数m: 燃料棒的最大中子值%n此外, 如果燃料棒被慢化, 其消耗速率还会额外乘以4. 将燃料棒的剩余时间统计值除以计算出的消耗速率, 即可得到实际的耗尽时间. %n小贴士和技巧:您可以构建使用多种冷却剂的反应堆设计. 对于使用慢化棒的临界反应堆来说, 控制相邻的燃料棒而非慢化棒本身来控制中子数量更为明智. 机械臂允许对反应堆核心进行精确自动化. 过滤器可用于更容易地自动化燃烧和增殖反应堆. %n在临界反应堆设计中, 较高的Self值是不利的, 因为它占用了最大中子数而不影响中子发射. 在临界反应堆设计中, Emission值对效率的影响较小. %n当试图控制大于9,999的中子数量时, 将盖革计数器传感器设置为十六进制模式是有用的. 在十六进制模式下, 您可以比较最多65,535个中子. 使用oc可以控制高达21亿的中子数. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADeg.desc=这是核裂变反应堆的核心, 用于启动核裂变反应, 产出热冷却液, 提供中子制作增殖棒. §a接下来的任务会简单讲解燃料棒, 增殖棒, 控制棒和冷却剂§r. 更具体的教程可见§a模组自带的这本小书的内容§r(在下一个任务领取). 尽管前言看起来不太靠谱, 但是正文部分还是有助于你理解这个复杂的方块. %n%n由于文本也是我们翻译的, §b考虑到原版书的同屏字符量较小, 这里附上原文§r: %n%n%n%n反应堆基本操作指南%n%n核反应堆核心(2x2)有四个反应堆棒的插槽. 插入反应堆的棒只会直接与直接相邻的4个反应堆棒互动, 包括在其他反应堆核心块上的相邻棒. %n使用棒右键点击插槽可以手动将棒插入插槽. 用钳子右键点击插槽会拔出插槽内的反应堆棒. %n当反应堆块关闭时, 反应堆棒可以自动插入顶部. 同样, 当块关闭时, 可以从底部自动提取它们. %n可以用软锤手动切换反应堆的开启或关闭. 也可以用红石机器开关配合红石自动开关. 当反应堆关闭时, 反应堆的行为与它不包含任何棒相同. %n各个棒也可以被切换为开启或关闭状态, 以表现得如同插槽为空. 这可以通过红石或手动选择器完成. %n反应堆核心有两个内部储罐, 分别可以储存64,000升冷/热冷却液. 不同的冷却液对插入的反应堆棒有不同的效果. 冷冷却液可以从任意一侧输入. %n热冷却液将向红色面自动输出. 如果冷冷却液储罐超过半满, 冷冷却液将向蓝色面自动输出. 红色面可以用扳手更改, 蓝色面向可以用活动扳手更改. %n当反应堆运行时, 中子会在反应堆棒上进行多种工作. %n通常, 每个中子都会直接以HU的形式输出到反应堆. 中子仅持续一秒, 因此每秒才会更新一次. %n中子数可以用盖革计数器右键点击反应堆核心来手动测量. 盖革计数器传感器也可以连接到反应堆核心, 以测量4个反应堆棒上的中子总和. %n传感器百分比模式的100%%指的是反应堆核心内所有燃料棒的最大中子值之和. 反应堆还会根据所有反应堆棒上当前中子数的最高者发出辐射. %n强烈建议在远离任何定居点的地方建造反应堆, 并穿戴辐射防护服. 任何反应堆核心在没有冷却液的情况下加热都会爆炸. %n如果在反应堆冷却液用尽后再次吸收中子热能, 反应堆将会爆炸. %n如果反应堆内没有空间容纳产生的热冷却液, 反应堆将会爆炸. %n%n反应堆棒指南%n%n空反应堆棒:什么都不会发生, 也不接受中子. %n燃料棒:燃料棒向自身和相邻的反应堆棒发射中子. 它们有几个基本属性, 会根据棒的材料和反应堆中使用的冷却液而变化. %nSelf: 表示了棒向其自身插槽输出多少中子. Emission: 表示它会向每个相邻反应堆棒输出多少中子. %nfactor: 因子, 表示它会向相邻反应堆棒输出多少额外的中子, 输出数=因子*棒目前有的中子数. %n更大的因子意味着每当中子棒自身中子数提高时, 额外中子输出的更多. Maximum: 最大中子值, 表示在这个燃料棒上可以有多少中子, 大于此值时它的持续时间将会更快地降低. %n超过最大中子值时, 燃料棒的持续时间以四倍以上的速度降低, 降低速度随着超过最大中子值的中子数量线性增加. %n慢化燃料棒会使相邻的活动燃料棒也变为慢化. 慢化燃料棒消耗速度会快四倍, 并且增殖棒不会吸收慢中子. %n当燃料棒的剩余持续时间耗尽时, 它将转换为耗尽的燃料棒. %n耗尽的燃料棒:在反应堆内时什么都不做. 不接受中子. 可以通过离心获得一些燃料和一些更高级别的裂变燃料. %n吸收棒:吸收棒从相邻的燃料棒接受中子. 每个吸收棒上的中子会被转化为2HU而非1HU. %n反射棒:直接将任何放置在其上的中子返回给来源. 因此它们上面永远不会2HU而非1HU%n慢化棒:像反射棒一样, 它们将中子直接返回给来源, 但是它们返回的中子数量会乘以向它们发射中子的燃料棒的数量. %n它们最多可以反射回四倍数量的中子. 它们上面也不会有任何中子. 但它同时也会慢化相邻的燃料棒, %n使它们变为慢化状态, 即消耗速度快四倍, 增殖棒不吸收慢中子. 慢化燃料棒同时也会使相邻的激活燃料棒变为慢化. %n增殖棒:每次更新, 这个棒的中子所需数量会减去棒上的中子数. 如果所需中子数达到零, 棒将变成富集棒. %n增殖棒不会接受来自慢化燃料棒的中子. 每次发射到此棒上的中子数会先扣除loss值, %n即任何一个面发射到增殖棒上的中子都会损失一次loss值, 而不仅仅是针对增殖棒整体的一次损失. %n%n冷却剂指南%n%n蒸馏水:直接转化为蒸汽, 不需要热交换器. 消耗80 HU将1升蒸馏水转换成160升蒸汽. 慢化内部的所有燃料棒. 不会改变燃料棒的属性. %n半重水:消耗40 HU将1升半重水转换成1升热半重水. 慢化任何内部的燃料棒. 不会改变燃料棒的属性. %n重水:消耗50 HU将1升重水转换成1升热重水. 慢化任何内部的燃料棒. 将燃料棒的最大中子值除以8. %n氚化水:消耗60 HU将1升氚化水转换成1升热氚化水. 慢化任何内部的燃料棒. 将燃料棒的最大中子值除以16. %n工业冷却液:消耗20 HU将1升工业冷却液转换成1升热工业冷却液. 将燃料棒的Self值乘以4. %n将燃料棒的Emit值乘以4, Factor统计值乘以2. 将燃料棒因子的分母减1. %n二氧化碳:消耗20 HU将1升二氧化碳转换成1升热二氧化碳. 将燃料棒的Self值乘以3. %n氦气:消耗30 HU将1升氦气转换成1升热氦气. 将燃料棒的发射统计值除以2. %n熔融氯化锂:消耗15 HU将1升熔融氯化锂转换成1升热熔融氯化锂. 将燃料棒的Self值乘以5, 发射统计值除以2. 增加25%%的燃料棒最大中子值. %n熔融锡:消耗40 HU将1升熔融锡转换成1升热熔融锡. 中子只转换为三分之一的HU. 将燃料棒因子的分母减1. %n熔融钠:消耗30 HU将1升熔融钠转换成1升热熔融钠. 中子只转换为六分之一的HU. 将燃料棒因子的分母减1. %n熔融钍盐:消耗2,560,000 HU将1升熔融钍盐转换成1升熔融氯化锂. 将燃料棒的Self值设为0, Emit值除以2. 将燃料棒的最大中子值除以4. %n:稳定反应堆设计指南:%n稳定的核裂变反应堆, 通常也被称为次临界反应堆, 是一种没有临界燃料棒的裂变反应堆设计. 这意味着在反应堆运行时, 中子数量以及因此产生的热量输出不会持续增加. %n稳定反应堆的优点是：- 不需要外部控制- 稳定的中子/HU输出- 提高安全性- 设计简单- 可使用任何核燃料%n稳定反应堆的缺点是：- 燃料效率不高- 仅适用于发电反应堆- 通常比类似的临界反应堆更大%n当反射回燃料棒的中子数量乘以棒的因子大于或等于燃料棒的发射量时, 可以认为一根反应堆棒处于超临界状态. %n这意味着如果周围的反射棒数量乘以因子大于或等于1, 则该棒是超临界的. 所以一个因子为1/3的燃料棒需要至少3个相邻的反射棒才能达到临界. %n因此建议在稳定反应堆中使用工业冷却液作为冷却剂. 工业冷却液减少了燃料棒的因子, 使得没有任何燃料棒可以在没有慢化棒的情况下达到临界. %n它还增加了Self值和Emit值, 在稳定反应堆中这是非常有利的, 因为它中子更多, 从而提高效率. %n通常遵循以下四个规则可以使您的稳定反应堆达到最佳效率：如果使用的燃料因子小于1/8, 用吸收棒包围燃料棒可以获得最大的HU输出. %n如果使用的燃料因子为1/8, 用吸收棒、反射棒或其他燃料棒包围燃料棒都会产生相同的HU输出. %n如果使用的燃料因子大于1/8, 用反射棒或其他燃料棒包围燃料棒可以获得最大的HU输出. %n不要在稳定反应堆中使用基于水的冷却液或慢化棒, 因为它们会大大减少燃料棒的持续时间, 因此降低效率, 而在稳定反应堆设计中并无实际益处. %n%n超临界反应堆设计指南%n%n临界核裂变反应堆, 通常也被称为超临界反应堆, 是一种拥有临界燃料棒的裂变反应堆设计. 这意味着在反应堆运行时, 中子数量以及因此产生的热量输出会持续增加. %n超临界反应堆的优点是：- 更高的效率- 完全可配置的中子输出- 通常比类似的稳定反应堆更小- 可以作为燃烧或增殖反应堆工作%n超临界反应堆的缺点是：- 需要外部控制- HU输出不断波动- 设计难度更大- 安全性降低- 需要更高因子的燃料%n当反射回燃料棒的中子数量乘以棒的因子大于或等于燃料棒的发射量时, 可以认为一根反应堆棒处于超临界状态. %n这意味着如果周围的反射棒数量乘以因子大于或等于1, 则该棒是超临界的. 所以一个因子为1/3的燃料棒需要至少3个相邻的反射棒才能达到临界. %n由于燃料棒上的中子数量将无限期地增加, 您需要控制反应, 以确保不会输出超过处理能力的功率. %n盖革计数器传感器允许在与红石机器开关或选择器结合使用时自动实现这种控制. %n当中子数量过高时, 您需要关闭一根反应堆棒, 使燃料棒再次变为次临界, 从而使中子数量减少. %n为了获得最大的效率, 您需要使燃料棒上的中子数量始终低于该燃料棒的最大中子值, 同时尽可能接近它. %n您还需要在关闭反应堆时中子数量尽可能少地减少, 以保持HU输出相对平稳. %n因此, 您需要一种因子至少为1/4的燃料, 以便能够在不使用慢化棒的情况下建造临界反应堆. %n最容易获取的满足这一条件的燃料是铀235. 您可以通过加工铀矿石来获得它. 当使用慢化棒时, 燃料的因子可以低至1/16, 因此使用铀238也成为可能. %n%n燃烧反应堆设计指南%n%n燃烧反应堆是一种核裂变设计类型, 目的是尽可能快地消耗燃料棒, 从而允许对耗尽的燃料棒进行处理, 以获得更好的核燃料材料. %n有两种显著加快燃料棒消耗的方法：- 慢化燃料棒- 在最大中子值之上运行%n燃料棒可以通过将其放置在用蒸馏水、半重水、重水或氚化水冷却的反应堆中, 或者放在慢化棒或已经慢化的燃料棒旁边来慢化. 当被慢化时, 燃料棒的消耗速度会快四倍. %n当燃料棒上的中子数量大于燃料棒的最大中子值时, 它也会快四倍的速度消耗, 与慢化效果叠加后可达16倍速. %n超出最大中子值越多, 燃料棒消耗得越快；当中子数量是最大中子值的两倍时, 消耗速度将再次翻倍, 与慢化效果叠加后可达32倍速. %n因此, 当中子数量是最大中子值的17倍时, 燃料棒的消耗速度将是17倍再乘以4(因为超过了最大中子值), 即68倍速；如果棒被慢化, 则是272倍速, 相比未慢化且中子数量低于最大中子值的情况. %n除了大幅增加燃料棒上的中子数量外, 还可以通过降低最大中子值来利用这一效应. %n这可以通过使用重水或氚化水轻松完成, 它们分别将最大中子值降低8倍和16倍, 并且因为它们是水基的, 所以也能慢化所有燃料棒. %n为了实现极高的中子数量, 建议采用超临界反应堆设计, 尽管也可以将燃烧反应堆作为稳定设计来运行. %n钴60虽然作为反应堆燃料本身几乎无用, 但很容易燃烧成钍, 后者更为有用. %n%n增殖反应堆设计指南%n%n增殖反应堆的目标是将增殖棒转化为富集棒. 它们允许从较为丰富但质量较低的燃料, 如钍和铀238, 中获得更优质的核燃料. %n然而, 尽管与燃烧反应堆类似, 它们构建起来要困难得多, 需要非慢化的临界反应堆设计. 增殖棒有一个损失值, 表示从吸收的中子中减去多少. %n所以当您有一个损失为500的增殖棒, 并尝试从一个相邻的燃料棒向其发射300个中子时, 增殖棒不会接收到任何中子, 这意味着增殖过程不会进行. %n当从另一个相邻的燃料棒再次向同一根增殖棒发射300个中子时, 实际上相当于两次各发射300个中子到增殖棒上, 仍然不会有中子留在增殖棒上, 因为损失会应用于每次发射的中子数. %n这意味着单个燃料棒需要有较高的中子输出, 使得作为增殖反应堆运行的次临界反应堆设计变得不可行. %n向具有500损失的增殖棒发射900个中子意味着400个中子最终会留在增殖棒上, 这些中子会在每一次更新被用于转化成富集棒. %n另一根燃料棒也向同一根增殖棒发射900个中子, 即实际上两次各发射900个中子, 会有800个中子在增殖棒上. %n由于增殖棒需要紧邻一根临界的燃料棒, 燃料棒便只有三个面可以放置反射棒, 这意味着只有因子为1/3或更大的燃料棒才能达到超临界状态. %n显然不能使用慢化棒, 因为增殖棒不能接受来自慢化燃料棒的中子. 这意味着要么需要像钚这样的高因子燃料, 要么需要使用能提高因子的冷却液. %n因此熔融金属冷却液, 如熔融锡或熔融钠, 最适合用于增殖反应堆, 因为它们提高了内部燃料棒的因子, %n使增殖成为可能, 即使使用更常见的燃料材料如铀235, 或者使更好的燃料材料同时增殖更多的增殖棒. %n它们还有降低中子HU输出的优势, 这意味着可以用较少的冷却实现更高的中子数. %n向增殖棒发射更高的中子计数意味着更快且更高效的增殖过程, 因为计算中子损失的次数更少, 使得总的中子损失减少. %n%n钍盐反应堆设计指南%n%n钍盐是一种非常特殊的冷却剂. 事实上, 它甚至不能被认为是冷却剂, 因为它不会转化为携带能量的液体. %n相反, 它可以更多地被视为一种燃料本身, 因为它会变成熔融氯化锂, 意味着钍盐中的钍实际上作为燃料被消耗掉. %n钍盐缓慢地耗尽为熔融氯化锂, 每2,560,000个中子才会有一升钍盐转化为熔融氯化锂. %n使用钍盐的主要优势在于它对任何内部燃料棒数值的巨大提升. %n然而, 由于无法从钍盐中提取电力(因为它不转化为携带能量的液体), 你不能单独使用钍盐进行任何反应堆设计. %n利用钍盐的反应堆设计至少需要另外一种额外的冷却剂. %n装满钍盐的反应堆核心将容纳燃料棒, 而相邻装有其他冷却剂的反应堆核心则通过中子吸收棒捕捉该反应堆发出的中子. %n由于钍盐的主要优势在于大幅提高内部燃料棒的各种数值, 它通常只在临界反应堆设计中有意义. %n临界的钍盐反应堆是最高效的发电反应堆, 但也是最难建造的之一. %n%n高级裂变反应堆%n%n本章将为您提供一些提示和数学公式, 以帮助您构建最先进和高效的反应堆. %n计算中子发射:当燃料棒上的中子数量较高时, 它会向相邻棒发射更多的中子. %n任何燃料棒向一个相邻棒发射的中子数量e_n可以通过以下方式计算：e_n = e + ((n – s) * f)%ne_n: 发射的中子数e: 燃料棒的Emission值n: 燃料棒上的中子数s: 燃料棒的self值f: 燃料棒的因子%n计算燃料棒的消耗速率:燃料棒通常的消耗速率为1, 因此将持续时间如工具提示所建议的那样长. %n然而, 当燃料棒上的中子数量超过中子最大值时, 消耗速率会乘以这个数：f = 4 * n / m%nf: 消耗速率乘数n: 燃料棒上的中子数m: 燃料棒的最大中子值%n此外, 如果燃料棒被慢化, 其消耗速率还会额外乘以4. 将燃料棒的剩余时间统计值除以计算出的消耗速率, 即可得到实际的耗尽时间. %n小贴士和技巧:您可以构建使用多种冷却剂的反应堆设计. 对于使用慢化棒的临界反应堆来说, 控制相邻的燃料棒而非慢化棒本身来控制中子数量更为明智. 机械臂允许对反应堆核心进行精确自动化. 过滤器可用于更容易地自动化燃烧和增殖反应堆. %n在临界反应堆设计中, 较高的Self值是不利的, 因为它占用了最大中子数而不影响中子发射. 在临界反应堆设计中, Emission值对效率的影响较小. %n当试图控制大于9,999的中子数量时, 将盖革计数器传感器设置为十六进制模式是有用的. 在十六进制模式下, 您可以比较最多65,535个中子. 使用oc可以控制高达21亿的中子数.
 
 # Quest: tfru.q222n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADiw.name=无损探伤
