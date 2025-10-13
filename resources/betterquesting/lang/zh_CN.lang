@@ -1063,9 +1063,9 @@ betterquesting.quest.zxUMzeKMR_ixBGQqcJcCWg.desc=
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.name=Tier 5 - 核子时代
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAGw.desc=发掘微小的原子核中巨大的能量.
 
-# Quest: tfru.q200n
-betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.name=正在制作..
-betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.desc=你来到了世界的尽头
+# Quest: tfru.q397n
+betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.name=核电, 轻而易举啊!
+betterquesting.quest.66wjoeZPTIqVR5lMAFy35g.desc=简单而言, 反应堆由多个连接在一起的"反应堆核心"方块组成的平面而组成, 每个方块均可以使用软锤来开关, 或使用红石控制覆盖板搭配红石开关. %n%n一个平面上的每个棒都可能向自己和紧邻的四个棒发射中子, 也就是一个槽位的中子=本槽位的棒向自己发射的中子+四个紧邻槽位发射来的中子. %n%n每个中子都可以产生§a一定的热量§r, 热量加热冷却剂以用于其他地方. %n%n部分冷却剂和控制棒会使燃料棒§6慢化§r，慢化的燃料棒会传递慢化给紧邻的四个棒. 慢化的燃料棒损耗速度更快, 而且§6无法用于增殖棒§r. %n%n增殖棒则是接受四个紧邻位置发射来的中子，将他们§6每个§r都减去一次损耗值后用于增殖. 当接受了足够的中子后即完成增殖.
 
 # Quest: tfru.q387n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABnw.name=燃料棒
@@ -1135,9 +1135,9 @@ betterquesting.quest.Y_-MFufxRaG0G7MaVU8lbg.desc=你来到了世界的尽头
 betterquesting.quest.ZQ7nu2i9S7-Qzw8jGlvk9Q.name=正在制作..
 betterquesting.quest.ZQ7nu2i9S7-Qzw8jGlvk9Q.desc=你来到了世界的尽头
 
-# Quest: tfru.q200n
-betterquesting.quest.bPqCnZU3Ri2hVPVT7cNgdg.name=正在制作..
-betterquesting.quest.bPqCnZU3Ri2hVPVT7cNgdg.desc=你来到了世界的尽头
+# Quest: tfru.q398n
+betterquesting.quest.bPqCnZU3Ri2hVPVT7cNgdg.name=坏了坏了...
+betterquesting.quest.bPqCnZU3Ri2hVPVT7cNgdg.desc=§a关于辐射§r: 反应堆运行时会在周围产生辐射, 范围最远可达200格以上, 当你身上携带有含辐射的物品时也会辐射你自己. 辐射会产生多种负面效果, 并且§6死亡无法完全清除§r. %n%n§6关于爆炸§r: 很遗憾(?), GT6的核反应堆目前§a还不会产生任何爆炸§r. 当反应堆某个核心方块上产生的热量无法被冷却剂吸收时, 这个方块便会过热, 此时该方块上的四个槽位的棒会§6立刻消失§r. 冷却剂失效的情况如下: 冷却剂不足, 热的冷却剂储量已满, 中子数过高以至于反应堆内的冷却剂吸收不全.
 
 # Quest: tfru.q200n
 betterquesting.quest.hJzaNKdXToizIObp7zP1-g.name=正在制作..
