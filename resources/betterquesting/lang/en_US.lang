@@ -2071,6 +2071,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(Not in the world generation an
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Agriculture, animal husbandry and fisheries
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=Help %n about your survival on this planet as a carbon-based creature based on the Legend of Sierra, Industrial Age 2, and GregTech technology.
 
+# Quest: tfru.q400n
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.name=
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.desc=
+
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Agriculture
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=You start with 1000 drops of blood, and you probably already see that the cap is coming down. If agriculture is not well developed, the ceiling will soon fall. There are many wild crops in the world. Go and collect some seeds. The importance of this chapter has been repeatedly emphasized. If the main push tired, come to the development of development here.

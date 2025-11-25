@@ -2071,6 +2071,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(目前不在世界生成, 製�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=農業、畜牧業與漁業
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=關於你作為一個碳基生物在這個星球活下去的幫助%n基於群巒傳說, 工業時代2, 和格雷科技。
 
+# Quest: tfru.q400n
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.name=
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.desc=
+
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=農業
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你開局有1000滴血, 你估計已經發現上限正在下降了。如果不好好發展農業, 上限會很快下降的。%n%n世界裡有許多野生作物, 去收集一些作物種子吧！%n%n§l§o再三強調, 這個章節十分重要。如果主線推累了, 就來發展發展這裡吧。

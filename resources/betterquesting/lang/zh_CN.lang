@@ -2071,6 +2071,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(目前不在世界生成, 制�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=§a农业、畜牧业与渔业
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=关于你作为一个碳基生物在这个星球活下去的帮助
 
+# Quest: tfru.q400n
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.name=羊毛
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.desc=使用线或者羊毛纱纺织过后便可以制作羊毛毯，无序合成即可获得原版羊毛，可以用于制作床等物品
+
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=农业
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你开局有1000滴血, 你估计已经发现上限正在下降了. 如果不好好发展农业, 上限会很快下降的. %n%n世界里有许多野生作物, 去收集一些作物种子吧！%n%n§l§o再三强调, 这个章节十分重要. 如果主线推累了, 就来发展发展这里吧.

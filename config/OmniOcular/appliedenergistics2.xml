@@ -4,12 +4,12 @@
 <oo>
     <tileentity id="BlockDrive">
         <line>
-            return translate(gui.appliedenergistics2.Priority')+nbt['priority']
+            return GRAY+translate('gui.appliedenergistics2.Priority')+": "+WHITE+nbt['priority']
         </line>
     </tileentity>
     <tileentity id="BlockChest">
         <line>
-            return translate(gui.appliedenergistics2.Priority')+nbt['priority']
+            return GRAY+translate('gui.appliedenergistics2.Priority')+": "+WHITE+nbt['priority']
         </line>
     </tileentity>
 </oo>

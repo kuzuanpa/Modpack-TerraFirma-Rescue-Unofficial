@@ -2071,6 +2071,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACBw.desc=(в настоящее врем
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.name=Сельское хозяйство, животноводство и рыболовство
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAACg.desc=О вашей помощи в выживании на планете как углеродного организма в %, основанной на группах холмических легенд, индустриальной эпохе 2 и греческих технологиях.
 
+# Quest: tfru.q400n
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.name=
+betterquesting.quest.1mGQi31sRtOgV8le3227lw.desc=
+
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=Сельск хозяйств
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=Вы начали с 1000 капель крови, и вы предполагаете, что потолок снижается. Без надлежащего развития сельского хозяйства потолок упадет очень быстро. В мире много диких культур, так что собирайте семена! %n%n "l" o неоднократно подчеркивал важность этой главы. Если основная линия устанет, идите сюда и работайте.
