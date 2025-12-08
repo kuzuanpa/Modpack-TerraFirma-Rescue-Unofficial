@@ -379,6 +379,7 @@ MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<gregtech:gt.meta.casingSmall:80
 MTUtilsGT.removeAllRecipes("gt.recipe.extruder",<gregtech:gt.meta.chemtube>);
 
 // Crafting table
+recipes.remove(<minecraft:crafting_table>);
 recipes.addShaped(<minecraft:crafting_table>,
 [[<ore:woodLumber>,<ore:woodLumber>,null],
 [<ore:stoneSmooth>,<ore:stoneSmooth>,null],
