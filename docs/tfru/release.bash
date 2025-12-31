@@ -61,7 +61,6 @@ if [ "$found_duplicate" = true ]; then exit;fi
  mv ../tfruMain .
  echo "已构建导入包目录结构"
  sed s/TFRU_VER/${version}/g -i tfruMain/config/ktfruaddon.cfg
- sed s/TFRU_VER/${version}/g -i tfruMain/config/MoegAddon/moegadd.cfg
  sed s/TFRU_VER/${version}/g -i tfruMain/config/CustomMainMenu/en/mainmenu.json
  sed s/TFRU_VER/${version}/g -i tfruMain/config/CustomMainMenu/cn/mainmenu.json
  sed s/TFRU_VER/${version}/g -i tfruMain/config/CustomMainMenu/mainmenu.json
