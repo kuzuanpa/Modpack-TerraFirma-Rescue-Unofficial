@@ -66,7 +66,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000,2000,100
 
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000,2000,10000],
 [<terrafirmacraft:item.Ore:25>],
-[<gregtech:gt.meta.crushed:9126>*4,<gregtech:gt.meta.crushed:9148>,<gregtech:gt.meta.dust:8500>]);
+[<gregtech:gt.meta.crushed:9126>*4,<gregtech:gt.meta.crushed:9247>,<gregtech:gt.meta.dust:8500>]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.crusher", false, 16, 256, 0,[10000],
 [<terrafirmacraft:item.Ore:24>],
