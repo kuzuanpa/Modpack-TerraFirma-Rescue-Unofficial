@@ -43,8 +43,7 @@
             <icon>
                 <str>minecraft:clock</str>
             </icon>
-            <str> $rTerrafirma Calendar：$6 {tfcdate}</str>
-            <str>$6 {tfcseason} </str>
+            <str> $rTerrafirma Calendar：$6 {tfcdate} </str>
             <str>$b{mctime12} $r</str>
             <if>
                 <var>daytime</var>

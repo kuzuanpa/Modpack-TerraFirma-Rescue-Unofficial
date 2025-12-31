@@ -41,8 +41,7 @@
             <icon>
                 <str>minecraft:clock</str>
             </icon>
-            <str> $r群峦星纪元：$6 {tfcdate}</str>
-            <str>$6 {tfcseason} </str>
+            <str> $r群峦星纪元：$6 {tfcdate} </str>
             <str>$b{mctime12} $r</str>
             <if>
                 <var>daytime</var>
