@@ -664,9 +664,6 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 [<terrafirmacraft:item.MetalNugget:8>],[n],
 [n],[<minecraft:gold_nugget>]);
 
-//antique atlas
-recipes.addShapeless(<antiqueatlas:antiqueAtlas>,[<ore:bookWritable>,<ore:paperMap>]);
-
 //waystone
 recipes.remove(<waystones:warpStone>);
 recipes.addShaped(<waystones:warpStone>,
