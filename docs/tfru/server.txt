@@ -1,26 +1,29 @@
 To start a server,IMPORT the pack, wait for mods are all downloaded, and then delete these mods:
-开启服务器需要你正确导入客户端安装包, 并等待mod全部下载完毕后, 删除以下mod:
+开启服务器需要你正确**导入**客户端安装包(不导入会缺失mod), 并等待mod全部下载完毕后, 删除以下mod:
+
 angelica
 bettercrashes
-neiaddons
-NEIIntegration
 BetterLoadingScreen
 CoreTweaks
-nechar
 CustomMainMenu
-ResourceLoader
 falsepatternlib
 FpsReducer
-InGameInfoXML
-SoundLimitExtends
+InGame-Info-XML
 InputFix
 journeymap
-thinker
 laggoggles
-WailaHarvestability
 ModernKeyBinding
-zume
-MouseTweaks
+MouseTweak
+nechar
+neiaddon
+NEIIntegration
+ResourceLoade
+SoundLimitExtends
+thinker
+WailaHarvestability
+
+Then copy WHOLE client pack into base server, and you are done.
+接下来复制**整个**客户端包(不能仅复制mods文件夹)，粘贴到基础的服务端即可.
 
 We suggest to use the forge server core, any other servers like thermos WONT be supported.
 建议使用forge官方服务端核心，其他任何服务端核心不受支持.

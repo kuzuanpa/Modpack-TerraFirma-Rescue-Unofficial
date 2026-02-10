@@ -18,7 +18,7 @@
   -->
 
 <galaxy>
-	<star name="Sun" id="100" temp="50" x="1077" y="1030" size="1.2" numPlanets="0" numGasGiants="0">
+	<star name="Sun" id="100" temp="50" x="1077" y="1030" z="100" size="1.2" numPlanets="0" numGasGiants="0">
 		<planet name="Mercury" DIMID="21">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -149,7 +149,7 @@
 			<biomeIds>139</biomeIds>
 		</planet>
 	</star>
-	<star name="Da Shuai Bi a" id="101" temp="10" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
+	<star name="Da Shuai Bi a" id="101" temp="10" x="0" y="0" z="0" size="1.0" numPlanets="0" numGasGiants="0">
 		<planet name="Duck Egg" DIMID="10" customIcon="GasGiantBlue">
 			<isKnown>true</isKnown>
 			<GasGiant>true</GasGiant>
@@ -210,9 +210,9 @@
 			</planet>
 		</planet>
 	</star>
-	<star name="Da Shuai Bi b" id="102" temp="1000" x="100" y="100" size="1.0" numPlanets="0" numGasGiants="0">
+	<star name="Da Shuai Bi b" id="102" temp="1000" x="100" y="100" z="0" size="1.0" numPlanets="0" numGasGiants="0">
 	</star>
-	<star name="No-12" id="103" temp="150" x="127" y="269" size="1.2" numPlanets="0" numGasGiants="0">
+	<star name="No-12" id="103" temp="150" x="127" y="269" z="0" size="1.2" numPlanets="0" numGasGiants="0">
 		<planet name="No-12-1" DIMID="31" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -250,7 +250,7 @@
 			<atmosphereDensity>100</atmosphereDensity>
 		</planet>
 	</star>
-	<star name="No-93" id="104" temp="70" x="0" y="269" size="1.2" numPlanets="0" numGasGiants="0">
+	<star name="No-93" id="104" temp="70" x="0" y="269" z="0" size="1.2" numPlanets="0" numGasGiants="0">
 		<planet name="No-93-1" DIMID="33" customIcon="IceWorld">
 			<isKnown>true</isKnown>
 			<fogColor>0.0,0.0,1.0</fogColor>
@@ -287,7 +287,7 @@
 			<biomeIds>136</biomeIds>
 		</planet>
 	</star>
-	<star name="No-43" id="105" temp="200" x="0" y="-269" size="1.2" numPlanets="0" numGasGiants="0">
+	<star name="No-43" id="105" temp="200" x="0" y="-269" z="0" size="1.2" numPlanets="0" numGasGiants="0">
 		<planet name="No-43-1" DIMID="35" customIcon="EarthLike">
 			<isKnown>true</isKnown>
 			<fogColor>0.0,0.0,1.0</fogColor>
@@ -308,7 +308,7 @@
 			<biomeIds>35,36</biomeIds>
 		</planet>
 	</star>
-	<star name="No-63" id="106" temp="50" x="233" y="-219" size="1.2" numPlanets="0" numGasGiants="0">
+	<star name="No-63" id="106" temp="50" x="233" y="-129" z="0" size="1.2" numPlanets="0" numGasGiants="0">
 		<planet name="No-63-1" DIMID="0" dimMapping="" customIcon="EarthLike">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -322,9 +322,9 @@
 			<atmosphereDensity>100</atmosphereDensity>
 		</planet>
 	</star>
-	<star name="No-32" id="107" temp="50" x="-119" y="169" size="1.2" numPlanets="0" numGasGiants="0">
+	<star name="No-32" id="107" temp="50" x="-119" y="169" z="0" size="1.2" numPlanets="0" numGasGiants="0">
 	</star>
-	<star name="Ch-24" id="108" temp="750" x="647" y="510" size="1.6" numPlanets="0" numGasGiants="0">
+	<star name="Ch-24" id="108" temp="750" x="647" y="510" z="0" size="1.6" numPlanets="0" numGasGiants="0">
 		<planet name="Ch-24-1" DIMID="-14" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -340,7 +340,7 @@
 			<biomeIds>146</biomeIds>
 		</planet>
 	</star>
-	<star name="Ch-22" id="109" temp="250" x="617" y="612" size="1.8" numPlanets="0" numGasGiants="0">
+	<star name="Ch-22" id="109" temp="250" x="617" y="612" z="0" size="1.8" numPlanets="0" numGasGiants="0">
 		<planet name="Dracona" DIMID="-12" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<fogColor>0.0,0.0,1.0</fogColor>
@@ -356,7 +356,7 @@
 			<fillerBlock>minecraft:end_stone</fillerBlock>
 		</planet>
 	</star>
-	<star name="Ch-21" id="110" temp="550" x="737" y="722" size="2.4" numPlanets="0" numGasGiants="0">
+	<star name="Ch-21" id="110" temp="550" x="737" y="722" z="0" size="2.4" numPlanets="0" numGasGiants="0">
 		<planet name="Endest" DIMID="-11" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
@@ -372,7 +372,7 @@
 			<fillerBlock>minecraft:end_stone</fillerBlock>
 		</planet>
 	</star>
-	<star name="Ch-27" id="111" temp="50" x="747" y="582" size="2.0" numPlanets="0" numGasGiants="0">
+	<star name="Ch-27" id="111" temp="50" x="747" y="582" z="0" size="2.0" numPlanets="0" numGasGiants="0">
 		<planet name="The End" DIMID="1" dimMapping="" customIcon="Moon">
 			<isKnown>true</isKnown>
 			<gravitationalMultiplier>40</gravitationalMultiplier>
@@ -384,9 +384,9 @@
 			<atmosphereDensity>80</atmosphereDensity>
 		</planet>
 	</star>
-	<star name="Ch-31" id="112" temp="1250" x="857" y="542" size="2.0" numPlanets="0" numGasGiants="0">
+	<star name="Ch-31" id="112" temp="1250" x="857" y="542" z="0" size="2.0" numPlanets="0" numGasGiants="0">
 	</star>
-	<star name="Na-32" id="113" temp="120" x="-547" y="-610" size="0.6" numPlanets="0" numGasGiants="0">
+	<star name="Na-32" id="113" temp="120" x="-547" y="-610" z="0" size="0.6" numPlanets="0" numGasGiants="0">
 		<planet name="Tropics" DIMID="-127" dimMapping="" customIcon="EarthLike">
 			<isKnown>true</isKnown>
 			<gravitationalMultiplier>120</gravitationalMultiplier>
@@ -398,7 +398,7 @@
 			<atmosphereDensity>110</atmosphereDensity>
 		</planet>
 	</star>
-	<star name="Na-51" id="114" temp="50" x="-617" y="-912" size="0.8" numPlanets="0" numGasGiants="0">
+	<star name="Na-51" id="114" temp="50" x="-617" y="-912" z="0" size="0.8" numPlanets="0" numGasGiants="0">
 		<planet name="Twilight Forest" DIMID="-122" dimMapping="" customIcon="EarthLike">
 			<isKnown>true</isKnown>
 			<gravitationalMultiplier>80</gravitationalMultiplier>
@@ -410,7 +410,7 @@
 			<atmosphereDensity>90</atmosphereDensity>
 		</planet>
 	</star>
-	<star name="Na-96" id="115" temp="30" x="-737" y="-722" size="0.4" numPlanets="0" numGasGiants="0">
+	<star name="Na-96" id="115" temp="30" x="-737" y="-722" z="0" size="0.4" numPlanets="0" numGasGiants="0">
 		<planet name="Aether" DIMID="-121" customIcon="Aether">
 			<isKnown>true</isKnown>
 			<fogColor>0.85,0.32,0.8</fogColor>
