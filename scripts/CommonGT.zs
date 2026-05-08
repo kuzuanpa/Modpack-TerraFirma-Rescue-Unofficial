@@ -613,7 +613,7 @@ recipes.remove(y3);
 recipes.addShaped(y03,[
 [<gregtech:gt.multiitem.technological:30504>,<gregtech:gt.multiitem.technological:11004>,<gregtech:gt.multiitem.technological:30504>],
 [x04,<gregtech:gt.meta.machine:8682>,x04],
-[x05,<ore:ktfruMasterComputer>,x06]]
+[x05,<ore:ktfruAdvancedComputer>,x06]]
 );
 }
 

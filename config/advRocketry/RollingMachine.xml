@@ -364,6 +364,14 @@
 			<itemStack>gregtech:gt.meta.plate;1;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;410</itemStack>
@@ -378,6 +386,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -1052,12 +1068,36 @@
 			<itemStack>gregtech:gt.meta.plate;1;1200</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -2324,6 +2364,14 @@
 			<itemStack>terrafirmacraft:item.Red Steel Sheet;1;0</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8636</itemStack>
@@ -2434,6 +2482,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -2652,6 +2708,14 @@
 			<itemStack>gregtech:gt.meta.plate;1;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8682</itemStack>
@@ -2708,12 +2772,68 @@
 			<itemStack>gregtech:gt.meta.plate;1;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -2732,7 +2852,15 @@
 			<itemStack>gregtech:gt.meta.plate;1;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8702</itemStack>
 		</input>
@@ -2740,7 +2868,7 @@
 			<itemStack>gregtech:gt.meta.plate;1;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8703</itemStack>
 		</input>
@@ -2756,7 +2884,7 @@
 			<itemStack>gregtech:gt.meta.plate;1;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8707</itemStack>
 		</input>
@@ -2858,6 +2986,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>Botania:manaResource;1;4</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -2996,6 +3132,30 @@
 			<itemStack>gregtech:gt.meta.plate;1;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>etfuturum:netherite_scrap;1;0</itemStack>
@@ -3020,6 +3180,22 @@
 			<itemStack>gregtech:gt.meta.plate;1;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8756</itemStack>
@@ -3028,12 +3204,28 @@
 			<itemStack>gregtech:gt.meta.plate;1;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -3076,12 +3268,28 @@
 			<itemStack>gregtech:gt.meta.plate;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -3108,7 +3316,7 @@
 			<itemStack>gregtech:gt.meta.plate;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.ingot;1;8774</itemStack>
 		</input>
@@ -3322,6 +3530,78 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plate;1;22101</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="237" power ="18">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22103</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22103</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="196" power ="15">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22104</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22104</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="267" power ="20">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22105</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22105</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="7">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22400</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="7">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22401</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22401</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="7">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22402</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22402</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="280" power ="21">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22403</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22403</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="100" power ="7">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22404</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22404</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="120" power ="9">
+		<input>
+			<itemStack>gregtech:gt.meta.ingot;1;22405</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;1;22405</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="45" power ="3">
@@ -3556,6 +3836,14 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;410</itemStack>
@@ -3570,6 +3858,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -4244,12 +4540,36 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;1200</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -5372,6 +5692,14 @@
 			<itemStack>terrafirmacraft:item.Red Steel Double Sheet;1;0</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8636</itemStack>
@@ -5482,6 +5810,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -5700,6 +6036,14 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8682</itemStack>
@@ -5756,12 +6100,68 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -5780,7 +6180,15 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8702</itemStack>
 		</input>
@@ -5788,7 +6196,7 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8703</itemStack>
 		</input>
@@ -5804,7 +6212,7 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8707</itemStack>
 		</input>
@@ -5906,6 +6314,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -6044,6 +6460,30 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8744</itemStack>
@@ -6068,6 +6508,22 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8756</itemStack>
@@ -6076,12 +6532,28 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -6124,12 +6596,28 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDouble;1;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotDouble;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDouble;1;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -6156,7 +6644,7 @@
 			<itemStack>gregtech:gt.meta.plateDouble;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotDouble;1;8774</itemStack>
 		</input>
@@ -6580,6 +7068,14 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;410</itemStack>
@@ -6594,6 +7090,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -7268,12 +7772,36 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;1200</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -8396,6 +8924,14 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8636</itemStack>
@@ -8506,6 +9042,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -8724,6 +9268,14 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8682</itemStack>
@@ -8780,12 +9332,68 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -8804,7 +9412,15 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8702</itemStack>
 		</input>
@@ -8812,7 +9428,7 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8703</itemStack>
 		</input>
@@ -8828,7 +9444,7 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8707</itemStack>
 		</input>
@@ -8930,6 +9546,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -9068,6 +9692,30 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8744</itemStack>
@@ -9092,6 +9740,22 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8756</itemStack>
@@ -9100,12 +9764,28 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -9148,12 +9828,28 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateTriple;1;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotTriple;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateTriple;1;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -9180,7 +9876,7 @@
 			<itemStack>gregtech:gt.meta.plateTriple;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotTriple;1;8774</itemStack>
 		</input>
@@ -9604,6 +10300,14 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;410</itemStack>
@@ -9618,6 +10322,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -10292,12 +11004,36 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;1200</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -11420,6 +12156,14 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8636</itemStack>
@@ -11530,6 +12274,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -11748,6 +12500,14 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8682</itemStack>
@@ -11804,12 +12564,68 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -11828,7 +12644,15 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8702</itemStack>
 		</input>
@@ -11836,7 +12660,7 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8703</itemStack>
 		</input>
@@ -11852,7 +12676,7 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8707</itemStack>
 		</input>
@@ -11954,6 +12778,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -12092,6 +12924,30 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8744</itemStack>
@@ -12116,6 +12972,22 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8756</itemStack>
@@ -12124,12 +12996,28 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -12172,12 +13060,28 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuadruple;1;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -12204,7 +13108,7 @@
 			<itemStack>gregtech:gt.meta.plateQuadruple;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuadruple;1;8774</itemStack>
 		</input>
@@ -12628,6 +13532,14 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;410</itemStack>
@@ -12642,6 +13554,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -13316,12 +14236,36 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;1200</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -14444,6 +15388,14 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8636</itemStack>
@@ -14554,6 +15506,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -14772,6 +15732,14 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8682</itemStack>
@@ -14828,12 +15796,68 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -14852,7 +15876,15 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8702</itemStack>
 		</input>
@@ -14860,7 +15892,7 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8703</itemStack>
 		</input>
@@ -14876,7 +15908,7 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8707</itemStack>
 		</input>
@@ -14978,6 +16010,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -15116,6 +16156,30 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8744</itemStack>
@@ -15140,6 +16204,22 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8756</itemStack>
@@ -15148,12 +16228,28 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -15196,12 +16292,28 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateQuintuple;1;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -15228,7 +16340,7 @@
 			<itemStack>gregtech:gt.meta.plateQuintuple;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.ingotQuintuple;1;8774</itemStack>
 		</input>
@@ -15652,6 +16764,14 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;410</itemStack>
@@ -15666,6 +16786,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -16340,12 +17468,36 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;1200</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -17468,6 +18620,14 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8636</itemStack>
@@ -17578,6 +18738,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -17796,6 +18964,14 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8682</itemStack>
@@ -17852,12 +19028,68 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -17876,7 +19108,15 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8702</itemStack>
 		</input>
@@ -17884,7 +19124,7 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8703</itemStack>
 		</input>
@@ -17900,7 +19140,7 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8707</itemStack>
 		</input>
@@ -18002,6 +19242,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -18140,6 +19388,30 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8744</itemStack>
@@ -18164,6 +19436,22 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8756</itemStack>
@@ -18172,12 +19460,28 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -18220,12 +19524,28 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateDense;1;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.solid;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateDense;1;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -18252,7 +19572,7 @@
 			<itemStack>gregtech:gt.meta.plateDense;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.solid;1;8774</itemStack>
 		</input>

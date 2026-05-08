@@ -89,7 +89,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 
 //clay
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 16, 0, [10000],
-[<minecraft:clay_ball>,<terrafirmacraft:item.Powder:1>*4,<terrafirmacraft:item.Powder:2>*4],
+[<minecraft:clay_ball>,<gregtech:gt.meta.dust:9167>*4,<gregtech:gt.meta.dust:9174>*4],
 [<terrafirmacraft:item.Clay>*2]);
 
 recipes.remove(<minecraft:furnace>);
@@ -189,7 +189,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 32, 32, 1000,[10000],
 [null],
 [<terrafirmacraft:item.Mortar>*5]);
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 32, 32, 1000,[10000],
-[<minecraft:sand>*4,<terrafirmacraft:item.Powder>],
+[<minecraft:sand>*4,<gregtech:gt.meta.dust:9107>],
 [<liquid:water>*1000],
 [null],
 [<terrafirmacraft:item.Mortar>*5]);

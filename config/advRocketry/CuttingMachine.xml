@@ -46,7 +46,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="300" power ="100">
 		<input>
-			<itemStack>libVulpes:libVulpesproductboule;1;3</itemStack>
+			<oreDict>bouleSilicon</oreDict>
 		</input>
 		<output>
 			<itemStack>advancedRocketry:wafer;4</itemStack>
@@ -429,7 +429,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;8;8332</itemStack>
-			<itemStack>terrafirmacraft:item.Powder;1;6</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8332</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="170" power ="13">
@@ -675,6 +675,15 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.dust;1;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.ingot;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;8;8634</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="459" power ="55">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.ingot;1;8641</itemStack>
@@ -846,6 +855,33 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.dust;1;8745</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.ingot;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;8;8750</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.ingot;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;8;8757</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8757</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.ingot;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;8;8759</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8759</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="321" power ="38">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.ingot;1;8760</itemStack>
@@ -891,6 +927,24 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.dust;1;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.ingot;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;8;8765</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8765</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.storage.ingot;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plate;8;8767</itemStack>
+			<itemStack>gregtech:gt.meta.dust;1;8767</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="177" power ="12">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.ingot;1;8770</itemStack>
@@ -918,7 +972,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.dust;1;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.storage.ingot;1;8774</itemStack>
 		</input>
@@ -1239,6 +1293,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;410</itemStack>
@@ -1253,6 +1315,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -1935,12 +2005,36 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;1520</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -3132,10 +3226,10 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stickLong;1;8291</itemStack>
 		</input>
 		<output>
-			<itemStack>gregtech:gt.meta.stick;2;8291</itemStack>
+			<itemStack>aether_legacy:skyroot_stick;2;0</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="553" power ="67">
+	<Recipe timeRequired="584" power ="70">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8292</itemStack>
 		</input>
@@ -3151,7 +3245,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8293</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="130" power ="8">
+	<Recipe timeRequired="1455" power ="256">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8294</itemStack>
 		</input>
@@ -3519,6 +3613,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8341</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1405" power ="251">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8342</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8342</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="169" power ="27">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8343</itemStack>
@@ -3543,7 +3645,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8345</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8346</itemStack>
 		</input>
@@ -3551,7 +3653,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8346</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8347</itemStack>
 		</input>
@@ -3559,7 +3661,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8347</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8348</itemStack>
 		</input>
@@ -3727,7 +3829,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8372</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="152" power ="13">
+	<Recipe timeRequired="152" power ="17">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8374</itemStack>
 		</input>
@@ -3815,7 +3917,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8387</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="310" power ="37">
+	<Recipe timeRequired="566" power ="101">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8388</itemStack>
 		</input>
@@ -3855,7 +3957,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8392</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8393</itemStack>
 		</input>
@@ -3863,7 +3965,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8393</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8394</itemStack>
 		</input>
@@ -3871,7 +3973,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8394</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8395</itemStack>
 		</input>
@@ -3879,7 +3981,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8395</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8396</itemStack>
 		</input>
@@ -3887,7 +3989,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8396</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8397</itemStack>
 		</input>
@@ -3895,7 +3997,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8397</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="146" power ="15">
+	<Recipe timeRequired="146" power ="19">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8398</itemStack>
 		</input>
@@ -3903,7 +4005,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8398</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="146" power ="15">
+	<Recipe timeRequired="146" power ="19">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8399</itemStack>
 		</input>
@@ -4159,7 +4261,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8444</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8445</itemStack>
 		</input>
@@ -4215,7 +4317,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8451</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="553" power ="131">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8452</itemStack>
 		</input>
@@ -4223,7 +4325,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8452</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="553" power ="131">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8453</itemStack>
 		</input>
@@ -4231,7 +4333,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8453</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="297" power ="51">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8454</itemStack>
 		</input>
@@ -4247,7 +4349,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8456</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="130" power ="10">
+	<Recipe timeRequired="130" power ="16">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8457</itemStack>
 		</input>
@@ -4325,6 +4427,30 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;8468</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="403" power ="73">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8469</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8469</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="425" power ="75">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8470</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8470</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="57" power ="4">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8471</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8471</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="61" power ="5">
@@ -4727,6 +4853,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8636</itemStack>
@@ -4837,6 +4971,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -5055,6 +5197,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8682</itemStack>
@@ -5111,12 +5261,68 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -5135,7 +5341,15 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8702</itemStack>
 		</input>
@@ -5143,7 +5357,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8703</itemStack>
 		</input>
@@ -5159,7 +5373,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8707</itemStack>
 		</input>
@@ -5261,6 +5475,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -5399,6 +5621,30 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8744</itemStack>
@@ -5423,6 +5669,22 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8756</itemStack>
@@ -5431,12 +5693,28 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -5479,12 +5757,28 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.stick;2;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.stickLong;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.stick;2;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -5511,7 +5805,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.stick;2;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.stickLong;1;8774</itemStack>
 		</input>
@@ -7583,12 +7877,36 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;921</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;4;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="608" power ="105">
@@ -7783,6 +8101,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8636</itemStack>
@@ -7805,6 +8131,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;4;8643</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="598" power ="104">
@@ -7983,12 +8317,44 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8682</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;4;8682</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8692</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
@@ -7999,6 +8365,38 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8693</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8697</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="107" power ="12">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8700</itemStack>
@@ -8007,7 +8405,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8702</itemStack>
 		</input>
@@ -8015,20 +8413,12 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8703</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;4;8703</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="5333" power ="4820">
-		<input>
-			<itemStack>gregtech:gt.meta.boule;1;8706</itemStack>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.meta.plateGem;4;8706</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="135" power ="10">
@@ -8071,6 +8461,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8720</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8721</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="629" power ="106">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8722</itemStack>
@@ -8085,6 +8483,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;4;8729</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="589" power ="71">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8730</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8730</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="109" power ="8">
@@ -8135,6 +8541,22 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;4;8745</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.boule;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;4;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="10229" power ="3146">
 		<input>
 			<itemStack>gregtech:gt.meta.boule;1;8792</itemStack>
@@ -8181,6 +8603,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;4;9239</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>tropicraft:ore;1;3</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;1;400</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="329" power ="25">
@@ -8311,9 +8741,9 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8288</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="553" power ="67">
+	<Recipe timeRequired="584" power ="70">
 		<input>
-			<itemStack>gregtech:gt.meta.gem;1;8292</itemStack>
+			<itemStack>aether_legacy:zanite_gemstone;1;0</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;1;8292</itemStack>
@@ -8321,13 +8751,13 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="57" power ="5">
 		<input>
-			<itemStack>gregtech:gt.meta.gem;1;8293</itemStack>
+			<itemStack>aether_legacy:ambrosium_shard;1;0</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;1;8293</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="130" power ="8">
+	<Recipe timeRequired="1455" power ="256">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8294</itemStack>
 		</input>
@@ -8679,6 +9109,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8341</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1405" power ="251">
+		<input>
+			<itemStack>Railcraft:firestone.raw;1;0</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;1;8342</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="169" power ="27">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8343</itemStack>
@@ -8703,7 +9141,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8345</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>minecraft:quartz;1;0</itemStack>
 		</input>
@@ -8711,7 +9149,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8346</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>appliedenergistics2:item.ItemMultiMaterial;1;0</itemStack>
 		</input>
@@ -8719,7 +9157,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8347</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>appliedenergistics2:item.ItemMultiMaterial;1;1</itemStack>
 		</input>
@@ -8887,7 +9325,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8372</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="152" power ="13">
+	<Recipe timeRequired="152" power ="17">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8374</itemStack>
 		</input>
@@ -8975,7 +9413,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8387</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="310" power ="37">
+	<Recipe timeRequired="566" power ="101">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8388</itemStack>
 		</input>
@@ -9015,7 +9453,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8392</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>Botania:quartz;1;6</itemStack>
 		</input>
@@ -9023,7 +9461,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8393</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>Botania:quartz;1;3</itemStack>
 		</input>
@@ -9031,7 +9469,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8394</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>Botania:quartz;1;4</itemStack>
 		</input>
@@ -9039,7 +9477,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8395</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>Botania:quartz;1;2</itemStack>
 		</input>
@@ -9047,7 +9485,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8396</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>Botania:quartz;1;0</itemStack>
 		</input>
@@ -9055,7 +9493,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8397</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="146" power ="15">
+	<Recipe timeRequired="146" power ="19">
 		<input>
 			<itemStack>Botania:quartz;1;1</itemStack>
 		</input>
@@ -9063,7 +9501,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8398</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="146" power ="15">
+	<Recipe timeRequired="146" power ="19">
 		<input>
 			<itemStack>Botania:quartz;1;5</itemStack>
 		</input>
@@ -9303,7 +9741,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8444</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8445</itemStack>
 		</input>
@@ -9359,7 +9797,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8451</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="553" power ="131">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8452</itemStack>
 		</input>
@@ -9367,7 +9805,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8452</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="553" power ="131">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8453</itemStack>
 		</input>
@@ -9375,7 +9813,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8453</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="297" power ="51">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8454</itemStack>
 		</input>
@@ -9391,7 +9829,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.plateGem;1;8456</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="130" power ="10">
+	<Recipe timeRequired="130" power ="16">
 		<input>
 			<itemStack>gregtech:gt.meta.gem;1;8457</itemStack>
 		</input>
@@ -9469,6 +9907,22 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.plateGem;1;8468</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="403" power ="73">
+		<input>
+			<itemStack>aether_legacy:golden_amber;1;0</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;1;8469</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="425" power ="75">
+		<input>
+			<itemStack>TwilightForest:item.carminite;1;0</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.plateGem;1;8470</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="201" power ="22">
@@ -9983,6 +10437,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;390</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1368" power ="248">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;400</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;400</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="275" power ="21">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;410</itemStack>
@@ -9997,6 +10459,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;420</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1381" power ="89">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;430</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;430</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="260" power ="20">
@@ -10679,12 +11149,36 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;1520</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;1740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;1740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1342" power ="325">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;1741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;1741</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="574" power ="133">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;1742</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;1742</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1662" power ="305">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;1850</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;1850</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="4616" power ="1132">
@@ -11873,13 +12367,13 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 	</Recipe>
 	<Recipe timeRequired="78" power ="1">
 		<input>
-			<itemStack>gregtech:gt.meta.stick;1;8291</itemStack>
+			<itemStack>aether_legacy:skyroot_stick;1;0</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8291</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="553" power ="67">
+	<Recipe timeRequired="584" power ="70">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8292</itemStack>
 		</input>
@@ -11895,7 +12389,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8293</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="130" power ="8">
+	<Recipe timeRequired="1455" power ="256">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8294</itemStack>
 		</input>
@@ -12263,6 +12757,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8341</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1405" power ="251">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8342</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8342</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="169" power ="27">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8343</itemStack>
@@ -12287,7 +12789,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8345</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8346</itemStack>
 		</input>
@@ -12295,7 +12797,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8346</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8347</itemStack>
 		</input>
@@ -12303,7 +12805,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8347</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8348</itemStack>
 		</input>
@@ -12471,7 +12973,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8372</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="152" power ="13">
+	<Recipe timeRequired="152" power ="17">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8374</itemStack>
 		</input>
@@ -12559,7 +13061,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8387</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="310" power ="37">
+	<Recipe timeRequired="566" power ="101">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8388</itemStack>
 		</input>
@@ -12599,7 +13101,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8392</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8393</itemStack>
 		</input>
@@ -12607,7 +13109,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8393</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8394</itemStack>
 		</input>
@@ -12615,7 +13117,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8394</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8395</itemStack>
 		</input>
@@ -12623,7 +13125,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8395</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8396</itemStack>
 		</input>
@@ -12631,7 +13133,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8396</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8397</itemStack>
 		</input>
@@ -12639,7 +13141,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8397</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="146" power ="15">
+	<Recipe timeRequired="146" power ="19">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8398</itemStack>
 		</input>
@@ -12647,7 +13149,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8398</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="146" power ="15">
+	<Recipe timeRequired="146" power ="19">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8399</itemStack>
 		</input>
@@ -12903,7 +13405,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8444</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="114" power ="9">
+	<Recipe timeRequired="114" power ="13">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8445</itemStack>
 		</input>
@@ -12959,7 +13461,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8451</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="553" power ="131">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8452</itemStack>
 		</input>
@@ -12967,7 +13469,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8452</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="553" power ="131">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8453</itemStack>
 		</input>
@@ -12975,7 +13477,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8453</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="100" power ="7">
+	<Recipe timeRequired="297" power ="51">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8454</itemStack>
 		</input>
@@ -12991,7 +13493,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8456</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="130" power ="10">
+	<Recipe timeRequired="130" power ="16">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8457</itemStack>
 		</input>
@@ -13069,6 +13571,30 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8468</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="403" power ="73">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8469</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8469</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="425" power ="75">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8470</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8470</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="57" power ="4">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8471</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8471</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="61" power ="5">
@@ -13471,6 +13997,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8633</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1366" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8634</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8634</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="560" power ="67">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8636</itemStack>
@@ -13581,6 +14115,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8649</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1373" power ="168">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8650</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8650</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="847" power ="103">
@@ -13799,6 +14341,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8680</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2173" power ="523">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8681</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8681</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="3965" power ="971">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8682</itemStack>
@@ -13855,12 +14405,68 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8689</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1361" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8690</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8690</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1484" power ="183">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8691</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8691</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1613" power ="199">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8692</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8692</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1410" power ="332">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8693</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8693</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1405" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8694</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8694</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1527" power ="363">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8695</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8695</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1659" power ="395">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8696</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8696</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1404" power ="331">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8697</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8697</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="410" power ="83">
@@ -13879,7 +14485,15 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8700</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="117" power ="5">
+	<Recipe timeRequired="1533" power ="278">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8701</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8701</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="129" power ="18">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8702</itemStack>
 		</input>
@@ -13887,7 +14501,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8702</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="153" power ="11">
+	<Recipe timeRequired="153" power ="23">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8703</itemStack>
 		</input>
@@ -13903,7 +14517,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8706</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="105" power ="11">
+	<Recipe timeRequired="105" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8707</itemStack>
 		</input>
@@ -14005,6 +14619,14 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8720</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2154" power ="522">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8721</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8721</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="629" power ="106">
@@ -14143,6 +14765,30 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8739</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8740</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8740</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8741</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8741</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2165" power ="394">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8742</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8742</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="201" power ="15">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8744</itemStack>
@@ -14167,6 +14813,22 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8747</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1344" power ="246">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8750</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8750</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1328" power ="324">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8751</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8751</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="559" power ="68">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8756</itemStack>
@@ -14175,12 +14837,28 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8756</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1283" power ="232">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8757</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8757</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="331" power ="39">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8758</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8758</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="1301" power ="234">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8759</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8759</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="321" power ="38">
@@ -14223,12 +14901,28 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8764</itemStack>
 		</output>
 	</Recipe>
+	<Recipe timeRequired="1357" power ="167">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8765</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8765</itemStack>
+		</output>
+	</Recipe>
 	<Recipe timeRequired="1102" power ="135">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8766</itemStack>
 		</input>
 		<output>
 			<itemStack>gregtech:gt.meta.bolt;4;8766</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="2036" power ="370">
+		<input>
+			<itemStack>gregtech:gt.meta.stick;1;8767</itemStack>
+		</input>
+		<output>
+			<itemStack>gregtech:gt.meta.bolt;4;8767</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="177" power ="12">
@@ -14255,7 +14949,7 @@ Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescu
 			<itemStack>gregtech:gt.meta.bolt;4;8772</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="556" power ="36">
+	<Recipe timeRequired="566" power ="37">
 		<input>
 			<itemStack>gregtech:gt.meta.stick;1;8774</itemStack>
 		</input>

@@ -206,7 +206,7 @@ MTUtilsGT.addCustomRecipe("gt.recipe.generifier", false, 0, 1, 0, [10000],
 // Raw Rubber Production latex
 MTUtilsGT.removeAllRecipes("gt.recipe.centrifuge",<tfctech:item.Rubber Mix>);
 MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 16, 128 ,0,[10000],
-[<terrafirmacraft:item.Powder:3>],
+[<gregtech:gt.meta.dust:160>],
 [<liquid:latex>*144],
 [<liquid:glue>*36],
 [<tfctech:item.Rubber Mix>*5]);

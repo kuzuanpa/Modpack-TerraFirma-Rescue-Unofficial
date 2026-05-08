@@ -72,7 +72,7 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 10,
+          "Count:3": 6,
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "terrafirmacraft:item.Powder"

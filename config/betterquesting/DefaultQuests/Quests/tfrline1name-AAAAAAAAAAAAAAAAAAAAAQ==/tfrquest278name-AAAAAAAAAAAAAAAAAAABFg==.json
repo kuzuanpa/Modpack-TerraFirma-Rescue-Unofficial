@@ -50,9 +50,9 @@
         },
         "2:10": {
           "Count:3": 128,
-          "Damage:2": 0,
+          "Damage:2": 9107,
           "OreDict:8": "",
-          "id:8": "terrafirmacraft:item.Powder"
+          "id:8": "gregtech:gt.meta.dust"
         }
       },
       "ignoreDisabled:1": 0,

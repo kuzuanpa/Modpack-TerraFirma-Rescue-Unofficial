@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 322
+      "questIDHigh:4": -5314932434498008733,
+      "questIDLow:4": -7683940053805830558
     }
   },
   "properties:10": {
@@ -30,13 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -3524897054938871816,
-  "questIDLow:4": -5691313895649115558,
+  "questIDHigh:4": -4344297360104404203,
+  "questIDLow:4": -5222339135443041405,
   "rewards:9": {},
-  "tasks:9": {
-    "0:10": {
-      "index:3": 0,
-      "taskID:8": "bq_standard:checkbox"
-    }
-  }
+  "tasks:9": {}
 }

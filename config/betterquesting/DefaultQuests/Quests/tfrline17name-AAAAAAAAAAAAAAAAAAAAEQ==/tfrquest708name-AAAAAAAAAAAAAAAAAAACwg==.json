@@ -73,7 +73,7 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 6,
+          "Count:3": 3,
           "Damage:2": 8304,
           "OreDict:8": "plateGemAnySapphire",
           "id:8": "gregtech:gt.meta.plateGem"

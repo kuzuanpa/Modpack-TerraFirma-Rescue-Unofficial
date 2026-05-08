@@ -1,10 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": 2274979276520574068,
+      "questIDLow:4": -6791859529764620593
+    },
+    "1:10": {
       "questIDHigh:4": 5930411389541957933,
       "questIDLow:4": -6436996190287052239
     },
-    "1:10": {
+    "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 907
     }
@@ -43,7 +47,7 @@
       "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 0,
+      "index:3": 1,
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
@@ -60,7 +64,7 @@
       "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 1,
+      "index:3": 2,
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
@@ -77,7 +81,7 @@
       "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 2,
+      "index:3": 3,
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {

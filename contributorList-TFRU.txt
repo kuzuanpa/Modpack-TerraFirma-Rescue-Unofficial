@@ -16,5 +16,9 @@ VK8040 github.com/Pactivsa
 - 程序: 太阳光热站的反射镜算法, TFC完美锻造的判定算法, Thinker的公式解析器.
 RossaRosa space.bilibili.com/513240645
 - 文案: 修改部分任务文本, 提高文本可读性
+天沢香 space.bilibili.com/18394579
+- 汉化: 翻译了TFCAesthetics中的各种植物名
+WilliamGong https://github.com/WilliamGong
+- 汉化: 翻译了TFCAesthetics中的各种植物名
 
 苦钻怕非常感谢以上每位贡献者的付出qwq

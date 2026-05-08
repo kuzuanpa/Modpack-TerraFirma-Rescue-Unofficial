@@ -25,7 +25,7 @@
       "lockedProgress:1": 0,
       "name:8": "tfr.quest635.name",
       "partySingleReward:1": 0,
-      "questLogic:8": "AND",
+      "questLogic:8": "OR",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,

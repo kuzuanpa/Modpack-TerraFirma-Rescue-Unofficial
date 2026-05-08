@@ -102,6 +102,23 @@
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "3:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 3,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 31001,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

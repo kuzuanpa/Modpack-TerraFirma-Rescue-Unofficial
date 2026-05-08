@@ -232,57 +232,57 @@ mods.forestry.ThermionicFabricator.addCast(<terrafirmacraft:item.Glass Bottle>*8
 // Primitive method
 //MTUtilsGT.removeAllRecipes("gt.recipe.mixer",<moegadd:BlackSaltpetre>);
 //MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-//[<terrafirmacraft:item.Powder:4>,<terrafirmacraft:item.Powder>,<gregtech:gt.meta.dust:8334>],
+//[<gregtech:gt.meta.dust:9107>,<gregtech:gt.meta.dust:8334>],
 //[n],
 //[n],
 //[<moegadd:BlackSaltpetre>*3]);
 
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:50>, <minecraft:sand>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dustSmall:50>, <minecraft:sand>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dust:8268>, <minecraft:sand>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dust:8268>, <minecraft:sand>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:9139>, <minecraft:sand>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dustSmall:9139>, <minecraft:sand>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:8013>, <minecraft:sand>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dustSmall:8013>, <minecraft:sand>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 //Rough glass
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:50>, <gregtech:gt.meta.storage.dust:8111>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dustSmall:50>, <gregtech:gt.meta.storage.dust:8111>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dust:8268>, <gregtech:gt.meta.storage.dust:8111>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dust:8268>, <gregtech:gt.meta.storage.dust:8111>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:9139>, <gregtech:gt.meta.storage.dust:8111>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dustSmall:9139>, <gregtech:gt.meta.storage.dust:8111>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
 
 MTUtilsGT.addCustomRecipe("gt.recipe.mixer", false, 16, 64, 0, [10000],
-[<terrafirmacraft:item.Powder>*2, <gregtech:gt.meta.dustSmall:8013>, <gregtech:gt.meta.storage.dust:8111>*7],
+[<gregtech:gt.meta.dust:9107>*2, <gregtech:gt.meta.dustSmall:8013>, <gregtech:gt.meta.storage.dust:8111>*7],
 [n],
 [n],
 [<gregtech:gt.meta.dust:8001>*56]);
@@ -680,3 +680,8 @@ recipes.addShaped(<OpenComputers:wrench>,
 [[null, <ore:plateAnyIronSteel>, null],
 [<ore:plateAnyIronSteel>, <ore:plateAnyIronSteel>, HHammer],
 [null,null,<ore:toolHeadScrewdriverAnyIronSteel>]]);
+
+//remove buggy worktables
+recipes.remove(<Backpack:workbenchbackpack:217>);
+recipes.remove(<Backpack:workbenchbackpack:17>);
+recipes.remove(<Forestry:factory2:2>);

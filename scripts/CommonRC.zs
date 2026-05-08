@@ -152,9 +152,9 @@ val platePb  = <terrafirmacraft:item.Lead Sheet>;
 //mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:nugget:1>);
 //mods.railcraft.BlastFurnace.removeRecipe(<Railcraft:cube:2>);
 
-recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:11>,<terrafirmacraft:item.Powder>]);
-recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:10>,<terrafirmacraft:item.Powder>]);
-recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:3>,<terrafirmacraft:item.Powder>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:11>,<gregtech:gt.meta.dust:9107>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:10>,<gregtech:gt.meta.dust:9107>]);
+recipes.addShapeless(<ktfruaddon:ktfru.item.compact:7>,[<terrafirmacraft:item.Small Ore:3>,<gregtech:gt.meta.dust:9107>]);
 
 var win = <terrafirmacraft:item.MetalNugget:9>.withTag({display: {Name: "Wrought Iron Nugget", Lore: ["Can be blasted again."]}});
 var winormal = <terrafirmacraft:item.MetalNugget:9>;

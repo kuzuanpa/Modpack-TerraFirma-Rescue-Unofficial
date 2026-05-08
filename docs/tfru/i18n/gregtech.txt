@@ -6,8 +6,11 @@
     S:gt.lang.state.ready=就绪
     S:gt.lang.state.passive=待机
     S:gt.lang.state.active=工作中
+    S:gt.lang.state.power.saving=节能
     S:gt.lang.parallel=并行数:%s
     S:gt.lang.parallel.duration=批处理数:%s
+    S:gt.lang.no.constant.power=断电时进度不会丢失
+    S:gt.lang.no.waste.energy=可自动节能
     S:gt.lang.remain=剩余
     S:gt.lang.energy.charged.require=需要充能
     S:gt.lang.energy.required=需求功率
