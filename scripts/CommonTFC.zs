@@ -114,8 +114,8 @@ recipes.addShaped(<terrafirmacraft:EarlyBloomery>,
 [HHammer,null,File]]);
 
 recipes.addShaped(<terrafirmacraft:EarlyBloomery>,
-[[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Black Bronze Sheet>,<gregtech:gt.meta.stick:8612>],
-[<gregtech:gt.meta.stick:8612>,<terrafirmacraft:item.Black Bronze Sheet>,<gregtech:gt.meta.stick:8612>],
+[[<gregtech:gt.meta.stick:8611>,<terrafirmacraft:item.Black Bronze Sheet>,<gregtech:gt.meta.stick:8611>],
+[<gregtech:gt.meta.stick:8611>,<terrafirmacraft:item.Black Bronze Sheet>,<gregtech:gt.meta.stick:8611>],
 [HHammer,null,File]]);
 
 //tfc blast furnace
