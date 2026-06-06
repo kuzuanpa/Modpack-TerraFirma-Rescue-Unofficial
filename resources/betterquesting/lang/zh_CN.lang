@@ -176,7 +176,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=可以用原版桶将杂酚油�
 
 # Quest: tfr.quest99.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.name=§b§l灰铁时代的曙光
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.desc=使用你的锉刀做一些杆, 再锻造一些青铜/铋青铜板, 你就能制作锻铁炉了. %n%n§a锻铁炉使用TFC木炭§r%n%n锻铁炉是一个多方块结构, 这是你的第一个多方块结构！%n%n锻铁炉的构造如下(俯视图)：%n%nX = 任意石砖/光滑石头%n%nB = 锻铁炉方块%n%nA = 空气%n%n第一层：%n%nX X X%n%nX X X%n%nX X X%n%n第二层：%n%nX X X%n%nX A X%n%nX B X%n%n第三层 - 第N层(锻铁炉的高度可以任意扩展, 不过最低三层)%n%nX X X%n%nX A X%n%nX X X%n%n通过在顶部再添加两层砖环, 可以将锻铁炉的矿石储藏量扩大到三倍. 每增加一层, 就可以冶炼8块额外的矿石. %n%n除了圆石, 任何一种石头都可以使用:原始的, 光滑的, 或砖块. 如果需要, 也可以混合石头的风格, 甚至是岩石的类型(例如光滑的玄武岩和花岗岩砖). %n%n使用起火器右键锻铁炉主方块点火. %n%n§a你即将进入灰铁时代! 你现在应该前往下一章继续查看具体如何炼铁, 并继续探索这个世界了, 祝你好运!§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYw.desc=使用你的锉刀做一些杆, 再锻造一些青铜/铋青铜板, 你就能制作锻铁炉了. %n%n§a锻铁炉使用TFC木炭§r%n%n锻铁炉是一个多方块结构, 这是你的第一个多方块结构！%n%n请使用沉思功能查看结构和直观的用法解释. %n%n除了圆石, 任何一种石头都可以使用:原始的, 光滑的, 或砖块. 如果需要, 也可以混合石头的风格, 甚至是岩石的类型(例如光滑的玄武岩和花岗岩砖). %n%n使用起火器右键锻铁炉主方块点火. %n%n§a你即将进入灰铁时代! 你现在应该前往下一章继续查看具体如何炼铁, 并继续探索这个世界了, 祝你好运!§r
 
 # Quest: tfr.quest108.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.name=扳手
@@ -474,7 +474,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEA.desc=蒸汽锅炉干烧是会爆炸�
 
 # Quest: tfr.quest18.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=量产钢铁！
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=钢是重要的原料, 燃烧室、锅炉、引擎、蒸汽涡轮、机器、一些更高级的合金, 都能用钢做. %n蒸汽引擎能将空气泵入坩埚, 在泵入空气的坩埚内加入铁并达到一定温度(具体温度请查看NEI)就可以缓慢地将铁转化为钢. %n§c§r§o§n§c§n§m§m§m§n§m§r§o§n§c§r§b§r§c§o§n§r§c*不要把坩埚塞满, 不然空气无法泵入
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=钢是重要的原料, 燃烧室、锅炉、引擎、蒸汽涡轮、机器、一些更高级的合金, 都能用钢做. %n蒸汽引擎能将空气泵入坩埚, 在泵入空气的坩埚内加入铁并达到一定温度(具体温度请查看NEI)就可以缓慢地将铁转化为钢. %n§c*不要把坩埚塞满, 不然空气无法泵入
 
 # Quest: tfr.quest20.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=健康好水
@@ -2188,6 +2188,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=如果你有大量的羊毛纱�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=§b[BOT]魔法觉醒
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=来自自然的力量
 
+# Quest: tfru.q404n
+betterquesting.quest.1M0GQVLjS6iq9j0gPEaP8w.name=被动产能花
+betterquesting.quest.1M0GQVLjS6iq9j0gPEaP8w.desc=这里的任务汇总了全部的产魔方式，以供参考. %n%n最简单的产能方式, 放下晒太阳/月亮, 水绣球在周围一圈放水即可. %n%n§b自动化难度: §c很高§r, 被动产能花会枯萎，需要手段自动合成和放置它们, 有这种手段后建议使用噬草花. %n%n§a产能: §c极低§r, 太阳和月亮花约1.6/秒, 水绣球约20/秒
+
 # Quest: tfru.q189n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=晴天娃娃
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=用魔力带走乌云.扔一个向日葵给它即可使天气放晴
@@ -2218,7 +2222,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACXA.desc=用来制作各种带有神奇�
 
 # Quest: tfr.quest605.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.name=火红莲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.desc=植物界的燃煤发电机, 燃料的燃烧时间是熔炉里的一半, 利用gt料斗和压力版可以极简单的完成它的自动产魔
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACXQ.desc=植物界的燃煤发电机, 燃料的燃烧时间是熔炉里的一半, 利用gt料斗和压力版可以极简单的完成它的自动产魔.  %n%n§b自动化难度: §a低§r, 用gt料斗自动放置燃料即可 %n%n§a产能: §c低§r, 约40/秒
 
 # Quest: tfr.quest606.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACXg.name=魔力池
@@ -2314,7 +2318,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADEQ.desc=仿佛是基因中的缺陷, �
 
 # Quest: tfr.quest730.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.name=噬草花
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.desc=你可能痛恨那群被动产能花在你还未站稳脚跟之时抛下你离去, 或者只是翡翠苋为你生产了过多的神秘花而无处存放, 不管怎样, 来试试这个. 它可以吞噬周围的被动产能花来产出魔力, 连续喂食同一种花会使产能降低%n%n如果你是认真的想用它进行自动产魔, 苦钻怕推荐你去看看词典的以下几个页面: 翡翠苋, 机巧箱, 花药台, 手掌花.%n%n 此外, GregTech的物品管道, 物品过滤器, 储物桶/量子存储器和队列料斗也可以派上用场. %n你的付出不会辜负你的. %n%n此外, 还有一朵更强大的饕餮噬草花, 可以吞噬任何种类的产能花, 详见植物魔法词典.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADEg.desc=你可能痛恨那群被动产能花在你还未站稳脚跟之时抛下你离去, 或者只是翡翠苋为你生产了过多的神秘花而无处存放, 不管怎样, 来试试这个. 它可以吞噬周围的被动产能花来产出魔力, 连续喂食同一种花会使产能降低%n%n§b自动化难度: §4很高§r, 需要自动合成被动产能花并放置 %n%n§a产能: §a很高§r, 约1500/秒%n%n苦钻怕推荐你去看看以下几个物品: 翡翠苋, 花药台, 手掌花.%n%n 此外, GregTech的物品管道, 物品过滤器, 储物桶/量子存储器和队列料斗也可以派上用场.
 
 # Quest: tfr.quest722.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADEw.name=二阶符文
@@ -2330,7 +2334,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADFQ.desc=尽管你常见在魔力发射�
 
 # Quest: tfr.quest728.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADFg.name=炽玫瑰
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADFg.desc=自动吸收周围一圈的岩浆来产生魔力, 吸收后会持续产生45秒魔力, 随后进入300秒冷却时间
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADFg.desc=自动吸收周围一圈的岩浆来产生魔力, 吸收后会持续产生45秒魔力, 随后进入300秒冷却时间 %n%n§b自动化难度: §e中等§r, 你需要一个可靠的方式获得岩浆, 运送可以使用微型地狱-群峦传送门 %n%n§a产能: §c低§r, 计算冷却时间后约66/秒
 
 # Quest: tfr.quest729.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGA.name=机巧箱
@@ -2346,11 +2350,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADGg.desc=魔力发射器可以收集一�
 
 # Quest: tfr.quest725.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.name=彼方兰
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=依靠吃食物产生魔力, 产魔量与产魔效率与投喂食物所能回复的饥饿值有关, 如果你有自动农场, 或是通过农业任务或随想之茧获得了原版动物, 这将是比火红莲更优雅高效的选择
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADGw.desc=依靠吃食物产生魔力, 产魔量与产魔效率§a仅§r与食物恢复的饥饿值有关. %n%n§b自动化难度: §a很低§r, 食物来源很多, 如林业农场等. %n%n§a产能: §e较高§r, 根据食物而不同, 生土豆约16/秒，熟牛排约1386/秒
 
 # Quest: tfr.quest726.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.name=咀叶草
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.desc=依靠吃树叶产生魔力, 如果你有林业树场, 这也是一个不错的选择
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADHQ.desc=依靠吃树叶产生魔力, 环保人士之敌.%n%n§b自动化难度: §a低§r, 使用林业树场一键自动化, 注意调控掉树苗的树叶和被吃掉的树叶之间的比例即可. %n%n§a产能: §e较高§r, 约650/秒
 
 # Quest: tfr.quest720.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADHw.name=高速魔力通道
@@ -2374,7 +2378,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJA.desc=魔力池中的魔力通常很�
 
 # Quest: tfr.quest736.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.name=启命英
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.desc=新生与凋零在霎那转变, 生命与世界的矛盾与和谐…%n%n这是植物魔法中最复杂的产能花, 它遵循一个修改后的康威生命游戏规则, 具体请看词典%n%n话虽如此, 植物魔法作为一个历史悠久的科技mod, 已经有不少人发出了高速稳定的产魔方案 %n不过, 探索未知的乐趣才是这朵花存在的意义, 不是吗?
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADJQ.desc=新生与凋零在霎那转变, 生命与世界的矛盾与和谐…%n%n这是植物魔法中最复杂的产能花, 它遵循一个修改后的康威生命游戏规则, 具体请看词典%n%n话虽如此, 植物魔法作为一个历史悠久的科技mod, 已经有不少人发出了高速稳定的产魔方案. TFRU使用的是1.12+算法, 即细胞最大生命100而且不会老死. %n%n§b自动化难度: §4极高§r, 你需要完成三种作物和仙人掌的自动化农场, 同时研究生命游戏的最大化产能方案. %n%n§a产能: §d未知§r, 由于生命游戏复杂度高灵活性强, 产能方案很多. 理论上限在19200/秒
 
 # Quest: tfr.quest733.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADJg.name=梦之木
@@ -2388,6 +2392,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=魔力远比你想象的有用�
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=魔力脉冲枪
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器, 可以安装透镜(包括复合透镜)以达成许多有趣的应用, 可以安装透镜夹, 潜行即可切换透镜 %n%n§o比如安装挖掘透镜可以当作低配版采矿镭射枪使用.
 
+# Quest: tfru.q409n
+betterquesting.quest.DAbfPN9KQvGa5JgLPs-WsQ.name=斑斓花
+betterquesting.quest.DAbfPN9KQvGa5JgLPs-WsQ.desc=通过按顺序食用不同颜色的羊毛产能, 具体来说, 各色羊毛需要按meta值递增的顺序投掷. %n%n§b自动化难度: §e中等§r, 通过各色花瓣即可染色, 获取羊毛产线即可. %n%n§a产能: §a极高§r, 约6000/秒, 羊毛消耗未做限速, 但你需要足够强大的产线, 以及精确控制投掷颜色的装置. 以每t投掷一个的速度才能达到最高速度.
+
 # Quest: tfru.q247n
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=自然核心
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=你可以从精灵们那里获取一些传送门的核心原理, 他们将这些原理封装入这一颗核心. 使用它可以在获得火箭之前到达一些风景优美的宜居星球.
@@ -2395,6 +2403,18 @@ betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=你可以从精灵们那里获�
 # Quest: tfru.q289n
 betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.name=探矿透镜
 betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=借助精灵的力量, 你能看穿深厚的地层, 找到地下的矿物. %n%n探矿光束自带虚化效果, 当探矿光束经过矿物时, 会损耗一部分魔力在矿物上附着小精灵, 戴上§b窥魔之镜§r即可看到小精灵发出的微弱光芒.  %n%n探矿光束经过其他固体方块时的损耗略高于经过空气.
+
+# Quest: tfru.q407n
+betterquesting.quest.JXFLj4QhT-usCPkzMf-eAg.name=阿卡纳蔷薇
+betterquesting.quest.JXFLj4QhT-usCPkzMf-eAg.desc=使用玩家身上的经验产出魔力%n%n§b自动化难度: §4不可能§r, 1.7的它无法吸收地上的经验球产魔, 建议仅用于前期过渡 %n%n§a产能: §a很高§r, 约1100/秒
+
+# Quest: tfru.q405n
+betterquesting.quest.RJtw0HfHRTiMcSFMbKEbPg.name=乐舞铃
+betterquesting.quest.RJtw0HfHRTiMcSFMbKEbPg.desc=通过吸收快乐的舞动和蹦跳中的能量产能. 在家附近摆上它可以使你在机器上跳来跳去的行为更有意义. 注意机械性的重复移动对它无效. %n%n§b自动化难度: §a低§r, 找一个周期较长的挂机池就能骗过它. %n%n§a产能: §c较低§r, 约60/秒
+
+# Quest: tfru.q406n
+betterquesting.quest.RoP_uvzCT0-7LboUBuQyTA.name=贪食花
+betterquesting.quest.RoP_uvzCT0-7LboUBuQyTA.desc=吃蛋糕产能. 它会喜欢善意的谎言吗...%n%n§b自动化难度: §e中等§r, 由于gt干的好事, 你需要一个gt机器做的蛋糕产线, 好在gt机器自动化很简单. %n%n§a产能: §e中等§r, 约400/秒
 
 # Quest: tfru.q290n
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=窥魔之镜
@@ -2407,6 +2427,10 @@ betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.desc=你隐约从魔力钢中感受�
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=封印之布
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=使用这个可以去除任意物品上的附魔, 一块布可以使用36次.
+
+# Quest: tfru.q408n
+betterquesting.quest.rsD84iypRm2vlqncHTuLxg.name=饕餮噬草花
+betterquesting.quest.rsD84iypRm2vlqncHTuLxg.desc=植物界的汉尼拔, 可以吃除了自身外的任何产能花, 需要按顺序循环投喂不同种花, 一个循环中种类越多单次产能越高. %n%n§b自动化难度: §4极高§r, 你需要至少完成一级符文的自动化，它的效率才比普通噬草花高. 完成植物魔法的全部材料自动化可以达到最高产能 %n%n§a产能: §a极高§r, 约1640-20450/秒
 
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=暮森灵核
@@ -2767,10 +2791,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=关于管道, 存储, 和�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=钢制蓄水槽
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=根据方块介绍摆放, 需要一个阀门输入, 一个阀门输出. 
 
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高级工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=高级工作台是一个非必须但很有用的设备. 他可以用管道输入液体资源, 在GUI上部的槽里可以用桶接液体. 也可以在旁边放储物桶, 合成的时候可以从NEI直接放置物品, 批量合成时会自动抽取左边格子和抽屉里可用的材料, 可以点击侧边打开抽屉. %n%n此外, 高级工作台合成时不会因矿词查找造成卡顿.
-
 # Quest: tfr.quest81.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=金属包装
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=这特么就是个奇迹, 你居然能放54个物品, 感动吗？
@@ -3092,13 +3112,17 @@ betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=太阳能集热塔和核反应�
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=晶体储能
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=利用最新研究的能源型晶体处理器, 可以利用能量晶体存储LU
 
+# Quest: New Quest
+betterquesting.quest.w7X0kWxPSxW3hoY5t0wDgw.name=
+betterquesting.quest.w7X0kWxPSxW3hoY5t0wDgw.desc=
+
 # Quest: tfru.q257n
 betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.name=本章说明
 betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.desc=这章任务讲述了本整合包中§a所有§r的能量生成,转换,存储,运输方式, 由于覆盖面广泛, §c你能看到的任务并不一定能在你目前所处的时代完成§r. 每个任务组内是按照时代从上到下排序的, 越靠下的任务代表它的科技水平越高. %n由于大部分任务实际在其他任务线也有提到, 本章的任务大部分是引用而非本体. %n%n§e存在势差和通量概念的能量基本有着相似的逻辑, 为了方便理解, 任务书其他部分会统称其为电压/电流§r, 请勿在见到"RU电压"等表述时感到奇怪.%n%n能量本体的任务图标是最大的, 图标右下角是该能量的§a直接运输方式§r, 右上角是§e变压方式§r, 图标右侧是该能量的§b直接存储方式§r, 图标下方是该能量§d转换为其他能量§r所用到的机器, 图标左侧是从自然/化石燃料等§6直接产生该能量的生成器§r%n§r这意味着某种能量的产生方式§6不仅有左侧的直接产生方式, 还有上方由其他能量转换而来的方式§r. %n对应位置没有任务即为无法直接传输/储存/生产 %n%n其他图标里最小的是普通的单方块机器, 比小图标大一圈的任务图标表示这个任务提到的机器是多方块结构.
 
 # Quest: tfru.q259n
 betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.name=太阳能集热塔
-betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=§8赞美太阳!%n%n§r这个巨大的塔可以接受反射镜射来的阳光, 并可切换输出HU/输出热流体模式. %n%n右侧可选任务是除热吸收层外的其他层需要的材料, 第二个可选任务是一层热吸收层需要的材料, 更高的热吸收层层数可以提供更高的输出上限和更高的储热量.%n%n每个反射镜在清晨生产16HU/t, 随后功率逐渐升高, 在中午时会生产64HU/t, 再逐渐降低, 到傍晚降回16HU/t. 夜晚反射镜会平置并不再产生能量.%n输出区域是顶层中心3*3顶盖的顶面, 每格输出功率均为256 * 热吸收层层数 HU/t, 切换为热流体模式时会以 1024 * 9 * 热吸收层层数 HU/t加热流体并在同样位置输出(即快4倍). %n%n塔需要预热, 当温度升高一些后才会以前面提到的功率输出, 使用温度计可以查看温度, 温度过高会使整个塔熔毁.%n%n你可能查看到流体加热配方中有蒸汽, 的确可以直接使用它加热蒸汽, 但效率仅有锅炉的1/2, 不建议使用.
+betterquesting.quest.yK0ufRTdRf-94TvvxT2Hnw.desc=§8赞美太阳!%n%n§r这个巨大的塔可以接受反射镜射来的阳光, 并可切换输出HU/输出热流体模式. %n%n右侧可选任务是除热吸收层外的其他层需要的材料, 第二个可选任务是一层热吸收层需要的材料, 更高的热吸收层层数可以提供更高的输出上限和更高的储热量.%n%n每个反射镜在清晨生产16HU/t, 随后功率逐渐升高, 在中午时会生产128HU/t, 再逐渐降低, 到傍晚降回16HU/t. 夜晚反射镜会平置并不再产生能量.%n输出区域是顶层中心3*3顶盖的顶面, 每格输出功率均为256 * 热吸收层层数 HU/t, 切换为热流体模式时会以 1024 * 9 * 热吸收层层数 HU/t加热流体并在同样位置输出(即快4倍). %n%n塔需要预热, 当温度升高一些后才会以前面提到的功率输出, 使用温度计可以查看温度, 温度过高会使整个塔熔毁.%n%n你可能查看到流体加热配方中有蒸汽, 的确可以直接使用它加热蒸汽, 但效率仅有锅炉的1/2, 不建议使用.
 
 # Quest: tfru.q303n
 betterquesting.quest.yy3Nar60SSO5WK99b4B8og.name=变速箱
@@ -3948,7 +3972,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACzw.desc=能量与龙力相融合, 可�
 
 # Quest: tfru.q251n
 betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.name=大蒸汽涡轮
-betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=拥有探伤仪后你可以构建安全稳定的涡轮机, 经过探伤的涡轮不会再突然损坏, 但放入涡轮机后开始运转即会受损, 只能回收重新制作. %n尽管标记了受损, 它仍会运转相当长的时间, 当涡轮即将损坏时会发出异常的声响和振动, 附着于主方块上的振动检测器可以检测这种振动并输出红石信号. %n%n涡轮运转中并不会明显损坏, 因此回收是没有损耗的%n%n普通模式下涡轮机会输出(基础输出)*涡轮功率系数 RU/A * 1A/t的功率, 但功率不会超过面板功率的两倍. %n%n可以使用螺丝刀开启超频模式, 此模式下涡轮耐久将会以8倍速损耗, 但会输出(功率系数整数部分)A的RU, 小数部分作为电压提升分散到电流中. %n%n涡轮耐久是使用n RU*h表示的, 代表涡轮在m RU功率下可以工作n/m小时. %n%n你可以灵活使用NEI的正则表达式搜索模式快速找到你需要的高功率或/且高耐久的涡轮.
+betterquesting.quest.0paHItLkRe2R_btwK5rn6Q.desc=拥有探伤仪后你可以构建安全稳定的涡轮机, 经过探伤的涡轮不会再突然损坏爆炸, 但开始工作后由于气流冲击等原因会磨损, 回收时需要重新制作. %n尽管标记了磨损, 它仍会运转相当长的时间, 当涡轮即将损坏时可以抽出涡轮进行更换，如果彻底损坏则会强制关机，需要用软锤重启. 除此之外，只有强制关机状态下可以抽出涡轮，方便进行自动化.%n%n涡轮运转中并不会明显损坏, 因此回收是没有损耗的%n%n普通模式下涡轮机会输出(基础输出)*涡轮功率系数 RU/A * 1A/t的功率, 但功率不会超过面板功率的两倍. %n%n可以使用螺丝刀开启超频模式, 此模式下涡轮耐久将会以8倍速损耗, 但会输出(功率系数整数部分)A的RU, 小数部分作为电压提升分散到电流中. %n%n涡轮耐久是使用n RU*h表示的, 代表涡轮在m RU功率下可以工作n/m小时. %n%n你可以灵活使用NEI的正则表达式搜索模式快速找到你需要的高功率或/且高耐久的涡轮.
 
 # Quest: tfru.q325n
 betterquesting.quest.4i_ExpDVRAGUQW7oupUe3g.name=走向微观
@@ -3973,6 +3997,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=啊, 头好痛, 一定是还没
 # Quest: tfr.quest5.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=§b§l失传的技艺
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=
+
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=高级工作台
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=想要批量合成? 高级工作台是一个很有用的设备, 由合成台和抽屉组成. 点击顶面打开合成台, 点击侧边打开抽屉. 批量合成时会自动抽取左边格子和抽屉里可用的材料. 此外, 它可以自动使用紧邻的储罐和储物桶里的流体和物品，GUI上方的桶图标的格子也可以放置任意装有液体的容器用于液体合成.
 
 # Quest: tfr.quest10.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=熔炼矿石

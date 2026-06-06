@@ -2188,6 +2188,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABWw.desc=Если у вас есть м�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.name=Магическое пробуждение
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFQ.desc=От силы природы
 
+# Quest: tfru.q404n
+betterquesting.quest.1M0GQVLjS6iq9j0gPEaP8w.name=
+betterquesting.quest.1M0GQVLjS6iq9j0gPEaP8w.desc=
+
 # Quest: tfru.q189n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABxg.desc=
@@ -2388,6 +2392,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=
 
+# Quest: tfru.q409n
+betterquesting.quest.DAbfPN9KQvGa5JgLPs-WsQ.name=
+betterquesting.quest.DAbfPN9KQvGa5JgLPs-WsQ.desc=
+
 # Quest: tfru.q247n
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.name=
 betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
@@ -2395,6 +2403,18 @@ betterquesting.quest.GrYsanQgQhaRVOf_FijyoQ.desc=
 # Quest: tfru.q289n
 betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.name=
 betterquesting.quest.J7qe0_ugSNynjdzWMECsdw.desc=
+
+# Quest: tfru.q407n
+betterquesting.quest.JXFLj4QhT-usCPkzMf-eAg.name=
+betterquesting.quest.JXFLj4QhT-usCPkzMf-eAg.desc=
+
+# Quest: tfru.q405n
+betterquesting.quest.RJtw0HfHRTiMcSFMbKEbPg.name=
+betterquesting.quest.RJtw0HfHRTiMcSFMbKEbPg.desc=
+
+# Quest: tfru.q406n
+betterquesting.quest.RoP_uvzCT0-7LboUBuQyTA.name=
+betterquesting.quest.RoP_uvzCT0-7LboUBuQyTA.desc=
 
 # Quest: tfru.q290n
 betterquesting.quest._jzI1vb8T_Sp7yNozZYuSw.name=
@@ -2407,6 +2427,10 @@ betterquesting.quest.dFkyhDv5TTeB4bfKjwTekg.desc=
 # Quest: tfru.q198n
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.name=
 betterquesting.quest.ocP6fZisQW-59ZyUroe9Tg.desc=
+
+# Quest: tfru.q408n
+betterquesting.quest.rsD84iypRm2vlqncHTuLxg.name=
+betterquesting.quest.rsD84iypRm2vlqncHTuLxg.desc=
 
 # Quest: tfru.q248n
 betterquesting.quest.tII1hrqmSWyQ8N2GEluvmQ.name=
@@ -2767,10 +2791,6 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAADg.desc=О трубах, хране
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Стальная цистерна
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Согласно представлению блоков, требуется ввод клапана, выход клапана.
 
-# Quest: tfr.quest6.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Высший рабочий стол
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=Высокоуровневый рабочий стол-это не обязательное, но полезное устройство. Он может использовать трубопровод для ввода жидких ресурсов, и он может впрыскивать жидкость в бак в верхней части GUI. Также можно положить рядом со стволом для хранения и автоматически забрать вещи, когда их синтезируют. С боковой стороны находятся ящики, которые также могут хранить много вещей, и есть места для специальных инструментов. Сильнее!
-
 # Quest: tfr.quest81.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Металлическая упаковка
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=Это же чудо.
@@ -3091,6 +3111,10 @@ betterquesting.quest.tj2RHEyLSWOVXSk7eYHuYg.desc=
 # Quest: tfru.q323n
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.name=
 betterquesting.quest.v3vN1Lh8TMquvwf3QzpfBg.desc=
+
+# Quest: New Quest
+betterquesting.quest.w7X0kWxPSxW3hoY5t0wDgw.name=
+betterquesting.quest.w7X0kWxPSxW3hoY5t0wDgw.desc=
 
 # Quest: tfru.q257n
 betterquesting.quest.x4PXrJxMQWObVinuSYlGwg.name=
@@ -3973,6 +3997,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAA.desc=Используя технол
 # Quest: tfr.quest5.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=Потерянное искусство "б"
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=
+
+# Quest: tfr.quest6.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.name=Высший рабочий стол
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABg.desc=Высокоуровневый рабочий стол-это не обязательное, но полезное устройство. Он может использовать трубопровод для ввода жидких ресурсов, и он может впрыскивать жидкость в бак в верхней части GUI. Также можно положить рядом со стволом для хранения и автоматически забрать вещи, когда их синтезируют. С боковой стороны находятся ящики, которые также могут хранить много вещей, и есть места для специальных инструментов. Сильнее!
 
 # Quest: tfr.quest10.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACg.name=Расплавить руду
