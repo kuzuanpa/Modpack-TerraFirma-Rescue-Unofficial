@@ -1026,6 +1026,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=Не хочешь мыть шахту, иди изучать химию
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=Вам нужно превратить хромированную железорудную породу в хромистый натрий, затем в дихромат натрия, затем окись хрома, чтобы сделать следующий шаг. % % - это хороший выбор для создания линии производства, которая сочетается с алюминием.
 
+# Quest: tfr.quest593.name
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.name=Запоминающее электричество
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.desc=В аккумуляторной коробке можно поместить четыре батарейки, которые выработают ток 4A, но не выше напряжения батареи. Батарейки, помещенные в аккумуляторную коробку, могут быть заряжены или разряжены. Некоторые инструменты и оборудование, которые нуждаются в электроэнергии, также могут быть заряжены здесь, например, электрические гаечные ключи, дрели, реактивные ранцы и т.д. Но прежде чем зарядить, обратите внимание на уровень напряжения.
+
 # Quest: tfru.q326n
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=
@@ -1152,17 +1156,45 @@ betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 
+# Quest: 零点物质生成
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
+
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: T5计算机
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
+
+# Quest: 镜金应用
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
+
+# Quest: 无尽
+betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
+betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
-# Quest: tfru.q380n
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=
+# Quest: 有机量子处理
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
+
+# Quest: 跃迁理论
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
+
+# Quest: 虚空理论
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
+
+# Quest: 零点场论
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=
@@ -1176,6 +1208,18 @@ betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 
+# Quest: tfru.q325n
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=
+
+# Quest: 电子显微镜
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
+
+# Quest: 宇宙辐射研究
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
+
 # Quest: tfru.q381n
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=
@@ -1188,9 +1232,21 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
 
-# Quest: tfru.q382n
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=
+# Quest: 零点能量生成
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
+
+# Quest: 催化原理
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
+
+# Quest: 量金应用
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
+
+# Quest: 强力物质
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
@@ -1212,9 +1268,33 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
 
+# Quest: 微重力环境应用
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
+
+# Quest: 量子结构理论
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
+
+# Quest: 硅岩应用
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
+
+# Quest: 刻金性质应用
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
+
 # Quest: tfru.q
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=
+
+# Quest: 微重力蚀刻
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
+
+# Quest: 量子计算
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.name=
@@ -1223,6 +1303,22 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
+
+# Quest: 量子观测
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
+
+# Quest: 量子计算微型化
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
+
+# Quest: 量金制造
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
+
+# Quest: 一种晶体处理器
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
 # Quest: tfru.q335n
 betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=
@@ -1236,9 +1332,17 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
+# Quest: 微重力组装机
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
+
 # Quest: tfru.q
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=
+
+# Quest: 科魔统一理论
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
 # Quest: tfru.q
 betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.name=
@@ -1247,6 +1351,14 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=
 # Quest: tfru.q
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
+
+# Quest: T6
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
+
+# Quest: 聚变
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
 
 # Quest: tfru.q
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=
@@ -1260,35 +1372,14 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
 
-
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Тир 7 - цель на земле
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=Время просыпаться, сон из далёкой луны.
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=Цель-земля.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=Поздравляю с победой в этой игре
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=Отдельн благодарн
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Спасибо всем, кто поддерживает тэммоэг, и всем золотым сторонникам тэммоэг, за их покровительство нам. % % всех игроков MoegCraft-3- альфа. LebN, woyun, Ruo_Fei, Ruo_Fei, codice_111, Gloa, xiao_j, true, 65t7tyyu, melon_37, Melon_rinds, 2333_rinds, ZinX, xiaozhen, xiaozen, micao, China12580, Small_Mo и т.д. Поддержка всех игроков MoegCraft от % до %. %n%nMCBBS интегрированы в пакетные издания. YPXiaoK, тыква без сахара, грубая, спасибо, что дали нам возможность показать TFR. Основатель %n%nMCMOD: Возрождение — это надежда, и спасибо за поддержку. %n%nGregoriousT, TFC-Team, zmaster587, и все авторы модов в TFR, поблагодарили их за то, что они создали замечательную модель для нас. %n%nMinecraftForge и Mojang за создание такой прекрасной платформы для TFR. И спасибо, что вдохновил меня, написав трилогию койоте. Мои учителя физики, химии, мр.
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=конц
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=Никто не знает, добрался ли Александр Стив ii до земли в безопасности. Если у него получится, думаю, он будет разочарован. К тому времени земля стала пустынным адом, охваченным пыльными бурями и кислотными дождями. Благодаря теории относительности, Александр, путешествуя со скоростью света, пережил гораздо меньше времени, чем люди на земле, по крайней мере, до тех пор, пока они не ушли оттуда. По подсчетам, земля прошла по меньшей мере 400 лет истории за то время, пока он отсутствовал. Никто не знает, что происходит на земле, куда уходят люди. На космической станции в александрии хранятся образцы генофонда земли, а также 200 000 оплодотворённых человеческих яйцеклеток. Надежда, казалось бы потушенный огонь, все еще существует в безмолвной вселенной. История александра -----% --% -- n-n-" l "будет продолжена потомками.
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Продюсеры.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=Дизайн TeamMoeg%n%n концепц:%nYueSha%n%n истор разработа:%nYueSha%ndashuabia%n%n модификац:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n сценар:%nYueSha%nduck_egg % дизайн ndashuabia%n % ну:%nMangoHi%n%n пиксел искусств:%nduck_egg%nTian_Mi%n%n управлен сообществ:%nEvan%n Hd__yu % %nGBL% % %nGBL :% %nGBL :% %nGBL; % %nGBL; % %nGBL; % % %nGBL; % % %nGBL; % %nGBL; % % %nGBL
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=О нас.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=Мы очен добр пожалова игрок присоедин к нам QQ обм групп ил Discord группов чат:%nQQ1 групп: 1046723658%nQQ2 групп: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n ил вы могут такж через официальн сайт/форум/Wiki посет нам:%n официальн сайт: www.teammoeg.com%n форум forum.teammoeg.com%nWiki: Wiki.teammoeg.com (%n%) или присылает нам электронную почту :%n-e-mail: support@teammoeg.com
+# Quest: T7
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
 
 
-## Quest Line: tfr.line7.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=Tier 6 — революция в физике
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=Одновременно с исследованием космоса и производственным развитием произошел прорыв в фундаментальной науке
+## Quest Line: tfru.l5n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=
 
 # Quest: tfr.quest215.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium +
@@ -1369,6 +1460,36 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.desc=
 # Quest: tfr.quest670.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=Массовое производство материи
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
+
+
+## Quest Line: tfru.l6n
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.name=
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.desc=
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Тир 7 - цель на земле
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=Время просыпаться, сон из далёкой луны.
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=Цель-земля.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=Поздравляю с победой в этой игре
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=Отдельн благодарн
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Спасибо всем, кто поддерживает тэммоэг, и всем золотым сторонникам тэммоэг, за их покровительство нам. % % всех игроков MoegCraft-3- альфа. LebN, woyun, Ruo_Fei, Ruo_Fei, codice_111, Gloa, xiao_j, true, 65t7tyyu, melon_37, Melon_rinds, 2333_rinds, ZinX, xiaozhen, xiaozen, micao, China12580, Small_Mo и т.д. Поддержка всех игроков MoegCraft от % до %. %n%nMCBBS интегрированы в пакетные издания. YPXiaoK, тыква без сахара, грубая, спасибо, что дали нам возможность показать TFR. Основатель %n%nMCMOD: Возрождение — это надежда, и спасибо за поддержку. %n%nGregoriousT, TFC-Team, zmaster587, и все авторы модов в TFR, поблагодарили их за то, что они создали замечательную модель для нас. %n%nMinecraftForge и Mojang за создание такой прекрасной платформы для TFR. И спасибо, что вдохновил меня, написав трилогию койоте. Мои учителя физики, химии, мр.
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=конц
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=Никто не знает, добрался ли Александр Стив ii до земли в безопасности. Если у него получится, думаю, он будет разочарован. К тому времени земля стала пустынным адом, охваченным пыльными бурями и кислотными дождями. Благодаря теории относительности, Александр, путешествуя со скоростью света, пережил гораздо меньше времени, чем люди на земле, по крайней мере, до тех пор, пока они не ушли оттуда. По подсчетам, земля прошла по меньшей мере 400 лет истории за то время, пока он отсутствовал. Никто не знает, что происходит на земле, куда уходят люди. На космической станции в александрии хранятся образцы генофонда земли, а также 200 000 оплодотворённых человеческих яйцеклеток. Надежда, казалось бы потушенный огонь, все еще существует в безмолвной вселенной. История александра -----% --% -- n-n-" l "будет продолжена потомками.
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Продюсеры.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=Дизайн TeamMoeg%n%n концепц:%nYueSha%n%n истор разработа:%nYueSha%ndashuabia%n%n модификац:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n сценар:%nYueSha%nduck_egg % дизайн ndashuabia%n % ну:%nMangoHi%n%n пиксел искусств:%nduck_egg%nTian_Mi%n%n управлен сообществ:%nEvan%n Hd__yu % %nGBL% % %nGBL :% %nGBL :% %nGBL; % %nGBL; % %nGBL; % % %nGBL; % % %nGBL; % %nGBL; % % %nGBL
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=О нас.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=Мы очен добр пожалова игрок присоедин к нам QQ обм групп ил Discord группов чат:%nQQ1 групп: 1046723658%nQQ2 групп: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n ил вы могут такж через официальн сайт/форум/Wiki посет нам:%n официальн сайт: www.teammoeg.com%n форум forum.teammoeg.com%nWiki: Wiki.teammoeg.com (%n%) или присылает нам электронную почту :%n-e-mail: support@teammoeg.com
 
 
 ## Quest Line: tfru.l3n

@@ -1026,6 +1026,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=I don't want to wash ores!
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=You need to make the chromite powder into sodium chromate, then into sodium dichromate, then into chromium oxide for the next step.%n It is a good choice to make a production line with aluminum.
 
+# Quest: tfr.quest593.name
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.name=Storage power
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.desc=Four batteries can be placed in the battery box, which can output 4A current, but not higher than the voltage of the battery box. The batteries that go into the battery box can be charged or discharged. Tools and equipment that require power can also be charged here, such as electric wrenches, drills, jetpacks, etc. But before charging, pay attention to the voltage level.
+
 # Quest: tfru.q326n
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=
@@ -1152,17 +1156,45 @@ betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 
+# Quest: 零点物质生成
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
+
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: T5计算机
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
+
+# Quest: 镜金应用
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
+
+# Quest: 无尽
+betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
+betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
-# Quest: tfru.q380n
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=
+# Quest: 有机量子处理
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
+
+# Quest: 跃迁理论
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
+
+# Quest: 虚空理论
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
+
+# Quest: 零点场论
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=
@@ -1176,6 +1208,18 @@ betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 
+# Quest: tfru.q325n
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=
+
+# Quest: 电子显微镜
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
+
+# Quest: 宇宙辐射研究
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
+
 # Quest: tfru.q381n
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=
@@ -1188,9 +1232,21 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
 
-# Quest: tfru.q382n
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=
+# Quest: 零点能量生成
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
+
+# Quest: 催化原理
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
+
+# Quest: 量金应用
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
+
+# Quest: 强力物质
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
@@ -1212,9 +1268,33 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
 
+# Quest: 微重力环境应用
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
+
+# Quest: 量子结构理论
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
+
+# Quest: 硅岩应用
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
+
+# Quest: 刻金性质应用
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
+
 # Quest: tfru.q
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=
+
+# Quest: 微重力蚀刻
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
+
+# Quest: 量子计算
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.name=
@@ -1223,6 +1303,22 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
+
+# Quest: 量子观测
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
+
+# Quest: 量子计算微型化
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
+
+# Quest: 量金制造
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
+
+# Quest: 一种晶体处理器
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
 # Quest: tfru.q335n
 betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=
@@ -1236,9 +1332,17 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
+# Quest: 微重力组装机
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
+
 # Quest: tfru.q
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=
+
+# Quest: 科魔统一理论
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
 # Quest: tfru.q
 betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.name=
@@ -1247,6 +1351,14 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=
 # Quest: tfru.q
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
+
+# Quest: T6
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
+
+# Quest: 聚变
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
 
 # Quest: tfru.q
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=
@@ -1260,35 +1372,14 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
 
-
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - Objective Earth
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=It's time to wake up, the dream from the distant moon.
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=Objective the earth
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=August 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.%n%nAugust 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=thanks
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Thanks to %n%n all TeamMoeg supporters and gold supporters for their sponsorship of us. %n%n All players of MoegCraft 3-alpha. LebN, Woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, True, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, Xiaozhen, MICU, China12580, Small_Mo, etc. %n%n The support of all the MoegCraft players. %n%nTo MCBBS moderators YPXiaoK, Meitangdehulu, and Limuliya, for giving us a chance to show TFR. %n%nThanks to founder of MCMOD: RebirthIsHope. %n%nGregoriousT, TFC-Team, ZMASTER587, and all Mod authors in TFR, thank to them for creating wonderful Mods for us. %n%nMinecraftForge and Mojang for creating such a wonderful platform for TFR. %n%nAllen Steele, author of the Coyote trilogy, for inspiration. %n%n My physics and chemistry teachers Mr.C, Mr.S, Mr.L and Ms.R, thank them for granting me knowledge.
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=The end of the
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=No one knows whether Alexander Steve II made it to Earth safely or not. If he succeeds, I think he will be very disappointed. Earth had become a desolate, desolate hell, ravaged by dust storms and acid rain. Thanks to relativity, Alexander of sublight-speed travel experienced much less time than people on Earth, at least before they left there. By rough calculation, Earth has experienced at least 400 years of history during the time of his departure. No one knows what has happened to Earth or where the human race has gone. Alexander's space station holds samples of the Earth's gene bank and 200,000 fertilized human eggs. Hope, the flame that seems to have gone out, still exists in the silent universe. The story of Alexander -- n%n§l will be continued by future generations.
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
+# Quest: T7
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
 
 
-## Quest Line: tfr.line7.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=Tier 6 - Revolution in Physics
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=Along with the development of space exploration and production, breakthroughs have been made in basic science
+## Quest Line: tfru.l5n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=
 
 # Quest: tfr.quest215.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium Plus
@@ -1369,6 +1460,36 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.desc=
 # Quest: tfr.quest670.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=Bulk material manufacturing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
+
+
+## Quest Line: tfru.l6n
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.name=
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.desc=
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - Objective Earth
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=It's time to wake up, the dream from the distant moon.
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=Objective the earth
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=August 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.%n%nAugust 10, 21X1%n%nIt's been eight years since the fusion reactor began stable operation, and I no longer need to worry about running out of energy - Duck Egg has an inexhaustible supply of helium-3 that will last me at least 20,000 years.%nBut I won't live that long. I haven't forgotten my first and always wish: to return to Earth.%n%nFebruary 3, 21X2.%n%nI've been researching the application of space-warp technology. Space-warp has allowed me to travel to neighboring planetary systems, but I still convern traveling to a place as far away as Earth - 68 light years away.%nI understand that space-warp over great distances could cause permanent damage to me.%n%nJune 10, 21X2.%n%nSpring has passed again, and Terrafirma is starting to come alive, but I am becoming more and more depressed.%nIt wasn't until yesterday that I discovered a frightening fact: I have leukemia. I thought it was most likely the result of the continuing effects on me over the decades of the high-energy particles released by Duck Egg.%nThe incident was like a thunderbolt that forced me to contemplate my response. I don't have radiation protection or a cure for cancer. Even if I could develop it, I probably wouldn't make it through that time.%n%nJune 15, 21X2.%n%nI decided to take a risk. I forged the toughest alloy I could make - Infinity - into a protective suit. I hope that this will protect me from the damage of the hyper warp.%n%nJuly 16, 21X2.%n%nWhoever is reading this diary, I want you to know that I'm off. It has taken me a month to transport the items I need to carry on board the space station, yet the machinery left on the Terrafirma is still plentiful.%nEarth's coordinates have been entered into the warp controller, and I push down the warp lever in my Infinity protective suit.%nBeginning the... the homeward journey.
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=thanks
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=Thanks to %n%n all TeamMoeg supporters and gold supporters for their sponsorship of us. %n%n All players of MoegCraft 3-alpha. LebN, Woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, True, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, Xiaozhen, MICU, China12580, Small_Mo, etc. %n%n The support of all the MoegCraft players. %n%nTo MCBBS moderators YPXiaoK, Meitangdehulu, and Limuliya, for giving us a chance to show TFR. %n%nThanks to founder of MCMOD: RebirthIsHope. %n%nGregoriousT, TFC-Team, ZMASTER587, and all Mod authors in TFR, thank to them for creating wonderful Mods for us. %n%nMinecraftForge and Mojang for creating such a wonderful platform for TFR. %n%nAllen Steele, author of the Coyote trilogy, for inspiration. %n%n My physics and chemistry teachers Mr.C, Mr.S, Mr.L and Ms.R, thank them for granting me knowledge.
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=The end of the
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=No one knows whether Alexander Steve II made it to Earth safely or not. If he succeeds, I think he will be very disappointed. Earth had become a desolate, desolate hell, ravaged by dust storms and acid rain. Thanks to relativity, Alexander of sublight-speed travel experienced much less time than people on Earth, at least before they left there. By rough calculation, Earth has experienced at least 400 years of history during the time of his departure. No one knows what has happened to Earth or where the human race has gone. Alexander's space station holds samples of the Earth's gene bank and 200,000 fertilized human eggs. Hope, the flame that seems to have gone out, still exists in the silent universe. The story of Alexander -- n%n§l will be continued by future generations.
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=Production personnel
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n Concept Design :%nYueSha%ndashuabia%n%n Modding :%nYueSha%ndashuabia%nduck_egg%nDraculea%n% Script Tweaking:%nYueSha%nduck_egg%ndashuabia%n %nUI design :%nMangoHi%nGBL%n%n Pixel Art :%nduck_egg %ndashuaibia %nYueSha %n%n Community management :%nEvan%n HD_%nlei_yu%nGBL%n%nWebsite :%nEvan %n%nServer package :%nEvan%n%nDownload management :%nEvan
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=About us
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=We welcome players to join our QQ group communication or Discord group chat:%nQQ1 group: 1046723658%nQQ2 group: 1154748118%nDiscord: https://discord.gg/BWn6E94%n%n or you can through the website/forums/Wiki visit our official website: www.teammoeg.com%n Forums: forum.teammoeg.com%nWiki: Wiki.teammoeg.com %n%n or send us an email :%n email: support@teammoeg.com
 
 
 ## Quest Line: tfru.l3n

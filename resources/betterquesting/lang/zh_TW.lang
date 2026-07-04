@@ -1026,6 +1026,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=不想洗礦了就學化學吧
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=你需要將鉻鐵礦粉製成鉻酸鈉, 再製成重鉻酸鈉, 再製成氧化鉻, 以便進行下一步的操作。%n製作一條產線和鋁相配合是一個很好的選擇。
 
+# Quest: tfr.quest593.name
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.name=存儲電力
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.desc=電池盒裡可以放四個電池, 輸出4A的電流, 但是不能高於電池盒的電壓。放進電池盒裡的電池可以被充電, 也可以被放電。一些需要電力的工具和裝備也可以在這裡充電, 比如電動扳手, 電鑽, 噴氣背包等。但是充電之前, 注意電壓等級哦。
+
 # Quest: tfru.q326n
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=
@@ -1152,17 +1156,45 @@ betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 
+# Quest: 零点物质生成
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
+
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
+
+# Quest: T5计算机
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
+
+# Quest: 镜金应用
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
+
+# Quest: 无尽
+betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
+betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
-# Quest: tfru.q380n
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=
+# Quest: 有机量子处理
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
+
+# Quest: 跃迁理论
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
+
+# Quest: 虚空理论
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
+
+# Quest: 零点场论
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=
@@ -1176,6 +1208,18 @@ betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 
+# Quest: tfru.q325n
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=
+
+# Quest: 电子显微镜
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
+
+# Quest: 宇宙辐射研究
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
+
 # Quest: tfru.q381n
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=
@@ -1188,9 +1232,21 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
 
-# Quest: tfru.q382n
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=
+# Quest: 零点能量生成
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
+
+# Quest: 催化原理
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
+
+# Quest: 量金应用
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
+
+# Quest: 强力物质
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=
@@ -1212,9 +1268,33 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
 
+# Quest: 微重力环境应用
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
+
+# Quest: 量子结构理论
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
+
+# Quest: 硅岩应用
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
+
+# Quest: 刻金性质应用
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
+
 # Quest: tfru.q
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=
+
+# Quest: 微重力蚀刻
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
+
+# Quest: 量子计算
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.name=
@@ -1223,6 +1303,22 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
+
+# Quest: 量子观测
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
+
+# Quest: 量子计算微型化
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
+
+# Quest: 量金制造
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
+
+# Quest: 一种晶体处理器
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
 # Quest: tfru.q335n
 betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=
@@ -1236,9 +1332,17 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
+# Quest: 微重力组装机
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
+
 # Quest: tfru.q
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=
+
+# Quest: 科魔统一理论
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
 # Quest: tfru.q
 betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.name=
@@ -1247,6 +1351,14 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=
 # Quest: tfru.q
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
+
+# Quest: T6
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
+
+# Quest: 聚变
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
 
 # Quest: tfru.q
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=
@@ -1260,35 +1372,14 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
 
-
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - 目標地球
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=夢該醒了, 那個來自遙遠月亮的夢。
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目標地球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距離核聚變反應堆開始穩定運行已經過去八年了, 我不再需要擔心能源耗盡——鴨蛋星有取之不盡的氦-3資源, 至少能夠供我使用20000年。%n但是我可活不了那麼久。我沒忘記我那最開始的祈望：回到地球上去。%n%n21X2年2月3日%n%n這段時間我一直在研究超遠躍遷技術的應用。躍遷技術已經能讓我前往臨近的星系, 但是前往地球那樣遠距離的星系——68光年以外的地方, 我依舊無法安心。%n我明白超遠距離的躍遷可能對我造成永久性的傷害。%n%n21X2年6月10日%n%n春天又過去了, 群巒星開始變得生機勃勃, 但我卻變得越發萎靡不振。%n直到昨天, 我才發現了一件令人害怕的事實：我患上了白血病。我想這很可能是鴨蛋星所釋放的高能粒子在這幾十年間對我持續的影響導致的。%n這件事就像一個響雷, 讓我不得不沉思我的對策。我沒有防輻射或治療癌症的藥物。即使我能研發, 我也可能撐不到那個時候。%n%n21X2年6月15日%n%n我決定冒險。我將我所能製造出的最堅硬的合金——無盡——打造成一身防護服。我希望這將能保護我免受超遠距離躍遷的傷害。%n%n21X2年7月16日%n%n不管是誰在閱讀這段日記, 我想告訴你：我出發了。我花費了一個月的時間將我需要攜帶的物品運送上空間站, 然而留在群巒星上的機械依舊很多。%n地球的坐標已經輸入躍遷控制器, 我身穿無盡防護服, 推下躍遷拉杆。%n開始了…返鄉之旅。
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鳴謝
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鳴謝%n%n所有TeamMoeg的支持者和黃金支持者, 感謝他們對我們的贊助。%n%n所有MoegCraft-3-Alpha的玩家。LebN,  woyun,  Sui_Fei,  Ruo_Fei,  031110,  Contrl_,  Gloa,  Xiao_JJ,  true,  65t7tyyu,  Melon_rinds,  2333_guizu,  ZinX,  xiaozhen,  MICU,  China12580,  Small_Mo, 等。%n%n所有MoegCraft玩家對我們的支持。%n%nMCBBS 整合包版版主。YPXiaoK, 沒糖的葫蘆, 梨木利亞, 感謝他們給了我們展示TFR的機會。%n%nMCMOD創始人：重生是希望, 感謝對我們的支持。%n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感謝他們為我們創造了精彩的Mod。%n%nMinecraftForge和Mojang, 感謝他們為TFR創造了如此美妙的平台。%n%nAllen Steele, Coyote三部曲的作者, 感謝他給予我靈感。%n%n我的物理、化學老師Mr.C、Mr.S、Mr.L和Ms.R, 感謝他們賦予我知識。
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾聲
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=沒有人知道亞歷山大·史蒂夫·二世最後是否安全抵達了地球。如果他成功了, 我想他會很失望的。這時的地球已經變成了一個荒蕪人煙的, 被沙塵暴和酸雨肆虐的地獄。%n%n感謝相對論, 亞光速航行的亞歷山大經歷的時間比地球上的人們, 至少在他們離開那裡之前, 要少得多。經過計算, 地球在他離開這段時間裡, 至少經歷了400年的歷史。誰也不知道地球上發生了什麼, 人類去了哪裡。%n%n亞歷山大的空間站上存有地球基因庫樣本以及20萬顆人類受精卵。希望, 這似乎已經熄滅的火焰, 依舊在寂靜的宇宙中存在著。亞歷山大的故事------%n%n§l將會由後人繼續書寫。
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=關於我們
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
+# Quest: T7
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
 
 
-## Quest Line: tfr.line7.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=Tier 6 - 物理學革命
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=在太空探索和生產發展的同時, 基礎科學也發生了突破
+## Quest Line: tfru.l5n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=
 
 # Quest: tfr.quest215.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium+
@@ -1369,6 +1460,36 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.desc=
 # Quest: tfr.quest670.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=批量物質製造
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
+
+
+## Quest Line: tfru.l6n
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.name=
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.desc=
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - 目標地球
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=夢該醒了, 那個來自遙遠月亮的夢。
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目標地球
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距離核聚變反應堆開始穩定運行已經過去八年了, 我不再需要擔心能源耗盡——鴨蛋星有取之不盡的氦-3資源, 至少能夠供我使用20000年。%n但是我可活不了那麼久。我沒忘記我那最開始的祈望：回到地球上去。%n%n21X2年2月3日%n%n這段時間我一直在研究超遠躍遷技術的應用。躍遷技術已經能讓我前往臨近的星系, 但是前往地球那樣遠距離的星系——68光年以外的地方, 我依舊無法安心。%n我明白超遠距離的躍遷可能對我造成永久性的傷害。%n%n21X2年6月10日%n%n春天又過去了, 群巒星開始變得生機勃勃, 但我卻變得越發萎靡不振。%n直到昨天, 我才發現了一件令人害怕的事實：我患上了白血病。我想這很可能是鴨蛋星所釋放的高能粒子在這幾十年間對我持續的影響導致的。%n這件事就像一個響雷, 讓我不得不沉思我的對策。我沒有防輻射或治療癌症的藥物。即使我能研發, 我也可能撐不到那個時候。%n%n21X2年6月15日%n%n我決定冒險。我將我所能製造出的最堅硬的合金——無盡——打造成一身防護服。我希望這將能保護我免受超遠距離躍遷的傷害。%n%n21X2年7月16日%n%n不管是誰在閱讀這段日記, 我想告訴你：我出發了。我花費了一個月的時間將我需要攜帶的物品運送上空間站, 然而留在群巒星上的機械依舊很多。%n地球的坐標已經輸入躍遷控制器, 我身穿無盡防護服, 推下躍遷拉杆。%n開始了…返鄉之旅。
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鳴謝
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鳴謝%n%n所有TeamMoeg的支持者和黃金支持者, 感謝他們對我們的贊助。%n%n所有MoegCraft-3-Alpha的玩家。LebN,  woyun,  Sui_Fei,  Ruo_Fei,  031110,  Contrl_,  Gloa,  Xiao_JJ,  true,  65t7tyyu,  Melon_rinds,  2333_guizu,  ZinX,  xiaozhen,  MICU,  China12580,  Small_Mo, 等。%n%n所有MoegCraft玩家對我們的支持。%n%nMCBBS 整合包版版主。YPXiaoK, 沒糖的葫蘆, 梨木利亞, 感謝他們給了我們展示TFR的機會。%n%nMCMOD創始人：重生是希望, 感謝對我們的支持。%n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感謝他們為我們創造了精彩的Mod。%n%nMinecraftForge和Mojang, 感謝他們為TFR創造了如此美妙的平台。%n%nAllen Steele, Coyote三部曲的作者, 感謝他給予我靈感。%n%n我的物理、化學老師Mr.C、Mr.S、Mr.L和Ms.R, 感謝他們賦予我知識。
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾聲
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=沒有人知道亞歷山大·史蒂夫·二世最後是否安全抵達了地球。如果他成功了, 我想他會很失望的。這時的地球已經變成了一個荒蕪人煙的, 被沙塵暴和酸雨肆虐的地獄。%n%n感謝相對論, 亞光速航行的亞歷山大經歷的時間比地球上的人們, 至少在他們離開那裡之前, 要少得多。經過計算, 地球在他離開這段時間裡, 至少經歷了400年的歷史。誰也不知道地球上發生了什麼, 人類去了哪裡。%n%n亞歷山大的空間站上存有地球基因庫樣本以及20萬顆人類受精卵。希望, 這似乎已經熄滅的火焰, 依舊在寂靜的宇宙中存在著。亞歷山大的故事------%n%n§l將會由後人繼續書寫。
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=製作人員
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=TeamMoeg%n%n概念設計:%nYueSha%n%n故事設計:%nYueSha%ndashuabia%n%n修改:%nYueSha%nduck_egg%ndashuabia%nDraculea%n%n腳本調整:%nYueSha%nduck_egg%ndashuabia%n%nUI設計:%nMangoHi%n%n像素藝術:%nduck_egg%nTian_Mi%n%n社區管理:%nEvan%nHD_%nlei_yu%nGBL%n%n網站:%nEvan%n%n伺服器包:%nEvan%n%n下載管理:%nEvan
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=關於我們
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我們非常歡迎玩家加入我們的QQ交流群或者Discord群聊:%nQQ1群： 1046723658%nQQ2群： 1154748118%nDiscord： https://discord.gg/BWn6E94%n%n或者您也可以通過官網/論壇/Wiki訪問我們:%n官網： www.teammoeg.com%n論壇： forum.teammoeg.com%nWiki： wiki.teammoeg.com%n%n或者給我們發送郵件:%n郵箱： support@teammoeg.com
 
 
 ## Quest Line: tfru.l3n

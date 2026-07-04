@@ -71,7 +71,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.desc=制作一把锯用于加工原�
 
 # Quest: tfr.quest163.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=地质探测-目前可以透露的情报
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=§o不同于你熟悉的原版世界, 群峦星的地下世界变得更加复杂且真实. %n%n§r岩层是由大量同种类岩石形成的. 这里的地壳很厚, 厚达100-130米. %n%n岩石在三个不同的垂直岩层产生. 沉积岩只能在顶层找到. 变质岩存在于顶层和中层. 所有三层都有侵入岩和火成岩. 每一层都独立于其他层, 因此, 表面上的石头变化并不一定意味着另外两层的石头变化. %n%n§3侵入岩：闪长岩、辉长岩、花岗岩%n%n§4火成岩：安山岩, 玄武岩、英安岩、流纹岩%n%n§6沉积岩：白垩岩、黑硅岩、粘土岩、砾岩、白云岩、石灰石、岩盐、页岩%n%n§e§7§d变质岩：片麻岩、大理石、千枚岩、硅岩、片岩、板岩%n%n§r§o能制作助焊剂的岩石(碳酸钙为主要成分的)：§a白云岩、石灰石、白垩岩、大理石%n%n§e矿物不再是原版一样的随处都是, 而是聚集成矿脉, 你需要探测到矿脉再去挖矿, 否则很可能一无所获.§r%n%n如果附近有矿脉, 就可能有一小块矿石散落在地上. 这些矿物石子代表附近地下有对应矿脉生成. %n%n石墨在变质岩和沉积岩生成；高岭石在变质岩和沉积岩生成；钻石在玄武岩、辉长岩和闪长岩中生成；锡和铀在所有火成岩和侵入岩中生成. %n%n其他矿物的位置需要你自己探索. %n%n金红石, 钨酸盐, 锆石等矿物并没有在贫瘠的群峦星被发现, 你需要制作火箭前往其卫星获得.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=不同于你熟悉的原版世界, 群峦星的地下世界变得更加复杂且真实. %n%n§r岩层是由大量同种类岩石形成的. 这里的地壳很厚, 厚达100-130米. %n%n岩石在三个不同的垂直岩层产生. 沉积岩只能在顶层找到. 变质岩存在于顶层和中层. 所有三层都有侵入岩和火成岩. 每一层都独立于其他层, 因此, 表面上的石头变化并不一定意味着另外两层的石头变化. %n%n§3侵入岩：闪长岩、辉长岩、花岗岩%n%n§4火成岩：安山岩, 玄武岩、英安岩、流纹岩%n%n§6沉积岩：白垩岩、黑硅岩、粘土岩、砾岩、白云岩、石灰石、岩盐、页岩%n%n§e§7§d变质岩：片麻岩、大理石、千枚岩、硅岩、片岩、板岩%n%n§r能制作助焊剂的岩石(碳酸钙为主要成分的)：§a白云岩、石灰石、白垩岩、大理石%n%n§e矿物不再是原版一样的随处都是, 而是聚集成矿脉, 你需要探测到矿脉再去挖矿, 否则很可能一无所获.§r%n%n如果附近有矿脉, 就可能有一小块矿石散落在地上. 这些矿物石子代表附近地下有对应矿脉生成. %n%n石墨在变质岩和沉积岩生成；高岭石在变质岩和沉积岩生成；钻石在玄武岩、辉长岩和闪长岩中生成；锡和铀在所有火成岩和侵入岩中生成. %n%n其他矿物的位置需要你自己探索. %n%n金红石, 钨酸盐, 锆石等矿物并没有在贫瘠的群峦星被发现, 你需要制作火箭前往其卫星获得.
 
 # Quest: tfr.quest271.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.name=干草
@@ -168,7 +168,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA2w.desc=使用风箱的黑色孔对准�
 
 # Quest: tfr.quest19.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=搅拌盆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=制作胶水和陶土等混合物, 右键进行搅拌. %n%n§o便宜耐用.%n%n使用瓶子装液体时右键侧壁.%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=制作胶水和陶土等混合物, 右键进行搅拌. %n%n便宜耐用.%n%n使用瓶子装液体时右键侧壁.%n
 
 # Quest: tfr.quest59.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.name=焦炉
@@ -301,7 +301,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc=你意识到如果想更进一�
 
 # Quest: tfr.quest14.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=原始高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=一个最小的高炉结构如下:%n§4首先完成结构体再放置高炉方块%n§0C=坩锅 B=高炉 F=耐火砖 W=风箱 A=空%n第一层: %nAAA%nACA%nAAA%n%n第二层:%nAAA%nABW%nAAA%n%n%n第三层:%nAFA%nFAF%nAFA%n%n§l风箱的黑色孔必须对准高炉%n%n锻铁片贴在所有耐火砖的侧面%n§r%n§o§o§n如何炼钢:%n%n%n%n1. 在高炉内放置一个风嘴. %n%n2. 要用高炉冶炼铁矿石, 需要将铁矿石扔进高炉炉顶, 同时投入等量的助焊剂和等量或更多的木炭. 高炉的每一层都可以加工4块矿石, 用起火器或打火石把高炉方块点燃. %n注意：为了保持高温, 在投掷最初的木炭后, 建议保持木炭与矿石的比例为1:1或更高. 如果有比木炭更多的矿石, 温度就会开始下降. %n%n3. 高炉GUI可以通过右击高炉方块打开. %n%n%n%n  a. 温度表:这显示了高炉的温度. 通过增加更多的木炭或将风箱安装在高炉的两侧并送气, 可以提高温度. %n%n%n%n  b. 矿石:在高炉中有多少未熔化的矿石. %n%n%n%n  c. 木炭:在高炉里有多少木炭. 普通煤炭不能用于高炉, 只能使用木炭! 注意:你要确保这个条永远等于或比矿石条更满!%n%n4. 木炭与矿石的比例至少为1:1, 而且随着风箱的使用, 温度保持足够高, 矿石就会开始融化. 矿石计数器最终会耗尽, 用产生的金属填充输出计数器. %n%n%n%n5. 铁矿石在高炉内被冶炼, 使用风箱继续加温, 直到铁矿融化后会流进底部的坩锅, 以接收液态生铁. 你需要用陶瓷模具将融化生铁取出来. %n%n6. 有了生铁钢也就不远了. 在锻铁或以上的砧里将生铁碇锻造为高碳钢锭, 再锻造为钢锭即可. %n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=按照思索页面摆放高炉结构, 注意高炉主方块需要最后放置. %n%n如何炼钢:%n%n%n%n1. 在高炉内放置一个风嘴. %n%n2. 要用高炉冶炼铁矿石, 需要将铁矿石扔进高炉炉顶, 同时投入等量的助焊剂和等量或更多的木炭. 高炉的每一层都可以加工4块矿石, 用起火器或打火石把高炉方块点燃. %n注意：为了保持高温, 在投掷最初的木炭后, 建议保持木炭与矿石的比例为1:1或更高. 如果有比木炭更多的矿石, 温度就会开始下降. %n%n3. 高炉GUI可以通过右击高炉方块打开. %n%n%n%n  a. 温度表:这显示了高炉的温度. 通过增加更多的木炭或将风箱安装在高炉的两侧并送气, 可以提高温度. %n%n%n%n  b. 矿石:在高炉中有多少未熔化的矿石. %n%n%n%n  c. 木炭:在高炉里有多少木炭. 普通煤炭不能用于高炉, 只能使用木炭! 注意:你要确保这个条永远等于或比矿石条更满!%n%n4. 木炭与矿石的比例至少为1:1, 而且随着风箱的使用, 温度保持足够高, 矿石就会开始融化. 矿石计数器最终会耗尽, 用产生的金属填充输出计数器. %n%n%n%n5. 铁矿石在高炉内被冶炼, 使用风箱继续加温, 直到铁矿融化后会流进底部的坩锅, 以接收液态生铁. 你需要用陶瓷模具将融化生铁取出来. %n%n6. 有了生铁钢也就不远了. 在锻铁或以上的砧里将生铁碇锻造为高碳钢锭, 再锻造为钢锭即可. %n%n
 
 # Quest: tfr.quest21.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFQ.name=快速熔炉
@@ -329,7 +329,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=不同的熔炼坩埚有不同�
 
 # Quest: tfr.quest134.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.name=你挖的矿物太大了
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.desc=这台2x2x3大小的碎石机通过RF能量将贫瘠, 普通, 和富集矿物粉碎成小型矿物, 而且有一定增产. §o§l没有小型矿石, 就无法将其继续处理为未来你必须要用的粉碎矿石, 所以这台机器必须做哦. %n%n§r能量的话... 为什么不用民科蒸汽引擎呢？%n%n找到金伯利岩(钻石)后, 这是一台非常值得制作的机器！%n%n金伯利岩在玄武岩, 闪长岩, 或者辉长岩生成. 他们有的时候并不在地表岩层, 而在中层岩层. 所以你需要深入一些. %n%n在专家模式下你至少需要两个钻石制作它, 找不到金伯利岩的话可以看看其他任务奖励或者万用商店. %n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhg.desc=这台2x2x3大小的碎石机通过RF能量将贫瘠, 普通, 和富集矿物粉碎成小型矿物, 而且有一定增产. §l没有小型矿石, 就无法将其继续处理为未来你必须要用的粉碎矿石, 所以这台机器必须做哦. %n%n§r能量的话... 为什么不用民科蒸汽引擎呢？%n%n找到金伯利岩(钻石)后, 这是一台非常值得制作的机器！%n%n金伯利岩在玄武岩, 闪长岩, 或者辉长岩生成. 他们有的时候并不在地表岩层, 而在中层岩层. 所以你需要深入一些. %n%n在专家模式下你至少需要两个钻石制作它, 找不到金伯利岩的话可以看看其他任务奖励或者万用商店. %n%n
 
 # Quest: tfr.quest158.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAng.name=钢
@@ -570,7 +570,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUA.desc=高效生产箔
 
 # Quest: tfr.quest83.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=燃烧反应室
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=燃烧反应室内加入熔融方解石 金红石 碳粉, 可以生产四氯化钛, 制备钛的重要原料. 你问我熔融方解石怎么做？当然是坩锅出(如果你嫌麻烦还是用液化炉吧)%n%n§4§l§n§o记住, 放入原料后必须点火才能运行！
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=燃烧反应室内加入熔融方解石 金红石 碳粉, 可以生产四氯化钛, 制备钛的重要原料. 你问我熔融方解石怎么做？当然是坩锅出(如果你嫌麻烦还是用液化炉吧)%n%n§4§l§n记住, 放入原料后必须点火才能运行！
 
 # Quest: tfr.quest88.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=离心机
@@ -1026,6 +1026,10 @@ betterquesting.quest.SY6acegSQmKM7QRDrUFx8w.desc=上天后你将会找到智金,
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.name=不想洗矿了就学化学吧
 betterquesting.quest.WhUkruM8Sn-3k9Rgk70ZaA.desc=请查看nei了解具体配方,当前阶段铬处理会剩下一种较难处理的含铬产物, 当你进入HV后可以将铬铁矿彻底处理为铬. 注意铬铁矿处理中的副产物并不是完全自循环的,你需要额外补充少量硫酸和许多氧气.
 
+# Quest: tfr.quest593.name
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.name=存储电力
+betterquesting.quest._z-uPJ-MQAWQqg353HXdVw.desc=电池盒里可以放四个电池, 每个电池可输出1A的电流, 但是不能高于电池盒的电压. 放进电池盒里的电池可以被充电, 也可以被放电. 电力工具和装备可以充电但不能放电, 比如电动扳手, 电钻, 喷气背包等. 充电之前, 注意电压等级哦. %n%n有塑料之前你只能制作铅酸电池, 碱性电池和镍镉电池的容量相同, 取决于你有哪种矿物. 电池单元可以右键装有合适流体的储罐上的龙头来罐装, 并不一定要灌装机.
+
 # Quest: tfru.q326n
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.name=电磁坩埚
 betterquesting.quest.eJHPEyhHT56gxt-wtagwhw.desc=利用线圈对金属进行隔空加热, 可以达到极高的温度, 而且效率很高. 但与此同时, 它的耗电量相当高, 还具有一定限制和风险: %n%n它无法处理完全由非金属组成的物品, 不能用于制作合金, 输入功率低于下限时内部所有物质都会损毁. %n%n电磁坩埚屏幕是操控坩埚内物质流向内部磁控模具的, 内部磁控模具有冷却, 可以导出的更快, 空手右键可以以当前形状导出物质, 不会检测坩埚内剩余物质是否足够, 使用其他形状的物品右键可以将成型目标设置为该形状, 点击蓝条开启红石控制的自动导出(有红石充能时不导出), 点击红条销毁模具内物质. 在屏幕下面放置漏斗即可导出物品.
@@ -1085,7 +1089,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADeA.desc=在外星能找到的铀矿, �
 
 # Quest: tfru.q173n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.name=裂变机制详解
-betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=可控核裂变反应, 即为燃料棒中的重原子核因受到中子, 转为高能态后分裂变成其他原子并放出热能和更多中子的过程. 这个过程中涉及的重要概念包括以下内容：%n%n§l燃料棒§r：即核燃料, 核裂变反应的主要消耗物质. 在GT6中有以下几个参数：%n- 1.§a§on§r：中子数, 当前(燃料、控制)棒上的中子数. GT6中, 核燃料棒的数据每隔一定时间更新一次, 其中棒上最重要的属性就是当前时刻棒上含有的中子数, 这个中子数涉及到后续的热量产生与向外释放的数量. %n- 2.§a§oSelf§r：核燃料棒自身反应发送给自己的中子数, 维持了核反应的基础运行. %n- 3.§a§oEmission§r：燃料棒向四周其他(燃料、控制)棒发送的中子, 这与上面的Self是互不相干的属性. %n- 4.§a§oFactor§r：增殖比率, 当燃料棒除去向自己发送的的中子数外, 剩余数量的中子会按这个比率进行缩放并释放. %n- 5.§a§oMaximum§r：最大稳定中子数, 一个燃料棒如果接受过量的中子, 它的反应会加快, 同时对棒本身的耐久会非线性的增大. 这个过量的边界值就是这个§aMaximum§r值. %n%n§l控制棒§r：对核反应进行调控的棒, 包括以下4种：%n- 1.§o中子吸收棒§r：吸收中子热量, 并高效率转化为热能的控制棒, 产热量有：§aQ §r= §an §r* §b2 其中§aQ§r单位为§cHU/t§r, §an§r为中子数%n- 2.§o中子反射棒§r：将某个方向发射来的中子完整地原路反射回去. %n- 3.§o慢化剂棒§r：对射入的 中子减速并反射, 这会导致有效反应的中子数增加. 在标准情况下, 它会反射某个射来的中子, 如果多个方向, 那么根据射来的方向数, 每一个方向反射的中子数将会乘上这个方向数量, 如东方向射来§aa§r个中子, 西方向射来§ab§r个中子, 北方向射来§ac§r个中子, 则慢化棒向东反射§a3a§r个中子, 向西方反射§a3b§r个, 向北方反射§a3c§r个. 同时, 慢化剂棒会对相邻的燃料棒附加慢化的属性, 加快燃料棒的消耗. %n- 4.§o增殖棒§r：接收中子转化为含有另外一种元素燃料棒的控制棒, 接收中子并转化, 并且速度会越来越快, 慢化的中子不能用于进行转化. %n%n§l反应堆核心§r：核反应发生的环境, 存储冷却液, 热冷却液, 反应棒. 可以通过红石以类似控制机器的方式控制核心的运行与否, 也可以通过软锤敲击的方式禁止或开启某个(燃料、控制)棒工作. %n冷却液：与棒直接接触的液体, 起到承受核反应堆热量和中子辐照的介质. 不仅仅是传递能量的媒介, 还会影响到燃料棒的各项属性, 同时不同的冷却液在被加热和被中子辐照后会有不同的效果, 核燃料棒与冷却液的配套选择是核反应设计的高阶技巧, 常用的冷却液通常会是IC工业冷却液和二氧化碳. %n%n§l中子增殖判定与计算§r%n%n核裂变反应的核心在于利用不断增长的中子进行产热和再利用, 所以计算每个燃料棒获得和发射的中子是必要的. 在GT6中, 一个棒只能和相邻的棒交换中子. 如图中在同一红圈内的棒都视为相邻%n%n每一个棒会向相邻的棒发射中子, 发射量的数值为：%n%n    §aE_n §r= §aEmission §r+ §c( §an§r-§aSelf §c) §r* §aFactor§r%n若§c( §an§r-§aSelf §c)§r<0, 则视为0 %n参数含义见上方的解释. 注意燃料棒的各项数值会根据冷却液变化而不同. %n%n而某一个棒上的中子量为棒向自身发射的中子数与周围向自己发射的中子数之和：%n%n    §an §r= §aSelf§r + §aE_1 §r+ §aE_2 §r+ ⋯%n%n注意, 中子数不是一个存量, 它不是你电池盒里面的电, 而是一个累计的接收值, 这个值同时也是你的棒产生热量的标准值, 在燃料棒中, 中子数就是你产热量的数值, 在吸收棒中, 产热量会变成这个数值的2倍, 反射棒不会产热. %n%n但很明显, 这个中子数在某种情况下会不断不断地增加, 比如在某一种燃料棒的§aFactor§r为§b1/3§r, §aEmission§r是§b2048§r, §aSelf§r是§b512§r, 有5个棒以十字排列, 中间是燃料棒, 四周是反射棒. %n%n刚刚开机时. 这个棒发射的中子数是：%n%n    §aE_0 = §b2048§r%n%n由于四周都是反射棒, 向四周发射的中子全部反射回来了, 所以下一刻的中子数将从0变为%n%n    §an_1 §r= §b512 §r+ §b2048 §r* §b4 §r= §b8704§r%n%n发射量变为%n%n    §aE_1 §r= (§b8704§r - §b512 §r)* §b1/3 §r+ §b2048 §r= §b4778§r%n%n而下一个时刻的中子数%n%n    §an_2 §r= §b512 §r+ §b4778 §r* §b4 §r= §b19642§r%n%n如果你一直计算下去, 你会发现中子数越来越多. 事实上, 如果我们列一个递推公式：%n%n    §an_i §r= §aself §r+( §an_{i-1} §r- §aself §r)* §afactor §r* §b4 §r+ §b4 §r* §aEmission §r= §an_{i-1} §r*§b 4 §r* §afactor §r+( §b1 §r- §b4 §r* §afactor §r)* §aself §r+ §b4 §r* §aEmission§r%n%n如果要让上面的 §an_i§r 比 §an_{i-1}§r 大, 只需要%n%n    §an_{i-1} §r>= §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)%n%n注意启动时是没有中子的, 即如果 §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)< §b0 §r, 那么就能顺利实现中子从开机就一直不断增长增长增长增长, 直到你的冷却液全部耗尽, 你的燃料和控制棒全部溶解. %n%n但是以上的情况可以通过强行关机来制止, 所以无限增长往往是高功率的关键, 不能无限增加的反应堆我们称为稳定反应堆, 通过红石控制, 保证反应堆工作在无限增长状态但中子数不至于过多的反应堆我们称为超临界反应堆. 一般来说超临界反应堆具有更高的应用价值.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAADfQ.desc=可控核裂变反应, 即为燃料棒中的重原子核因受到中子, 转为高能态后分裂变成其他原子并放出热能和更多中子的过程. 这个过程中涉及的重要概念包括以下内容：%n%n§l燃料棒§r：即核燃料, 核裂变反应的主要消耗物质. 在GT6中有以下几个参数：%n- 1.§an§r：中子数, 当前(燃料、控制)棒上的中子数. GT6中, 核燃料棒的数据每隔一定时间更新一次, 其中棒上最重要的属性就是当前时刻棒上含有的中子数, 这个中子数涉及到后续的热量产生与向外释放的数量. %n- 2.§aSelf§r：核燃料棒自身反应发送给自己的中子数, 维持了核反应的基础运行. %n- 3.§aEmission§r：燃料棒向四周其他(燃料、控制)棒发送的中子, 这与上面的Self是互不相干的属性. %n- 4.§aFactor§r：增殖比率, 当燃料棒除去向自己发送的的中子数外, 剩余数量的中子会按这个比率进行缩放并释放. %n- 5.§aMaximum§r：最大稳定中子数, 一个燃料棒如果接受过量的中子, 它的反应会加快, 同时对棒本身的耐久会非线性的增大. 这个过量的边界值就是这个§aMaximum§r值. %n%n§l控制棒§r：对核反应进行调控的棒, 包括以下4种：%n- 1.中子吸收棒§r：吸收中子热量, 并高效率转化为热能的控制棒, 产热量有：§aQ §r= §an §r* §b2 其中§aQ§r单位为§cHU/t§r, §an§r为中子数%n- 2.中子反射棒§r：将某个方向发射来的中子完整地原路反射回去. %n- 3.慢化剂棒§r：对射入的 中子减速并反射, 这会导致有效反应的中子数增加. 在标准情况下, 它会反射某个射来的中子, 如果多个方向, 那么根据射来的方向数, 每一个方向反射的中子数将会乘上这个方向数量, 如东方向射来§aa§r个中子, 西方向射来§ab§r个中子, 北方向射来§ac§r个中子, 则慢化棒向东反射§a3a§r个中子, 向西方反射§a3b§r个, 向北方反射§a3c§r个. 同时, 慢化剂棒会对相邻的燃料棒附加慢化的属性, 加快燃料棒的消耗. %n- 4.增殖棒§r：接收中子转化为含有另外一种元素燃料棒的控制棒, 接收中子并转化, 并且速度会越来越快, 慢化的中子不能用于进行转化. %n%n§l反应堆核心§r：核反应发生的环境, 存储冷却液, 热冷却液, 反应棒. 可以通过红石以类似控制机器的方式控制核心的运行与否, 也可以通过软锤敲击的方式禁止或开启某个(燃料、控制)棒工作. %n冷却液：与棒直接接触的液体, 起到承受核反应堆热量和中子辐照的介质. 不仅仅是传递能量的媒介, 还会影响到燃料棒的各项属性, 同时不同的冷却液在被加热和被中子辐照后会有不同的效果, 核燃料棒与冷却液的配套选择是核反应设计的高阶技巧, 常用的冷却液通常会是IC工业冷却液和二氧化碳. %n%n§l中子增殖判定与计算§r%n%n核裂变反应的核心在于利用不断增长的中子进行产热和再利用, 所以计算每个燃料棒获得和发射的中子是必要的. 在GT6中, 一个棒只能和相邻的棒交换中子. 如图中在同一红圈内的棒都视为相邻%n%n每一个棒会向相邻的棒发射中子, 发射量的数值为：%n%n    §aE_n §r= §aEmission §r+ §c( §an§r-§aSelf §c) §r* §aFactor§r%n若§c( §an§r-§aSelf §c)§r<0, 则视为0 %n参数含义见上方的解释. 注意燃料棒的各项数值会根据冷却液变化而不同. %n%n而某一个棒上的中子量为棒向自身发射的中子数与周围向自己发射的中子数之和：%n%n    §an §r= §aSelf§r + §aE_1 §r+ §aE_2 §r+ ⋯%n%n注意, 中子数不是一个存量, 它不是你电池盒里面的电, 而是一个累计的接收值, 这个值同时也是你的棒产生热量的标准值, 在燃料棒中, 中子数就是你产热量的数值, 在吸收棒中, 产热量会变成这个数值的2倍, 反射棒不会产热. %n%n但很明显, 这个中子数在某种情况下会不断不断地增加, 比如在某一种燃料棒的§aFactor§r为§b1/3§r, §aEmission§r是§b2048§r, §aSelf§r是§b512§r, 有5个棒以十字排列, 中间是燃料棒, 四周是反射棒. %n%n刚刚开机时. 这个棒发射的中子数是：%n%n    §aE_0 = §b2048§r%n%n由于四周都是反射棒, 向四周发射的中子全部反射回来了, 所以下一刻的中子数将从0变为%n%n    §an_1 §r= §b512 §r+ §b2048 §r* §b4 §r= §b8704§r%n%n发射量变为%n%n    §aE_1 §r= (§b8704§r - §b512 §r)* §b1/3 §r+ §b2048 §r= §b4778§r%n%n而下一个时刻的中子数%n%n    §an_2 §r= §b512 §r+ §b4778 §r* §b4 §r= §b19642§r%n%n如果你一直计算下去, 你会发现中子数越来越多. 事实上, 如果我们列一个递推公式：%n%n    §an_i §r= §aself §r+( §an_{i-1} §r- §aself §r)* §afactor §r* §b4 §r+ §b4 §r* §aEmission §r= §an_{i-1} §r*§b 4 §r* §afactor §r+( §b1 §r- §b4 §r* §afactor §r)* §aself §r+ §b4 §r* §aEmission§r%n%n如果要让上面的 §an_i§r 比 §an_{i-1}§r 大, 只需要%n%n    §an_{i-1} §r>= §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)%n%n注意启动时是没有中子的, 即如果 §aself §r+ §aEmmision §r/ ( §b1/4 §r- §afactor §r)< §b0 §r, 那么就能顺利实现中子从开机就一直不断增长增长增长增长, 直到你的冷却液全部耗尽, 你的燃料和控制棒全部溶解. %n%n但是以上的情况可以通过强行关机来制止, 所以无限增长往往是高功率的关键, 不能无限增加的反应堆我们称为稳定反应堆, 通过红石控制, 保证反应堆工作在无限增长状态但中子数不至于过多的反应堆我们称为超临界反应堆. 一般来说超临界反应堆具有更高的应用价值.
 
 # Quest: tfru.q372n
 betterquesting.quest.AAAAAAAAAAAAAAAAAAADfg.name=裂变指南
@@ -1152,17 +1156,45 @@ betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=利用多方块的能源和
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=小行星勘测塔
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=使用它进行小行星勘测, 该机器需要上方没有方块遮挡, 否则不会成型, 同时需要周围亮度足够低才可以正常工作. 当显示工作完成时可以放入U盘获得小行星数据
 
+# Quest: 零点物质生成
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
+
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=小行星采矿火箭
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=获取资源的全新方式！使用该机器构建小行星采矿火箭, 等级越高的火箭可以挖掘的矿物越硬, 运行速度越快的火箭挖掘和往返的速度越高
+
+# Quest: T5计算机
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
+
+# Quest: 镜金应用
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
+
+# Quest: 无尽
+betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
+betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=模板任务
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=模板任务
 
-# Quest: tfru.q380n
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.name=晶体电路
-betterquesting.quest.BP2Ku4B4RCSQRORVqE9w8Q.desc=使用激光精确加工出各种晶体独特的回路，可以引发它们产生普通电路无法产生的独特性质.
+# Quest: 有机量子处理
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
+
+# Quest: 跃迁理论
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
+
+# Quest: 虚空理论
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
+
+# Quest: 零点场论
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
 # Quest: tfru.q
 betterquesting.quest.EyH4aIARTpGquIhw34uFng.name=模板任务
@@ -1176,6 +1208,18 @@ betterquesting.quest.Gerl1YZaQNOgBUaoKTXizw.desc=量子操作最简单的应用�
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.name=模板任务
 betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=模板任务
 
+# Quest: tfru.q325n
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=走向微观
+betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=使用高能激光, 你终于获得了直接操作微观粒子的能力. 尽管转化效率很低, 但直接操作量子还是能给你带来很多的方便. 注: T1的量子充能器功率过低，不建议使用.
+
+# Quest: 电子显微镜
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
+
+# Quest: 宇宙辐射研究
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
+
 # Quest: tfru.q381n
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.name=蓝宝石晶体处理器
 betterquesting.quest.IwKyfiWuRrON_yzOhLqabw.desc=蓝宝石制成的晶体处理器，可以助你走入量子的世界.
@@ -1188,9 +1232,21 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=使用高算力精确控制晶�
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=模板任务
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=模板任务
 
-# Quest: tfru.q382n
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.name=IV激光蚀刻机
-betterquesting.quest.SBILrajhRviTq_aG-Gc5Mw.desc=你需要足够强大的机器才可以制作晶体电路的核心.
+# Quest: 零点能量生成
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
+
+# Quest: 催化原理
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
+
+# Quest: 量金应用
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
+betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
+
+# Quest: 强力物质
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
 # Quest: tfru.q339n
 betterquesting.quest.UTbt3nU3SvuqLJvQYkrRuQ.name=石墨烯
@@ -1212,9 +1268,33 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=模板任务
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=大型机器
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=获得T5电路板之后, 你就可以制作iv传感器, 进而制作大型机器的控制器了. 它们将极大提高你的工作效率.
 
+# Quest: 微重力环境应用
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
+
+# Quest: 量子结构理论
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
+
+# Quest: 硅岩应用
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
+
+# Quest: 刻金性质应用
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
+
 # Quest: tfru.q
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=模板任务
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=模板任务
+
+# Quest: 微重力蚀刻
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
+
+# Quest: 量子计算
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.name=模板任务
@@ -1223,6 +1303,22 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=模板任务
 # Quest: tfru.q340n
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=高新电路
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=你终于能制作高新科技电子电路, 用它制作新一批机器吧
+
+# Quest: 量子观测
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
+
+# Quest: 量子计算微型化
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
+
+# Quest: 量金制造
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
+
+# Quest: 一种晶体处理器
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
 # Quest: tfru.q335n
 betterquesting.quest.hINTTUTxQKyNzfVlve3Arw.name=高能发电
@@ -1236,9 +1332,17 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=纳米钛酸钡陶瓷, 具有�
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=超声震荡
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=利用压电陶瓷产生超声波, 具有许多独特的用途, 是你制作石墨烯的必经之路
 
+# Quest: 微重力组装机
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
+
 # Quest: tfru.q
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=模板任务
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=模板任务
+
+# Quest: 科魔统一理论
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
 # Quest: tfru.q
 betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.name=模板任务
@@ -1247,6 +1351,14 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=模板任务
 # Quest: tfru.q
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=模板任务
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=模板任务
+
+# Quest: T6
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
+
+# Quest: 聚变
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
 
 # Quest: tfru.q
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=模板任务
@@ -1260,35 +1372,14 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=在体积很小的情况下拥�
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=模板任务
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=模板任务
 
-
-## Quest Line: tfr.line20.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 7 - 目标地球
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=梦该醒了, 那个来自遥远月亮的梦.
-
-# Quest: tfr.quest50.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目标地球
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距离核聚变反应堆开始稳定运行已经过去八年了, 我不再需要担心能源耗尽——鸭蛋星有取之不尽的氦-3资源, 至少能够供我使用20000年. %n但是我可活不了那么久. 我没忘记我那最开始的祈望：回到地球上去. %n%n21X2年2月3日%n%n这段时间我一直在研究超远跃迁技术的应用. 跃迁技术已经能让我前往临近的星系, 但是前往地球那样远距离的星系——68光年以外的地方, 我依旧无法安心. %n我明白超远距离的跃迁可能对我造成永久性的伤害. %n%n21X2年6月10日%n%n春天又过去了, 群峦星开始变得生机勃勃, 但我却变得越发萎靡不振. %n直到昨天, 我才发现了一件令人害怕的事实：我患上了白血病. 我想这很可能是鸭蛋星所释放的高能粒子在这几十年间对我持续的影响导致的. %n这件事就像一个响雷, 让我不得不沉思我的对策. 我没有防辐射或治疗癌症的药物. 即使我能研发, 我也可能撑不到那个时候. %n%n21X2年6月15日%n%n我决定冒险. 我将我所能制造出的最坚硬的合金——无尽——打造成一身防护服. 我希望这将能保护我免受超远距离跃迁的伤害. %n%n21X2年7月16日%n%n不管是谁在阅读这段日记, 我想告诉你：我出发了. 我花费了一个月的时间将我需要携带的物品运送上空间站, 然而留在群峦星上的机械依旧很多. %n地球的坐标已经输入跃迁控制器, 我身穿无尽防护服, 推下跃迁拉杆. %n开始了…返乡之旅. 
-
-# Quest: tfr.quest633.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鸣谢
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鸣谢%n%n所有TeamMoeg的支持者和黄金支持者, 感谢他们对我们的赞助. %n%n所有MoegCraft-3-Alpha的玩家. LebN, woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, true, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, xiaozhen, MICU, China12580, Small_Mo, 等. %n%n所有MoegCraft玩家对我们的支持. %n%nMCBBS 整合包版版主. YPXiaoK, 没糖的葫芦, 梨木利亚, 感谢他们给了我们展示TFR的机会. %n%nMCMOD创始人：重生是希望, 感谢对我们的支持. %n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感谢他们为我们创造了精彩的Mod. %n%nMinecraftForge和Mojang, 感谢他们为TFR创造了如此美妙的平台. %n%nAllen Steele, Coyote三部曲的作者, 感谢他给予我灵感. %n%n我的物理、化学老师Mr.C、Mr.S、Mr.L和Ms.R, 感谢他们赋予我知识. 
-
-# Quest: tfr.quest634.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾声
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=没有人知道亚历山大·史蒂夫·二世最后是否安全抵达了地球. 如果他成功了, 我想他会很失望的. 这时的地球已经变成了一个荒芜人烟的, 被沙尘暴和酸雨肆虐的地狱. %n%n感谢相对论, 亚光速航行的亚历山大经历的时间比地球上的人们, 至少在他们离开那里之前, 要少得多. 经过计算, 地球在他离开这段时间里, 至少经历了400年的历史. 谁也不知道地球上发生了什么, 人类去了哪里. %n%n亚历山大的空间站上存有地球基因库样本以及20万颗人类受精卵. 希望, 这似乎已经熄灭的火焰, 依旧在寂静的宇宙中存在着. 亚历山大的故事------%n%n§l将会由后人继续书写. 你达成了TFRU4.3大版本的毕业目标! 请期待接下来的更新，如果你有兴趣，也可以参与开发或者提出建议.
-
-# Quest: tfr.quest635.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
-
-# Quest: tfr.quest636.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
+# Quest: T7
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
 
 
-## Quest Line: tfr.line7.name
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=Tier 254 - 物理学革命
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=在太空探索和生产发展的同时, 基础科学也发生了突破
+## Quest Line: tfru.l5n
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.name=Tier 7 - 量子时代
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=科学的尺度终于深入到量子，带来了极大的性能提升.
 
 # Quest: tfr.quest215.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium+
@@ -1369,6 +1460,36 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACnA.desc=
 # Quest: tfr.quest670.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.name=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACng.desc=
+
+
+## Quest Line: tfru.l6n
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.name=Tier 8 - 无尽时代
+betterquesting.questline.oTEBb00JTfKdEBOR3vBtEg.desc=全宇宙的终极答案，蕴含在一块物质当中.
+
+
+## Quest Line: tfr.line20.name
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.name=Tier 9 - 目标地球
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAFA.desc=梦该醒了, 那个来自遥远月亮的梦.
+
+# Quest: tfr.quest50.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.name=目标地球
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMg.desc=21X1年8月10日%n%n距离核聚变反应堆开始稳定运行已经过去八年了, 我不再需要担心能源耗尽——鸭蛋星有取之不尽的氦-3资源, 至少能够供我使用20000年. %n但是我可活不了那么久. 我没忘记我那最开始的祈望：回到地球上去. %n%n21X2年2月3日%n%n这段时间我一直在研究超远跃迁技术的应用. 跃迁技术已经能让我前往临近的星系, 但是前往地球那样远距离的星系——68光年以外的地方, 我依旧无法安心. %n我明白超远距离的跃迁可能对我造成永久性的伤害. %n%n21X2年6月10日%n%n春天又过去了, 群峦星开始变得生机勃勃, 但我却变得越发萎靡不振. %n直到昨天, 我才发现了一件令人害怕的事实：我患上了白血病. 我想这很可能是鸭蛋星所释放的高能粒子在这几十年间对我持续的影响导致的. %n这件事就像一个响雷, 让我不得不沉思我的对策. 我没有防辐射或治疗癌症的药物. 即使我能研发, 我也可能撑不到那个时候. %n%n21X2年6月15日%n%n我决定冒险. 我将我所能制造出的最坚硬的合金——无尽——打造成一身防护服. 我希望这将能保护我免受超远距离跃迁的伤害. %n%n21X2年7月16日%n%n不管是谁在阅读这段日记, 我想告诉你：我出发了. 我花费了一个月的时间将我需要携带的物品运送上空间站, 然而留在群峦星上的机械依旧很多. %n地球的坐标已经输入跃迁控制器, 我身穿无尽防护服, 推下跃迁拉杆. %n开始了…返乡之旅. 
+
+# Quest: tfr.quest633.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.name=鸣谢
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeQ.desc=鸣谢%n%n所有TeamMoeg的支持者和黄金支持者, 感谢他们对我们的赞助. %n%n所有MoegCraft-3-Alpha的玩家. LebN, woyun, Sui_Fei, Ruo_Fei, 031110, Contrl_, Gloa, Xiao_JJ, true, 65t7tyyu, Melon_rinds, 2333_guizu, ZinX, xiaozhen, MICU, China12580, Small_Mo, 等. %n%n所有MoegCraft玩家对我们的支持. %n%nMCBBS 整合包版版主. YPXiaoK, 没糖的葫芦, 梨木利亚, 感谢他们给了我们展示TFR的机会. %n%nMCMOD创始人：重生是希望, 感谢对我们的支持. %n%nGregoriousT, TFC-Team, zmaster587, 以及所有在TFR中的Mod作者, 感谢他们为我们创造了精彩的Mod. %n%nMinecraftForge和Mojang, 感谢他们为TFR创造了如此美妙的平台. %n%nAllen Steele, Coyote三部曲的作者, 感谢他给予我灵感. %n%n我的物理、化学老师Mr.C、Mr.S、Mr.L和Ms.R, 感谢他们赋予我知识. 
+
+# Quest: tfr.quest634.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.name=尾声
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACeg.desc=没有人知道亚历山大·史蒂夫·二世最后是否安全抵达了地球. 如果他成功了, 我想他会很失望的. 这时的地球已经变成了一个荒芜人烟的, 被沙尘暴和酸雨肆虐的地狱. %n%n感谢相对论, 亚光速航行的亚历山大经历的时间比地球上的人们, 至少在他们离开那里之前, 要少得多. 经过计算, 地球在他离开这段时间里, 至少经历了400年的历史. 谁也不知道地球上发生了什么, 人类去了哪里. %n%n亚历山大的空间站上存有地球基因库样本以及20万颗人类受精卵. 希望, 这似乎已经熄灭的火焰, 依旧在寂静的宇宙中存在着. 亚历山大的故事------%n%n§l将会由后人继续书写. 你达成了TFRU4.3大版本的毕业目标! 请期待接下来的更新，如果你有兴趣，也可以参与开发或者提出建议.
+
+# Quest: tfr.quest635.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.name=制作人员
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACew.desc=§a官方版制作人员: §r%nTeamMoeg %n 概念设计: YueSha %n故事设计: YueSha dashuabia %n修改: YueSha duck_egg dashuabia Draculea%n脚本调整: YueSha duck_egg dashuabia %nUI设计: MangoHi %n像素艺术: duck_egg Tian_Mi %n社区管理: Evan HD_ lei_yu GBL %n网站: Evan %n服务器包: Evan %n下载管理: Evan %n%n§b非官方版制作人员: §r%nkuzuanpa: 魔改/mod编写/美工/策划 %nVK8040: 算法编写 %n银心: 美工 %nnonexist: 策划 %n以及更多社区开发者, 详见contributorList-TFRU.txt
+
+# Quest: tfr.quest636.name
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.name=关于我们
+betterquesting.quest.AAAAAAAAAAAAAAAAAAACfA.desc=我们非常欢迎玩家加入我们的QQ交流群:%n1群： 836643851%n2群： 385356640
 
 
 ## Quest Line: tfru.l3n
@@ -2077,7 +2198,7 @@ betterquesting.quest.1mGQi31sRtOgV8le3227lw.desc=使用线或者羊毛纱纺织�
 
 # Quest: tfr.quest220.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.name=农业
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你开局有1000滴血, 你估计已经发现上限正在下降了. 如果不好好发展农业, 上限会很快下降的. %n%n世界里有许多野生作物, 去收集一些作物种子吧！%n%n§l§o再三强调, 这个章节十分重要. 如果主线推累了, 就来发展发展这里吧.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA3A.desc=你开局有1000滴血, 你估计已经发现上限正在下降了. 如果不好好发展农业, 上限会很快下降的. %n%n世界里有许多野生作物, 去收集一些作物种子吧！%n%n§l再三强调, 这个章节十分重要. 如果主线推累了, 就来发展发展这里吧.
 
 # Quest: tfr.quest225.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA4Q.name=多喝热水
@@ -2390,7 +2511,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAADJw.desc=魔力远比你想象的有用�
 
 # Quest: tfr.quest740.name
 betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.name=魔力脉冲枪
-betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器, 可以安装透镜(包括复合透镜)以达成许多有趣的应用, 可以安装透镜夹, 潜行即可切换透镜 %n%n§o比如安装挖掘透镜可以当作低配版采矿镭射枪使用.
+betterquesting.quest.CLglxv1FR7KUX0DyK3CQsg.desc=一种便携魔力发射器, 可以安装透镜(包括复合透镜)以达成许多有趣的应用, 可以安装透镜夹, 潜行即可切换透镜 %n%n比如安装挖掘透镜可以当作低配版采矿镭射枪使用.
 
 # Quest: tfru.q409n
 betterquesting.quest.DAbfPN9KQvGa5JgLPs-WsQ.name=斑斓花
