@@ -1,5 +1,5 @@
  #/bin/bash
- #需求文件: ./modsClient 存放所有mod, ./release/ 存放元数据, ./PrismFolder 到Prism启动器下属instance的软链接, 用于创建modrinth包， ./genValidateInfo.bash用于生成验证信息
+ #需求文件: ./[0-9]mods* 存放所有mod, ./release/ 存放元数据, ./PrismFolder 到Prism启动器下属instance的软链接, 用于创建modrinth包， ./genValidateInfo.bash用于生成验证信息
  #./release/下文件列表: 
  #  hmcl-*.exe HMCL启动器
  #  hmcl.json hmcl配置
@@ -22,7 +22,12 @@
  echo "<Enter>"
  read
  mkdir mods
+ 
  cd ../..
+ cp 1modsGTNH/* release/zh/mods -r
+ cp 2modsContent/* release/zh/mods -r
+ cp 3modsHelper/* release/zh/mods -r
+ echo "已复制mods"
  
  declare -A prefix_files
 found_duplicate=false
@@ -36,7 +41,7 @@ while IFS= read -r -d '' file; do
         prefix="${BASH_REMATCH[1]}"
         prefix_files["$prefix"]+="$filename"$'\n'
     fi
-done < <(find "modsClient" -maxdepth 1 -type f -print0)
+done < <(find "release/zh/mods" -maxdepth 1 -type f -print0)
 
 for prefix in "${!prefix_files[@]}"; do
     count=$(echo -n "${prefix_files[$prefix]}" | grep -c '^')
@@ -48,11 +53,13 @@ done
 if [ "$found_duplicate" = true ]; then exit;fi
  echo "已检测mod重复情况"
 
- cp modsClient/* release/zh/mods -r
- echo "已复制mods"
 
- cp release/TFR\ BlueLine\ UI.zip release/zh/resourcepacks
- echo "已复制TFR蓝线UI材质包"
+ cp release/TFRU天沢UI.zip release/zh/resourcepacks
+ echo "已复制TFRU天沢UI材质包"
+ 
+#  cp release/falsepattern release/zh/
+#  echo "已复制预加载fplib文件"
+ 
  cp release/zh/options-default-zhcn.txt release/zh/options.txt
  echo "已复制中文默认配置文件"
  cd release/zh/

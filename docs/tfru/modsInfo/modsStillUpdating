@@ -28,33 +28,42 @@ OpenComputers-1.8.8:
 
 
 GTNH (Download from Github Release):
-  ae2fc-1.4.111:
+  ae2fc-1.4.120:
     https://github.com/GTNewHorizons/AE2FluidCraft-Rework
 
-  AppliedEnergistics2-rv3-beta-683:
+  appliedEnergistics2-rv3-beta-683:
     https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial
+    
+  ae2stuff-0.9.9:
+    https://github.com/GTNewHorizons/ae2stuff
 
+  angelica-1.0.0-beta66b:
+   https://github.com/GTNewHorizons/Angelica
+  
   NotEnoughItems-2.7.79:
     https://github.com/GTNewHorizons/NotEnoughItems
-
-  CodeChickenCore-1.4.7:
+    
+  bettercrashes-1.4.0:
+    https://github.com/GTNewHorizons/BetterCrashes
+  
+  chisel-2.17.20:
+  https://github.com/GTNewHorizons/Chisel
+  
+  CodeChickenCore-1.4.11:
     https://github.com/GTNewHorizons/CodeChickenCore
 
-  WirelessCraftingTerminal-1.12.7:
-   https://github.com/GTNewHorizons/WirelessCraftingTerminal
-
-  angelica-1.0.0-beta55:
-   https://github.com/GTNewHorizons/Angelica
+  gtnhlib-0.7.10:
+   https://github.com/GTNewHorizons/GTNHLib
 
   OpenBlocks-1.12.7:
    https://github.com/GTNewHorizons/OpenBlocks
   
   OpenModsLibs-0.10.13:
    https://github.com/GTNewHorizons/OpenModsLib
+  
+  WirelessCraftingTerminal-1.12.7:
+   https://github.com/GTNewHorizons/WirelessCraftingTerminal
    
   BetterQuesting-3.7.0-TFRU:
    https://github.com/GTNewHorizons/BetterQuesting
    Forked
-
-  gtnhlib-0.6.39:
-   https://github.com/GTNewHorizons/GTNHLib
