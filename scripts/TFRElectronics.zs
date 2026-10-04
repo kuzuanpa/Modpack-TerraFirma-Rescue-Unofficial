@@ -50,12 +50,12 @@ MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16, 32 ,0,[10000],
 [<gregtech:gt.multiitem.technological:30002>]);
 
 /**FR recipes for t1-t2 circuit part*/
-mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
+mods.forestry.ThermionicFabricator.addCast(<ktfruaddon:ktfru.item.compact:21>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
 [n,   <advancedRocketry:circuitIC:2>,  n],
 [n, <gregtech:gt.meta.wireFine:290>,  n]], 100, n);
 
-mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
+mods.forestry.ThermionicFabricator.addCast(<ktfruaddon:ktfru.item.compact:21>, [
 [n, <gregtech:gt.meta.wireFine:8660>, n],
 [n,   <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:290>, n]], 100, n);
@@ -71,12 +71,12 @@ mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:
 [n, <gregtech:gt.meta.wireFine:8602>, n]], 100, <gregtech:gt.multiitem.technological:30101>);
 
 //tui huo tong
-mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
+mods.forestry.ThermionicFabricator.addCast(<ktfruaddon:ktfru.item.compact:21>, [
 [n, <gregtech:gt.meta.wireFine:8708>, n],
 [n,   <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:8640>, n]], 100, n);
 
-mods.forestry.ThermionicFabricator.addCast(<gregtech:gt.multiitem.technological:30101>, [
+mods.forestry.ThermionicFabricator.addCast(<ktfruaddon:ktfru.item.compact:21>, [
 [n, <gregtech:gt.meta.wireFine:8660>, n],
 [n,   <advancedRocketry:circuitIC:2>, n],
 [n, <gregtech:gt.meta.wireFine:8640>, n]], 100, n);
@@ -86,25 +86,25 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
 [<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:290>],
 [n],
 [n],
-[<gregtech:gt.multiitem.technological:30101>]);
+[<ktfruaddon:ktfru.item.compact:21>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
 [<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:290>],
 [n],
 [n],
-[<gregtech:gt.multiitem.technological:30101>]);
+[<ktfruaddon:ktfru.item.compact:21>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
 [<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8640>],
 [n],
 [n],
-[<gregtech:gt.multiitem.technological:30101>]);
+[<ktfruaddon:ktfru.item.compact:21>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 20 ,0,[10000],
 [<advancedRocketry:circuitIC:2>,<gregtech:gt.meta.wireFine:8708>,<gregtech:gt.meta.wireFine:8640>],
 [n],
 [n],
-[<gregtech:gt.multiitem.technological:30101>]);
+[<ktfruaddon:ktfru.item.compact:21>]);
 
 MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 22, 40 ,0,[10000],
 [<ktfruaddon:ktfru.item.compact:3>,<gregtech:gt.meta.wireFine:8660>,<gregtech:gt.meta.wireFine:8602>],

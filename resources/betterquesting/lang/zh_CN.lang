@@ -47,7 +47,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=火堆可以烤熟食物, 但�
 
 # Quest: tfr.quest78.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=金属焊接
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=打开你的石砧, 左下角放锤子, 右下角放助焊剂, 左上角放你要焊接的两个加热到"可焊接"状态的金属, 点击"焊接"即可将两块金属焊接到一起, 消耗一个助焊剂和锤子1耐久
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=打开你的石砧, 左下角放锤子, 右下角放方解石粉, 左上角放你要焊接的两个加热到"可焊接"状态的金属, 点击"焊接"即可将两块金属焊接到一起, 消耗一个方解石粉和锤子1耐久
 
 # Quest: tfr.quest87.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=营养-目前可以透露的情报
@@ -71,7 +71,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAnQ.desc=制作一把锯用于加工原�
 
 # Quest: tfr.quest163.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.name=地质探测-目前可以透露的情报
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=不同于你熟悉的原版世界, 群峦星的地下世界变得更加复杂且真实. %n%n§r岩层是由大量同种类岩石形成的. 这里的地壳很厚, 厚达100-130米. %n%n岩石在三个不同的垂直岩层产生. 沉积岩只能在顶层找到. 变质岩存在于顶层和中层. 所有三层都有侵入岩和火成岩. 每一层都独立于其他层, 因此, 表面上的石头变化并不一定意味着另外两层的石头变化. %n%n§3侵入岩：闪长岩、辉长岩、花岗岩%n%n§4火成岩：安山岩, 玄武岩、英安岩、流纹岩%n%n§6沉积岩：白垩岩、黑硅岩、粘土岩、砾岩、白云岩、石灰石、岩盐、页岩%n%n§e§7§d变质岩：片麻岩、大理石、千枚岩、硅岩、片岩、板岩%n%n§r能制作助焊剂的岩石(碳酸钙为主要成分的)：§a白云岩、石灰石、白垩岩、大理石%n%n§e矿物不再是原版一样的随处都是, 而是聚集成矿脉, 你需要探测到矿脉再去挖矿, 否则很可能一无所获.§r%n%n如果附近有矿脉, 就可能有一小块矿石散落在地上. 这些矿物石子代表附近地下有对应矿脉生成. %n%n石墨在变质岩和沉积岩生成；高岭石在变质岩和沉积岩生成；钻石在玄武岩、辉长岩和闪长岩中生成；锡和铀在所有火成岩和侵入岩中生成. %n%n其他矿物的位置需要你自己探索. %n%n金红石, 钨酸盐, 锆石等矿物并没有在贫瘠的群峦星被发现, 你需要制作火箭前往其卫星获得.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAow.desc=不同于你熟悉的原版世界, 群峦星的地下世界变得更加复杂且真实. %n%n§r岩层是由大量同种类岩石形成的. 这里的地壳很厚, 厚达100-130米. %n%n岩石在三个不同的垂直岩层产生. 沉积岩只能在顶层找到. 变质岩存在于顶层和中层. 所有三层都有侵入岩和火成岩. 每一层都独立于其他层, 因此, 表面上的石头变化并不一定意味着另外两层的石头变化. %n%n§3侵入岩：闪长岩、辉长岩、花岗岩%n%n§4火成岩：安山岩, 玄武岩、英安岩、流纹岩%n%n§6沉积岩：白垩岩、黑硅岩、粘土岩、砾岩、白云岩、石灰石、岩盐、页岩%n%n§e§7§d变质岩：片麻岩、大理石、千枚岩、硅岩、片岩、板岩%n%n§r能制作方解石粉的岩石(碳酸钙为主要成分的)：§a白云岩、石灰石、白垩岩、大理石%n%n§e矿物不再是原版一样的随处都是, 而是聚集成矿脉, 你需要探测到矿脉再去挖矿, 否则很可能一无所获.§r%n%n如果附近有矿脉, 就可能有一小块矿石散落在地上. 这些矿物石子代表附近地下有对应矿脉生成. %n%n石墨在变质岩和沉积岩生成；高岭石在变质岩和沉积岩生成；钻石在玄武岩、辉长岩和闪长岩中生成；锡和铀在所有火成岩和侵入岩中生成. %n%n其他矿物的位置需要你自己探索. %n%n金红石, 钨酸盐, 锆石等矿物并没有在贫瘠的群峦星被发现, 你需要制作火箭前往其卫星获得.
 
 # Quest: tfr.quest271.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABDw.name=干草
@@ -200,7 +200,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAqA.desc=如果你找到石墨和高岭�
 
 # Quest: tfr.quest261.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=真正的石灰~
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.desc=将主要成分为碳酸钙的岩石和锤子合成会得到助焊剂, 助焊剂放在装有清水的木桶里能把水变成石灰水. %n把沙子放进石灰水里并密封一段时间可以得到砂浆. %n%n§c主意要按NEI里的比例放水和物品. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.desc=将主要成分为碳酸钙的岩石和锤子合成会得到方解石粉, 方解石粉放在装有清水的木桶里能把水变成石灰水. %n把沙子放进石灰水里并密封一段时间可以得到砂浆. %n%n§c主意要按NEI里的比例放水和物品.
 
 # Quest: tfr.quest262.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBg.name=建筑大师
@@ -301,7 +301,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADQ.desc=你意识到如果想更进一�
 
 # Quest: tfr.quest14.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=原始高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=按照思索页面摆放高炉结构, 注意高炉主方块需要最后放置. %n%n如何炼钢:%n%n%n%n1. 在高炉内放置一个风嘴. %n%n2. 要用高炉冶炼铁矿石, 需要将铁矿石扔进高炉炉顶, 同时投入等量的助焊剂和等量或更多的木炭. 高炉的每一层都可以加工4块矿石, 用起火器或打火石把高炉方块点燃. %n注意：为了保持高温, 在投掷最初的木炭后, 建议保持木炭与矿石的比例为1:1或更高. 如果有比木炭更多的矿石, 温度就会开始下降. %n%n3. 高炉GUI可以通过右击高炉方块打开. %n%n%n%n  a. 温度表:这显示了高炉的温度. 通过增加更多的木炭或将风箱安装在高炉的两侧并送气, 可以提高温度. %n%n%n%n  b. 矿石:在高炉中有多少未熔化的矿石. %n%n%n%n  c. 木炭:在高炉里有多少木炭. 普通煤炭不能用于高炉, 只能使用木炭! 注意:你要确保这个条永远等于或比矿石条更满!%n%n4. 木炭与矿石的比例至少为1:1, 而且随着风箱的使用, 温度保持足够高, 矿石就会开始融化. 矿石计数器最终会耗尽, 用产生的金属填充输出计数器. %n%n%n%n5. 铁矿石在高炉内被冶炼, 使用风箱继续加温, 直到铁矿融化后会流进底部的坩锅, 以接收液态生铁. 你需要用陶瓷模具将融化生铁取出来. %n%n6. 有了生铁钢也就不远了. 在锻铁或以上的砧里将生铁碇锻造为高碳钢锭, 再锻造为钢锭即可. %n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=按照思索页面摆放高炉结构, 注意高炉主方块需要最后放置. %n%n如何炼钢:%n%n%n%n1. 在高炉内放置一个风嘴. %n%n2. 要用高炉冶炼铁矿石, 需要将铁矿石扔进高炉炉顶, 同时投入等量的方解石粉和等量或更多的木炭. 高炉的每一层都可以加工4块矿石, 用起火器或打火石把高炉方块点燃. %n注意：为了保持高温, 在投掷最初的木炭后, 建议保持木炭与矿石的比例为1:1或更高. 如果有比木炭更多的矿石, 温度就会开始下降. %n%n3. 高炉GUI可以通过右击高炉方块打开. %n%n%n%n  a. 温度表:这显示了高炉的温度. 通过增加更多的木炭或将风箱安装在高炉的两侧并送气, 可以提高温度. %n%n%n%n  b. 矿石:在高炉中有多少未熔化的矿石. %n%n%n%n  c. 木炭:在高炉里有多少木炭. 普通煤炭不能用于高炉, 只能使用木炭! 注意:你要确保这个条永远等于或比矿石条更满!%n%n4. 木炭与矿石的比例至少为1:1, 而且随着风箱的使用, 温度保持足够高, 矿石就会开始融化. 矿石计数器最终会耗尽, 用产生的金属填充输出计数器. %n%n%n%n5. 铁矿石在高炉内被冶炼, 使用风箱继续加温, 直到铁矿融化后会流进底部的坩锅, 以接收液态生铁. 你需要用陶瓷模具将融化生铁取出来. %n%n6. 有了生铁钢也就不远了. 在锻铁或以上的砧里将生铁碇锻造为高碳钢锭, 再锻造为钢锭即可. %n%n
 
 # Quest: tfr.quest21.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFQ.name=快速熔炉
@@ -349,7 +349,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAog.desc=焊接双层钢, 锻造钢锭�
 
 # Quest: tfr.quest167.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.name=虽然也很原始, 但是至少不用风箱
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=%n用碎石机将任何铁矿石变为小型后, 和助焊剂制作成冶钢预制铁矿%n%n你可以把他们丢进高炉, 放入木炭或煤炭, 将其烧为锻铁粒. %n%n锻铁粒可以再次在高炉中烧为钢粒. 他们可以通过工作台合成为锭. %n效率比原TFR提升了一些
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAApw.desc=%n用碎石机将任何铁矿石变为小型后, 和方解石粉制作成冶钢预制铁矿%n%n你可以把他们丢进高炉, 放入木炭或煤炭, 将其烧为锻铁粒. %n%n锻铁粒可以再次在高炉中烧为钢粒. 他们可以通过工作台合成为锭. %n效率比原TFR提升了一些
 
 # Quest: tfr.quest260.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=伏特加发电
@@ -436,8 +436,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.name=时光倒流
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACpQ.desc=前往地狱寻找远古残骸远古残骸矿石和石子, 并在坩埚里用4份远古残骸和4份金冶炼1份下界合金. 下界合金是优秀的工具材料和锅炉材料. 由于含有金, 下界合金流体管道和储罐能耐酸性腐蚀.
 
 # Quest: tfru.q229n
-betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.name=电感坩埚
-betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.desc=群峦原始人终于掌握了初步的能源应用, 并制作出了极为方便的电感坩埚. 它只消耗RF, 升温更快, 还可以精确控温. %n%n但是, 这种技术终将改变一切, 下一个时代将迎来极大的生产力提升. 是稳步迈进还是跨步向前, 由你自行抉择.
+betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.name=
+betterquesting.quest.Tk94v6vvShWprSGhzvjBRA.desc=
 
 # Quest: tfru.q228n
 betterquesting.quest.jBPHEKqYSyalUnqrFzYbJg.name=齿轮制造
@@ -724,6 +724,10 @@ betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=木质浸洗盆无法承受高�
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=压缩气体储罐
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=这种储罐可以以液态存储大量气体, 但需要使用气体压缩机输入. %n%n该储罐也有多方块版本的, 具有恐怖的气体储量
 
+# Quest: tfru.q443n
+betterquesting.quest.zKWXuntdRzKovxrdj0ep1Q.name=研究台
+betterquesting.quest.zKWXuntdRzKovxrdj0ep1Q.desc=一张带有集成存储设备和简易计算器的研究台，通过不同的研究模块可以研究多种不同物品。它会陪你一路走到毕业的，记得找个好地方放。拆除它会导致所有研究进度丢失哦
+
 
 ## Quest Line: tfr.line5.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - 红石时代
@@ -777,6 +781,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=一台很实用的机器, 最�
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=管道附件
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=这些附件可以连接到管道跟容器的连接处%n%n伺服器用于抽取相连容器物体到网络, 检索器用于抽取网络连接的所有其他容器向相连容器输出, 过滤器不提供推力仅做过滤(伺服器与检索器均有过滤功能)
 
+# Quest: tfru.q444n
+betterquesting.quest.lFZSqCy8SxihQZFVwtHQqQ.name=基础电路设计
+betterquesting.quest.lFZSqCy8SxihQZFVwtHQqQ.desc=将一开始的集成电路集合成为一块通用的工控电路板，可以用于控制多种不同的机械
+
 
 ## Quest Line: tfr.line3.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.name=Tier 4 - 电力时代
@@ -784,7 +792,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=一种高效的二级能源
 
 # Quest: tfru.q240n
 betterquesting.quest.1YS3AQyfTsq2xODMXTVhhA.name=网状任务线的真正起点
-betterquesting.quest.1YS3AQyfTsq2xODMXTVhhA.desc=从这里开始, 复杂的任务线被分到了数个子板块中, 这里将仅会留下最主要的时代节点, 请依次到石化革命, 计算学, AE, 航天子板块继续你的旅程.
+betterquesting.quest.1YS3AQyfTsq2xODMXTVhhA.desc=从这里开始, 复杂的任务线被分到了数个子板块中, 这里将仅会留下最主要的时代节点, 请依次到石化革命, 计算学, AE, 航天子板块继续你的旅程. %n%n当你不知道做什么的时候，记得去参考科技线主研究台的主线
 
 # Quest: tfru.q231n
 betterquesting.quest.3tBtgGcKSHWxbAOCaG5ifw.name=电路基板
@@ -1152,48 +1160,52 @@ betterquesting.quest.hJzaNKdXToizIObp7zP1-g.desc=你来到了世界的尽头
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=Tier 6 - 膨胀时代
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=利用多方块的能源和多方块的机器极大的提升你的产能.
 
+# Quest: tfru.q441n
+betterquesting.quest.-i7WhdzlTzC44eFig8Vp6g.name=计算集群
+betterquesting.quest.-i7WhdzlTzC44eFig8Vp6g.desc=把计算节点、存储节点、交换设备、冷却与高压配电塞进同一座建筑里.%n%n解锁标准/大型/巨型三档无线集群控制器, 它负责将你的算力资源聚合在一起，然后通过无线算力节点分发。算力集群是后期的基础设施，包含一定程度的自动恢复，容灾等功能，方便你进行算力资源的灵活调配。
+
 # Quest: tfru.q333n
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=小行星勘测塔
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=使用它进行小行星勘测, 该机器需要上方没有方块遮挡, 否则不会成型, 同时需要周围亮度足够低才可以正常工作. 当显示工作完成时可以放入U盘获得小行星数据
 
-# Quest: 零点物质生成
-betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
+# Quest: tfru.q435n
+betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=零点物质生成
 betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
 
 # Quest: tfru.q332n
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=小行星采矿火箭
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=获取资源的全新方式！使用该机器构建小行星采矿火箭, 等级越高的火箭可以挖掘的矿物越硬, 运行速度越快的火箭挖掘和往返的速度越高
 
-# Quest: T5计算机
-betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
-betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
+# Quest: tfru.q412n
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=T5计算机
+betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=平面晶体管的漏电已经无法忍受: 栅极越短漏电越多, 芯片空有频率却一直在发热.%n%n解决办法是把沟道立起来, 让栅极从三个方向包住它——鳍式场效应晶体管, FinFET.%n%n它能大幅减小漏电，也允许晶体管做的更薄.%n%n注意, 这一代的提升来自工艺而不是规模: 你要做的是改变晶体管的结构, 而不是把机器造得更大.
 
-# Quest: 镜金应用
-betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
+# Quest: tfru.q419n
+betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=镜金应用
 betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
 
-# Quest: 无尽
-betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
+# Quest: tfru.q437n
+betterquesting.quest.9636fE62Tumxo946gsOSTg.name=无尽
 betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
 # Quest: tfru.q
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=模板任务
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=模板任务
 
-# Quest: 有机量子处理
-betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
-betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
+# Quest: tfru.q426n
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=有机量子处理
+betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=有机量子处理
 
-# Quest: 跃迁理论
-betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
+# Quest: tfru.q428n
+betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=跃迁理论
 betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
 
-# Quest: 虚空理论
-betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
+# Quest: tfru.q432n
+betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=虚空理论
 betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
 
-# Quest: 零点场论
-betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
+# Quest: tfru.q433n
+betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=零点场论
 betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
 # Quest: tfru.q
@@ -1212,12 +1224,12 @@ betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=模板任务
 betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=走向微观
 betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=使用高能激光, 你终于获得了直接操作微观粒子的能力. 尽管转化效率很低, 但直接操作量子还是能给你带来很多的方便. 注: T1的量子充能器功率过低，不建议使用.
 
-# Quest: 电子显微镜
-betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
-betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
+# Quest: tfru.q410n
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=电子显微镜
+betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=光学显微镜的分辨率已经被光的波长锁死, 而你要看清的东西比那还小得多. 你需要波长更短的"光".%n%n把钨丝加热到白炽, 让它发射电子, 再用磁透镜把电子束聚焦、偏转, 逐行扫过样品表面——这就是电子显微镜.%n%n它可以把刻蚀出的沟槽、蒸镀出的薄膜和晶体管之间的连线放大到肉眼可观的程度. 成型后接入EU即可工作, 此后相当多的研究会要求"用电子显微镜观察若干个某物", 记得把它接到你的研究台上.
 
-# Quest: 宇宙辐射研究
-betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
+# Quest: tfru.q417n
+betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=宇宙辐射研究
 betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
 
 # Quest: tfru.q381n
@@ -1232,20 +1244,20 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=使用高算力精确控制晶�
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=模板任务
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=模板任务
 
-# Quest: 零点能量生成
-betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
+# Quest: tfru.q434n
+betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=零点能量生成
 betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
 
-# Quest: 催化原理
-betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
-betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
+# Quest: tfru.q411n
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=催化原理
+betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=模拟揭示了一件事: 很多反应并非不能发生, 只是能垒太高. 研究反应路径、活化能、表面催化与中间态, 探究催化剂的底层原理，最终通过自定义催化剂体系进行复合催化，§a大幅度§r简化原先的多步复杂产线。%n%n镍系、铂钯、分子筛与齐格勒-纳塔四种催化团在此解锁. %n%n甲烷、苯等基础原料可以借助催化团一步生成通用塑料、PVC、丁苯橡胶、环氧树脂、PMMA与聚碳酸酯.
 
 # Quest: 量金应用
 betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
 betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
 
-# Quest: 强力物质
-betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
+# Quest: tfru.q431n
+betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=强力物质
 betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
 # Quest: tfru.q339n
@@ -1268,32 +1280,32 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=模板任务
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=大型机器
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=获得T5电路板之后, 你就可以制作iv传感器, 进而制作大型机器的控制器了. 它们将极大提高你的工作效率.
 
-# Quest: 微重力环境应用
-betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
-betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
+# Quest: tfru.q413n
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=微重力环境应用
+betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=轨道上的微重力很难长期维持, 但并非只有上天一种办法. 用双轴反向旋转质量环不断改变重力矢量, 再用陀螺稳定锚抵消残余加速度, 可以在地面构造一个足够长时间的准惯性加工区.%n%n你需要建造9x9x9的高屏蔽失重舱: 外壳由复合高屏蔽壁封闭, 至少安装8个反向旋转质量环、8个陀螺稳定锚、1个密闭舱门和1个能源接口, 控制器放在底层中央. 舱体完全封闭并持续获得2048 EU/t后, 经过600 tick起旋, 内部机器即可检测到MICROGRAVITY与HIGH_RADIATION_SHIELD能力.%n%n微重力晶体生长机必须放在该房间内: 它把Analytical Pure Mo转化为高纯MoO2单晶, 为T6晶圆提供无对流的生长环境. 破坏外壳、打开舱门或断电都会让能力失效并暂停加工. 这条路线让"不上天"的挑战第一次拥有了真实的T6完成路径.
 
-# Quest: 量子结构理论
-betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
+# Quest: tfru.q427n
+betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=量子结构理论
 betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
 
-# Quest: 硅岩应用
-betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
+# Quest: tfru.q418n
+betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=硅岩性质研究
 betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
 
-# Quest: 刻金性质应用
-betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
+# Quest: tfru.q429n
+betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=刻金性质应用
 betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
 
 # Quest: tfru.q
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=模板任务
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=模板任务
 
-# Quest: 微重力蚀刻
-betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
+# Quest: tfru.q414n
+betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=微重力蚀刻
 betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
 
-# Quest: 量子计算
-betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
+# Quest: tfru.q425n
+betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=量子计算
 betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
 # Quest: tfru.q
@@ -1304,20 +1316,24 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=模板任务
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=高新电路
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=你终于能制作高新科技电子电路, 用它制作新一批机器吧
 
-# Quest: 量子观测
-betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
+# Quest: tfru.q446n
+betterquesting.quest.f81HbILWS4Cyfi74g83qAg.name=聚醚醚酮
+betterquesting.quest.f81HbILWS4Cyfi74g83qAg.desc=性能最优秀的塑料之一，是后期不可或缺的重要材料，必须通过新式的优质催化体系来制作
+
+# Quest: tfru.q424n
+betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=量子观测
 betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
 
-# Quest: 量子计算微型化
-betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
+# Quest: tfru.q430n
+betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=量子计算微型化
 betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
 
-# Quest: 量金制造
-betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
+# Quest: tfru.q422n
+betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=量金制造
 betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
 
-# Quest: 一种晶体处理器
-betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
+# Quest: tfru.q423n
+betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=一种晶体处理器
 betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
 # Quest: tfru.q335n
@@ -1332,16 +1348,16 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=纳米钛酸钡陶瓷, 具有�
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=超声震荡
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=利用压电陶瓷产生超声波, 具有许多独特的用途, 是你制作石墨烯的必经之路
 
-# Quest: 微重力组装机
-betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
+# Quest: tfru.q415n
+betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=微重力组装机
 betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
 
 # Quest: tfru.q
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=模板任务
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=模板任务
 
-# Quest: 科魔统一理论
-betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
+# Quest: tfru.q436n
+betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=科魔统一理论
 betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
 # Quest: tfru.q
@@ -1352,13 +1368,13 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=模板任务
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=模板任务
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=模板任务
 
-# Quest: T6
-betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
-betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
+# Quest: tfru.q416n
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=T6计算机
+betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=地面上总有重力: 熔体对流会搅乱掺杂, 杂质会沉降, 再好的工艺也长不出完美的晶圆.%n%n现在你有两条路: 把生长炉送上空间站, 或者在地面建造离心式高屏蔽人工失重舱. 后者用双轴反向旋转质量环平均重力矢量, 用陀螺稳定锚抵消残余加速度; 机器只有在检测到自己位于具备MICROGRAVITY与HIGH_RADIATION_SHIELD能力的房间内时才会运行.%n%n纯MoO2单晶不再能由普通结晶炉直接生产, 它必须由房间内的微重力晶体生长机使用Analytical Pure Mo生长. T6晶圆因此获得真实的工艺门槛: 没有轨道站, 可以; 没有失重环境, 不行.%n%n36系列因此升级为v3世代: GT3660v3(453110 MFLOPS), GT3680v3(533120)与GT3699v3(1100230), 单台算力突破百万.%n%n本节点仍以计算机T5和宇宙辐射研究为前置, 但不再要求玩家必须离开地面.
 
-# Quest: 聚变
-betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
-betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
+# Quest: tfru.q421n
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=聚变系列
+betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=恒星烧的是轻核, 你要在自己的厂房里重演这件事. 但在工程上, 它会分成目标完全相反的两条路.托卡马克型选择通过磁力把上亿度的等离子体关进磁笼.%n%n你需要同时供应EU, MU与CU三种能量, 并以氘和氚点火: 启动时加入百万级EU, 将等离子体温度提高到足以聚变，之后不再持续耗电.%n%n实验堆的点火时间很短, 能量收支勉强打平, 主要用途在于收集关键的实验数据，做出商业堆，之后便可以实现长时间的稳定聚变，获得巨大的等离子输出.%n%n激光聚变选择另一个路线，数百束激光在极短时间内向靶丸倾泻能量, 用激光冲击同时加热靶丸，从而得到超重同位素、短寿命核素与人工元素. %n%n推荐先做激光聚变，它会先帮你解锁更高级的人工合成材料，托卡马克更多是为了发电.
 
 # Quest: tfru.q
 betterquesting.quest.rUDW4ukQSmKYDp22nF6SvA.name=模板任务
@@ -1372,9 +1388,9 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=在体积很小的情况下拥�
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=模板任务
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=模板任务
 
-# Quest: T7
-betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
-betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
+# Quest: tfru.q420n
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=T7计算机
+betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=这不是在造下一台更大的电脑, 而是把经典计算范式榨到最后一点潜力.%n%n使用GAA工艺从三维切割晶体管，最大程度减小漏电。晶体管已经小到接近物理极限, 于是改用层间堆叠: 用掩模版蚀刻出层间互连, 再把CPU与互连层组装成v4系列, 通过极限压缩的先进封装，获得最终的e系列计算机
 
 
 ## Quest Line: tfru.l5n
@@ -1385,41 +1401,9 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=科学的尺度终于深入
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium+
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.desc=Dr+
 
-# Quest: tfr.quest119.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.name=人造的神话
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.desc=人类智慧与宇宙产生的最清脆的共鸣
-
-# Quest: tfr.quest120.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=支配寰宇
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=大概能证明你的实力吧%n无尽工具需要特定的神龙工具来制造%n需要使用6个觉醒核心全部安装在RF升级槽, 充满电, 移除全部附魔即可
-
-# Quest: tfr.quest128.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.name=奇点
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.desc=使用中子态素压缩机制作各种物质奇点%n还可用五重艾德曼锭产龙锭
-
-# Quest: tfr.quest129.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.name=无尽工作台
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.desc=比普通工作台大九倍
-
-# Quest: tfr.quest131.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.name=宇宙态中子素
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.desc=密度极高的物质, 一般只会在致密的白矮星中心产生. 
-
 # Quest: tfr.quest153.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.name=中子质子分离
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.desc=科学技术的顶峰也不过如此
-
-# Quest: tfr.quest154.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.name=可控小太阳
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.desc=将原子核融合
-
-# Quest: tfr.quest368.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.name=抵达HD
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=HD是一个一个酷似太阳系火星的星球, 地壳富含贵金属. 其中一些材料是在任何其他地方都找不到的, 比如特林金属、硅岩、和血石. %n非常值得去探索一番. 
-
-# Quest: tfr.quest389.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.name=§b§l一览众生
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=集寰宇之力的一套顶级装甲, 是本整合包中的最强装甲. 内置微型核反应堆和能量存储及传导装置, 提供飞行能力和几乎无敌的防御力. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.name=物质拆解
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.desc=物质制造器把元素材料拆成带电物质与中性物质，数量由材料的质子数和中子数决定。用它可以把已有元素转化成可用于复制的质子和中子流体。
 
 # Quest: tfr.quest623.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.name=双锂
@@ -1429,25 +1413,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.desc=在聚变反应堆中生产的�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.name=遨游宇宙的交通工具
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=跃迁技术基于时空曲率卷曲理论. 双锂在跃迁核心的激活下能够对附近的时空产生拖拽, 以起到曲率加速的效果. 理论上, 跃迁技术驱动的宇宙飞船没有速度限制. 这不仅仅是前往附近星系开采矿物的好方法, 还是返回遥远地球的唯一可行途径. %n%n将跃迁核心在空间站上安装, 注入双锂, 并和跃迁控制器相连, 即可选择要前往的目的地. 
 
-# Quest: tfr.quest625.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=新金星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=新金星是一个一个酷似太阳系金星的星球, 值得去探索一番.
-
-# Quest: tfr.quest628.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.name=终末星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.desc=位于邻近星系的终末星是一个拥有末路之地生物群系的星球, 或许隐藏着一些不为人知的秘密. 
-
-# Quest: tfr.quest629.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.name=中子星的心脏
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.desc=这是一种简并态物质, 拿好了, 别掉了. 
-
 # Quest: tfr.quest630.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.name=德拉克纳星
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.desc=位于邻近星系的德拉克纳星蕴藏着龙元素这一珍贵元素, 看来是要去一趟了.
-
-# Quest: tfr.quest662.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.name=
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.desc=
 
 # Quest: tfr.quest667.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmw.name=
@@ -1719,7 +1687,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABtA.desc=来自蟹老板的独家配方.
 
 # Quest: tfr.quest459.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.name=碳酸钙
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到助焊剂石头？不要怕, 月杀帮你忙
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAByw.desc=找不到方解石粉？不要怕, 月杀帮你忙
 
 # Quest: tfr.quest554.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACKg.name=守卫村庄
@@ -2242,7 +2210,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABEQ.desc=农田, 也被称为土壤, 包
 
 # Quest: tfr.quest274.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.name=畜牧业：1
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=鸡、牛、马、猪、羊都是牲畜. %n%n世界上动物的自然生成是基于该地区的气候. %n%n家畜将跟随任何种类的精制谷物以及玉米穗, 类似于原版动物将会跟随小麦、胡萝卜和种子. 绳子也和原版拉走牲畜时的方式一样%n%n熊、鹿和野鸡是野生动物, 不能繁殖. 野生动物将在世界上刷新, 除了被命名的动物, 或者至少被拴上一次, 这样是不会消失的. %n%n亲密度：%n%n所有的动物都有一个亲密度, 增加需要以某种方式进行互动, 如挤奶、剪羊毛、骑马、饲养动物和命名动物. 这些作用的具体数值因物种而异, 有些物种需要更多的互动. 熟悉度可以通过每24个游戏小时执行一次特定的动作来提高. 想要饲养动物, 玩家必须潜行提供食物使动物不受到惊吓. %n%n如果亲密度没有达到百分之30且24小时内动物没有与人互动, 那么亲密度将会下降. 成年动物的驯养能力是有限的, 只有小动物能完全驯化, 亲密度上涨得也更快. 幼小的动物在出生时保留了母亲的百分之50的亲密度, 除非她接近于最高亲密度, 在这种情况下, 他们将保留百分之90亲密度. %n%n潜行看动物会显示一个亲密度指示器. 随着亲密度的增加, 指示灯将会充满红色, 当它到达百分之百的时候, 就会变成金色. 一个白色的边框意味着这个动物已经达到了至少百分之三十, 亲密度将不再减少. %n%n性别：%n%n动物(不包括鱿鱼)有不同的性别(雄性或雌性), 在动物生成时随机决定. 除了熊、马和狼, 所有动物都有视觉线索来很容易地确定性别, 比如角、牙、乳房和不同的羽毛颜色. 对于没有视觉提示的生物, 玩家可以右键点击动物, 聊天信息窗会说明性别. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEg.desc=鸡、牛、马、猪、羊都是牲畜. %n%n世界上动物的自然生成是基于该地区的气候, 具体生成规则请看下个任务%n%n家畜将跟随任何种类的精制谷物以及玉米穗, 类似于原版动物将会跟随小麦、胡萝卜和种子. 绳子也和原版拉走牲畜时的方式一样%n%n熊、鹿和野鸡是野生动物, 不能繁殖. 野生动物将在世界上刷新, 除了被命名的动物, 或者至少被拴上一次, 这样是不会消失的. %n%n亲密度：%n%n所有的动物都有一个亲密度, 增加需要以某种方式进行互动, 如挤奶、剪羊毛、骑马、饲养动物和命名动物. 这些作用的具体数值因物种而异, 有些物种需要更多的互动. 熟悉度可以通过每24个游戏小时执行一次特定的动作来提高. 想要饲养动物, 玩家必须潜行提供食物使动物不受到惊吓. %n%n如果亲密度没有达到百分之30且24小时内动物没有与人互动, 那么亲密度将会下降. 成年动物的驯养能力是有限的, 只有小动物能完全驯化, 亲密度上涨得也更快. 幼小的动物在出生时保留了母亲的百分之50的亲密度, 除非她接近于最高亲密度, 在这种情况下, 他们将保留百分之90亲密度. %n%n潜行看动物会显示一个亲密度指示器. 随着亲密度的增加, 指示灯将会充满红色, 当它到达百分之百的时候, 就会变成金色. 一个白色的边框意味着这个动物已经达到了至少百分之三十, 亲密度将不再减少. %n%n性别：%n%n动物(不包括鱿鱼)有不同的性别(雄性或雌性), 在动物生成时随机决定. 除了熊、马和狼, 所有动物都有视觉线索来很容易地确定性别, 比如角、牙、乳房和不同的羽毛颜色. 对于没有视觉提示的生物, 玩家可以右键点击动物, 聊天信息窗会说明性别.
 
 # Quest: tfr.quest275.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABEw.name=畜牧业：繁殖
@@ -3378,6 +3346,10 @@ betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=经过漫长的等待, 拥有�
 # Quest: tfru.q336n
 betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=高级电子电路
 betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=第4级的电子电路, 可以用于很多设备的制作
+
+# Quest: tfru.q445n
+betterquesting.quest.67Ag730ISKagg3ftitChkA.name=计算机路线
+betterquesting.quest.67Ag730ISKagg3ftitChkA.desc=你终于制作出了最初的光刻胶。这是一种接收到光照会发生性质改变的胶体，光刻的基本流程是：设计复杂电路，绘制在掩模版上，让光透过它而携带纹路，照射在光刻胶上，即可使光刻胶被蚀刻出对应的纹路，将图案转印到晶圆上。之后通过一系列处理即可腐蚀晶圆形成微型晶体管，或者在晶体管上建出金属导体，最终形成集成度极高的复杂晶体管电路，称之为集成电路。%n%n你需要先完成第一个计算机系统的研究，确定基本输入输出规则，然后再使用自动电路设计器来制作掩模版
 
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=

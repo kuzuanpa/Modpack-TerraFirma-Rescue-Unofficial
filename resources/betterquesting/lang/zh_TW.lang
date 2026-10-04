@@ -724,6 +724,10 @@ betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
 
+# Quest: tfru.q443n
+betterquesting.quest.zKWXuntdRzKovxrdj0ep1Q.name=
+betterquesting.quest.zKWXuntdRzKovxrdj0ep1Q.desc=
+
 
 ## Quest Line: tfr.line5.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Tier 3 - 紅石時代
@@ -776,6 +780,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=一台很實用的機器, 最�
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
+
+# Quest: tfru.q444n
+betterquesting.quest.lFZSqCy8SxihQZFVwtHQqQ.name=
+betterquesting.quest.lFZSqCy8SxihQZFVwtHQqQ.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -1152,11 +1160,15 @@ betterquesting.quest.hJzaNKdXToizIObp7zP1-g.desc=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
 
+# Quest: tfru.q441n
+betterquesting.quest.-i7WhdzlTzC44eFig8Vp6g.name=
+betterquesting.quest.-i7WhdzlTzC44eFig8Vp6g.desc=
+
 # Quest: tfru.q333n
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 
-# Quest: 零点物质生成
+# Quest: tfru.q435n
 betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
 betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
 
@@ -1164,15 +1176,15 @@ betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
 
-# Quest: T5计算机
+# Quest: tfru.q412n
 betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
 betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
 
-# Quest: 镜金应用
+# Quest: tfru.q419n
 betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
 betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
 
-# Quest: 无尽
+# Quest: tfru.q437n
 betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
 betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
@@ -1180,19 +1192,19 @@ betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
-# Quest: 有机量子处理
+# Quest: tfru.q426n
 betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
 betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
 
-# Quest: 跃迁理论
+# Quest: tfru.q428n
 betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
 betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
 
-# Quest: 虚空理论
+# Quest: tfru.q432n
 betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
 betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
 
-# Quest: 零点场论
+# Quest: tfru.q433n
 betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
 betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
@@ -1212,11 +1224,11 @@ betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=
 betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=
 
-# Quest: 电子显微镜
+# Quest: tfru.q410n
 betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
 betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
 
-# Quest: 宇宙辐射研究
+# Quest: tfru.q417n
 betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
 betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
 
@@ -1232,11 +1244,11 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
 
-# Quest: 零点能量生成
+# Quest: tfru.q434n
 betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
 betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
 
-# Quest: 催化原理
+# Quest: tfru.q411n
 betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
 betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
 
@@ -1244,7 +1256,7 @@ betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
 betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
 betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
 
-# Quest: 强力物质
+# Quest: tfru.q431n
 betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
 betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
@@ -1268,19 +1280,19 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
 
-# Quest: 微重力环境应用
+# Quest: tfru.q413n
 betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
 betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
 
-# Quest: 量子结构理论
+# Quest: tfru.q427n
 betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
 betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
 
-# Quest: 硅岩应用
+# Quest: tfru.q418n
 betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
 betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
 
-# Quest: 刻金性质应用
+# Quest: tfru.q429n
 betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
 betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
 
@@ -1288,11 +1300,11 @@ betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=
 
-# Quest: 微重力蚀刻
+# Quest: tfru.q414n
 betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
 betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
 
-# Quest: 量子计算
+# Quest: tfru.q425n
 betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
 betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
@@ -1304,19 +1316,23 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
 
-# Quest: 量子观测
+# Quest: tfru.q446n
+betterquesting.quest.f81HbILWS4Cyfi74g83qAg.name=
+betterquesting.quest.f81HbILWS4Cyfi74g83qAg.desc=
+
+# Quest: tfru.q424n
 betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
 betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
 
-# Quest: 量子计算微型化
+# Quest: tfru.q430n
 betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
 betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
 
-# Quest: 量金制造
+# Quest: tfru.q422n
 betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
 betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
 
-# Quest: 一种晶体处理器
+# Quest: tfru.q423n
 betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
 betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
@@ -1332,7 +1348,7 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
-# Quest: 微重力组装机
+# Quest: tfru.q415n
 betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
 betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
 
@@ -1340,7 +1356,7 @@ betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=
 
-# Quest: 科魔统一理论
+# Quest: tfru.q436n
 betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
 betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
@@ -1352,11 +1368,11 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
 
-# Quest: T6
+# Quest: tfru.q416n
 betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
 betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
 
-# Quest: 聚变
+# Quest: tfru.q421n
 betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
 betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
 
@@ -1372,7 +1388,7 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
 
-# Quest: T7
+# Quest: tfru.q420n
 betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
 betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
 
@@ -1385,41 +1401,9 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium+
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.desc=Dr+
 
-# Quest: tfr.quest119.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.name=人造的神話
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.desc=人類智慧與宇宙產生的最清脆的共鳴
-
-# Quest: tfr.quest120.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=支配寰宇
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=大概能證明你的實力吧
-
-# Quest: tfr.quest128.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.name=奇點
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.desc=使用中子態素壓縮機製作各種物質奇點%n還可用五重艾德曼錠產龍錠
-
-# Quest: tfr.quest129.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.name=無盡工作檯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.desc=比普通工作檯大九倍
-
-# Quest: tfr.quest131.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.name=宇宙態中子素
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.desc=密度極高的物質, 一般只會在緻密的白矮星中心產生。
-
 # Quest: tfr.quest153.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.name=中子質子分離
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.desc=科學技術的頂峰也不過如此
-
-# Quest: tfr.quest154.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.name=可控小太陽
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.desc=將原子核融合
-
-# Quest: tfr.quest368.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.name=抵達HD
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=HD是一個一個酷似太陽系火星的星球, 地殼富含貴金屬。其中一些材料是在任何其他地方都找不到的, 比如特林金屬、矽岩、和血石。%n非常值得去探索一番。
-
-# Quest: tfr.quest389.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.name=§b§l一覽眾生
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=集寰宇之力的一套頂級裝甲, 是本整合包中的最強裝甲。內置微型核反應堆和能量存儲及傳導裝置, 提供飛行能力和幾乎無敵的防禦力。
 
 # Quest: tfr.quest623.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.name=雙鋰
@@ -1429,25 +1413,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.desc=在聚變反應堆中生產的�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.name=遨遊宇宙的交通工具
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=躍遷技術基於時空曲率捲曲理論。雙鋰在躍遷核心的激活下能夠對附近的時空產生拖拽, 以起到曲率加速的效果。理論上, 躍遷技術驅動的宇宙飛船沒有速度限制。這不僅僅是前往附近星系開採礦物的好方法, 還是返回遙遠地球的唯一可行途徑。%n%n將躍遷核心在空間站上安裝, 注入雙鋰, 並和躍遷控制器相連, 即可選擇要前往的目的地。
 
-# Quest: tfr.quest625.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=新金星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=新金星是一個一個酷似太陽系金星的星球, 值得去探索一番。
-
-# Quest: tfr.quest628.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.name=終末星
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.desc=位於鄰近星系的終末星是一個擁有末路之地生物群系的星球, 或許隱藏著一些不為人知的秘密。
-
-# Quest: tfr.quest629.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.name=中子星的心臟
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.desc=這是一種簡併態物質, 拿好了, 別掉了。
-
 # Quest: tfr.quest630.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.name=德拉克納星
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.desc=位於鄰近星系的德拉克納星蘊藏著龍元素這一珍貴元素, 看來是要去一趟了。%n
-
-# Quest: tfr.quest662.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.name=亞原子粒子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.desc=使用電離氣體在粒子對撞機中撞擊可以產生電子, 正電子, 質子, 反質子。%n這些粒子又可以繼續撞擊產生中微子, 中子, 甚至希格斯玻色子和克爾黑洞。
 
 # Quest: tfr.quest667.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmw.name=批量掃描
@@ -3378,6 +3346,10 @@ betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 # Quest: tfru.q336n
 betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=
 betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=
+
+# Quest: tfru.q445n
+betterquesting.quest.67Ag730ISKagg3ftitChkA.name=
+betterquesting.quest.67Ag730ISKagg3ftitChkA.desc=
 
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=

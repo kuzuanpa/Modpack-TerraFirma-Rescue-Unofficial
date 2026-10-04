@@ -365,36 +365,36 @@ recipes.addShaped(<gregtech:gt.multitileentity:20153>,
 [null,null,null]]);
 
 // Generators
+recipes.remove(<gregtech:gt.multitileentity:10111>);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 20, 256, 1000,[10000],
+[<gregtech:gt.meta.machine.double:8651>*1,<gregtech:gt.multiitem.technological:12001>*1,<mo:isolinear_circuit>*1,<gregtech:gt.meta.stick:8645>*1,<gregtech:gt.meta.gearGtSmall:8651>*1,<gregtech:gt.meta.spring:8651>*1],
+[null],
+[null],
+[<gregtech:gt.multitileentity:10111>]);
+
 recipes.remove(<gregtech:gt.multitileentity:10112>);
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multitileentity:10112>);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 20, 256, 1000,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 20, 256, 1000,[10000],
 [<gregtech:gt.meta.stick:130>*4,<gregtech:gt.multitileentity:28350>*16,<gregtech:gt.meta.plateCurved:130>*2,<gregtech:gt.meta.foil:290>*2,<gregtech:gt.meta.stick:8646>,<gregtech:gt.multiitem.technological:30301>*2,<gregtech:gt.meta.machine.double:130>],
 [null],
 [null],
 [<gregtech:gt.multitileentity:10112>]);
-//MV
 
 recipes.remove(<gregtech:gt.multitileentity:10113>);
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multitileentity:10113>);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 80, 256, 1000,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 80, 256, 1000,[10000],
 [<gregtech:gt.meta.stick:8636>*4,<gregtech:gt.multitileentity:28700>*16,<gregtech:gt.meta.plateCurved:8636>*2,<gregtech:gt.meta.foil:790>*2,<gregtech:gt.meta.stickLong:8646>,<gregtech:gt.multiitem.technological:30302>*2,<gregtech:gt.meta.machine.double:8636>],
 [null],
 [null],
 [<gregtech:gt.multitileentity:10113>]);
-//HV
 
 recipes.remove(<gregtech:gt.multitileentity:10114>);
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multitileentity:10114>);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 320, 256, 1000,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 320, 256, 1000,[10000],
 [<gregtech:gt.meta.stick:240>*4,<gregtech:gt.multitileentity:29000>*16,<gregtech:gt.meta.plateCurved:240>*2,<gregtech:gt.meta.foil:130>*2,<gregtech:gt.meta.stick:8647>,<gregtech:gt.multiitem.technological:30303>*2,<gregtech:gt.meta.machine.double:240>],
 [null],
 [null],
 [<gregtech:gt.multitileentity:10114>]);
-//EV
 
 recipes.remove(<gregtech:gt.multitileentity:10115>);
-MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<gregtech:gt.multitileentity:10115>);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 1280, 256, 1000,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 1280, 256, 1000,[10000],
 [<gregtech:gt.meta.stick:220>*4,<gregtech:gt.multitileentity:29250>*16,<gregtech:gt.meta.plateCurved:220>*2,<gregtech:gt.meta.foil:780>*2,<gregtech:gt.meta.stickLong:8647>,<gregtech:gt.multiitem.technological:30304>*2,<gregtech:gt.meta.machine.double:220>],
 [null],
 [null],
@@ -445,12 +445,6 @@ MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 64, 400, 1000,[10000],
 [null],
 [<liquid:helium>*20],
 [<gregtech:gt.meta.dust:9155>]);
-
-// CO2 laser
-recipes.addShaped(<gregtech:gt.multiitem.technological:11000>,
-[[<mo:isolinear_circuit>,<gregtech:gt.multitileentity:28366>,<minecraft:glass>],
-[<terrafirmacraft:item.Silver Sheet>,<gregtech:gt.multitileentity:28366>,Screwdriver],
-[<gregtech:gt.meta.screw:8636>,<terrafirmacraft:item.Silver Sheet>,Cutter]]);
 
 // small red Si plate
 recipes.remove(<gregtech:gt.meta.plateGemTiny:8733>);
@@ -550,11 +544,6 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 16, 40 ,0,[10000],
 // Reactor cores
 recipes.remove(<gregtech:gt.multitileentity:9300>);
 
-recipes.remove(<gregtech:gt.multitileentity:9200>);
-recipes.addShaped(<gregtech:gt.multitileentity:9200>,
-[[<gregtech:gt.multiitem.technological:12024>,<ore:ktfruNoviceComputer>,<gregtech:gt.multiitem.technological:12024>],
-[<Railcraft:glass>,<gregtech:gt.meta.machine.dense:820>,<Railcraft:glass>],
-[<gregtech:gt.multiitem.technological:12024>,Wrench,<gregtech:gt.multiitem.technological:12024>]]);
 
 // plastic rotor
 recipes.addShaped(<gregtech:gt.meta.rotor:8218>,[
@@ -994,12 +983,6 @@ recipes.addShaped(<gregtech:gt.multitileentity:32013>*6,
 [n,<terrafirmacraft:item.Jute Fibre>,n],
 [<terrafirmacraft:item.Jute Fibre>,<terrafirmacraft:item.Jute Fibre>,<terrafirmacraft:item.Jute Fibre>]]);
 
-// Large mass fab
-recipes.remove(<gregtech:gt.multitileentity:17199>);
-recipes.addShaped(<gregtech:gt.multitileentity:17199>,
-[[<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12106>,<ore:ktfruEliteComputer>],
-[<gregtech:gt.multiitem.technological:12106>,<gregtech:gt.multitileentity:18117>,<gregtech:gt.multiitem.technological:12106>],
-[<ore:ktfruEliteComputer>,<gregtech:gt.multiitem.technological:12106>,<ore:ktfruEliteComputer>]]);
 
 // Distillation tower
 recipes.remove(<gregtech:gt.multitileentity:17101>);

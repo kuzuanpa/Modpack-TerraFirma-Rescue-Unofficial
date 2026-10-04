@@ -100,10 +100,10 @@
 
     "texts": {
         "tfrcopyright": {
-            "text": "Modpack created by TeamMoeg, Modified by kuzuanpa. All scripts and custom resources are licensed under Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE",
+            "text": "Modpack created by TeamMoeg, Modified by kuzuanpa. \nAll scripts and custom resources are licensed under Terrafirma: Rescue License: https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/LICENSE",
             "posX": 5,
-            "posY": -35,
-            "fontSize": 0.6,
+            "posY": -49,
+            "fontSize": 1,
             "color": -1,
             "hoverColor": -1,
             "alignment": "bottomleft"
@@ -112,7 +112,7 @@
             "text": "Minecraft #mcversion# modded by Forge #forgeversion# with #modsloaded# Mods Loaded. Copyright Mojang AB. Do not distribute! ",
             "posX": 5,
             "posY": -10,
-            "fontSize": 0.6,
+            "fontSize": 1,
             "color": -1,
             "hoverColor": -1,
             "alignment": "bottomleft"
@@ -120,8 +120,8 @@
         "music": {
             "text": "Featuring Music: Woodland Fantasy - Matthew Pablo https://matthewpablo.com/, Mountain Lake - Dream Valley, Last Sunrise - Lind Erebos, \nFar Horizons - Jeremy Soule, Revellon - Borislav Slavov, The Slops of the Blessure - Plotr Musial",
             "posX": 5,
-            "posY": -25,
-            "fontSize": 0.6,
+            "posY": -29,
+            "fontSize": 1,
             "color": -1,
             "hoverColor": -1,
             "alignment": "bottomleft"

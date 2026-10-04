@@ -724,6 +724,10 @@ betterquesting.quest.rvVJI6xtQk62odF1ZkjGeg.desc=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.name=
 betterquesting.quest.vpPDbWkCRXSFYiR0HeIb3Q.desc=
 
+# Quest: tfru.q443n
+betterquesting.quest.zKWXuntdRzKovxrdj0ep1Q.name=
+betterquesting.quest.zKWXuntdRzKovxrdj0ep1Q.desc=
+
 
 ## Quest Line: tfr.line5.name
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.name=Тир 3 — эпоха красного камня
@@ -776,6 +780,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACoA.desc=Очень практичная
 # Quest: tfru.q204n
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.name=
 betterquesting.quest.c1WJ1lbSTEOnXIFVoosJdw.desc=
+
+# Quest: tfru.q444n
+betterquesting.quest.lFZSqCy8SxihQZFVwtHQqQ.name=
+betterquesting.quest.lFZSqCy8SxihQZFVwtHQqQ.desc=
 
 
 ## Quest Line: tfr.line3.name
@@ -1152,11 +1160,15 @@ betterquesting.quest.hJzaNKdXToizIObp7zP1-g.desc=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.name=
 betterquesting.questline.EX0I3UlgQPavv4RW0lhnvw.desc=
 
+# Quest: tfru.q441n
+betterquesting.quest.-i7WhdzlTzC44eFig8Vp6g.name=
+betterquesting.quest.-i7WhdzlTzC44eFig8Vp6g.desc=
+
 # Quest: tfru.q333n
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.name=
 betterquesting.quest.2YljUcoeTqqIjGXCRqkCAA.desc=
 
-# Quest: 零点物质生成
+# Quest: tfru.q435n
 betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.name=
 betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
 
@@ -1164,15 +1176,15 @@ betterquesting.quest.5wojQWxvQM-vcMV_Hdz0CA.desc=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.name=
 betterquesting.quest.7h4r4rVFS_m8cth130qScQ.desc=
 
-# Quest: T5计算机
+# Quest: tfru.q412n
 betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.name=
 betterquesting.quest.8tN11NKPSlu0SVHKuJsoJg.desc=
 
-# Quest: 镜金应用
+# Quest: tfru.q419n
 betterquesting.quest.8z802vhfQte26KVHvwm_pg.name=
 betterquesting.quest.8z802vhfQte26KVHvwm_pg.desc=
 
-# Quest: 无尽
+# Quest: tfru.q437n
 betterquesting.quest.9636fE62Tumxo946gsOSTg.name=
 betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 
@@ -1180,19 +1192,19 @@ betterquesting.quest.9636fE62Tumxo946gsOSTg.desc=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.name=
 betterquesting.quest.9CS6lWGyS3-1tMao8qMIpw.desc=
 
-# Quest: 有机量子处理
+# Quest: tfru.q426n
 betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.name=
 betterquesting.quest.9U9bDzM_Raiexsly2iB5KQ.desc=
 
-# Quest: 跃迁理论
+# Quest: tfru.q428n
 betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.name=
 betterquesting.quest.AqCUvcjmR_2LU02DsTNiCg.desc=
 
-# Quest: 虚空理论
+# Quest: tfru.q432n
 betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.name=
 betterquesting.quest.DxlYXlMlSdKVPTfdbc-d2w.desc=
 
-# Quest: 零点场论
+# Quest: tfru.q433n
 betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.name=
 betterquesting.quest.ETBTDURsQZmLMJ7PTWynRA.desc=
 
@@ -1212,11 +1224,11 @@ betterquesting.quest.GjtLv8ErQ36sfNbPF2dZww.desc=
 betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.name=
 betterquesting.quest.H9wJU--lQuOjf2Jo349mKw.desc=
 
-# Quest: 电子显微镜
+# Quest: tfru.q410n
 betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.name=
 betterquesting.quest.I4IoZjNlSPWjCIamnedUDA.desc=
 
-# Quest: 宇宙辐射研究
+# Quest: tfru.q417n
 betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.name=
 betterquesting.quest.IR2VXtCMRjWtee4ZfhYMIg.desc=
 
@@ -1232,11 +1244,11 @@ betterquesting.quest.KbN4O0KPS36OTRM0apAOLA.desc=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.name=
 betterquesting.quest.N-2DtHiHRoOlcQk4dHCckg.desc=
 
-# Quest: 零点能量生成
+# Quest: tfru.q434n
 betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.name=
 betterquesting.quest.RHGP_K0NRCCcFQSRxD-ZQg.desc=
 
-# Quest: 催化原理
+# Quest: tfru.q411n
 betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.name=
 betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
 
@@ -1244,7 +1256,7 @@ betterquesting.quest.RzKGx5J_RDyElklmbg1JlQ.desc=
 betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.name=
 betterquesting.quest.SA5p7vdDS3qY4CtnmiAsLw.desc=
 
-# Quest: 强力物质
+# Quest: tfru.q431n
 betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.name=
 betterquesting.quest.UOWpFpnhQ3OQTABSQeeOPg.desc=
 
@@ -1268,19 +1280,19 @@ betterquesting.quest.Y0MiWgyUQMCrRkAC098dng.desc=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.name=
 betterquesting.quest.Y1W4MGSgQI2OkhU1Znuwqw.desc=
 
-# Quest: 微重力环境应用
+# Quest: tfru.q413n
 betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.name=
 betterquesting.quest.YMojPD7ZRFKLYktRb0V5cw.desc=
 
-# Quest: 量子结构理论
+# Quest: tfru.q427n
 betterquesting.quest.YXeMplYQRB2y2975mf9nKA.name=
 betterquesting.quest.YXeMplYQRB2y2975mf9nKA.desc=
 
-# Quest: 硅岩应用
+# Quest: tfru.q418n
 betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.name=
 betterquesting.quest.ZFNX6OKmT9-eL6yrHXBd7w.desc=
 
-# Quest: 刻金性质应用
+# Quest: tfru.q429n
 betterquesting.quest._8h8up4wTAS2agOGa0fUZA.name=
 betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
 
@@ -1288,11 +1300,11 @@ betterquesting.quest._8h8up4wTAS2agOGa0fUZA.desc=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.name=
 betterquesting.quest._rXQcKD1TXu_MP-BIV77kQ.desc=
 
-# Quest: 微重力蚀刻
+# Quest: tfru.q414n
 betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.name=
 betterquesting.quest.c4Rs1O9fSY6YI7s2uj7PiA.desc=
 
-# Quest: 量子计算
+# Quest: tfru.q425n
 betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.name=
 betterquesting.quest.cGkDDMxVRM-s3YXgooYurg.desc=
 
@@ -1304,19 +1316,23 @@ betterquesting.quest.eEbLyX18TdumnavbJHnJQQ.desc=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.name=
 betterquesting.quest.ewBwp_KjSle20Lt94olfVw.desc=
 
-# Quest: 量子观测
+# Quest: tfru.q446n
+betterquesting.quest.f81HbILWS4Cyfi74g83qAg.name=
+betterquesting.quest.f81HbILWS4Cyfi74g83qAg.desc=
+
+# Quest: tfru.q424n
 betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.name=
 betterquesting.quest.fgNwMWFrSYKdK2PI_Qa4tA.desc=
 
-# Quest: 量子计算微型化
+# Quest: tfru.q430n
 betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.name=
 betterquesting.quest.fvpqX6njSI6TLKWFYQO7wg.desc=
 
-# Quest: 量金制造
+# Quest: tfru.q422n
 betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.name=
 betterquesting.quest.h3Yb95ZcTQ2Tk1rzF6leMQ.desc=
 
-# Quest: 一种晶体处理器
+# Quest: tfru.q423n
 betterquesting.quest.hFFm00izSFOr--NurGxikQ.name=
 betterquesting.quest.hFFm00izSFOr--NurGxikQ.desc=
 
@@ -1332,7 +1348,7 @@ betterquesting.quest.hYrcJfWTRf6sbUWxJhGK-w.desc=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.name=
 betterquesting.quest.hgViNXmPSYyBCfO1ThNHhA.desc=
 
-# Quest: 微重力组装机
+# Quest: tfru.q415n
 betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.name=
 betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
 
@@ -1340,7 +1356,7 @@ betterquesting.quest.iY8hQOF7Stq827AA3-K4hQ.desc=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.name=
 betterquesting.quest.kLatqVh5TxiY15gtEdg8Eg.desc=
 
-# Quest: 科魔统一理论
+# Quest: tfru.q436n
 betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.name=
 betterquesting.quest.kSf7lM20S_SNDOR3GrFN9g.desc=
 
@@ -1352,11 +1368,11 @@ betterquesting.quest.m0-PRVUsSzmSAcWgnFX6Vw.desc=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.name=
 betterquesting.quest.ms0EUA9yQCyNKdR6mycovA.desc=
 
-# Quest: T6
+# Quest: tfru.q416n
 betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.name=
 betterquesting.quest.owk0DJmEQfirLX2WGGCwWw.desc=
 
-# Quest: 聚变
+# Quest: tfru.q421n
 betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.name=
 betterquesting.quest.r3OUO6G8Q7utJYlPqyd55A.desc=
 
@@ -1372,7 +1388,7 @@ betterquesting.quest.tZFWD30HREmuO6v97Uzxnw.desc=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.name=
 betterquesting.quest.tZMRtUkRSD6gBMfMv_Pn6g.desc=
 
-# Quest: T7
+# Quest: tfru.q420n
 betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.name=
 betterquesting.quest.vq9mTtQeQMmr3CTTYhAC-Q.desc=
 
@@ -1385,41 +1401,9 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABw.desc=
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.name=Draconium +
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1w.desc=Доктор +
 
-# Quest: tfr.quest119.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.name=Конец связи
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdw.desc=Конец связи
-
-# Quest: tfr.quest120.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=Из-за денег
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=Выпуск Everything
-
-# Quest: tfr.quest128.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.name=сингулярн
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.desc=Используя нейтронный компрессор для создания различных вещественных синъюнктивических частиц (%), можно также использовать 5 - фунтовые слитки адмана для производства драконьих слитков
-
-# Quest: tfr.quest129.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.name=Бесконечный рабочий стол
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgQ.desc=В девять раз больше обычного рабочего стола
-
-# Quest: tfr.quest131.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.name=Нейтроны в космическом состоянии
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgw.desc=Высокоплотные вещества, как правило, производятся только в плотных белых карликах.
-
 # Quest: tfr.quest153.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.name=Нейтронный распад протонов
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmQ.desc=% н % н % н
-
-# Quest: tfr.quest154.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.name=Управляемое маленькое Солнце
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAmg.desc=Расплавить ядро
-
-# Quest: tfr.quest368.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.name=Наборное устройство.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABcA.desc=Планета, к которой ты должен отправиться, HD
-
-# Quest: tfr.quest389.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.name="Б"-живое существо
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABhQ.desc=Наиболее мощная броня в комплекте universal entertainment, являющаяся самой мощной в этом комплекте. Встроенный микроядерный реактор и устройство для хранения и передачи энергии, обеспечивающее лётную мощность и почти непобедимую защиту.
 
 # Quest: tfr.quest623.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.name=дилитиев
@@ -1429,25 +1413,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAACbw.desc=Элемент производ
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.name=Космический транспорт
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACcA.desc=Технология перехода основана на теории искривления пространства-времени. Дилитий, активируемый варп-ядром, может генерировать растяжение в близлежащем пространстве и времени для ускорения кривизны. Теоретически, у космического корабля, управляемого технологией перехода, нет ограничения скорости. Это не просто хороший способ добывать полезные ископаемые в ближайших галактиках, это единственный возможный способ вернуться на далёкую землю. %n%n устанавливают варп ядро на станции, впрыскивают дилитий и подключаются к контроллеру перехода, чтобы выбрать место назначения.
 
-# Quest: tfr.quest625.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.name=Новая Венера.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACcQ.desc=Новая Венера — планета, похожая на венеру в солнечной системе, которую стоит исследовать.
-
-# Quest: tfr.quest628.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.name=Конечная звезда.
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdA.desc=Конечная звезда, расположенная в соседней галактике, является планетой с биологическими сообществами земли конечной дороги, где, возможно, скрыты некоторые неизвестные секреты.
-
-# Quest: tfr.quest629.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.name=Сердце нейтронной звезды
-betterquesting.quest.AAAAAAAAAAAAAAAAAAACdQ.desc=Это микроскопическое вещество.
-
 # Quest: tfr.quest630.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.name=драхнер
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACdg.desc=В звезде дракна, расположенной в соседней галактике, содержится драгоценный элемент дракона, который, похоже, направляется в путешествие.%n
-
-# Quest: tfr.quest662.name
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.name=Субатомная частица
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAClg.desc=При ударе ионизированного газа в коллайдер частиц можно генерировать электроны, позитроны, протоны, антипротоны. Эти частицы также могут продолжать сталкиваться с производством нейтрино, нейтронов, даже бозона хиггса и черной дыры керра.
 
 # Quest: tfr.quest667.name
 betterquesting.quest.AAAAAAAAAAAAAAAAAAACmw.name=Массовое сканирование.
@@ -3378,6 +3346,10 @@ betterquesting.quest.4lx3e8j_SjurBIn8HtDGjg.desc=
 # Quest: tfru.q336n
 betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.name=
 betterquesting.quest.5xI-OjCrR2Kq2lT3kskNUg.desc=
+
+# Quest: tfru.q445n
+betterquesting.quest.67Ag730ISKagg3ftitChkA.name=
+betterquesting.quest.67Ag730ISKagg3ftitChkA.desc=
 
 # Quest: gt2000
 betterquesting.quest.7KawtNm7SH6N9AynpimAzA.name=

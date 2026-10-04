@@ -176,15 +176,6 @@
 			<itemStack>advancedRocketry:item.beaconFinder</itemStack>
 		</output>
 	</Recipe>
-		<Recipe timeRequired="400" power ="200">
-		<input>
-			<itemStack>advancedRocketry:circuitIC;1;2</itemStack>
-			<oreDict>wireFineSignalum;8</oreDict>
-		</input>
-		<output>
-			<itemStack>mo:isolinear_circuit;1</itemStack>
-		</output>
-	</Recipe>
 	<Recipe timeRequired="100" power ="200">
 		<input>
 			<oreDict>stickIronMagnetic;1</oreDict>
@@ -197,20 +188,7 @@
 			<itemStack>gregtech:gt.multiitem.technological;1;12001</itemStack>
 		</output>
 	</Recipe>
-	<Recipe timeRequired="600" power ="200">
-		<input>
-			<oreDict>casingMachineDoubleSteelGalvanized;1</oreDict>
-			<itemStack>gregtech:gt.multiitem.technological;1;12001</itemStack>
-			<oreDict>springSteelGalvanized;1</oreDict>
-			<oreDict>gearGtSmallSteelGalvanized;1</oreDict>
-			<oreDict>stickIronMagnetic;1</oreDict>
-			<itemStack>mo:isolinear_circuit;1</itemStack>
-		</input>
-		<output>
-			<itemStack>gregtech:gt.multitileentity;1;10111</itemStack>
-		</output>	
-	</Recipe>
-		<Recipe timeRequired="600" power ="150">
+	<Recipe timeRequired="600" power ="150">
 		<input>
 			<itemStack>gregtech:gt.meta.machine.double;1;130</itemStack>
 			<oreDict>plateQuadrupleInvar;2</oreDict>
@@ -221,16 +199,7 @@
 			<itemStack>gregtech:gt.multitileentity;1;11112</itemStack>
 		</output>
 		</Recipe>
-		<Recipe timeRequired="80" power ="50">
-		<input>
-			<itemStack>mo:isolinear_circuit;1</itemStack>
-			<oreDict>wireFineRedAlloy;8</oreDict>
-		</input>
-		<output>
-			<itemStack>advancedRocketry:circuitIC;1;1</itemStack>
-		</output>	
-	</Recipe>
-			<Recipe timeRequired="80" power ="50">
+	<Recipe timeRequired="80" power ="50">
 		<input>
 			<itemStack>mo:isolinear_circuit;1</itemStack>
 			<oreDict>wireFineRedAlloy;8</oreDict>

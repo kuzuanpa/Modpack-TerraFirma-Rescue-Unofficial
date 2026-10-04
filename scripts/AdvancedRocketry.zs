@@ -84,17 +84,23 @@ recipes.addShaped(<libVulpes:tile.advStructureMachine>*2,
 
 // CircuitICs
 MTUtilsGT.removeAllRecipes("gt.recipe.press",<advancedRocketry:circuitIC:5>);
-MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16,  1200,0,[10000], 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 16,  1200,0,[10000],
 [<tfctech:item.Circuit>,<minecraft:dye:4>*4,<gregtech:gt.meta.wireFine:8708>*4],
 [<advancedRocketry:circuitIC:5>]);
 MTUtilsGT.removeAllRecipes("gt.recipe.press",<advancedRocketry:circuitIC:4>);
-MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16,  1200,0,[10000], 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 16,  1200,0,[10000],
 [<tfctech:item.Circuit>,<gregtech:gt.meta.wireFine:790>*4,<gregtech:gt.meta.wireFine:8708>*4],
 [<advancedRocketry:circuitIC:4>]);
 MTUtilsGT.removeAllRecipes("gt.recipe.press",<advancedRocketry:circuitIC:3>);
-MTUtilsGT.addCustomRecipe("gt.recipe.press", false, 16,  1200,0,[10000], 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 16,  1200,0,[10000],
 [<tfctech:item.Circuit>,<gregtech:gt.meta.wireFine:290>*4,<gregtech:gt.meta.wireFine:8708>*4],
 [<advancedRocketry:circuitIC:3>]);
+
+// Crystallizer
+recipes.remove(<advancedRocketry:crystallizer>);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 128, 400, 0, [10000],
+[<minecraft:quartz>*2,<minecraft:repeater>*2,<libVulpes:blockStructureBlock>,<advancedRocketry:circuitIC:3>,<advancedRocketry:circuitIC:4>,<terrafirmacraft:item.Steel Sheet>],
+[n],[n],[<advancedRocketry:crystallizer>]);
 
 // Precision Assembly Machine
 recipes.remove(<advancedRocketry:precisionassemblingmachine>);
@@ -115,19 +121,19 @@ MTUtilsGT.addCustomRecipe("gt.recipe.drying", false, 16, 600 ,0,[10000],
 // Rocket Builder
 recipes.remove(<advancedRocketry:rocketBuilder>);
 MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<advancedRocketry:rocketBuilder>);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 2000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 256, 2000 ,0,[10000],
 [<gregtech:gt.meta.machine.double:8794>, <ktfruaddon:ktfru.item.it.computer:1>*4, <gregtech:gt.multiitem.technological:12084>*3,
 <gregtech:gt.multiitem.technological:12044>,<gregtech:gt.multitileentity:29016>*2,<gregtech:gt.multiitem.technological:11008>*4],
 [<liquid:molten.tin>*1000],
 [null],
 [<advancedRocketry:rocketBuilder>]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 2000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 256, 2000 ,0,[10000],
 [<gregtech:gt.meta.machine.double:8794>, <ktfruaddon:ktfru.item.it.computer:2>*3, <gregtech:gt.multiitem.technological:12084>*3,
 <gregtech:gt.multiitem.technological:12044>,<gregtech:gt.multitileentity:29016>*2,<gregtech:gt.multiitem.technological:11008>*4],
 [<liquid:molten.tin>*1000],
 [null],
 [<advancedRocketry:rocketBuilder>]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 256, 2000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 256, 2000 ,0,[10000],
 [<gregtech:gt.meta.machine.double:8794>, <ktfruaddon:ktfru.item.it.computer:3>*2, <gregtech:gt.multiitem.technological:12084>*3,
 <gregtech:gt.multiitem.technological:12044>,<gregtech:gt.multitileentity:29016>*2,<gregtech:gt.multiitem.technological:11008>*4],
 [<liquid:molten.tin>*1000],
@@ -282,17 +288,12 @@ MTUtilsGT.addCustomRecipe("gt.recipe.centrifuge", false, 64, 256 ,0,[7000, 1500]
 
 // Space station assembler
 recipes.remove(<advancedRocketry:tile.stationAssembler>);
-recipes.addShaped(<advancedRocketry:tile.stationAssembler>,
-[[<libVulpes:libVulpesproductgear:7>,Wrench,<libVulpes:libVulpesproductgear:7>],
-[<gregtech:gt.meta.stick:220>,<advancedRocketry:rocketBuilder>,<gregtech:gt.meta.stick:220>],
-[<gregtech:gt.multiitem.technological:30306>,Screwdriver,<gregtech:gt.multiitem.technological:30306>]]);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 256, 2000, 0, [10000],
+[<libVulpes:libVulpesproductgear:7>*2,<gregtech:gt.meta.stick:220>*2,<advancedRocketry:rocketBuilder>,<gregtech:gt.multiitem.technological:30306>*2],
+[n],[n],[<advancedRocketry:tile.stationAssembler>]);
 
 // Unmanned spaceship assembler
 recipes.remove(<advancedRocketry:tile.deployableRocketAssembler>);
-recipes.addShaped(<advancedRocketry:tile.deployableRocketAssembler>,
-[[<advancedRocketry:advancedRocketryproductgear>,Wrench,<advancedRocketry:advancedRocketryproductgear>],
-[<gregtech:gt.meta.stick:8794>,<advancedRocketry:rocketBuilder>,<gregtech:gt.meta.stick:8794>],
-[<gregtech:gt.multiitem.technological:30306>,Screwdriver,<gregtech:gt.multiitem.technological:30306>]]);
 
 // Linker
 recipes.remove(<libVulpes:Linker>);
@@ -356,17 +357,18 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 64, 1000 ,0,[10000],
 
 // Guidance computer
 recipes.remove(<advancedRocketry:tile.guidanceComputer>);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
+MTUtilsGT.removeAllRecipes("ktfru.recipe.assembler",<advancedRocketry:tile.guidanceComputer>);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 64, 1000 ,0,[10000],
 [<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:3>*2],
 [<liquid:molten.tin>*144],
 [null],
 [<advancedRocketry:tile.guidanceComputer>]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 64, 1000 ,0,[10000],
 [<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:4>],
 [<liquid:molten.tin>*144],
 [null],
 [<advancedRocketry:tile.guidanceComputer>]);
-MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 64, 1000 ,0,[10000],
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 64, 1000 ,0,[10000],
 [<gregtech:gt.meta.plate:220>,<libVulpes:blockStructureBlock>,<ktfruaddon:ktfru.item.it.computer:5>],
 [<liquid:molten.tin>*144],
 [null],
@@ -577,10 +579,9 @@ recipes.addShaped(<advancedRocketry:tile.sawBlade>,[
 
 // Holo Projector
 recipes.remove(<libVulpes:item.holoProjector>);
-recipes.addShaped(<libVulpes:item.holoProjector>,
-[[<advancedRocketry:satellitePrimaryFunction>,<gregtech:gt.meta.wireFine:8660>,<advancedRocketry:satellitePrimaryFunction>],
-[<gregtech:gt.meta.wireFine:8660>,<advancedRocketry:circuitIC:3>,<gregtech:gt.meta.wireFine:8660>],
-[null,<ore:plateSteel>,null]]);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 128, 400, 0, [10000],
+[<advancedRocketry:satellitePrimaryFunction>*2,<gregtech:gt.meta.wireFine:8660>*4,<advancedRocketry:circuitIC:3>,<ore:plateSteel>],
+[n],[n],[<libVulpes:item.holoProjector>]);
 //tou ying yi
 
 // Satellite builder

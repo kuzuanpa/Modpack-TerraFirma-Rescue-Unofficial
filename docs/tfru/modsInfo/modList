@@ -1,4 +1,4 @@
-ls 1modsGTNH/ 2modsContent/ 3modsHelper/ 8modsOptional/ 9modsServerMinor/ -1
+$ ls 1modsGTNH/ 2modsContent/ 3modsHelper/ 8modsOptional/ 9modsServerMinor/ -1
 
 1modsGTNH/:
 ae2fc-1.4.120-gtnh.jar

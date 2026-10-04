@@ -62,7 +62,7 @@ val redcab = <gregtech:gt.meta.wireFine:8660>;
 val signalcab = <gregtech:gt.meta.wireFine:8708>;
 val logic = <appliedenergistics2:item.ItemMultiMaterial:22>;
 val engin = <appliedenergistics2:item.ItemMultiMaterial:24>;
-val calc = <appliedenergistics2:item.ItemMultiMaterial:24>;
+val calc = <appliedenergistics2:item.ItemMultiMaterial:23>;
 val certus = <appliedenergistics2:item.ItemMultiMaterial>;
 val ecertus = <appliedenergistics2:item.ItemMultiMaterial:1>;
 val hcertus = <appliedenergistics2:item.ItemMultiMaterial:10>;
@@ -277,6 +277,23 @@ MTUtilsGT.addCustomRecipe("ktfru.recipe.assembler", false, 96, 100, 0, [10000],
 [<liquid:helium>*50],
 [n],
 [LogC]);
+
+// Final processors are research-gated. The Inscriber itself is removed above,
+// so these recipes replace the non-GT processing path.
+MTUtilsGT.removeAllRecipes("ktfru.recipe.research.reactor",logic);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.reactor", false, 1024, 100, 0, [10000],
+[LogC,SiC,<minecraft:redstone>],
+[n],[n],[logic]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.research.reactor",calc);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.reactor", false, 1024, 100, 0, [10000],
+[CalC,SiC,<minecraft:redstone>],
+[n],[n],[calc]);
+
+MTUtilsGT.removeAllRecipes("ktfru.recipe.research.reactor",engin);
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.reactor", false, 1024, 100, 0, [10000],
+[EngC,SiC,<minecraft:redstone>],
+[n],[n],[engin]);
 
 // ME Storage Units
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:35>);

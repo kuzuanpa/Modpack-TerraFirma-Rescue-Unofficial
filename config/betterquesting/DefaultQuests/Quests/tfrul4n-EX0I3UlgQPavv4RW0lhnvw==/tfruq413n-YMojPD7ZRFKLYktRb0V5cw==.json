@@ -66,7 +66,14 @@
       "index:3": 0,
       "partialMatch:1": 1,
       "requireOnlyOneItem:1": 0,
-      "requiredItems:9": {},
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30104,
+          "OreDict:8": "",
+          "id:8": "ktfruaddon:ktfru.multitileentity"
+        }
+      },
       "taskID:8": "bq_standard:retrieval"
     },
     "1:10": {

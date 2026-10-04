@@ -99,8 +99,8 @@ MTUtilsGT.addCustomRecipe("gt.recipe.welder", false, 16, 32, 0, [10000],
 //MO circuits
 recipes.remove(<mo:isolinear_circuit>);
 MTUtilsGT.removeAllRecipes("gt.recipe.laserengraver",<mo:isolinear_circuit>);
-MTUtilsGT.addCustomRecipe("gt.recipe.laserengraver", false, 1024, 32, 0, [10000],
-[<gregtech:gt.meta.lens:8317>*0,<gregtech:gt.meta.plateDouble:260>], 
+MTUtilsGT.addCustomRecipe("ktfru.recipe.research.assembler", false, 16, 32, 0, [10000],
+[<advancedRocketry:circuitIC:2>*1,<gregtech:gt.meta.wireFine:8708>],
 [<mo:isolinear_circuit>]);
 
 recipes.remove(<mo:isolinear_circuit:1>);
